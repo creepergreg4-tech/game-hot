@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "appVersion": "公开阅读站 2.0 · 行动者雷达",
-  "updatedAt": "2026-10-08T09:29:57.005Z",
+  "updatedAt": "2026-10-08T09:45:55.720Z",
   "charts": {
     "wechat-played": {
       "id": "wechat-played",
@@ -176,7 +176,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T09:30:00.182Z",
+      "updatedAt": "2026-10-08T09:45:56.926Z",
       "sourceUpdatedAt": "2026-10-08",
       "source": "MomoRank 第三方公开榜"
     },
@@ -353,7 +353,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T09:30:00.613Z",
+      "updatedAt": "2026-10-08T09:45:57.183Z",
       "sourceUpdatedAt": "2026-10-08",
       "source": "MomoRank 第三方公开榜"
     },
@@ -530,7 +530,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T09:30:01.839Z",
+      "updatedAt": "2026-10-08T09:45:59.963Z",
       "sourceUpdatedAt": "2026-10-08",
       "source": "MomoRank 第三方公开榜"
     },
@@ -2048,8 +2048,8 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T09:29:58.093Z",
-      "sourceUpdatedAt": "2026-10-08T02:25:12-07:00",
+      "updatedAt": "2026-10-08T09:45:56.125Z",
+      "sourceUpdatedAt": "2026-10-08T02:45:56-07:00",
       "source": "Apple 官方 RSS"
     },
     "jp-grossing": {
@@ -3566,8 +3566,8 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T09:30:00.018Z",
-      "sourceUpdatedAt": "2026-10-08T02:30:00-07:00",
+      "updatedAt": "2026-10-08T09:45:56.903Z",
+      "sourceUpdatedAt": "2026-10-08T02:45:56-07:00",
       "source": "Apple 官方 RSS"
     },
     "us-grossing": {
@@ -5084,8 +5084,8 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T09:29:58.502Z",
-      "sourceUpdatedAt": "2026-10-08T02:29:59-07:00",
+      "updatedAt": "2026-10-08T09:45:56.133Z",
+      "sourceUpdatedAt": "2026-10-08T02:45:56-07:00",
       "source": "Apple 官方 RSS"
     },
     "jp-free": {
@@ -6602,8 +6602,8 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T09:29:58.794Z",
-      "sourceUpdatedAt": "2026-10-08T02:29:59-07:00",
+      "updatedAt": "2026-10-08T09:45:56.349Z",
+      "sourceUpdatedAt": "2026-10-08T02:45:56-07:00",
       "source": "Apple 官方 RSS"
     },
     "play-us-free": {
@@ -6624,7 +6624,7 @@
           "rank": 1,
           "url": "https://play.google.com/store/apps/details?id=com.nebula.rotaterings&hl=en&gl=US",
           "developer": "Nebula  Studio",
-          "rating": 4.761014,
+          "rating": 4.757882,
           "icon": "https://play-lh.googleusercontent.com/DPjwBJC12pcLpMvNxcgIneiJk07hdOtRR7LhZ8-TT7sbJXQ7n6jk0LnCFMwg_vLPHY0WuLH8vWAiqFZmsL0HuQ",
           "platform": "Google Play",
           "summary": "",
@@ -6650,7 +6650,7 @@
           "rank": 3,
           "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=US",
           "developer": "Roblox Corporation",
-          "rating": 4.2213435,
+          "rating": 4.2213545,
           "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
           "platform": "Google Play",
           "summary": "",
@@ -6676,7 +6676,7 @@
           "rank": 5,
           "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=US",
           "developer": "HungryStudio",
-          "rating": 4.846201,
+          "rating": 4.846205,
           "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
           "platform": "Google Play",
           "summary": "",
@@ -6806,7 +6806,7 @@
           "rank": 15,
           "url": "https://play.google.com/store/apps/details?id=triple.sorting.bubble.fish.match&hl=en&gl=US",
           "developer": "Shycheese",
-          "rating": 4.8459845,
+          "rating": 4.8461537,
           "icon": "https://play-lh.googleusercontent.com/33uObVFJ0-1md9XkQSTMHnh-E91drVuMj6cODaGcKuag07lwFVfWxCg0Ef-gKfaY9iKFrCOdaw5GJa0-6JV7FQ",
           "platform": "Google Play",
           "summary": "",
@@ -7118,7 +7118,7 @@
           "rank": 39,
           "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=US",
           "developer": "Dream Games, Ltd.",
-          "rating": 4.7035766,
+          "rating": 4.703605,
           "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
           "platform": "Google Play",
           "summary": "",
@@ -7131,7 +7131,7 @@
           "rank": 40,
           "url": "https://play.google.com/store/apps/details?id=com.superplaystudios.disneysolitairedreams&hl=en&gl=US",
           "developer": "SuperPlay.",
-          "rating": 4.7723093,
+          "rating": 4.772291,
           "icon": "https://play-lh.googleusercontent.com/BpyKPyeCiAoCtYP23WtOoHW1G_4IAGUyk4G6V_5YNmXomuBwNC5ZnSq5OfxejW-Ufuukma8-UYZirB2wz3m8UnM",
           "platform": "Google Play",
           "summary": "",
@@ -7157,7 +7157,7 @@
           "rank": 42,
           "url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=US",
           "developer": "Miniclip.com",
-          "rating": 4.7915397,
+          "rating": 4.791545,
           "icon": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
           "platform": "Google Play",
           "summary": "",
@@ -7183,7 +7183,7 @@
           "rank": 44,
           "url": "https://play.google.com/store/apps/details?id=com.sled.surfers.game&hl=en&gl=US",
           "developer": "CrazyLabs LTD",
-          "rating": 4.40895,
+          "rating": 4.408366,
           "icon": "https://play-lh.googleusercontent.com/jiKsZESD_FX4mVtPEmErwm9-abDZcF2FVNq1KR-D7zOlYTmRljgI_sGhmWA4TrRJzxdad21WBkyfFK3j0ihfV5A",
           "platform": "Google Play",
           "summary": "",
@@ -7235,7 +7235,7 @@
           "rank": 48,
           "url": "https://play.google.com/store/apps/details?id=wool.match.color.sort.jam.puzzle&hl=en&gl=US",
           "developer": "Astrasen Global",
-          "rating": 4.7735634,
+          "rating": 4.77365,
           "icon": "https://play-lh.googleusercontent.com/tcXUaY6sYR3LH9NfSXyukxl6Sd1ss5tcwenFT82gXe2NCcl-EkK5eyWp5ee2ZyohDUF-cnL9hO7Y7JfNPAFh_Q",
           "platform": "Google Play",
           "summary": "",
@@ -7269,7 +7269,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T09:29:57.007Z",
+      "updatedAt": "2026-10-08T09:45:55.721Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -7317,7 +7317,7 @@
           "rank": 3,
           "url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=US",
           "developer": "King",
-          "rating": 4.6296782,
+          "rating": 4.62968,
           "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
           "platform": "Google Play",
           "summary": "",
@@ -7382,7 +7382,7 @@
           "rank": 8,
           "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=US",
           "developer": "Playrix",
-          "rating": 4.6903605,
+          "rating": 4.690366,
           "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
           "platform": "Google Play",
           "summary": "",
@@ -7486,7 +7486,7 @@
           "rank": 16,
           "url": "https://play.google.com/store/apps/details?id=com.readygo.barrel.gp&hl=en&gl=US",
           "developer": "Omnilojo Pte Ltd",
-          "rating": 4.5235844,
+          "rating": 4.5236487,
           "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
           "platform": "Google Play",
           "summary": "",
@@ -7863,7 +7863,7 @@
           "rank": 45,
           "url": "https://play.google.com/store/apps/details?id=slots.pcg.casino.games.free.android&hl=en&gl=US",
           "developer": "SpinX Games Limited",
-          "rating": 4.747235,
+          "rating": 4.747231,
           "icon": "https://play-lh.googleusercontent.com/sU8DvqTKPhBjccxhmxeWKCUHAyGsXz7wgjqP_yv4OjAQkCU-UZOkDRotSNAxuBYLMgE-zoQC1mRdAqs-ueyMFw",
           "platform": "Google Play",
           "summary": "",
@@ -7915,7 +7915,7 @@
           "rank": 49,
           "url": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=en&gl=US",
           "developer": "Supercell",
-          "rating": 4.4296265,
+          "rating": 4.429621,
           "icon": "https://play-lh.googleusercontent.com/z0rspJKftanEI7MA4WOdypbaaHfeKy4UjoawRGKf4Ys3v6LrrcleZWOfms7XK-J33Oqyfm3DlFd4Z_eKWafVFg",
           "platform": "Google Play",
           "summary": "",
@@ -7928,7 +7928,7 @@
           "rank": 50,
           "url": "https://play.google.com/store/apps/details?id=com.productmadness.hovmobile&hl=en&gl=US",
           "developer": "Product Madness",
-          "rating": 4.6630263,
+          "rating": 4.6630406,
           "icon": "https://play-lh.googleusercontent.com/gqYletuyHZm2fqyOPB-l3ltWCgW9uEHkdYsJfUmWW3DjGt0lXa-dnxGKghML-VRq7C0EAhC1keRs89igKO1RjQ",
           "platform": "Google Play",
           "summary": "",
@@ -7936,7 +7936,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T09:29:57.036Z",
+      "updatedAt": "2026-10-08T09:45:55.763Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -7958,7 +7958,7 @@
           "rank": 1,
           "url": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=en&gl=JP",
           "developer": "Oakever Games",
-          "rating": 4.493317,
+          "rating": 4.493588,
           "icon": "https://play-lh.googleusercontent.com/1vD3Jl37OTth18x__EkbpMZRAmDlGB5mlqKvveWumothf52-1HZXhAy5HGkGLzW_HYoz-rj2q0HBaxu5_8kyVQ",
           "platform": "Google Play",
           "summary": "",
@@ -7997,7 +7997,7 @@
           "rank": 4,
           "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=JP",
           "developer": "Dream Games, Ltd.",
-          "rating": 4.443277,
+          "rating": 4.4435067,
           "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
           "platform": "Google Play",
           "summary": "",
@@ -8010,7 +8010,7 @@
           "rank": 5,
           "url": "https://play.google.com/store/apps/details?id=wool.match.color.sort.jam.puzzle&hl=en&gl=JP",
           "developer": "Astrasen Global",
-          "rating": 4.5244446,
+          "rating": 4.525499,
           "icon": "https://play-lh.googleusercontent.com/tcXUaY6sYR3LH9NfSXyukxl6Sd1ss5tcwenFT82gXe2NCcl-EkK5eyWp5ee2ZyohDUF-cnL9hO7Y7JfNPAFh_Q",
           "platform": "Google Play",
           "summary": "",
@@ -8023,7 +8023,7 @@
           "rank": 6,
           "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=JP",
           "developer": "HungryStudio",
-          "rating": 4.784299,
+          "rating": 4.7844357,
           "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
           "platform": "Google Play",
           "summary": "",
@@ -8283,7 +8283,7 @@
           "rank": 26,
           "url": "https://play.google.com/store/apps/details?id=com.agavegames.findthecat2&hl=en&gl=JP",
           "developer": "Agave Games",
-          "rating": 4.843949,
+          "rating": 4.845426,
           "icon": "https://play-lh.googleusercontent.com/uyk39WsDkQFPrgFcfuHThxoL7OcFidySe8RpyJUZo5hrYsWFV3a9pxkhUfnEXv_vKWfL0koo5J98PgPK0vOlAR8",
           "platform": "Google Play",
           "summary": "",
@@ -8491,7 +8491,7 @@
           "rank": 42,
           "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=en&gl=JP",
           "developer": "The Pokémon Company",
-          "rating": 4.2916117,
+          "rating": 4.2918653,
           "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
           "platform": "Google Play",
           "summary": "",
@@ -8603,7 +8603,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T09:29:57.038Z",
+      "updatedAt": "2026-10-08T09:45:55.765Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -8781,7 +8781,7 @@
           "rank": 13,
           "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=JP",
           "developer": "KONAMI",
-          "rating": 4.5070305,
+          "rating": 4.506973,
           "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
           "platform": "Google Play",
           "summary": "",
@@ -8820,7 +8820,7 @@
           "rank": 16,
           "url": "https://play.google.com/store/apps/details?id=net.peakgames.toonblast&hl=en&gl=JP",
           "developer": "Peak",
-          "rating": 4.107537,
+          "rating": 4.1076846,
           "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
           "platform": "Google Play",
           "summary": "",
@@ -8885,7 +8885,7 @@
           "rank": 21,
           "url": "https://play.google.com/store/apps/details?id=com.proximabeta.nikke&hl=en&gl=JP",
           "developer": "Level Infinite",
-          "rating": 4.587509,
+          "rating": 4.5875435,
           "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
           "platform": "Google Play",
           "summary": "",
@@ -8911,7 +8911,7 @@
           "rank": 23,
           "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp&hl=en&gl=JP",
           "developer": "The Pokémon Company",
-          "rating": 4.2916117,
+          "rating": 4.2918653,
           "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA",
           "platform": "Google Play",
           "summary": "",
@@ -9054,7 +9054,7 @@
           "rank": 34,
           "url": "https://play.google.com/store/apps/details?id=jp.konami.prospia&hl=en&gl=JP",
           "developer": "KONAMI",
-          "rating": 4.1681356,
+          "rating": 4.1678324,
           "icon": "https://play-lh.googleusercontent.com/F0IB7v9CufHt5hKPRfXC9WS7tOUunAuCD3_JtdMJTtlhkG93qwmNCg6Cbcbf10aipCZZ3rv82QA-6REtVaVLHD8",
           "platform": "Google Play",
           "summary": "",
@@ -9262,7 +9262,7 @@
           "rank": 50,
           "url": "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecats&hl=en&gl=JP",
           "developer": "PONOS Corporation",
-          "rating": 4.5138116,
+          "rating": 4.513511,
           "icon": "https://play-lh.googleusercontent.com/8HMyH_YraLh46zeVl-6z_aEofF3Pf9cNAtRgj6V81Nd2zpblCVlzPb9yoLu8ZxeQOt57a_bTqpa6-aV-VScDDg",
           "platform": "Google Play",
           "summary": "",
@@ -9270,7 +9270,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T09:29:57.995Z",
+      "updatedAt": "2026-10-08T09:45:56.116Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -9447,7 +9447,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T09:30:00.756Z",
+      "updatedAt": "2026-10-08T09:45:57.483Z",
       "sourceUpdatedAt": "2026-10-08",
       "source": "MomoRank 第三方公开榜"
     },
@@ -9634,7 +9634,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T09:30:00.904Z",
+      "updatedAt": "2026-10-08T09:45:59.509Z",
       "sourceUpdatedAt": "2026-10-08",
       "source": "MomoRank 第三方公开榜"
     },
@@ -9811,7 +9811,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T09:30:01.427Z",
+      "updatedAt": "2026-10-08T09:45:59.922Z",
       "sourceUpdatedAt": "2026-10-08",
       "source": "MomoRank 第三方公开榜"
     }
@@ -12080,164 +12080,167 @@
       "checkedAt": "2026-10-08T06:05:05.58Z"
     },
     {
-      "id": "play-us-free",
-      "ok": true,
-      "count": 50,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-      "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
-    },
-    {
       "id": "play-jp-free",
       "ok": true,
       "count": 50,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
       "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
+    },
+    {
+      "id": "play-us-grossing",
+      "ok": true,
+      "count": 50,
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
+      "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
+    },
+    {
+      "id": "play-us-free",
+      "ok": true,
+      "count": 50,
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
+      "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
     },
     {
       "id": "play-jp-grossing",
       "ok": true,
       "count": 50,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
       "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
     },
     {
       "id": "us-free",
       "ok": true,
       "count": 100,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
       "webUrl": "https://apps.apple.com/us/iphone/charts/6014?chart=top-free"
     },
     {
       "id": "us-grossing",
       "ok": true,
       "count": 100,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
       "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/us/genre/6014"
     },
     {
       "id": "jp-free",
       "ok": true,
       "count": 100,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
       "webUrl": "https://apps.apple.com/jp/iphone/charts/6014?chart=top-free"
-    },
-    {
-      "id": "wechat-played",
-      "ok": true,
-      "count": 10,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-      "webUrl": "https://www.momorank.com/rankings/most_played"
-    },
-    {
-      "id": "wechat-grossing",
-      "ok": true,
-      "count": 10,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-      "webUrl": "https://www.momorank.com/rankings/bestseller"
-    },
-    {
-      "id": "wechat-popular",
-      "ok": true,
-      "count": 10,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-      "webUrl": "https://www.momorank.com/rankings/popular"
     },
     {
       "id": "jp-grossing",
       "ok": true,
       "count": 100,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
       "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/jp/genre/6014"
     },
     {
-      "id": "douyin-popular",
+      "id": "wechat-popular",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-      "webUrl": "https://www.momorank.com/douyin/rankings/popular"
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
+      "webUrl": "https://www.momorank.com/rankings/popular"
+    },
+    {
+      "id": "wechat-grossing",
+      "ok": true,
+      "count": 10,
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
+      "webUrl": "https://www.momorank.com/rankings/bestseller"
+    },
+    {
+      "id": "wechat-played",
+      "ok": true,
+      "count": 10,
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
+      "webUrl": "https://www.momorank.com/rankings/most_played"
     },
     {
       "id": "douyin-grossing",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
       "webUrl": "https://www.momorank.com/douyin/rankings/bestseller"
     },
     {
-      "id": "play-us-grossing",
+      "id": "douyin-popular",
       "ok": true,
-      "count": 50,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-      "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
-    },
-    {
-      "id": "mini-news",
-      "ok": true,
-      "count": 36,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-      "webUrl": "https://news.google.com/search?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F"
+      "count": 10,
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
+      "webUrl": "https://www.momorank.com/douyin/rankings/popular"
     },
     {
       "id": "wechat-rising",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
       "webUrl": "https://www.momorank.com/rising"
     },
     {
       "id": "iaa-news",
-      "ok": true,
-      "count": 40,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
+      "ok": false,
+      "error": "HTTP 503",
+      "count": 0,
+      "checkedAt": "2026-10-08T09:45:55.720Z",
       "lastSuccessAt": "2026-10-08T09:29:57.005Z",
       "webUrl": "https://news.google.com/search?q=%E5%B0%8F%E6%B8%B8%E6%88%8F%20%E5%B9%BF%E5%91%8A%E5%8F%98%E7%8E%B0"
-    },
-    {
-      "id": "reward-news",
-      "ok": true,
-      "count": 40,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-      "webUrl": "https://news.google.com/search?q=rewarded%20gaming"
     },
     {
       "id": "industry",
       "ok": true,
       "count": 40,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
       "webUrl": "https://www.gamesindustry.biz/"
-    },
-    {
-      "id": "eurogamer",
-      "ok": true,
-      "count": 40,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-      "webUrl": "https://www.eurogamer.net/"
     },
     {
       "id": "pcgamer",
       "ok": true,
       "count": 40,
-      "checkedAt": "2026-10-08T09:29:57.005Z",
-      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
       "webUrl": "https://www.pcgamer.com/games/"
+    },
+    {
+      "id": "eurogamer",
+      "ok": true,
+      "count": 40,
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:45:55.720Z",
+      "webUrl": "https://www.eurogamer.net/"
+    },
+    {
+      "id": "reward-news",
+      "ok": false,
+      "error": "HTTP 503",
+      "count": 0,
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+      "webUrl": "https://news.google.com/search?q=rewarded%20gaming"
+    },
+    {
+      "id": "mini-news",
+      "ok": false,
+      "error": "HTTP 503",
+      "count": 0,
+      "checkedAt": "2026-10-08T09:45:55.720Z",
+      "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+      "webUrl": "https://news.google.com/search?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F"
     }
   ],
   "history": [],
@@ -12250,8 +12253,8 @@
       "installs": "1B+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.846205234527588,
-      "ratingCount": 5631774,
-      "checkedAt": "2026-10-08T09:30:06.205Z",
+      "ratingCount": 5631770,
+      "checkedAt": "2026-10-08T09:46:16.346Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "HungryStudio",
@@ -12280,8 +12283,8 @@
       "installs": "100M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.850220680236816,
-      "ratingCount": 6361002,
-      "checkedAt": "2026-10-08T09:30:05.406Z",
+      "ratingCount": 6361001,
+      "checkedAt": "2026-10-08T09:46:16.358Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "Vita Studio.",
@@ -12340,7 +12343,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.463622570037842,
       "ratingCount": 661902,
-      "checkedAt": "2026-10-08T09:30:06.255Z",
+      "checkedAt": "2026-10-08T09:46:16.520Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=cashgiraffe.app&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "Cash Giraffe",
@@ -12370,7 +12373,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.413002967834473,
       "ratingCount": 626075,
-      "checkedAt": "2026-10-08T09:30:07.649Z",
+      "checkedAt": "2026-10-08T09:46:16.509Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=online.moneywell.app&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "Money Well",
@@ -12400,7 +12403,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.427327632904053,
       "ratingCount": 1747779,
-      "checkedAt": "2026-10-08T09:30:07.951Z",
+      "checkedAt": "2026-10-08T09:46:16.536Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.justplay.app&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "JustPlay GmbH",
@@ -12430,7 +12433,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.397617340087891,
       "ratingCount": 1059409,
-      "checkedAt": "2026-10-08T09:30:09.673Z",
+      "checkedAt": "2026-10-08T09:46:16.688Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.mistplay.mistplay&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "MISTPLAY",
@@ -12460,7 +12463,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.123348236083984,
       "ratingCount": 451109,
-      "checkedAt": "2026-10-08T09:30:09.535Z",
+      "checkedAt": "2026-10-08T09:46:16.717Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.winrgames.bigtime&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "WINR Games Inc",
@@ -12492,7 +12495,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.197238922119141,
       "ratingCountLabel": "248K",
-      "checkedAt": "2026-10-08T09:30:10.035Z",
+      "checkedAt": "2026-10-08T09:46:16.683Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "containsAds": true,
       "id": "google:com.affinity.rewarded_play",
@@ -12529,7 +12532,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T09:30:13.267Z",
+      "checkedAt": "2026-10-08T09:46:16.843Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.bandainamcoent.gget_JP:JP",
       "tags": [
@@ -12549,11 +12552,11 @@
       "installs": "10M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.493710517883301,
-      "ratingCount": 424585,
+      "ratingCount": 424763,
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T09:30:08.554Z",
+      "checkedAt": "2026-10-08T09:46:16.338Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.oakever.meowdoku:JP",
       "tags": [
@@ -12572,12 +12575,12 @@
       "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
       "installs": "1B+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
-      "rating": 4.221343517303467,
-      "ratingCount": 52872135,
+      "rating": 4.2213544845581055,
+      "ratingCount": 52872138,
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T09:30:13.208Z",
+      "checkedAt": "2026-10-08T09:46:16.819Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.roblox.client",
       "tags": [
@@ -12601,7 +12604,7 @@
       "price": null,
       "containsAds": true,
       "containsIAP": false,
-      "checkedAt": "2026-10-08T09:30:13.106Z",
+      "checkedAt": "2026-10-08T09:46:16.905Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.nebula.rotaterings:JP",
       "tags": [
@@ -12621,11 +12624,11 @@
       "installs": "100M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.598036766052246,
-      "ratingCount": 3228393,
+      "ratingCount": 3228392,
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T09:30:15.534Z",
+      "checkedAt": "2026-10-08T09:46:16.975Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.scopely.monopolygo",
       "tags": [
@@ -12644,12 +12647,12 @@
       "icon": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
       "installs": "1B+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
-      "rating": 4.629680156707764,
-      "ratingCount": 38942076,
+      "rating": 4.629682540893555,
+      "ratingCount": 38942070,
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T09:30:15.708Z",
+      "checkedAt": "2026-10-08T09:46:17.019Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.king.candycrushsaga",
       "tags": [
@@ -12669,11 +12672,11 @@
       "installs": "1M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.6533331871032715,
-      "ratingCount": 67600,
+      "ratingCount": 67662,
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T09:30:17.360Z",
+      "checkedAt": "2026-10-08T09:46:17.115Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:triple.sorting.bubble.fish.match:JP",
       "tags": [
@@ -12693,11 +12696,11 @@
       "installs": "10M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.334563732147217,
-      "ratingCount": 523175,
+      "ratingCount": 523172,
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T09:30:17.997Z",
+      "checkedAt": "2026-10-08T09:46:17.154Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.kurogame.wutheringwaves.global:JP",
       "tags": [
@@ -12721,7 +12724,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T09:30:17.386Z",
+      "checkedAt": "2026-10-08T09:46:17.205Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:game.qualiarts.hololive.dreams.jp:JP",
       "tags": [
@@ -12730,6 +12733,11 @@
     }
   },
   "snapshots": [
+    {
+      "key": "history/2026-10-08T09-46-17-208Z.json",
+      "at": "2026-10-08T09:46:17.216Z",
+      "chartCount": 14
+    },
     {
       "key": "history/2026-10-08T09-30-18-000Z.json",
       "at": "2026-10-08T09:30:18.042Z",
@@ -12747,174 +12755,177 @@
     }
   ],
   "lastRun": {
-    "at": "2026-10-08T09:29:57.005Z",
-    "success": 20,
-    "failed": 0,
+    "at": "2026-10-08T09:45:55.720Z",
+    "success": 17,
+    "failed": 3,
     "total": 20,
     "items": [
-      {
-        "id": "play-us-free",
-        "ok": true,
-        "count": 50,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-        "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
-      },
       {
         "id": "play-jp-free",
         "ok": true,
         "count": 50,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
         "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
+      },
+      {
+        "id": "play-us-grossing",
+        "ok": true,
+        "count": 50,
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
+        "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
+      },
+      {
+        "id": "play-us-free",
+        "ok": true,
+        "count": 50,
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
+        "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
       },
       {
         "id": "play-jp-grossing",
         "ok": true,
         "count": 50,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
         "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
       },
       {
         "id": "us-free",
         "ok": true,
         "count": 100,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
         "webUrl": "https://apps.apple.com/us/iphone/charts/6014?chart=top-free"
       },
       {
         "id": "us-grossing",
         "ok": true,
         "count": 100,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
         "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/us/genre/6014"
       },
       {
         "id": "jp-free",
         "ok": true,
         "count": 100,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
         "webUrl": "https://apps.apple.com/jp/iphone/charts/6014?chart=top-free"
-      },
-      {
-        "id": "wechat-played",
-        "ok": true,
-        "count": 10,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-        "webUrl": "https://www.momorank.com/rankings/most_played"
-      },
-      {
-        "id": "wechat-grossing",
-        "ok": true,
-        "count": 10,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-        "webUrl": "https://www.momorank.com/rankings/bestseller"
-      },
-      {
-        "id": "wechat-popular",
-        "ok": true,
-        "count": 10,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-        "webUrl": "https://www.momorank.com/rankings/popular"
       },
       {
         "id": "jp-grossing",
         "ok": true,
         "count": 100,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
         "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/jp/genre/6014"
       },
       {
-        "id": "douyin-popular",
+        "id": "wechat-popular",
         "ok": true,
         "count": 10,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-        "webUrl": "https://www.momorank.com/douyin/rankings/popular"
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
+        "webUrl": "https://www.momorank.com/rankings/popular"
+      },
+      {
+        "id": "wechat-grossing",
+        "ok": true,
+        "count": 10,
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
+        "webUrl": "https://www.momorank.com/rankings/bestseller"
+      },
+      {
+        "id": "wechat-played",
+        "ok": true,
+        "count": 10,
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
+        "webUrl": "https://www.momorank.com/rankings/most_played"
       },
       {
         "id": "douyin-grossing",
         "ok": true,
         "count": 10,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
         "webUrl": "https://www.momorank.com/douyin/rankings/bestseller"
       },
       {
-        "id": "play-us-grossing",
+        "id": "douyin-popular",
         "ok": true,
-        "count": 50,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-        "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
-      },
-      {
-        "id": "mini-news",
-        "ok": true,
-        "count": 36,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-        "webUrl": "https://news.google.com/search?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F"
+        "count": 10,
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
+        "webUrl": "https://www.momorank.com/douyin/rankings/popular"
       },
       {
         "id": "wechat-rising",
         "ok": true,
         "count": 10,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
         "webUrl": "https://www.momorank.com/rising"
       },
       {
         "id": "iaa-news",
-        "ok": true,
-        "count": 40,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
+        "ok": false,
+        "error": "HTTP 503",
+        "count": 0,
+        "checkedAt": "2026-10-08T09:45:55.720Z",
         "lastSuccessAt": "2026-10-08T09:29:57.005Z",
         "webUrl": "https://news.google.com/search?q=%E5%B0%8F%E6%B8%B8%E6%88%8F%20%E5%B9%BF%E5%91%8A%E5%8F%98%E7%8E%B0"
-      },
-      {
-        "id": "reward-news",
-        "ok": true,
-        "count": 40,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-        "webUrl": "https://news.google.com/search?q=rewarded%20gaming"
       },
       {
         "id": "industry",
         "ok": true,
         "count": 40,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
         "webUrl": "https://www.gamesindustry.biz/"
-      },
-      {
-        "id": "eurogamer",
-        "ok": true,
-        "count": 40,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
-        "webUrl": "https://www.eurogamer.net/"
       },
       {
         "id": "pcgamer",
         "ok": true,
         "count": 40,
-        "checkedAt": "2026-10-08T09:29:57.005Z",
-        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
         "webUrl": "https://www.pcgamer.com/games/"
+      },
+      {
+        "id": "eurogamer",
+        "ok": true,
+        "count": 40,
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:45:55.720Z",
+        "webUrl": "https://www.eurogamer.net/"
+      },
+      {
+        "id": "reward-news",
+        "ok": false,
+        "error": "HTTP 503",
+        "count": 0,
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+        "webUrl": "https://news.google.com/search?q=rewarded%20gaming"
+      },
+      {
+        "id": "mini-news",
+        "ok": false,
+        "error": "HTTP 503",
+        "count": 0,
+        "checkedAt": "2026-10-08T09:45:55.720Z",
+        "lastSuccessAt": "2026-10-08T09:29:57.005Z",
+        "webUrl": "https://news.google.com/search?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F"
       }
     ]
   },
-  "attemptedAt": "2026-10-08T09:29:57.005Z",
+  "attemptedAt": "2026-10-08T09:45:55.720Z",
   "lastSync": {
     "at": "2026-10-08T06:53:33.468Z",
     "accepted": [
@@ -13178,7 +13189,7 @@
   ],
   "intelligence": {
     "version": 2,
-    "updatedAt": "2026-10-08T09:30:18.058Z",
+    "updatedAt": "2026-10-08T09:46:17.216Z",
     "actors": [
       {
         "id": "wechat-games",
@@ -14821,7 +14832,8 @@
         "ok": true,
         "count": 10,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "official-adjoe",
@@ -14833,7 +14845,8 @@
         "ok": true,
         "count": 10,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "official-appsflyer",
@@ -14845,43 +14858,8 @@
         "ok": true,
         "count": 10,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "official-xbox",
-        "actorId": "xbox",
-        "name": "Xbox Wire 官方消息",
-        "url": "https://news.xbox.com/en-us/feed/",
-        "kind": "official",
-        "intervalHours": 3,
-        "ok": true,
-        "count": 10,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "official-google-ads",
-        "actorId": "google-ads",
-        "name": "Google Ads 官方订阅",
-        "url": "https://blog.google/products/ads-commerce/rss/",
-        "kind": "official",
-        "intervalHours": 3,
-        "ok": true,
-        "count": 20,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "official-googleplay",
-        "actorId": "googleplay",
-        "name": "Google Play 官方订阅",
-        "url": "https://blog.google/products/google-play/rss/",
-        "kind": "official",
-        "intervalHours": 3,
-        "ok": true,
-        "count": 20,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "official-playstation",
@@ -14893,127 +14871,47 @@
         "ok": true,
         "count": 10,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
-        "id": "actor-wechat-games",
-        "actorId": "wechat-games",
-        "name": "微信小游戏 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E5%B9%B3%E5%8F%B0%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "id": "official-xbox",
+        "actorId": "xbox",
+        "name": "Xbox Wire 官方消息",
+        "url": "https://news.xbox.com/en-us/feed/",
+        "kind": "official",
+        "intervalHours": 3,
         "ok": true,
-        "count": 1,
+        "count": 10,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
-        "id": "actor-douyin-games",
-        "actorId": "douyin-games",
-        "name": "抖音小游戏 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E6%8A%96%E9%9F%B3%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E5%B9%B3%E5%8F%B0%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "id": "official-googleplay",
+        "actorId": "googleplay",
+        "name": "Google Play 官方订阅",
+        "url": "https://blog.google/products/google-play/rss/",
+        "kind": "official",
+        "intervalHours": 3,
         "ok": true,
-        "count": 0,
+        "count": 20,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
-        "id": "actor-kuaishou-games",
-        "actorId": "kuaishou-games",
-        "name": "快手小游戏 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E5%BF%AB%E6%89%8B%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "id": "official-google-ads",
+        "actorId": "google-ads",
+        "name": "Google Ads 官方订阅",
+        "url": "https://blog.google/products/ads-commerce/rss/",
+        "kind": "official",
+        "intervalHours": 3,
         "ok": true,
-        "count": 0,
+        "count": 20,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-4399",
-        "actorId": "4399",
-        "name": "4399 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%224399%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 7,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-leiting",
-        "actorId": "leiting",
-        "name": "雷霆游戏 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E9%9B%B7%E9%9C%86%E6%B8%B8%E6%88%8F%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-yodo1",
-        "actorId": "yodo1",
-        "name": "游道易 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E6%B8%B8%E9%81%93%E6%98%93%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-37games",
-        "actorId": "37games",
-        "name": "三七互娱 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E4%B8%89%E4%B8%83%E4%BA%92%E5%A8%B1%22%20%E5%B0%8F%E6%B8%B8%E6%88%8F%20OR%20%E6%89%8B%E6%B8%B8%20OR%20%E8%B4%A2%E6%8A%A5%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 1,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-tencent-games",
-        "actorId": "tencent-games",
-        "name": "腾讯游戏 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 4,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-net-ease",
-        "actorId": "net-ease",
-        "name": "网易游戏 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 6,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-mihoyo",
-        "actorId": "mihoyo",
-        "name": "米哈游 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E7%B1%B3%E5%93%88%E6%B8%B8%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 27,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "official-zynga",
@@ -15025,7 +14923,138 @@
         "ok": true,
         "count": 30,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-wechat-games",
+        "actorId": "wechat-games",
+        "name": "微信小游戏 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E5%B9%B3%E5%8F%B0%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 1,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-douyin-games",
+        "actorId": "douyin-games",
+        "name": "抖音小游戏 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E6%8A%96%E9%9F%B3%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E5%B9%B3%E5%8F%B0%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-kuaishou-games",
+        "actorId": "kuaishou-games",
+        "name": "快手小游戏 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E5%BF%AB%E6%89%8B%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-4399",
+        "actorId": "4399",
+        "name": "4399 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%224399%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 7,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-leiting",
+        "actorId": "leiting",
+        "name": "雷霆游戏 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E9%9B%B7%E9%9C%86%E6%B8%B8%E6%88%8F%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-37games",
+        "actorId": "37games",
+        "name": "三七互娱 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E4%B8%89%E4%B8%83%E4%BA%92%E5%A8%B1%22%20%E5%B0%8F%E6%B8%B8%E6%88%8F%20OR%20%E6%89%8B%E6%B8%B8%20OR%20%E8%B4%A2%E6%8A%A5%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 1,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-yodo1",
+        "actorId": "yodo1",
+        "name": "游道易 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E6%B8%B8%E9%81%93%E6%98%93%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-net-ease",
+        "actorId": "net-ease",
+        "name": "网易游戏 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 6,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-tencent-games",
+        "actorId": "tencent-games",
+        "name": "腾讯游戏 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 4,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-mihoyo",
+        "actorId": "mihoyo",
+        "name": "米哈游 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E7%B1%B3%E5%93%88%E6%B8%B8%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 27,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-oceanengine",
@@ -15037,7 +15066,8 @@
         "ok": true,
         "count": 1,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-tencent-ads",
@@ -15049,31 +15079,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-topon",
-        "actorId": "topon",
-        "name": "TopOn 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22TopOn%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-mobvista",
-        "actorId": "mobvista",
-        "name": "汇量科技 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E6%B1%87%E9%87%8F%E7%A7%91%E6%8A%80%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 9,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-mintegral",
@@ -15085,7 +15092,34 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-mobvista",
+        "actorId": "mobvista",
+        "name": "汇量科技 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E6%B1%87%E9%87%8F%E7%A7%91%E6%8A%80%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 9,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-topon",
+        "actorId": "topon",
+        "name": "TopOn 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22TopOn%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-tradplus",
@@ -15097,7 +15131,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-appsflyer",
@@ -15109,19 +15144,8 @@
         "ok": true,
         "count": 5,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-singular",
-        "actorId": "singular",
-        "name": "Singular 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Singular%22%20%22mobile%20attribution%22%20OR%20%22game%20marketing%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 1,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-adjust",
@@ -15133,19 +15157,21 @@
         "ok": true,
         "count": 18,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
-        "id": "actor-unity",
-        "actorId": "unity",
-        "name": "Unity 新闻发现",
+        "id": "actor-singular",
+        "actorId": "singular",
+        "name": "Singular 新闻发现",
         "kind": "discovery",
         "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Unity%20Technologies%22%20OR%20%22Unity%20Ads%22%20OR%20%22LevelPlay%22%20game%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "url": "https://news.google.com/rss/search?q=%22Singular%22%20%22mobile%20attribution%22%20OR%20%22game%20marketing%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
         "ok": true,
-        "count": 2,
+        "count": 1,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-applovin",
@@ -15157,19 +15183,21 @@
         "ok": true,
         "count": 28,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
-        "id": "actor-moloco",
-        "actorId": "moloco",
-        "name": "Moloco 新闻发现",
+        "id": "actor-unity",
+        "actorId": "unity",
+        "name": "Unity 新闻发现",
         "kind": "discovery",
         "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Moloco%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "url": "https://news.google.com/rss/search?q=%22Unity%20Technologies%22%20OR%20%22Unity%20Ads%22%20OR%20%22LevelPlay%22%20game%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
         "ok": true,
-        "count": 8,
+        "count": 2,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-liftoff",
@@ -15181,7 +15209,21 @@
         "ok": true,
         "count": 21,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-moloco",
+        "actorId": "moloco",
+        "name": "Moloco 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Moloco%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 8,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-google-admob",
@@ -15193,31 +15235,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-saygames",
-        "actorId": "saygames",
-        "name": "SayGames 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22SayGames%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-voodoo",
-        "actorId": "voodoo",
-        "name": "Voodoo 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Voodoo%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 21,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-google-ads",
@@ -15229,80 +15248,34 @@
         "ok": true,
         "count": 7,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
-        "id": "actor-kwalee",
-        "actorId": "kwalee",
-        "name": "Kwalee 新闻发现",
+        "id": "actor-voodoo",
+        "actorId": "voodoo",
+        "name": "Voodoo 新闻发现",
         "kind": "discovery",
         "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Kwalee%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-crazylabs",
-        "actorId": "crazylabs",
-        "name": "CrazyLabs 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22CrazyLabs%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-zynga",
-        "actorId": "zynga",
-        "name": "Zynga 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Zynga%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 13,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "official-godot",
-        "actorId": "godot",
-        "name": "Godot Engine 官方订阅",
-        "url": "https://godotengine.org/rss.xml",
-        "kind": "official",
-        "intervalHours": 3,
-        "ok": false,
-        "count": 0,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": null,
-        "error": "fetch failed"
-      },
-      {
-        "id": "actor-supersonic",
-        "actorId": "supersonic",
-        "name": "Supersonic 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Supersonic%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "url": "https://news.google.com/rss/search?q=%22Voodoo%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
         "ok": true,
         "count": 21,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
-        "id": "actor-playtika",
-        "actorId": "playtika",
-        "name": "Playtika 新闻发现",
+        "id": "actor-saygames",
+        "actorId": "saygames",
+        "name": "SayGames 新闻发现",
         "kind": "discovery",
         "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Playtika%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "url": "https://news.google.com/rss/search?q=%22SayGames%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
         "ok": true,
-        "count": 8,
+        "count": 0,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-homa",
@@ -15314,7 +15287,73 @@
         "ok": true,
         "count": 9,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-kwalee",
+        "actorId": "kwalee",
+        "name": "Kwalee 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Kwalee%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-crazylabs",
+        "actorId": "crazylabs",
+        "name": "CrazyLabs 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22CrazyLabs%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-supersonic",
+        "actorId": "supersonic",
+        "name": "Supersonic 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Supersonic%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 21,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-zynga",
+        "actorId": "zynga",
+        "name": "Zynga 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Zynga%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 13,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-playtika",
+        "actorId": "playtika",
+        "name": "Playtika 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Playtika%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 8,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-scopely",
@@ -15326,43 +15365,8 @@
         "ok": true,
         "count": 9,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-rovio",
-        "actorId": "rovio",
-        "name": "Rovio 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Rovio%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 4,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-mistplay",
-        "actorId": "mistplay",
-        "name": "Mistplay 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Mistplay%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 2,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-adjoe",
-        "actorId": "adjoe",
-        "name": "adjoe 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22adjoe%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-supercell",
@@ -15374,7 +15378,47 @@
         "ok": true,
         "count": 16,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-rovio",
+        "actorId": "rovio",
+        "name": "Rovio 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Rovio%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 4,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-mistplay",
+        "actorId": "mistplay",
+        "name": "Mistplay 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Mistplay%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 2,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-adjoe",
+        "actorId": "adjoe",
+        "name": "adjoe 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22adjoe%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-almedia",
@@ -15386,91 +15430,8 @@
         "ok": true,
         "count": 2,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-digital-turbine",
-        "actorId": "digital-turbine",
-        "name": "Digital Turbine 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Digital%20Turbine%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 17,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-xsolla",
-        "actorId": "xsolla",
-        "name": "Xsolla 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Xsolla%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 9,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-niko-partners",
-        "actorId": "niko-partners",
-        "name": "Niko Partners 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Niko%20Partners%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 5,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-sensor-tower",
-        "actorId": "sensor-tower",
-        "name": "Sensor Tower 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Sensor%20Tower%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 8,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-centurygames",
-        "actorId": "centurygames",
-        "name": "Century Games 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Century%20Games%22%20games%20OR%20gaming%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-learnings",
-        "actorId": "learnings",
-        "name": "乐信圣文 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E4%B9%90%E4%BF%A1%E5%9C%A3%E6%96%87%22%20OR%20%22Learnings%22%20%22casual%20games%22%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-godot",
-        "actorId": "godot",
-        "name": "Godot Engine 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Godot%20Engine%22%20games%20OR%20gaming%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-justplay",
@@ -15482,7 +15443,99 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-digital-turbine",
+        "actorId": "digital-turbine",
+        "name": "Digital Turbine 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Digital%20Turbine%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 17,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-xsolla",
+        "actorId": "xsolla",
+        "name": "Xsolla 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Xsolla%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 9,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-sensor-tower",
+        "actorId": "sensor-tower",
+        "name": "Sensor Tower 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Sensor%20Tower%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 8,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-niko-partners",
+        "actorId": "niko-partners",
+        "name": "Niko Partners 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Niko%20Partners%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 5,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-centurygames",
+        "actorId": "centurygames",
+        "name": "Century Games 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Century%20Games%22%20games%20OR%20gaming%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-learnings",
+        "actorId": "learnings",
+        "name": "乐信圣文 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E4%B9%90%E4%BF%A1%E5%9C%A3%E6%96%87%22%20OR%20%22Learnings%22%20%22casual%20games%22%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-godot",
+        "actorId": "godot",
+        "name": "Godot Engine 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Godot%20Engine%22%20games%20OR%20gaming%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-playstation",
@@ -15494,19 +15547,8 @@
         "ok": true,
         "count": 27,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
-      },
-      {
-        "id": "actor-googleplay",
-        "actorId": "googleplay",
-        "name": "Google Play 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Google%20Play%22%20games%20OR%20gaming%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 9,
-        "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
       },
       {
         "id": "actor-xbox",
@@ -15518,7 +15560,33 @@
         "ok": true,
         "count": 30,
         "checkedAt": "2026-10-08T09:30:18.058Z",
-        "lastSuccessAt": "2026-10-08T09:30:18.058Z"
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-googleplay",
+        "actorId": "googleplay",
+        "name": "Google Play 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Google%20Play%22%20games%20OR%20gaming%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 9,
+        "checkedAt": "2026-10-08T09:30:18.058Z",
+        "lastSuccessAt": "2026-10-08T09:30:18.058Z",
+        "skipped": true
+      },
+      {
+        "id": "official-godot",
+        "actorId": "godot",
+        "name": "Godot Engine 官方订阅",
+        "url": "https://godotengine.org/rss.xml",
+        "kind": "official",
+        "intervalHours": 3,
+        "ok": true,
+        "count": 15,
+        "checkedAt": "2026-10-08T09:46:17.216Z",
+        "lastSuccessAt": "2026-10-08T09:46:17.216Z"
       }
     ],
     "items": [
@@ -19166,25 +19234,21 @@
         "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
       },
       {
-        "id": "993f6217a8030329b7d0",
+        "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTY19Rd3dmTHQ5REpaZ3U3Y3NlX3ltM2FOQ19odzZGdDFuczhOS3NnYldXX2JHZzRiZ0dkbm11LUUyWV9qNkw5ZDRmcVYxaVg3bkZPb1F1QWNxX1ZDM0xDZHBR?oc=5",
         "title": "微信小游戏拓展海外平台合作，降低开发者出海门槛 - 手机网易网",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTY19Rd3dmTHQ5REpaZ3U3Y3NlX3ltM2FOQ19odzZGdDFuczhOS3NnYldXX2JHZzRiZ0dkbm11LUUyWV9qNkw5ZDRmcVYxaVg3bkZPb1F1QWNxX1ZDM0xDZHBR?oc=5",
         "source": "手机网易网",
-        "sourceId": "actor-wechat-games",
-        "publisherUrl": "https://www.163.com/",
+        "summary": "微信小游戏拓展海外平台合作，降低开发者出海门槛 手机网易网",
         "publishedAt": "2026-10-03T05:46:53.000Z",
         "discoveredAt": "2026-10-08T05:23:34.641Z",
-        "summary": "微信小游戏拓展海外平台合作，降低开发者出海门槛 手机网易网",
-        "origin": "discovery",
-        "ownerActorId": null,
-        "collectionActorId": "wechat-games",
-        "evidenceType": "媒体发现 · 原文及事实待核查",
-        "contentType": "news",
-        "actorIds": [
-          "wechat-games"
-        ],
         "tags": [
           "小游戏"
+        ],
+        "contentType": "news",
+        "evidenceType": "媒体报道 · 尚未独立核实",
+        "origin": "discovery",
+        "actorIds": [
+          "wechat-games"
         ],
         "ruleScore": 47,
         "noise": false,
@@ -22281,6 +22345,35 @@
           "手游"
         ],
         "ruleScore": 35,
+        "noise": false,
+        "undated": false,
+        "archived": true,
+        "selectionMode": "rule-v1",
+        "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
+      },
+      {
+        "id": "246ba51c6aaac42ae7f2",
+        "title": "Dev snapshot: Godot 4.8 dev 7",
+        "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-7/",
+        "source": "Godot Engine 官方订阅",
+        "sourceId": "official-godot",
+        "publisherUrl": null,
+        "publishedAt": "2026-09-29T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "summary": "It’s that time once again: feature freeze! With this, no new features will be integrated for Godot 4.8 moving forward, and priorities will be shifting exclusively towards bugfixes and addressing regressions to ensure a functional baseline a",
+        "origin": "official",
+        "ownerActorId": "godot",
+        "collectionActorId": "godot",
+        "evidenceType": "官方发布 · 效果与收益宣称仍需验证",
+        "contentType": "news",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "ruleScore": 44,
         "noise": false,
         "undated": false,
         "archived": true,
@@ -26425,6 +26518,35 @@
         "why": "关注用户获取、奖励设计、广告变现或小游戏生态；先核对原文中的数据口径。"
       },
       {
+        "id": "a17b4f755f455444c2f4",
+        "title": "Dev snapshot: Godot 4.8 dev 6",
+        "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-6/",
+        "source": "Godot Engine 官方订阅",
+        "sourceId": "official-godot",
+        "publisherUrl": null,
+        "publishedAt": "2026-09-15T20:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "summary": "“Another development snapshot already? Didn’t they just release one last Friday ?” Indeed, this is much sooner than usual. Even when taking into consideration how development snapshots become more frequent at their tail-end in preparation o",
+        "origin": "official",
+        "ownerActorId": "godot",
+        "collectionActorId": "godot",
+        "evidenceType": "官方发布 · 效果与收益宣称仍需验证",
+        "contentType": "news",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "ruleScore": 54,
+        "noise": false,
+        "undated": false,
+        "archived": true,
+        "selectionMode": "rule-v1",
+        "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
+      },
+      {
         "id": "3f546263c724ed84872d",
         "title": "Celebrating Hispanic Heritage Month: Our Culture, Our Diversity, Our Games",
         "url": "https://www.zynga.com/corporate/celebrating-hispanic-heritage-month-our-culture-our-diversity-our-games/",
@@ -26445,6 +26567,35 @@
         "tags": [
           "行业",
           "手游"
+        ],
+        "ruleScore": 44,
+        "noise": false,
+        "undated": false,
+        "archived": true,
+        "selectionMode": "rule-v1",
+        "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
+      },
+      {
+        "id": "105f64196834384c6a04",
+        "title": "Optimizing CPU-side Rendering Code",
+        "url": "https://godotengine.org/article/rendering-cpu-optimizations/",
+        "source": "Godot Engine 官方订阅",
+        "sourceId": "official-godot",
+        "publisherUrl": null,
+        "publishedAt": "2026-09-15T17:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "summary": "I want to give people a little bit of insight into what the optimization process looks like for Godot’s renderer. From the outside, rendering optimization can look a little bit like black magic. I want to show a few examples of some optimiz",
+        "origin": "official",
+        "ownerActorId": "godot",
+        "collectionActorId": "godot",
+        "evidenceType": "官方发布 · 效果与收益宣称仍需验证",
+        "contentType": "news",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
         ],
         "ruleScore": 44,
         "noise": false,
@@ -27163,6 +27314,35 @@
         "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
       },
       {
+        "id": "cca8d225a3520ac4af7c",
+        "title": "Dev snapshot: Godot 4.8 dev 5",
+        "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-5/",
+        "source": "Godot Engine 官方订阅",
+        "sourceId": "official-godot",
+        "publisherUrl": null,
+        "publishedAt": "2026-09-10T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "summary": "As we’re hoping to enter feature freeze later in the month, you can expect this to be one of the last development snapshot highlights of the 4.8 cycle. Relatedly, many of our contributors are currently hard at work to help get their feature",
+        "origin": "official",
+        "ownerActorId": "godot",
+        "collectionActorId": "godot",
+        "evidenceType": "官方发布 · 效果与收益宣称仍需验证",
+        "contentType": "news",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "ruleScore": 44,
+        "noise": false,
+        "undated": false,
+        "archived": true,
+        "selectionMode": "rule-v1",
+        "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
+      },
+      {
         "id": "f2e1ee5db47e0ae0a308",
         "title": "手机涨价的闹剧：8天过山车，4499到5499再降价4399背后乱象！ - 搜狐网",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80aXU0TEp2Q0JwV3dyYmg3QXhNZ25aU0hUZ0JOaUhfUWs0VF9YWWlocWRmblJKYWtOeXhBXzNOaUtXeHhwbTNHQWlVZDhRdnoweFQ4?oc=5",
@@ -27870,6 +28050,35 @@
         "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
       },
       {
+        "id": "fd8ce10cb007550a3b6f",
+        "title": "Dev snapshot: Godot 4.8 dev 4",
+        "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-4/",
+        "source": "Godot Engine 官方订阅",
+        "sourceId": "official-godot",
+        "publisherUrl": null,
+        "publishedAt": "2026-08-26T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "summary": "Those of you who follow our development blogposts closely might’ve noticed that the past few snapshots have been a little on the light side. This isn’t to say that there was a lack of features on display nor that we’re dissatisfied with wha",
+        "origin": "official",
+        "ownerActorId": "godot",
+        "collectionActorId": "godot",
+        "evidenceType": "官方发布 · 效果与收益宣称仍需验证",
+        "contentType": "news",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "ruleScore": 44,
+        "noise": false,
+        "undated": false,
+        "archived": true,
+        "selectionMode": "rule-v1",
+        "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
+      },
+      {
         "id": "322f1f31eb43f026a7e8",
         "title": "Zynga Shortlisted in Two Categories at GamingonPhone Awards 2026",
         "url": "https://www.zynga.com/corporate/zynga-shortlisted-in-two-categories-at-gamingonphone-awards-2026/",
@@ -27921,6 +28130,66 @@
           "手游"
         ],
         "ruleScore": 44,
+        "noise": false,
+        "undated": false,
+        "archived": true,
+        "selectionMode": "rule-v1",
+        "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
+      },
+      {
+        "id": "f398df516c439db7603b",
+        "title": "Fixing high polling rate mice on Windows in Godot",
+        "url": "https://godotengine.org/article/fixing-high-polling-rate-mice-on-windows/",
+        "source": "Godot Engine 官方订阅",
+        "sourceId": "official-godot",
+        "publisherUrl": null,
+        "publishedAt": "2026-08-24T14:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "summary": "At long last, a performance issue with high polling rate mice on Windows has been fixed in Godot, starting with the recently released Godot 4.7.2 . This article describes how the fix works, and why it’s so important today. Note: The definit",
+        "origin": "official",
+        "ownerActorId": "godot",
+        "collectionActorId": "godot",
+        "evidenceType": "官方发布 · 效果与收益宣称仍需验证",
+        "contentType": "news",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "ruleScore": 54,
+        "noise": false,
+        "undated": false,
+        "archived": true,
+        "selectionMode": "rule-v1",
+        "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
+      },
+      {
+        "id": "028206440b47d1adb4d5",
+        "title": "Maintenance release: Godot 3.6.3",
+        "url": "https://godotengine.org/article/maintenance-release-godot-3-6-3/",
+        "source": "Godot Engine 官方订阅",
+        "sourceId": "official-godot",
+        "publisherUrl": null,
+        "publishedAt": "2026-08-22T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "summary": "Godot 3.6.2 has been our recommended stable LTS version of 3.x for a while now, but the time has come to make a new build, primarily due to changes in requirements for Android and iOS. Google Play now requires new apps and updates to target",
+        "origin": "official",
+        "ownerActorId": "godot",
+        "collectionActorId": "godot",
+        "evidenceType": "官方发布 · 效果与收益宣称仍需验证",
+        "contentType": "news",
+        "actorIds": [
+          "godot",
+          "googleplay"
+        ],
+        "tags": [
+          "行业",
+          "技术工具",
+          "手游"
+        ],
+        "ruleScore": 54,
         "noise": false,
         "undated": false,
         "archived": true,
@@ -28077,6 +28346,64 @@
         "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
       },
       {
+        "id": "6d2a4e858fa295fdf957",
+        "title": "Maintenance release: Godot 4.7.2",
+        "url": "https://godotengine.org/article/maintenance-release-godot-4-7-2/",
+        "source": "Godot Engine 官方订阅",
+        "sourceId": "official-godot",
+        "publisherUrl": null,
+        "publishedAt": "2026-08-18T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "summary": "Has it already been a whole month since the last 4.7 maintenance release ? How time flies… Well, no time to dwell on the past; let’s instead dwell on the present with yet another maintenance release: Godot 4.7.2! Maintenance releases are ex",
+        "origin": "official",
+        "ownerActorId": "godot",
+        "collectionActorId": "godot",
+        "evidenceType": "官方发布 · 效果与收益宣称仍需验证",
+        "contentType": "news",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "ruleScore": 54,
+        "noise": false,
+        "undated": false,
+        "archived": true,
+        "selectionMode": "rule-v1",
+        "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
+      },
+      {
+        "id": "1fb98e79b8bb63e33ac0",
+        "title": "Submissions open for Godot 2026 showreel",
+        "url": "https://godotengine.org/article/submissions-open-godot-2026-showreel/",
+        "source": "Godot Engine 官方订阅",
+        "sourceId": "official-godot",
+        "publisherUrl": null,
+        "publishedAt": "2026-08-15T13:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "summary": "Showcase your Godot Engine 2026 creations! We invite you to submit videos featuring your published or in-progress games or tools so we can make the Godot 2026 Showreel. Our annual showreels are informative and celebratory showcases, to high",
+        "origin": "official",
+        "ownerActorId": "godot",
+        "collectionActorId": "godot",
+        "evidenceType": "官方发布 · 效果与收益宣称仍需验证",
+        "contentType": "news",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "ruleScore": 44,
+        "noise": false,
+        "undated": false,
+        "archived": true,
+        "selectionMode": "rule-v1",
+        "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
+      },
+      {
         "id": "6c3244788107c4ccc417",
         "title": "User-level Promotions: Now Personalize Rewards for Key User Segments!",
         "url": "https://adjoe.io/blog/user-level-promotions-personalize-rewards-for-user-segments/",
@@ -28101,6 +28428,35 @@
           "网赚"
         ],
         "ruleScore": 54,
+        "noise": false,
+        "undated": false,
+        "archived": true,
+        "selectionMode": "rule-v1",
+        "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
+      },
+      {
+        "id": "15757b3ef639c8829f8a",
+        "title": "GodotFest 2026 returns to Munich this November",
+        "url": "https://godotengine.org/article/godotfest-2026/",
+        "source": "Godot Engine 官方订阅",
+        "sourceId": "official-godot",
+        "publisherUrl": null,
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "summary": "Last November, close to 500 people joined us in Munich for the first GodotFest. We had 34 speakers, two stages, a workshop room, and two busy days of Godot. For a first edition, it was quite a turnout. GodotFest is an annual conference for",
+        "origin": "official",
+        "ownerActorId": "godot",
+        "collectionActorId": "godot",
+        "evidenceType": "官方发布 · 效果与收益宣称仍需验证",
+        "contentType": "news",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "ruleScore": 44,
         "noise": false,
         "undated": false,
         "archived": true,
@@ -28225,6 +28581,35 @@
         "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
       },
       {
+        "id": "c125f9446bfc54410c6f",
+        "title": "Dev snapshot: Godot 4.8 dev 3",
+        "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-3/",
+        "source": "Godot Engine 官方订阅",
+        "sourceId": "official-godot",
+        "publisherUrl": null,
+        "publishedAt": "2026-08-07T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "summary": "With GodotCon Boston now behind us, our contributors have had nothing but time and energy to get their most-wanted features over the finish line. While feature freeze still isn’t for at least another month, that hasn’t stopped our community",
+        "origin": "official",
+        "ownerActorId": "godot",
+        "collectionActorId": "godot",
+        "evidenceType": "官方发布 · 效果与收益宣称仍需验证",
+        "contentType": "news",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "ruleScore": 44,
+        "noise": false,
+        "undated": false,
+        "archived": true,
+        "selectionMode": "rule-v1",
+        "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
+      },
+      {
         "id": "71d9a216506e33b6b4b7",
         "title": "Supersonic Joins Tripledot Studios",
         "url": "https://supersonic.com/learn/blog/supersonic-joins-tripledot-studios/",
@@ -28277,6 +28662,35 @@
           "手游"
         ],
         "ruleScore": 44,
+        "noise": false,
+        "undated": false,
+        "archived": true,
+        "selectionMode": "rule-v1",
+        "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
+      },
+      {
+        "id": "071f218a09d892d941fa",
+        "title": "Release candidate: Godot 4.7.2 RC 1",
+        "url": "https://godotengine.org/article/release-candidate-godot-4-7-2-rc-1/",
+        "source": "Godot Engine 官方订阅",
+        "sourceId": "official-godot",
+        "publisherUrl": null,
+        "publishedAt": "2026-08-03T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "summary": "A month and a half has passed since our initial release of Godot 4.7 , which was then followed up with the Godot 4.7.1 maintenance release nearly three weeks ago. While we stand by the stable foundation of our maintenance releases, that doe",
+        "origin": "official",
+        "ownerActorId": "godot",
+        "collectionActorId": "godot",
+        "evidenceType": "官方发布 · 效果与收益宣称仍需验证",
+        "contentType": "news",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "ruleScore": 54,
         "noise": false,
         "undated": false,
         "archived": true,
@@ -28403,6 +28817,35 @@
         "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
       },
       {
+        "id": "e4486c8d915c1568bf3a",
+        "title": "Dev snapshot: Godot 4.8 dev 2",
+        "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-2/",
+        "source": "Godot Engine 官方订阅",
+        "sourceId": "official-godot",
+        "publisherUrl": null,
+        "publishedAt": "2026-07-21T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "summary": "Happy GodotCon Boston for those who celebrate! While many key contributors are already at this event as we speak, that doesn’t mean that development snapshots are slowing down anytime soon. We hope anyone that couldn’t make it to the event",
+        "origin": "official",
+        "ownerActorId": "godot",
+        "collectionActorId": "godot",
+        "evidenceType": "官方发布 · 效果与收益宣称仍需验证",
+        "contentType": "news",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "ruleScore": 44,
+        "noise": false,
+        "undated": false,
+        "archived": true,
+        "selectionMode": "rule-v1",
+        "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
+      },
+      {
         "id": "f7601bc27dd28fc12b06",
         "title": "Why Loyalty Programs Fail at Engagement: How Arcade Revives it",
         "url": "https://adjoe.io/blog/why-loyalty-programs-fail-at-engagement-and-how-adjoe-arcade-solves-it/",
@@ -28494,6 +28937,35 @@
         "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
       },
       {
+        "id": "6bc34921968f198708e5",
+        "title": "Godot Community Poll 2026",
+        "url": "https://godotengine.org/article/godot-community-poll-2026/",
+        "source": "Godot Engine 官方订阅",
+        "sourceId": "official-godot",
+        "publisherUrl": null,
+        "publishedAt": "2026-07-16T17:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "summary": "Update: This poll is now over. You can view the results here or download the csv with all the responses . We want to learn more about the Godot community, understand who the users of the engine are, and find out how we can better support yo",
+        "origin": "official",
+        "ownerActorId": "godot",
+        "collectionActorId": "godot",
+        "evidenceType": "官方发布 · 效果与收益宣称仍需验证",
+        "contentType": "news",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "ruleScore": 44,
+        "noise": false,
+        "undated": false,
+        "archived": true,
+        "selectionMode": "rule-v1",
+        "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
+      },
+      {
         "id": "631830ad621620ac4319",
         "title": "Loyalty Programs: How Arcade Solves Reward Liability Costs",
         "url": "https://adjoe.io/blog/loyalty-programs-solve-reward-liabilities/",
@@ -28516,6 +28988,35 @@
           "IAA",
           "买量",
           "网赚"
+        ],
+        "ruleScore": 44,
+        "noise": false,
+        "undated": false,
+        "archived": true,
+        "selectionMode": "rule-v1",
+        "why": "跟踪产品、平台与发行变化；原文主张不等于独立验证。"
+      },
+      {
+        "id": "5a52fd0d717d3cea6ee7",
+        "title": "Godot Team Updates @ GodotCon Boston 2026",
+        "url": "https://godotengine.org/article/godotcon-us-2026-update/",
+        "source": "Godot Engine 官方订阅",
+        "sourceId": "official-godot",
+        "publisherUrl": null,
+        "publishedAt": "2026-07-14T15:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "summary": "h4 {margin-bottom:0} Our second annual GodotCon in North America is right around the corner and it is full steam ahead for the Godot community in Boston. The schedule has been announced so we thought it would be worth highlighting some of t",
+        "origin": "official",
+        "ownerActorId": "godot",
+        "collectionActorId": "godot",
+        "evidenceType": "官方发布 · 效果与收益宣称仍需验证",
+        "contentType": "news",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
         ],
         "ruleScore": 44,
         "noise": false,
@@ -29871,7 +30372,7 @@
         "publishedAt": "2026-10-08T09:11:18.000Z",
         "discoveredAt": "2026-10-08T09:30:04.778Z",
         "firstAt": "2026-10-08T09:11:18.000Z",
-        "heat": 0.986,
+        "heat": 0.983,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -29904,7 +30405,7 @@
         "publishedAt": "2026-10-08T08:57:13.000Z",
         "discoveredAt": "2026-10-08T09:30:04.290Z",
         "firstAt": "2026-10-08T08:57:13.000Z",
-        "heat": 0.979,
+        "heat": 0.977,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -29937,7 +30438,7 @@
         "publishedAt": "2026-10-08T08:21:27.000Z",
         "discoveredAt": "2026-10-08T08:45:33.293Z",
         "firstAt": "2026-10-08T08:21:27.000Z",
-        "heat": 0.963,
+        "heat": 0.96,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -29970,7 +30471,7 @@
         "publishedAt": "2026-10-08T06:40:50.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-08T06:40:50.000Z",
-        "heat": 0.917,
+        "heat": 0.915,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -30004,7 +30505,7 @@
         "publishedAt": "2026-10-08T05:12:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-08T05:12:00.000Z",
-        "heat": 0.879,
+        "heat": 0.876,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -30038,7 +30539,7 @@
         "publishedAt": "2026-10-08T04:00:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-08T04:00:00.000Z",
-        "heat": 0.849,
+        "heat": 0.846,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 54,
@@ -30071,7 +30572,7 @@
         "publishedAt": "2026-10-08T01:48:00.000Z",
         "discoveredAt": "2026-10-08T05:58:30.789Z",
         "firstAt": "2026-10-08T01:48:00.000Z",
-        "heat": 0.797,
+        "heat": 0.794,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 47,
@@ -30104,7 +30605,7 @@
         "publishedAt": "2026-10-08T00:12:46.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-08T00:12:46.000Z",
-        "heat": 0.761,
+        "heat": 0.759,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -30138,7 +30639,7 @@
         "publishedAt": "2026-10-08T00:00:00.000Z",
         "discoveredAt": "2026-10-08T06:06:51.248Z",
         "firstAt": "2026-10-08T00:00:00.000Z",
-        "heat": 0.756,
+        "heat": 0.754,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -30172,7 +30673,7 @@
         "publishedAt": "2026-10-07T21:51:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T21:51:00.000Z",
-        "heat": 0.711,
+        "heat": 0.709,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -30206,7 +30707,7 @@
         "publishedAt": "2026-10-07T21:30:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T21:30:00.000Z",
-        "heat": 0.704,
+        "heat": 0.702,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -30241,7 +30742,7 @@
         "publishedAt": "2026-10-07T20:46:24.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T20:46:24.000Z",
-        "heat": 0.689,
+        "heat": 0.687,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -30276,7 +30777,7 @@
         "publishedAt": "2026-10-07T20:16:31.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T20:16:31.000Z",
-        "heat": 0.679,
+        "heat": 0.677,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 47,
@@ -30310,7 +30811,7 @@
         "publishedAt": "2026-10-07T18:28:00.000Z",
         "discoveredAt": "2026-10-08T05:10:16.827Z",
         "firstAt": "2026-10-07T18:28:00.000Z",
-        "heat": 0.644,
+        "heat": 0.643,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -30343,7 +30844,7 @@
         "publishedAt": "2026-10-07T18:20:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T18:20:00.000Z",
-        "heat": 0.642,
+        "heat": 0.64,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -30377,7 +30878,7 @@
         "publishedAt": "2026-10-07T17:30:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T17:30:00.000Z",
-        "heat": 0.627,
+        "heat": 0.625,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -30411,7 +30912,7 @@
         "publishedAt": "2026-10-07T17:00:48.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T17:00:48.000Z",
-        "heat": 0.618,
+        "heat": 0.616,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -30445,7 +30946,7 @@
         "publishedAt": "2026-10-07T16:55:21.000Z",
         "discoveredAt": "2026-10-08T05:10:16.827Z",
         "firstAt": "2026-10-07T16:55:21.000Z",
-        "heat": 0.616,
+        "heat": 0.615,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -30478,7 +30979,7 @@
         "publishedAt": "2026-10-07T16:17:03.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T16:00:00.000Z",
-        "heat": 0.605,
+        "heat": 0.603,
         "participants": 1,
         "reportCount": 2,
         "ruleScore": 44,
@@ -30521,7 +31022,7 @@
         "publishedAt": "2026-10-07T16:05:02.000Z",
         "discoveredAt": "2026-10-08T05:10:17.509Z",
         "firstAt": "2026-10-07T16:05:02.000Z",
-        "heat": 0.602,
+        "heat": 0.6,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 57,
@@ -30555,7 +31056,7 @@
         "publishedAt": "2026-10-07T16:01:14.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T16:01:14.000Z",
-        "heat": 0.601,
+        "heat": 0.599,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -30590,7 +31091,7 @@
         "publishedAt": "2026-10-07T15:20:57.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T15:20:57.000Z",
-        "heat": 0.589,
+        "heat": 0.587,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 47,
@@ -30624,7 +31125,7 @@
         "publishedAt": "2026-10-07T15:00:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T15:00:00.000Z",
-        "heat": 0.583,
+        "heat": 0.582,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -30658,7 +31159,7 @@
         "publishedAt": "2026-10-07T13:56:05.000Z",
         "discoveredAt": "2026-10-08T05:10:16.827Z",
         "firstAt": "2026-10-07T13:56:05.000Z",
-        "heat": 0.565,
+        "heat": 0.564,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -30692,7 +31193,7 @@
         "publishedAt": "2026-10-07T13:27:42.000Z",
         "discoveredAt": "2026-10-08T05:10:16.827Z",
         "firstAt": "2026-10-07T13:27:42.000Z",
-        "heat": 0.558,
+        "heat": 0.556,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -30725,7 +31226,7 @@
         "publishedAt": "2026-10-07T13:22:49.000Z",
         "discoveredAt": "2026-10-08T05:10:16.827Z",
         "firstAt": "2026-10-07T13:22:49.000Z",
-        "heat": 0.556,
+        "heat": 0.555,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -30758,7 +31259,7 @@
         "publishedAt": "2026-10-07T13:00:53.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T13:00:53.000Z",
-        "heat": 0.551,
+        "heat": 0.549,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 54,
@@ -30793,7 +31294,7 @@
         "publishedAt": "2026-10-07T13:00:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T13:00:00.000Z",
-        "heat": 0.55,
+        "heat": 0.549,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 47,
@@ -30828,7 +31329,7 @@
         "publishedAt": "2026-10-07T12:09:02.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T12:09:02.000Z",
-        "heat": 0.537,
+        "heat": 0.536,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -30862,7 +31363,7 @@
         "publishedAt": "2026-10-07T12:03:26.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T12:03:26.000Z",
-        "heat": 0.536,
+        "heat": 0.534,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -30898,7 +31399,7 @@
         "publishedAt": "2026-10-07T12:00:00.000Z",
         "discoveredAt": "2026-10-08T05:10:16.769Z",
         "firstAt": "2026-10-07T12:00:00.000Z",
-        "heat": 0.535,
+        "heat": 0.533,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -30931,7 +31432,7 @@
         "publishedAt": "2026-10-07T10:59:12.000Z",
         "discoveredAt": "2026-10-08T05:10:16.769Z",
         "firstAt": "2026-10-07T10:59:12.000Z",
-        "heat": 0.519,
+        "heat": 0.518,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -30965,7 +31466,7 @@
         "publishedAt": "2026-10-07T10:38:16.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T10:38:16.000Z",
-        "heat": 0.514,
+        "heat": 0.513,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -30999,7 +31500,7 @@
         "publishedAt": "2026-10-07T10:24:13.000Z",
         "discoveredAt": "2026-10-08T05:10:16.827Z",
         "firstAt": "2026-10-07T10:24:13.000Z",
-        "heat": 0.511,
+        "heat": 0.509,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -31032,7 +31533,7 @@
         "publishedAt": "2026-10-07T10:23:20.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T10:23:20.000Z",
-        "heat": 0.51,
+        "heat": 0.509,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -31066,7 +31567,7 @@
         "publishedAt": "2026-10-07T09:49:32.000Z",
         "discoveredAt": "2026-10-08T05:10:16.827Z",
         "firstAt": "2026-10-07T09:49:32.000Z",
-        "heat": 0.502,
+        "heat": 0.501,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -31100,7 +31601,7 @@
         "publishedAt": "2026-10-07T09:44:16.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T09:44:16.000Z",
-        "heat": 0.501,
+        "heat": 0.5,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -31135,7 +31636,7 @@
         "publishedAt": "2026-10-07T08:52:44.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T08:52:44.000Z",
-        "heat": 0.489,
+        "heat": 0.487,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -31169,7 +31670,7 @@
         "publishedAt": "2026-10-07T08:31:39.000Z",
         "discoveredAt": "2026-10-08T05:10:16.828Z",
         "firstAt": "2026-10-07T08:31:39.000Z",
-        "heat": 0.484,
+        "heat": 0.482,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -31202,7 +31703,7 @@
         "publishedAt": "2026-10-07T07:31:38.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T07:31:38.000Z",
-        "heat": 0.47,
+        "heat": 0.469,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -31237,7 +31738,7 @@
         "publishedAt": "2026-10-07T07:01:15.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T07:01:15.000Z",
-        "heat": 0.463,
+        "heat": 0.462,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -31272,7 +31773,7 @@
         "publishedAt": "2026-10-07T05:53:30.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T05:53:30.000Z",
-        "heat": 0.448,
+        "heat": 0.447,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -31307,7 +31808,7 @@
         "publishedAt": "2026-10-07T05:52:18.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T05:52:18.000Z",
-        "heat": 0.448,
+        "heat": 0.447,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -31342,7 +31843,7 @@
         "publishedAt": "2026-10-07T04:17:46.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T04:17:46.000Z",
-        "heat": 0.428,
+        "heat": 0.427,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -31375,7 +31876,7 @@
         "publishedAt": "2026-10-07T01:03:57.000Z",
         "discoveredAt": "2026-10-08T05:23:34.641Z",
         "firstAt": "2026-10-07T01:03:57.000Z",
-        "heat": 0.39,
+        "heat": 0.389,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 47,
@@ -31408,7 +31909,7 @@
         "publishedAt": "2026-10-06T22:12:27.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T22:12:27.000Z",
-        "heat": 0.359,
+        "heat": 0.358,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -31443,7 +31944,7 @@
         "publishedAt": "2026-10-06T21:50:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T21:50:00.000Z",
-        "heat": 0.355,
+        "heat": 0.354,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 47,
@@ -31478,7 +31979,7 @@
         "publishedAt": "2026-10-06T21:49:58.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T21:49:58.000Z",
-        "heat": 0.355,
+        "heat": 0.354,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -31513,7 +32014,7 @@
         "publishedAt": "2026-10-06T18:41:05.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T18:41:05.000Z",
-        "heat": 0.324,
+        "heat": 0.323,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 47,
@@ -31582,7 +32083,7 @@
         "publishedAt": "2026-10-06T18:24:18.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T18:24:18.000Z",
-        "heat": 0.322,
+        "heat": 0.321,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -31616,7 +32117,7 @@
         "publishedAt": "2026-10-06T16:00:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T16:00:00.000Z",
-        "heat": 0.3,
+        "heat": 0.299,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -31684,7 +32185,7 @@
         "publishedAt": "2026-10-06T15:00:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T15:00:00.000Z",
-        "heat": 0.292,
+        "heat": 0.291,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 54,
@@ -31718,7 +32219,7 @@
         "publishedAt": "2026-10-06T14:54:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T14:54:00.000Z",
-        "heat": 0.291,
+        "heat": 0.29,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -31753,7 +32254,7 @@
         "publishedAt": "2026-10-06T14:20:39.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T14:20:39.000Z",
-        "heat": 0.286,
+        "heat": 0.285,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -31788,7 +32289,7 @@
         "publishedAt": "2026-10-06T14:17:42.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T14:17:42.000Z",
-        "heat": 0.286,
+        "heat": 0.285,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -31856,7 +32357,7 @@
         "publishedAt": "2026-10-06T13:21:52.000Z",
         "discoveredAt": "2026-10-08T05:10:16.828Z",
         "firstAt": "2026-10-06T13:21:52.000Z",
-        "heat": 0.278,
+        "heat": 0.277,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -31889,7 +32390,7 @@
         "publishedAt": "2026-10-06T13:15:02.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T13:15:02.000Z",
-        "heat": 0.277,
+        "heat": 0.276,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 47,
@@ -31923,7 +32424,7 @@
         "publishedAt": "2026-10-06T12:30:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T12:30:00.000Z",
-        "heat": 0.271,
+        "heat": 0.27,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -31990,7 +32491,7 @@
         "publishedAt": "2026-10-06T11:00:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T11:00:00.000Z",
-        "heat": 0.26,
+        "heat": 0.259,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -32024,7 +32525,7 @@
         "publishedAt": "2026-10-06T10:55:20.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T10:55:20.000Z",
-        "heat": 0.259,
+        "heat": 0.258,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -32058,7 +32559,7 @@
         "publishedAt": "2026-10-06T10:42:41.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T10:42:41.000Z",
-        "heat": 0.258,
+        "heat": 0.257,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -32126,7 +32627,7 @@
         "publishedAt": "2026-10-06T09:57:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-06T09:57:00.000Z",
-        "heat": 0.252,
+        "heat": 0.251,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -32964,6 +33465,40 @@
         "verification": "有官方发布；宣传效果未独立验证"
       },
       {
+        "id": "99e0d852370eae7e8fbc",
+        "title": "Dev snapshot: Godot 4.8 dev 6",
+        "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-6/",
+        "summary": "“Another development snapshot already? Didn’t they just release one last Friday ?” Indeed, this is much sooner than usual. Even when taking into consideration how development snapshots become more frequent at their tail-end in preparation o",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "publishedAt": "2026-09-15T20:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "firstAt": "2026-09-15T20:00:00.000Z",
+        "heat": 0,
+        "participants": 0,
+        "reportCount": 1,
+        "ruleScore": 54,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "Dev snapshot: Godot 4.8 dev 6",
+            "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-6/",
+            "source": "Godot Engine 官方订阅",
+            "publisherUrl": null,
+            "publishedAt": "2026-09-15T20:00:00.000Z",
+            "origin": "official",
+            "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
         "id": "d437d73a1cd66a81c05b",
         "title": "Top Eleven Partners With Roshn Saudi League for Star-Studded, Year-Long Campaign",
         "url": "https://www.zynga.com/corporate/top-eleven-partners-with-roshn-saudi-league-for-star-studded-year-long-campaign/",
@@ -33101,6 +33636,110 @@
         "verification": "有官方发布；宣传效果未独立验证"
       },
       {
+        "id": "0bf5781fea9ba8cfd97f",
+        "title": "Fixing high polling rate mice on Windows in Godot",
+        "url": "https://godotengine.org/article/fixing-high-polling-rate-mice-on-windows/",
+        "summary": "At long last, a performance issue with high polling rate mice on Windows has been fixed in Godot, starting with the recently released Godot 4.7.2 . This article describes how the fix works, and why it’s so important today. Note: The definit",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "publishedAt": "2026-08-24T14:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "firstAt": "2026-08-24T14:00:00.000Z",
+        "heat": 0,
+        "participants": 0,
+        "reportCount": 1,
+        "ruleScore": 54,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "Fixing high polling rate mice on Windows in Godot",
+            "url": "https://godotengine.org/article/fixing-high-polling-rate-mice-on-windows/",
+            "source": "Godot Engine 官方订阅",
+            "publisherUrl": null,
+            "publishedAt": "2026-08-24T14:00:00.000Z",
+            "origin": "official",
+            "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
+        "id": "2df1803f9cc3524e0ee9",
+        "title": "Maintenance release: Godot 3.6.3",
+        "url": "https://godotengine.org/article/maintenance-release-godot-3-6-3/",
+        "summary": "Godot 3.6.2 has been our recommended stable LTS version of 3.x for a while now, but the time has come to make a new build, primarily due to changes in requirements for Android and iOS. Google Play now requires new apps and updates to target",
+        "actorIds": [
+          "godot",
+          "googleplay"
+        ],
+        "tags": [
+          "行业",
+          "技术工具",
+          "手游"
+        ],
+        "publishedAt": "2026-08-22T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "firstAt": "2026-08-22T12:00:00.000Z",
+        "heat": 0,
+        "participants": 0,
+        "reportCount": 1,
+        "ruleScore": 54,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "Maintenance release: Godot 3.6.3",
+            "url": "https://godotengine.org/article/maintenance-release-godot-3-6-3/",
+            "source": "Godot Engine 官方订阅",
+            "publisherUrl": null,
+            "publishedAt": "2026-08-22T12:00:00.000Z",
+            "origin": "official",
+            "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
+        "id": "f02355ee3802e18849d5",
+        "title": "Maintenance release: Godot 4.7.2",
+        "url": "https://godotengine.org/article/maintenance-release-godot-4-7-2/",
+        "summary": "Has it already been a whole month since the last 4.7 maintenance release ? How time flies… Well, no time to dwell on the past; let’s instead dwell on the present with yet another maintenance release: Godot 4.7.2! Maintenance releases are ex",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "publishedAt": "2026-08-18T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "firstAt": "2026-08-18T12:00:00.000Z",
+        "heat": 0,
+        "participants": 0,
+        "reportCount": 1,
+        "ruleScore": 54,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "Maintenance release: Godot 4.7.2",
+            "url": "https://godotengine.org/article/maintenance-release-godot-4-7-2/",
+            "source": "Godot Engine 官方订阅",
+            "publisherUrl": null,
+            "publishedAt": "2026-08-18T12:00:00.000Z",
+            "origin": "official",
+            "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
         "id": "7da94a50ede17a9856f9",
         "title": "User-level Promotions: Now Personalize Rewards for Key User Segments!",
         "url": "https://adjoe.io/blog/user-level-promotions-personalize-rewards-for-user-segments/",
@@ -33198,6 +33837,40 @@
             "source": "Zynga 官方订阅",
             "publisherUrl": null,
             "publishedAt": "2026-08-08T12:21:28.000Z",
+            "origin": "official",
+            "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
+        "id": "8d611284e67a148c9725",
+        "title": "Release candidate: Godot 4.7.2 RC 1",
+        "url": "https://godotengine.org/article/release-candidate-godot-4-7-2-rc-1/",
+        "summary": "A month and a half has passed since our initial release of Godot 4.7 , which was then followed up with the Godot 4.7.1 maintenance release nearly three weeks ago. While we stand by the stable foundation of our maintenance releases, that doe",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "publishedAt": "2026-08-03T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "firstAt": "2026-08-03T12:00:00.000Z",
+        "heat": 0,
+        "participants": 0,
+        "reportCount": 1,
+        "ruleScore": 54,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "Release candidate: Godot 4.7.2 RC 1",
+            "url": "https://godotengine.org/article/release-candidate-godot-4-7-2-rc-1/",
+            "source": "Godot Engine 官方订阅",
+            "publisherUrl": null,
+            "publishedAt": "2026-08-03T12:00:00.000Z",
             "origin": "official",
             "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
           }
@@ -33540,10 +34213,9 @@
             "title": "微信小游戏拓展海外平台合作，降低开发者出海门槛 - 手机网易网",
             "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTY19Rd3dmTHQ5REpaZ3U3Y3NlX3ltM2FOQ19odzZGdDFuczhOS3NnYldXX2JHZzRiZ0dkbm11LUUyWV9qNkw5ZDRmcVYxaVg3bkZPb1F1QWNxX1ZDM0xDZHBR?oc=5",
             "source": "手机网易网",
-            "publisherUrl": "https://www.163.com/",
             "publishedAt": "2026-10-03T05:46:53.000Z",
             "origin": "discovery",
-            "evidenceType": "媒体发现 · 原文及事实待核查"
+            "evidenceType": "媒体报道 · 尚未独立核实"
           }
         ],
         "verification": "媒体报道；事实待核查"
@@ -35864,6 +36536,40 @@
         "verification": "有官方发布；宣传效果未独立验证"
       },
       {
+        "id": "b9c0a84362069337eb4c",
+        "title": "Dev snapshot: Godot 4.8 dev 7",
+        "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-7/",
+        "summary": "It’s that time once again: feature freeze! With this, no new features will be integrated for Godot 4.8 moving forward, and priorities will be shifting exclusively towards bugfixes and addressing regressions to ensure a functional baseline a",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "publishedAt": "2026-09-29T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "firstAt": "2026-09-29T12:00:00.000Z",
+        "heat": 0,
+        "participants": 0,
+        "reportCount": 1,
+        "ruleScore": 44,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "Dev snapshot: Godot 4.8 dev 7",
+            "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-7/",
+            "source": "Godot Engine 官方订阅",
+            "publisherUrl": null,
+            "publishedAt": "2026-09-29T12:00:00.000Z",
+            "origin": "official",
+            "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
         "id": "e4d653b35bfd21c61b0b",
         "title": "Turn discovery into action with September’s Demand Gen Drop.",
         "url": "https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/",
@@ -36277,6 +36983,40 @@
         "verification": "有官方发布；宣传效果未独立验证"
       },
       {
+        "id": "057f01f635fb6957afd3",
+        "title": "Optimizing CPU-side Rendering Code",
+        "url": "https://godotengine.org/article/rendering-cpu-optimizations/",
+        "summary": "I want to give people a little bit of insight into what the optimization process looks like for Godot’s renderer. From the outside, rendering optimization can look a little bit like black magic. I want to show a few examples of some optimiz",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "publishedAt": "2026-09-15T17:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "firstAt": "2026-09-15T17:00:00.000Z",
+        "heat": 0,
+        "participants": 0,
+        "reportCount": 1,
+        "ruleScore": 44,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "Optimizing CPU-side Rendering Code",
+            "url": "https://godotengine.org/article/rendering-cpu-optimizations/",
+            "source": "Godot Engine 官方订阅",
+            "publisherUrl": null,
+            "publishedAt": "2026-09-15T17:00:00.000Z",
+            "origin": "official",
+            "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
         "id": "600a601795f67c2b97f4",
         "title": "3 ways to prep for your next big race with Search",
         "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
@@ -36340,6 +37080,40 @@
             "source": "Google Ads 官方订阅",
             "publisherUrl": null,
             "publishedAt": "2026-09-10T13:00:00.000Z",
+            "origin": "official",
+            "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
+        "id": "88b55d97a3134d4cdcfa",
+        "title": "Dev snapshot: Godot 4.8 dev 5",
+        "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-5/",
+        "summary": "As we’re hoping to enter feature freeze later in the month, you can expect this to be one of the last development snapshot highlights of the 4.8 cycle. Relatedly, many of our contributors are currently hard at work to help get their feature",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "publishedAt": "2026-09-10T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "firstAt": "2026-09-10T12:00:00.000Z",
+        "heat": 0,
+        "participants": 0,
+        "reportCount": 1,
+        "ruleScore": 44,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "Dev snapshot: Godot 4.8 dev 5",
+            "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-5/",
+            "source": "Godot Engine 官方订阅",
+            "publisherUrl": null,
+            "publishedAt": "2026-09-10T12:00:00.000Z",
             "origin": "official",
             "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
           }
@@ -36579,6 +37353,40 @@
             "source": "Google Play 官方订阅",
             "publisherUrl": null,
             "publishedAt": "2026-08-27T19:30:00.000Z",
+            "origin": "official",
+            "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
+        "id": "4e09edc1e9e89f8d8ca9",
+        "title": "Dev snapshot: Godot 4.8 dev 4",
+        "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-4/",
+        "summary": "Those of you who follow our development blogposts closely might’ve noticed that the past few snapshots have been a little on the light side. This isn’t to say that there was a lack of features on display nor that we’re dissatisfied with wha",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "publishedAt": "2026-08-26T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "firstAt": "2026-08-26T12:00:00.000Z",
+        "heat": 0,
+        "participants": 0,
+        "reportCount": 1,
+        "ruleScore": 44,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "Dev snapshot: Godot 4.8 dev 4",
+            "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-4/",
+            "source": "Godot Engine 官方订阅",
+            "publisherUrl": null,
+            "publishedAt": "2026-08-26T12:00:00.000Z",
             "origin": "official",
             "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
           }
@@ -36828,6 +37636,74 @@
         "verification": "有官方发布；宣传效果未独立验证"
       },
       {
+        "id": "dc0142cec9cf09fb66de",
+        "title": "Submissions open for Godot 2026 showreel",
+        "url": "https://godotengine.org/article/submissions-open-godot-2026-showreel/",
+        "summary": "Showcase your Godot Engine 2026 creations! We invite you to submit videos featuring your published or in-progress games or tools so we can make the Godot 2026 Showreel. Our annual showreels are informative and celebratory showcases, to high",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "publishedAt": "2026-08-15T13:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "firstAt": "2026-08-15T13:00:00.000Z",
+        "heat": 0,
+        "participants": 0,
+        "reportCount": 1,
+        "ruleScore": 44,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "Submissions open for Godot 2026 showreel",
+            "url": "https://godotengine.org/article/submissions-open-godot-2026-showreel/",
+            "source": "Godot Engine 官方订阅",
+            "publisherUrl": null,
+            "publishedAt": "2026-08-15T13:00:00.000Z",
+            "origin": "official",
+            "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
+        "id": "3bc85efe85480ba44153",
+        "title": "GodotFest 2026 returns to Munich this November",
+        "url": "https://godotengine.org/article/godotfest-2026/",
+        "summary": "Last November, close to 500 people joined us in Munich for the first GodotFest. We had 34 speakers, two stages, a workshop room, and two busy days of Godot. For a first edition, it was quite a turnout. GodotFest is an annual conference for",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "publishedAt": "2026-08-12T00:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "firstAt": "2026-08-12T00:00:00.000Z",
+        "heat": 0,
+        "participants": 0,
+        "reportCount": 1,
+        "ruleScore": 44,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "GodotFest 2026 returns to Munich this November",
+            "url": "https://godotengine.org/article/godotfest-2026/",
+            "source": "Godot Engine 官方订阅",
+            "publisherUrl": null,
+            "publishedAt": "2026-08-12T00:00:00.000Z",
+            "origin": "official",
+            "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
         "id": "97467bc862ede3f77c13",
         "title": "Evolve your marketing with new AI tools",
         "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
@@ -36890,6 +37766,40 @@
             "source": "Google Play 官方订阅",
             "publisherUrl": null,
             "publishedAt": "2026-08-10T12:00:00.000Z",
+            "origin": "official",
+            "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
+        "id": "52bde962c7de10da67ad",
+        "title": "Dev snapshot: Godot 4.8 dev 3",
+        "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-3/",
+        "summary": "With GodotCon Boston now behind us, our contributors have had nothing but time and energy to get their most-wanted features over the finish line. While feature freeze still isn’t for at least another month, that hasn’t stopped our community",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "publishedAt": "2026-08-07T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "firstAt": "2026-08-07T12:00:00.000Z",
+        "heat": 0,
+        "participants": 0,
+        "reportCount": 1,
+        "ruleScore": 44,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "Dev snapshot: Godot 4.8 dev 3",
+            "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-3/",
+            "source": "Godot Engine 官方订阅",
+            "publisherUrl": null,
+            "publishedAt": "2026-08-07T12:00:00.000Z",
             "origin": "official",
             "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
           }
@@ -37035,6 +37945,40 @@
         "verification": "有官方发布；宣传效果未独立验证"
       },
       {
+        "id": "a7de461c1585322f625b",
+        "title": "Dev snapshot: Godot 4.8 dev 2",
+        "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-2/",
+        "summary": "Happy GodotCon Boston for those who celebrate! While many key contributors are already at this event as we speak, that doesn’t mean that development snapshots are slowing down anytime soon. We hope anyone that couldn’t make it to the event",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "publishedAt": "2026-07-21T12:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "firstAt": "2026-07-21T12:00:00.000Z",
+        "heat": 0,
+        "participants": 0,
+        "reportCount": 1,
+        "ruleScore": 44,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "Dev snapshot: Godot 4.8 dev 2",
+            "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-dev-2/",
+            "source": "Godot Engine 官方订阅",
+            "publisherUrl": null,
+            "publishedAt": "2026-07-21T12:00:00.000Z",
+            "origin": "official",
+            "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
         "id": "83ffe7bfafcf8f4d6d3c",
         "title": "Why Loyalty Programs Fail at Engagement: How Arcade Revives it",
         "url": "https://adjoe.io/blog/why-loyalty-programs-fail-at-engagement-and-how-adjoe-arcade-solves-it/",
@@ -37141,6 +38085,40 @@
         "verification": "有官方发布；宣传效果未独立验证"
       },
       {
+        "id": "ec898fd067b837bcd034",
+        "title": "Godot Community Poll 2026",
+        "url": "https://godotengine.org/article/godot-community-poll-2026/",
+        "summary": "Update: This poll is now over. You can view the results here or download the csv with all the responses . We want to learn more about the Godot community, understand who the users of the engine are, and find out how we can better support yo",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "publishedAt": "2026-07-16T17:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "firstAt": "2026-07-16T17:00:00.000Z",
+        "heat": 0,
+        "participants": 0,
+        "reportCount": 1,
+        "ruleScore": 44,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "Godot Community Poll 2026",
+            "url": "https://godotengine.org/article/godot-community-poll-2026/",
+            "source": "Godot Engine 官方订阅",
+            "publisherUrl": null,
+            "publishedAt": "2026-07-16T17:00:00.000Z",
+            "origin": "official",
+            "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
         "id": "176a47e2a0fe535f36d3",
         "title": "Loyalty Programs: How Arcade Solves Reward Liability Costs",
         "url": "https://adjoe.io/blog/loyalty-programs-solve-reward-liabilities/",
@@ -37170,6 +38148,40 @@
             "source": "adjoe 官方博客",
             "publisherUrl": null,
             "publishedAt": "2026-07-15T10:07:00.000Z",
+            "origin": "official",
+            "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
+        "id": "d7c0ea398b58b0eedbcb",
+        "title": "Godot Team Updates @ GodotCon Boston 2026",
+        "url": "https://godotengine.org/article/godotcon-us-2026-update/",
+        "summary": "h4 {margin-bottom:0} Our second annual GodotCon in North America is right around the corner and it is full steam ahead for the Godot community in Boston. The schedule has been announced so we thought it would be worth highlighting some of t",
+        "actorIds": [
+          "godot"
+        ],
+        "tags": [
+          "行业",
+          "技术工具"
+        ],
+        "publishedAt": "2026-07-14T15:00:00.000Z",
+        "discoveredAt": "2026-10-08T09:46:17.216Z",
+        "firstAt": "2026-07-14T15:00:00.000Z",
+        "heat": 0,
+        "participants": 0,
+        "reportCount": 1,
+        "ruleScore": 44,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "Godot Team Updates @ GodotCon Boston 2026",
+            "url": "https://godotengine.org/article/godotcon-us-2026-update/",
+            "source": "Godot Engine 官方订阅",
+            "publisherUrl": null,
+            "publishedAt": "2026-07-14T15:00:00.000Z",
             "origin": "official",
             "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
           }
@@ -47071,10 +48083,10 @@
       "notice": "来源数量表示发布渠道候选，不证明报道独立或事实属实。初始旧文只进历史，未知日期不进入热点与日报。"
     },
     "run": {
-      "at": "2026-10-08T09:30:18.058Z",
-      "success": 58,
-      "failed": 1,
-      "skipped": 0,
+      "at": "2026-10-08T09:46:17.216Z",
+      "success": 1,
+      "failed": 0,
+      "skipped": 58,
       "total": 59
     }
   }
