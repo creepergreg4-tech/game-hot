@@ -1,0 +1,1 @@
+{"name":"game-hot-public","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","collect":"node scripts/collect.mjs"}}

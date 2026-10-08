@@ -1,0 +1,10 @@
+import {readFile,writeFile,mkdir,cp} from 'node:fs/promises';
+await mkdir('public/data',{recursive:true});
+let html=await readFile('src/page.html','utf8');html=html.replace('href="/"','href="./"').replace('src="/app.js"','src="./app.js"').replace('私人游戏情报站 · v2','公开游戏情报站 · 云端快照');
+let js=await readFile('src/ui.js','utf8');const start=js.indexOf('async function api('),end=js.indexOf('function dateMatches(',start);if(start<0||end<0)throw new Error('API adapter marker missing');
+const adapter=await readFile('src/static-api.js','utf8');js=js.slice(0,start)+adapter+'\n'+js.slice(end);
+js=js.replaceAll('保存至私人研究库','保存到当前浏览器').replaceAll('云端保存，刷新可读取','本地保存，不上传或共享给同事').replaceAll('已保存至私人研究库','已保存到当前浏览器');
+js=js.replace("'↻ 立即更新'","'↻ 同步最新快照'").replace('重试该源','同步快照').replace('单独更新','同步快照').replace('正在逐项采集，最长约一分多钟；失败会保留上次数据','正在读取云端最近成功快照，后台采集约每小时运行');
+js=js.replace("'公开游戏情报站 · v2.2'","'公开游戏情报站 · 云端快照'");
+html=html.replace('↻ 立即更新','↻ 同步最新快照');
+await writeFile('public/index.html',html);await writeFile('public/app.js',(await readFile('src/export-utils.mjs','utf8')).replace(/^export /gm,'')+'\n'+js);await cp('data','public/data',{recursive:true});await writeFile('public/.nojekyll','');console.log('Static build ready');

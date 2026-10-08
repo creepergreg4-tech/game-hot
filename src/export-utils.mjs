@@ -1,0 +1,11 @@
+export function gameCountry(g){if(g.country)return g.country;try{const u=new URL(g.evidenceUrl||g.url);if(u.hostname==='play.google.com'&&u.searchParams.get('gl'))return u.searchParams.get('gl').toUpperCase();if(u.hostname==='apps.apple.com'&&/^\/[a-z]{2}\//i.test(u.pathname))return u.pathname.split('/')[1].toUpperCase()}catch{}return '未披露'}
+export function matchingGames(games,query='',topic='全部'){return Object.values(games).filter(g=>!query||(g.name+' '+g.developer).toLowerCase().includes(query.toLowerCase())).filter(g=>topic==='全部'||g.tags?.includes(topic)).map(g=>({...g,country:gameCountry(g)}))}
+export function csvRows(rows,fields){const cell=v=>{let s=String(v??'未披露');if(/^[=+@-]/.test(s)&&!/^[-+]?\d+(\.\d+)?$/.test(s))s="'"+s;return '"'+s.replace(/"/g,'""')+'"'};return [fields.join(','),...rows.map(r=>fields.map(k=>cell(r[k])).join(','))].join('\n')}
+export function buildExport({view,games=[],notes=[],sources=[],news=[],chart,basis,range}){
+ if(view==='games')return {extension:'.csv',mime:'text/csv;charset=utf-8',content:csvRows(games,['name','platform','country','installs','installsLabel','rating','ratingCount','ratingCountLabel','checkedAt','evidenceUrl'])};
+ if(view==='sources')return {extension:'.csv',mime:'text/csv;charset=utf-8',content:csvRows(sources,['name','provider','scope','ok','count','checkedAt','lastSuccessAt','error','webUrl'])};
+ let content;if(view==='notes'){const labels={minutes:'体验分钟',ads:'广告次数',expected:'宣传目标',actual:'实际可兑/到账',threshold:'提现条件',level:'关卡/失败',trust:'用户目标、信任与挽留',economy:'数值与广告',difficulty:'玩法与难度',evidence:'证据链接'};content='# Game Hot 体验研究笔记\n\n'+notes.map(n=>'## '+n.game+' · '+n.date+'\n保存时间：'+n.savedAt+'\n'+Object.entries(labels).map(([k,label])=>'- '+label+'：'+(n[k]??'未填')).join('\n')).join('\n\n');}
+ else if(view==='charts')content='# '+(chart?.name||'榜单')+'\n采集时间：'+(chart?.updatedAt||'未知')+'\n范围：'+(chart?.scope||'未知')+'\n来源：'+(chart?.source||'未知')+'\n\n'+(chart?.items||[]).map(x=>x.rank+'. ['+x.name+']('+x.url+')').join('\n');
+ else content='# Game Hot 当前筛选汇总\n日期口径：'+basis+' · 范围：'+range+'\n\n'+news.map(x=>'- ['+x.title+']('+x.url+') · '+(x.publishedAt||'原文日期未知')+' · '+x.source+'\n  '+x.summary+'\n  '+(x.evidenceType||'核查状态未标明')).join('\n\n');
+ return {extension:'.md',mime:'text/markdown;charset=utf-8',content};
+}
