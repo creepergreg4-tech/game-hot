@@ -1153,5 +1153,322 @@
       "verifiedAt": "2026-10-08",
       "resolvedUrl": "https://blog.google/products-and-platforms/platforms/google-play/rss/"
     }
+  },
+  {
+    "id": "steam",
+    "name": "Steam / Valve",
+    "aliases": [
+      "Steam",
+      "Valve",
+      "Valve Corporation",
+      "维尔福"
+    ],
+    "category": "PC游戏平台",
+    "focus": "PC游戏分发、游戏研发与Steam平台生态",
+    "region": "美国",
+    "tags": [
+      "PC主机",
+      "行业"
+    ],
+    "homepage": "https://www.valvesoftware.com/en/",
+    "newsroom": "https://store.steampowered.com/news/",
+    "query": "\"Valve Corporation\" OR \"Steam\" \"game distribution\" OR \"Steamworks\"",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://store.steampowered.com/news/",
+    "sourceStatus": "official_news_hub_javascript_shell",
+    "verificationNote": "Steam News Hub为平台聚合新闻，不等于Valve公司公告；当前静态页面只返回前端壳。",
+    "feedCandidate": "https://store.steampowered.com/feeds/news.xml",
+    "feedNote": "实际静态请求失败：TLS alert；尚未确认可自动采集，Steam Community候选返回非XML。"
+  },
+  {
+    "id": "epicgames",
+    "name": "Epic Games",
+    "aliases": [
+      "Epic Games",
+      "Epic Games, Inc.",
+      "Epic Games Store",
+      "Unreal Engine"
+    ],
+    "category": "游戏与引擎平台",
+    "focus": "游戏研发、Epic Games Store与Unreal Engine生态",
+    "region": "美国",
+    "tags": [
+      "PC主机",
+      "技术工具",
+      "手游",
+      "行业"
+    ],
+    "homepage": "https://www.epicgames.com/site/",
+    "newsroom": "https://www.epicgames.com/site/news",
+    "query": "\"Epic Games\" OR \"Epic Games Store\" OR \"Unreal Engine\"",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.epicgames.com/site/news",
+    "sourceStatus": "official_webpage_verified_static_fetch_blocked",
+    "verificationNote": "官方新闻页已读取，静态HTTP抓取返回403。"
+  },
+  {
+    "id": "roblox",
+    "name": "Roblox",
+    "aliases": [
+      "Roblox",
+      "Roblox Corporation"
+    ],
+    "category": "UGC游戏平台",
+    "focus": "UGC游戏创作、分发与开发者生态",
+    "region": "美国",
+    "tags": [
+      "行业",
+      "技术工具",
+      "手游",
+      "PC主机"
+    ],
+    "homepage": "https://about.roblox.com/",
+    "newsroom": "https://about.roblox.com/newsroom",
+    "query": "\"Roblox Corporation\" OR \"Roblox\" \"developer economy\"",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://about.roblox.com/newsroom",
+    "sourceStatus": "official_webpage_verified",
+    "verificationNote": "旧corp.roblox.com已重定向到about.roblox.com；新闻页已静态读取。"
+  },
+  {
+    "id": "nintendo",
+    "name": "Nintendo",
+    "aliases": [
+      "Nintendo",
+      "Nintendo Co., Ltd.",
+      "任天堂"
+    ],
+    "category": "主机平台与游戏厂商",
+    "focus": "Nintendo主机、游戏研发发行与平台生态",
+    "region": "日本",
+    "tags": [
+      "PC主机",
+      "行业"
+    ],
+    "homepage": "https://www.nintendo.com/us/",
+    "newsroom": "https://www.nintendo.com/us/whatsnew/",
+    "query": "\"Nintendo\" OR \"任天堂\" Switch OR games OR 财报",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.nintendo.com/us/whatsnew/",
+    "sourceStatus": "official_webpage_verified",
+    "verificationNote": "使用官方美国地区新闻页面。"
+  },
+  {
+    "id": "apple-appstore",
+    "name": "Apple App Store",
+    "aliases": [
+      "Apple App Store",
+      "App Store",
+      "Apple Inc.",
+      "苹果应用商店"
+    ],
+    "category": "应用分发平台",
+    "focus": "iOS游戏分发、App Store规则与开发者生态",
+    "region": "美国",
+    "tags": [
+      "手游",
+      "行业",
+      "技术工具"
+    ],
+    "homepage": "https://www.apple.com/app-store/",
+    "newsroom": "https://developer.apple.com/news/",
+    "query": "\"Apple\" \"App Store\" games OR gaming OR developers",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://developer.apple.com/news/",
+    "sourceStatus": "official_rss_verified",
+    "verificationNote": "Apple Developer资讯包含非游戏技术和政策，需要游戏相关筛选。",
+    "feedUrl": "https://developer.apple.com/news/rss/news.rss",
+    "feedVerification": {
+      "httpXmlParsed": true,
+      "itemCount": 150,
+      "latestPublishedAt": "Tue, 06 Oct 2026 08:00:23 PDT",
+      "verifiedAt": "2026-10-08",
+      "resolvedUrl": "https://developer.apple.com/news/rss/news.rss"
+    }
+  },
+  {
+    "id": "appmagic",
+    "name": "AppMagic",
+    "aliases": [
+      "AppMagic",
+      "AppMagic.rocks"
+    ],
+    "category": "游戏市场数据",
+    "focus": "移动游戏市场情报与研究",
+    "region": "全球",
+    "tags": [
+      "行业",
+      "手游"
+    ],
+    "homepage": "https://appmagic.rocks/",
+    "newsroom": "https://appmagic.rocks/research",
+    "query": "\"AppMagic\" mobile OR games OR revenue",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://appmagic.rocks/research",
+    "sourceStatus": "official_webpage_javascript_shell",
+    "verificationNote": "主页与Research URL均返回AppMagic前端壳；已确认页面入口存在，正文自动获取未验证，未确认RSS。"
+  },
+  {
+    "id": "dataeye",
+    "name": "DataEye",
+    "aliases": [
+      "DataEye",
+      "DataEye研究院",
+      "数据眼"
+    ],
+    "category": "广告与市场数据",
+    "focus": "游戏广告买量情报与数字内容营销研究",
+    "region": "中国",
+    "tags": [
+      "买量",
+      "IAA",
+      "小游戏",
+      "手游",
+      "行业"
+    ],
+    "homepage": "https://www.dataeye.com/",
+    "newsroom": "https://www.dataeye.com/research.html",
+    "query": "\"DataEye\" OR \"DataEye研究院\" 游戏 OR 小游戏 OR 买量",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.dataeye.com/research.html",
+    "sourceStatus": "official_webpage_verified",
+    "verificationNote": "研究院链接由官方主页导航取得，已静态读取；未确认RSS。"
+  },
+  {
+    "id": "hungrystudio",
+    "name": "Hungry Studio",
+    "aliases": [
+      "Hungry Studio",
+      "HungryStudio"
+    ],
+    "category": "休闲游戏厂商",
+    "focus": "休闲游戏研发与运营",
+    "region": "全球",
+    "tags": [
+      "休闲",
+      "手游",
+      "IAA"
+    ],
+    "homepage": "https://www.hungrystudio.com/",
+    "newsroom": "https://www.hungrystudio.com/",
+    "query": "\"Hungry Studio\" games OR \"Block Blast\"",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.hungrystudio.com/",
+    "sourceStatus": "official_homepage_only",
+    "verificationNote": "主页标题已核验；未找到经验证的公开新闻或RSS入口。"
+  },
+  {
+    "id": "oakever",
+    "name": "Oakever Games",
+    "aliases": [
+      "Oakever Games",
+      "OAKEVER GAMES"
+    ],
+    "category": "休闲游戏厂商",
+    "focus": "移动益智、文字与休闲游戏研发发行",
+    "region": "全球",
+    "tags": [
+      "休闲",
+      "手游",
+      "IAA"
+    ],
+    "homepage": "https://www.oakevergames.com/",
+    "newsroom": "https://www.oakevergames.com/",
+    "query": "\"Oakever Games\" OR \"OAKEVER\" mobile OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.oakevergames.com/",
+    "sourceStatus": "official_homepage_only",
+    "verificationNote": "真实官网oakevergames.com；oakever.com是域名出售页，不能使用。未找到经验证的新闻/RSS入口。"
+  },
+  {
+    "id": "dreamgames",
+    "name": "Dream Games",
+    "aliases": [
+      "Dream Games",
+      "Royal Match",
+      "Royal Kingdom"
+    ],
+    "category": "休闲游戏厂商",
+    "focus": "移动消除与休闲游戏研发",
+    "region": "土耳其/英国",
+    "tags": [
+      "休闲",
+      "手游"
+    ],
+    "homepage": "https://www.dreamgames.com/",
+    "newsroom": "https://www.dreamgames.com/about-us#news",
+    "query": "\"Dream Games\" \"Royal Match\" OR \"Royal Kingdom\"",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.dreamgames.com/about-us#news",
+    "sourceStatus": "official_media_coverage_index_verified",
+    "verificationNote": "官网NEWS区为媒体报道链接索引，正文主要来自外部媒体，不应标成公司原创新闻。"
+  },
+  {
+    "id": "microfun",
+    "name": "柠檬微趣 / Microfun",
+    "aliases": [
+      "Microfun",
+      "柠檬微趣",
+      "北京柠檬微趣"
+    ],
+    "category": "休闲游戏厂商",
+    "focus": "休闲与消除游戏研发",
+    "region": "中国",
+    "tags": [
+      "休闲",
+      "手游"
+    ],
+    "homepage": "https://www.microfun.com/index.html",
+    "newsroom": "https://www.microfun.com/index.html",
+    "query": "\"Microfun\" OR \"柠檬微趣\" 游戏 OR 手游",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.microfun.com/index.html",
+    "sourceStatus": "official_homepage_only",
+    "verificationNote": "官网中文标题为柠檬微趣；与乐信圣文Learnings是不同实体。未找到经验证的新闻或RSS入口。"
+  },
+  {
+    "id": "supercent",
+    "name": "Supercent",
+    "aliases": [
+      "Supercent",
+      "Supercent, Inc.",
+      "슈퍼센트"
+    ],
+    "category": "休闲游戏发行",
+    "focus": "移动休闲与混合休闲游戏发行",
+    "region": "韩国",
+    "tags": [
+      "IAA",
+      "休闲",
+      "手游",
+      "买量"
+    ],
+    "homepage": "https://supercent.io/",
+    "newsroom": "https://medium.com/supercent-blog",
+    "query": "\"Supercent\" OR \"슈퍼센트\" games OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://medium.com/supercent-blog",
+    "sourceStatus": "official_rss_verified",
+    "verificationNote": "Medium博客链接由公司官方主页导航取得，属于公司官方博客。",
+    "feedUrl": "https://medium.com/feed/supercent-blog",
+    "feedVerification": {
+      "httpXmlParsed": true,
+      "itemCount": 10,
+      "latestPublishedAt": "Wed, 23 Sep 2026 00:54:53 GMT",
+      "verifiedAt": "2026-10-08",
+      "resolvedUrl": "https://medium.com/feed/supercent-blog"
+    }
   }
 ]

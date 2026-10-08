@@ -6,6 +6,8 @@ const adapter=await readFile('src/static-api.js','utf8');js=js.slice(0,start)+ad
 js=js.replaceAll('保存至私人研究库','保存到当前浏览器').replaceAll('云端保存，刷新可读取','本地保存，不上传或共享给同事').replaceAll('已保存至私人研究库','已保存到当前浏览器');
 js=js.replace("'↻ 立即更新'","'↻ 同步最新快照'").replace('重试该源','同步快照').replace('单独更新','同步快照').replace('正在逐项采集，最长约一分多钟；失败会保留上次数据','正在读取云端最近成功快照，后台采集约每小时运行');
 js=js.replace("'公开游戏情报站 · v2.2'","'公开游戏情报站 · 云端快照'");
+js=js.replace("['最近更新成功来源'","['榜单与基础资讯来源'");
+js=js.replace("data.auth?.audience==='public'","(data.auth?.audience||'public')==='public'");
 const radar=await readFile('src/radar-ui.js','utf8');js=js.replace('function toast(s){',radar+'\nfunction toast(s){');
 js=js.replace("a=a.filter(x=>x.tags?.some(t=>", "a=a.filter(x=>(x.ruleScore===undefined||(!x.noise&&x.ruleScore>=40))&&(x.tags?.some(t=>");
 js=js.replace("test(x.title));if(topic", "test(x.title)));if(topic");
