@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "appVersion": "公开阅读站 1.0",
-  "updatedAt": "2026-10-08T08:45:29.730Z",
+  "updatedAt": "2026-10-08T08:53:11.531Z",
   "charts": {
     "wechat-played": {
       "id": "wechat-played",
@@ -176,7 +176,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T08:45:31.063Z",
+      "updatedAt": "2026-10-08T08:53:12.862Z",
       "sourceUpdatedAt": "2026-10-08",
       "source": "MomoRank 第三方公开榜"
     },
@@ -353,7 +353,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T08:45:31.095Z",
+      "updatedAt": "2026-10-08T08:53:12.950Z",
       "sourceUpdatedAt": "2026-10-08",
       "source": "MomoRank 第三方公开榜"
     },
@@ -530,7 +530,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T08:45:31.473Z",
+      "updatedAt": "2026-10-08T08:53:15.127Z",
       "sourceUpdatedAt": "2026-10-08",
       "source": "MomoRank 第三方公开榜"
     },
@@ -589,7 +589,7 @@
           "releaseDate": "2024-05-28T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -604,7 +604,7 @@
           "releaseDate": "2026-08-05T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -619,7 +619,7 @@
           "releaseDate": "2026-03-13T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -634,7 +634,7 @@
           "releaseDate": "2023-12-01T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -694,7 +694,7 @@
           "releaseDate": "2025-12-20T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -709,7 +709,7 @@
           "releaseDate": "2013-10-23T18:11:48-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -724,7 +724,7 @@
           "releaseDate": "2011-05-26T13:51:47-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -739,7 +739,7 @@
           "releaseDate": "2022-04-03T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -799,7 +799,7 @@
           "releaseDate": "2022-07-07T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -814,7 +814,7 @@
           "releaseDate": "2023-04-11T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -844,7 +844,7 @@
           "releaseDate": "2026-04-20T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -859,7 +859,7 @@
           "releaseDate": "2025-06-24T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -874,7 +874,7 @@
           "releaseDate": "2026-02-05T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -904,7 +904,7 @@
           "releaseDate": "2021-02-25T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -919,7 +919,7 @@
           "releaseDate": "2025-09-11T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -934,7 +934,7 @@
           "releaseDate": "2022-02-22T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -949,7 +949,7 @@
           "releaseDate": "2026-05-14T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -964,7 +964,7 @@
           "releaseDate": "2024-04-11T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -979,7 +979,7 @@
           "releaseDate": "2023-02-12T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -994,7 +994,7 @@
           "releaseDate": "2025-05-20T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1024,7 +1024,7 @@
           "releaseDate": "2025-02-22T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1039,7 +1039,7 @@
           "releaseDate": "2025-11-10T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1054,7 +1054,7 @@
           "releaseDate": "2018-12-15T00:55:33-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1069,7 +1069,7 @@
           "releaseDate": "2025-08-09T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1114,7 +1114,7 @@
           "releaseDate": "2023-02-11T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1129,7 +1129,7 @@
           "releaseDate": "2012-05-24T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1144,7 +1144,7 @@
           "releaseDate": "2026-05-27T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1159,7 +1159,7 @@
           "releaseDate": "2026-07-22T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1174,7 +1174,7 @@
           "releaseDate": "2017-03-30T02:32:35-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1189,7 +1189,7 @@
           "releaseDate": "2024-05-22T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 6,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1204,7 +1204,7 @@
           "releaseDate": "2024-10-17T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1219,7 +1219,7 @@
           "releaseDate": "2018-12-28T20:56:52-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1249,7 +1249,7 @@
           "releaseDate": "2026-04-14T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1264,7 +1264,7 @@
           "releaseDate": "2009-10-28T20:18:55-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1279,7 +1279,7 @@
           "releaseDate": "2025-11-21T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1294,7 +1294,7 @@
           "releaseDate": "2019-09-30T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1324,7 +1324,7 @@
           "releaseDate": "2026-07-28T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1339,7 +1339,7 @@
           "releaseDate": "2025-09-25T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1354,7 +1354,7 @@
           "releaseDate": "2025-11-12T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1369,7 +1369,7 @@
           "releaseDate": "2021-04-13T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1384,7 +1384,7 @@
           "releaseDate": "2013-02-27T11:38:23-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1399,7 +1399,7 @@
           "releaseDate": "2026-02-27T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 6,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1414,7 +1414,7 @@
           "releaseDate": "2026-06-03T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1429,7 +1429,7 @@
           "releaseDate": "2026-05-11T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1444,7 +1444,7 @@
           "releaseDate": "2018-08-08T19:50:42-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -7,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1459,7 +1459,7 @@
           "releaseDate": "2025-11-17T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1474,7 +1474,7 @@
           "releaseDate": "2026-01-14T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1489,7 +1489,7 @@
           "releaseDate": "2017-08-15T01:15:03-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1504,7 +1504,7 @@
           "releaseDate": "2024-11-21T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -6,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1519,7 +1519,7 @@
           "releaseDate": "2018-07-25T02:39:48-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1534,7 +1534,7 @@
           "releaseDate": "2024-07-01T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1549,7 +1549,7 @@
           "releaseDate": "2021-06-01T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1564,7 +1564,7 @@
           "releaseDate": "2022-01-19T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 9,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1579,7 +1579,7 @@
           "releaseDate": "2009-03-26T19:01:58-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1609,7 +1609,7 @@
           "releaseDate": "2026-04-08T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1624,7 +1624,7 @@
           "releaseDate": "2025-11-11T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1639,7 +1639,7 @@
           "releaseDate": "2025-09-03T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1654,7 +1654,7 @@
           "releaseDate": "2026-09-17T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1669,7 +1669,7 @@
           "releaseDate": "2026-05-12T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1684,7 +1684,7 @@
           "releaseDate": "2026-06-24T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1699,7 +1699,7 @@
           "releaseDate": "2010-12-11T11:19:07-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1714,7 +1714,7 @@
           "releaseDate": "2016-07-06T17:39:49-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -6,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1729,7 +1729,7 @@
           "releaseDate": "2021-12-20T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1744,7 +1744,7 @@
           "releaseDate": "2025-12-29T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1759,7 +1759,7 @@
           "releaseDate": "2024-12-16T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1774,7 +1774,7 @@
           "releaseDate": "2026-04-16T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1789,7 +1789,7 @@
           "releaseDate": "2016-03-01T23:25:45-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1819,7 +1819,7 @@
           "releaseDate": "2025-10-19T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1834,7 +1834,7 @@
           "releaseDate": "2026-01-18T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1849,7 +1849,7 @@
           "releaseDate": "2026-02-18T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 8,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1864,7 +1864,7 @@
           "releaseDate": "2026-05-03T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1894,7 +1894,7 @@
           "releaseDate": "2026-07-09T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -9,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1909,7 +1909,7 @@
           "releaseDate": "2025-06-17T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -9,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1924,7 +1924,7 @@
           "releaseDate": "2023-11-01T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1939,8 +1939,8 @@
           "releaseDate": "2026-05-13T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "1389111413",
@@ -1954,7 +1954,7 @@
           "releaseDate": "2018-06-23T21:28:15-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1969,7 +1969,7 @@
           "releaseDate": "2022-08-05T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1984,7 +1984,7 @@
           "releaseDate": "2019-09-30T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1999,7 +1999,7 @@
           "releaseDate": "2023-12-10T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2014,7 +2014,7 @@
           "releaseDate": "2023-01-04T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2029,7 +2029,7 @@
           "releaseDate": "2017-06-14T07:39:50-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2044,12 +2044,12 @@
           "releaseDate": "2026-07-06T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T08:45:30.095Z",
-      "sourceUpdatedAt": "2026-10-08T01:45:30-07:00",
+      "updatedAt": "2026-10-08T08:53:11.897Z",
+      "sourceUpdatedAt": "2026-10-08T01:53:11-07:00",
       "source": "Apple 官方 RSS"
     },
     "jp-grossing": {
@@ -2992,7 +2992,7 @@
           "releaseDate": "2026-09-22T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3007,7 +3007,7 @@
           "releaseDate": "2025-12-18T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3562,12 +3562,12 @@
           "releaseDate": "2024-01-17T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T08:45:31.008Z",
-      "sourceUpdatedAt": "2026-10-08T01:45:31-07:00",
+      "updatedAt": "2026-10-08T08:53:12.661Z",
+      "sourceUpdatedAt": "2026-10-08T01:53:12-07:00",
       "source": "Apple 官方 RSS"
     },
     "us-grossing": {
@@ -5084,8 +5084,8 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T08:45:30.119Z",
-      "sourceUpdatedAt": "2026-10-08T01:45:30-07:00",
+      "updatedAt": "2026-10-08T08:53:11.905Z",
+      "sourceUpdatedAt": "2026-10-08T01:53:12-07:00",
       "source": "Apple 官方 RSS"
     },
     "jp-free": {
@@ -5158,7 +5158,7 @@
           "releaseDate": "2026-09-21T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 9,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5173,7 +5173,7 @@
           "releaseDate": "2025-06-13T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5203,7 +5203,7 @@
           "releaseDate": "2025-03-25T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5218,7 +5218,7 @@
           "releaseDate": "2026-06-13T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5233,7 +5233,7 @@
           "releaseDate": "2022-04-03T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5248,7 +5248,7 @@
           "releaseDate": "2026-05-14T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5263,7 +5263,7 @@
           "releaseDate": "2026-08-05T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5278,7 +5278,7 @@
           "releaseDate": "2026-03-30T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5293,7 +5293,7 @@
           "releaseDate": "2026-10-04T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5353,7 +5353,7 @@
           "releaseDate": "2025-04-17T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5368,7 +5368,7 @@
           "releaseDate": "2026-10-02T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5398,7 +5398,7 @@
           "releaseDate": "2026-05-27T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5413,7 +5413,7 @@
           "releaseDate": "2026-06-11T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5428,7 +5428,7 @@
           "releaseDate": "2026-04-08T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5443,7 +5443,7 @@
           "releaseDate": "2026-09-01T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5458,7 +5458,7 @@
           "releaseDate": "2020-09-11T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5473,7 +5473,7 @@
           "releaseDate": "2026-10-07T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5488,7 +5488,7 @@
           "releaseDate": "2023-02-12T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5518,7 +5518,7 @@
           "releaseDate": "2026-02-18T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5533,7 +5533,7 @@
           "releaseDate": "2026-02-05T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5548,7 +5548,7 @@
           "releaseDate": "2026-06-29T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5563,7 +5563,7 @@
           "releaseDate": "2026-06-17T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5578,7 +5578,7 @@
           "releaseDate": "2026-07-23T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5593,7 +5593,7 @@
           "releaseDate": "2026-10-01T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5623,7 +5623,7 @@
           "releaseDate": "2026-06-14T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5638,7 +5638,7 @@
           "releaseDate": "2016-07-21T19:51:54-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5653,7 +5653,7 @@
           "releaseDate": "2013-10-23T06:38:15-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5668,7 +5668,7 @@
           "releaseDate": "2026-08-11T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 8,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5683,7 +5683,7 @@
           "releaseDate": "2025-10-16T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5698,7 +5698,7 @@
           "releaseDate": "2018-12-18T21:26:48-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5713,7 +5713,7 @@
           "releaseDate": "2025-02-22T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5743,7 +5743,7 @@
           "releaseDate": "2026-09-03T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5758,7 +5758,7 @@
           "releaseDate": "2026-03-02T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5773,7 +5773,7 @@
           "releaseDate": "2026-03-02T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5788,7 +5788,7 @@
           "releaseDate": "2011-05-26T13:51:47-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5803,7 +5803,7 @@
           "releaseDate": "2025-08-09T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5818,7 +5818,7 @@
           "releaseDate": "2025-04-24T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5833,7 +5833,7 @@
           "releaseDate": "2026-05-19T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5848,7 +5848,7 @@
           "releaseDate": "2025-12-11T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5863,7 +5863,7 @@
           "releaseDate": "2025-11-17T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5878,7 +5878,7 @@
           "releaseDate": "2024-06-26T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5893,7 +5893,7 @@
           "releaseDate": "2025-09-14T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5908,8 +5908,8 @@
           "releaseDate": "2026-09-10T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "6754464806",
@@ -5923,7 +5923,7 @@
           "releaseDate": "2025-11-10T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5938,7 +5938,7 @@
           "releaseDate": "2026-06-30T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5953,7 +5953,7 @@
           "releaseDate": "2014-01-28T16:32:04-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5968,7 +5968,7 @@
           "releaseDate": "2024-10-30T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5983,7 +5983,7 @@
           "releaseDate": "2025-12-20T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6028,7 +6028,7 @@
           "releaseDate": "2025-08-04T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6043,7 +6043,7 @@
           "releaseDate": "2018-12-12T00:27:45-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6073,7 +6073,7 @@
           "releaseDate": "2024-07-31T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6088,7 +6088,7 @@
           "releaseDate": "2023-12-01T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6103,7 +6103,7 @@
           "releaseDate": "2025-09-29T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6118,7 +6118,7 @@
           "releaseDate": "2015-10-12T23:05:58-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 16,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6133,7 +6133,7 @@
           "releaseDate": "2025-04-27T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6148,7 +6148,7 @@
           "releaseDate": "2019-11-27T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6163,7 +6163,7 @@
           "releaseDate": "2026-09-21T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6193,7 +6193,7 @@
           "releaseDate": "2026-02-13T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6208,8 +6208,8 @@
           "releaseDate": "2026-04-09T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "6767091927",
@@ -6223,7 +6223,7 @@
           "releaseDate": "2026-05-11T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6238,7 +6238,7 @@
           "releaseDate": "2026-06-25T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -8,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6253,7 +6253,7 @@
           "releaseDate": "2025-06-12T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6268,7 +6268,7 @@
           "releaseDate": "2023-07-19T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -7,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6283,7 +6283,7 @@
           "releaseDate": "2022-02-21T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -10,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6298,7 +6298,7 @@
           "releaseDate": "2026-08-16T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6313,7 +6313,7 @@
           "releaseDate": "2026-01-13T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6328,7 +6328,7 @@
           "releaseDate": "2017-01-20T03:29:55-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6343,7 +6343,7 @@
           "releaseDate": "2025-09-18T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6358,7 +6358,7 @@
           "releaseDate": "2024-09-09T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6373,7 +6373,7 @@
           "releaseDate": "2025-02-14T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -8,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6388,7 +6388,7 @@
           "releaseDate": "2026-09-23T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6403,7 +6403,7 @@
           "releaseDate": "2026-07-30T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6418,7 +6418,7 @@
           "releaseDate": "2026-04-21T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6448,7 +6448,7 @@
           "releaseDate": "2020-08-21T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6478,7 +6478,7 @@
           "releaseDate": "2026-08-05T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -7,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6493,7 +6493,7 @@
           "releaseDate": "2025-12-29T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -11,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6508,7 +6508,7 @@
           "releaseDate": "2024-09-21T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6523,7 +6523,7 @@
           "releaseDate": "2026-07-15T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6553,8 +6553,8 @@
           "releaseDate": "2026-01-26T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "6787414784",
@@ -6568,7 +6568,7 @@
           "releaseDate": "2026-07-07T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6583,7 +6583,7 @@
           "releaseDate": "2026-08-13T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6598,12 +6598,12 @@
           "releaseDate": "2026-09-24T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -7,
+          "change": 0,
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T08:45:30.273Z",
-      "sourceUpdatedAt": "2026-10-08T01:45:30-07:00",
+      "updatedAt": "2026-10-08T08:53:12.070Z",
+      "sourceUpdatedAt": "2026-10-08T01:53:12-07:00",
       "source": "Apple 官方 RSS"
     },
     "play-us-free": {
@@ -6745,7 +6745,7 @@
           "icon": "https://play-lh.googleusercontent.com/KCp0RI0b5soxMm-VaiimK-rhbSRRGl8zGvO3Isc_eSUdrMyzES7saPjQUu1CTsKZzz_hiQIXz_QLM0BvS4SQ7_M",
           "platform": "Google Play",
           "summary": "",
-          "change": 37,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6758,7 +6758,7 @@
           "icon": "https://play-lh.googleusercontent.com/z54K2UZPuABcdfrjgcRc0_--d3V1WMPFcrvYku299sV4PJXEz7oosH8G3ZvZtkTjbiXpyc196MGWMi9zcVa9TA",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6771,8 +6771,8 @@
           "icon": "https://play-lh.googleusercontent.com/NDyFw75kuyQQx0ffCMeEB9mvUnF6kAk8npcQ0-JtmEj3n-rGYsEWabWo1jWrY4NGLgj87kkWy16J_mqnTCiLGw",
           "platform": "Google Play",
           "summary": "",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "com.mimik.challenge.fun",
@@ -6784,7 +6784,7 @@
           "icon": "https://play-lh.googleusercontent.com/d1oFm_zSgVYvivEYUzET7oihvO2PgwIcRvJXkAgvDox72gKsEG33xKWc3j3hRp_88lFALwZlmsK1S2YqAuCotw",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6797,7 +6797,7 @@
           "icon": "https://play-lh.googleusercontent.com/Nu36aaM2u2mVaItdPaWfHDWp1pi-yExZ_ibd2_ElMmaIuyZ7lB3IxA_p-6tpCTSICDYGQGW9j-Uua20dxBcQEw",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6810,7 +6810,7 @@
           "icon": "https://play-lh.googleusercontent.com/33uObVFJ0-1md9XkQSTMHnh-E91drVuMj6cODaGcKuag07lwFVfWxCg0Ef-gKfaY9iKFrCOdaw5GJa0-6JV7FQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6823,7 +6823,7 @@
           "icon": "https://play-lh.googleusercontent.com/BhSjXMNR8wZi48F4NWlRhskKyM_pa8DFNzisNTTa8_16uLNCk5nsZo_3fCmo1szCv05Qpe6VHNZBUsWBtSpjpA",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6836,7 +6836,7 @@
           "icon": "https://play-lh.googleusercontent.com/VEmJnv1zUKIcst7pnOOqEFBXItThIbTzS29wxDEhJ9vPnXxNEHJAOkclrUMYFBR9essYJKDhkm-lPR95161D",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6849,7 +6849,7 @@
           "icon": "https://play-lh.googleusercontent.com/JdRSxoSroBVwoHv886_AheufgFjV34PbW7QTav22jZuyd4UOYAHBeoBjXBsSGvcyBNCqkUSS0rbZA-nanwCH",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6862,7 +6862,7 @@
           "icon": "https://play-lh.googleusercontent.com/lamvwfGw4eEjWFFfcL19XAwFpCKZJjdCBNBs0DFnsOwhBAsK9X738lDrDFqosGp7CLinvREDBdhJyQdmot6KbQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6875,7 +6875,7 @@
           "icon": "https://play-lh.googleusercontent.com/5wPzX6vBVV-kr4jknuW4ACmYrRgD5m2UwjXw9VFlWAhIsJ5k_8BND8m8NGUv6hOgPuXQzOmvNBQYKY-GWNfDxg",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6888,7 +6888,7 @@
           "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6901,8 +6901,8 @@
           "icon": "https://play-lh.googleusercontent.com/3zYytd77MXlmtvwNZW_L0icufZPK2EIVBpa-asmPeVTaWdZvnL_ERldsqM_ujX6PfclG4A5jbvC9w1vZk6MDpQ",
           "platform": "Google Play",
           "summary": "",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "com.scopely.monopolygo",
@@ -6914,7 +6914,7 @@
           "icon": "https://play-lh.googleusercontent.com/AUGFPG5XqzHukTUDH2mcdOTpEwlDmZ5hUuWPXwu9IcvcyaBTwhV2WJeKKFAj_UA2m05ZxPgJuhrllXIqlW0i",
           "platform": "Google Play",
           "summary": "",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6927,7 +6927,7 @@
           "icon": "https://play-lh.googleusercontent.com/h3L4qv_vdhOCBuwn5k4aBnJoHhWxEdncfdr2HsR9c4VwVfU2JGRjMxJUgLGyPxDAKcNLwb3a_gKBYjKZRINe1rQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6940,7 +6940,7 @@
           "icon": "https://play-lh.googleusercontent.com/2zuhId2cHIpJDmFDG960sUxSFRrm6aNE897u3Kibglv224U7Nbgt0IkHGOV42ULx7u1FmYDEAS5RNaoLDbyj",
           "platform": "Google Play",
           "summary": "",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6953,7 +6953,7 @@
           "icon": "https://play-lh.googleusercontent.com/nB3aVJ6eYhfGa1m1EzgvE0RjH3C13v2wLLrwkQYzsG0427-jyQDopxiddjDOQNpOSoePVcl7jNgBUPXOCVmjXg",
           "platform": "Google Play",
           "summary": "",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6966,7 +6966,7 @@
           "icon": "https://play-lh.googleusercontent.com/cK-U0_B9GrnSy26SNISDuvU_hL4VggyqJ1J5V2oiuyVEfiGo7fzegdBjk0ejXPg3PKK5sPwumdLBbWv8KkBKLQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6979,7 +6979,7 @@
           "icon": "https://play-lh.googleusercontent.com/SW0gBjHobk7naDwy2S33Vwsny_J69SfGYRORFtuJaZH3iY2kY2gWV-KYcet4sRwVzD0eYfugY0VIQR7YL4ehtw",
           "platform": "Google Play",
           "summary": "",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6992,7 +6992,7 @@
           "icon": "https://play-lh.googleusercontent.com/BfVTlzTEr_sNMthGFhIwOhZZGJ8WU4jw6k03WmS99GA1rk5vajvSD7PrbI0YwOALiF8TvMXEfvOeLzfJ69pg",
           "platform": "Google Play",
           "summary": "",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7005,8 +7005,8 @@
           "icon": "https://play-lh.googleusercontent.com/DliylMEnevS_giunP2OosFM0RxOwTCl6DLN1krnWvhCt5T90OMWeAzMtntoTK1TqOkA7vd8Xnw_mtbUlBmfDSEA",
           "platform": "Google Play",
           "summary": "",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "com.ecffri.arrows",
@@ -7018,7 +7018,7 @@
           "icon": "https://play-lh.googleusercontent.com/lMmSA4L1MNUvZ3w4c_T10tJvrptwAdObx8WxAzn5SuboyQtrwMPy1Grqqlgg6qBpgf4PQWvk7QPsiPy6R5ZIQQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7031,7 +7031,7 @@
           "icon": "https://play-lh.googleusercontent.com/nJoghcUfRMRF4PJbdTKwz_3Y5ESi8fZUyFc9TcQ5yjhlXaT6U_c852ESmXqpRyGbSO1PeYDyO8l90i0kq4N4Rg",
           "platform": "Google Play",
           "summary": "",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7044,8 +7044,8 @@
           "icon": "https://play-lh.googleusercontent.com/EAM3IMjpOfxx0kHbmxLhBswGoDJRnMXv8Hfax_N7BD4no70H7vj95cAhxcLBOQuHIseMg6btqte4BOhh1jDHqlo",
           "platform": "Google Play",
           "summary": "",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "com.youmusic.magictiles",
@@ -7057,7 +7057,7 @@
           "icon": "https://play-lh.googleusercontent.com/AHmha0RTMkNchGnLfchmuFzdC0EVE9WRxVjNXIGJDUhknEMmucwFdW9noBSinYdq_sdITW1LKqNE_nlhfjRR",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7070,7 +7070,7 @@
           "icon": "https://play-lh.googleusercontent.com/RAvKGdMDTMVYu7Azh3p4yft_6zIIohGdUUpMyUvcufkfl8yBOkg8VOrFTjAqlboDMH2aPUJNzZFDE55EC_cmGQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7083,7 +7083,7 @@
           "icon": "https://play-lh.googleusercontent.com/9SPwV1m2m248lpDQd9xtd-s70BwEyZJhXd1LDAK3KzIsEPaSlO9mikhsFrzo7ObagZWiJgk57I5-b12AWkF9_Q",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7096,7 +7096,7 @@
           "icon": "https://play-lh.googleusercontent.com/0NGY8er_dpSqeYHiWm-dEASyRizuoif1FhXqQTcd4Zp3gGofUQdeTjhYKgCiAGsMJ9rxc1CNt4I-7qUOCYUQZTg",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7109,7 +7109,7 @@
           "icon": "https://play-lh.googleusercontent.com/OxZ_l4qJpJOVmuCiGAXBXSMA5EyJZsjik90OkXbbXCQjDW7ho99Rr2f7YjWxjidw1VTdM22d3XtUbTqV6eegxuc",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7122,7 +7122,7 @@
           "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7135,7 +7135,7 @@
           "icon": "https://play-lh.googleusercontent.com/BpyKPyeCiAoCtYP23WtOoHW1G_4IAGUyk4G6V_5YNmXomuBwNC5ZnSq5OfxejW-Ufuukma8-UYZirB2wz3m8UnM",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7148,7 +7148,7 @@
           "icon": "https://play-lh.googleusercontent.com/Qm1As6WDJoG6-zPYGYf3uMCbF4pGNOBz6dowCfbXt4Bh4D5VJDe_8LCIFal3800M-a9EpHZbbh0EVHYIwLiAkg",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7161,7 +7161,7 @@
           "icon": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7174,7 +7174,7 @@
           "icon": "https://play-lh.googleusercontent.com/-b6afYVP9kkzaFgDT3bZpGy2ugh1AjzCiXS0o9aZw7bIZ5rCb3Bp8YAwIxyMjUGLjl1pD6ZFGxeKKGlXBw950g",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7187,7 +7187,7 @@
           "icon": "https://play-lh.googleusercontent.com/jiKsZESD_FX4mVtPEmErwm9-abDZcF2FVNq1KR-D7zOlYTmRljgI_sGhmWA4TrRJzxdad21WBkyfFK3j0ihfV5A",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7200,7 +7200,7 @@
           "icon": "https://play-lh.googleusercontent.com/k_9MZtpdy3gYNVgynIWwv-1omuSkl4WGr5bOKYT-PJDC5PsEdFQMXWEBU7Jr3TfyjeBviAD3DN3_2KpDhGfa",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7213,7 +7213,7 @@
           "icon": "https://play-lh.googleusercontent.com/n66j7RW_nkiV0Os2VqV6SYjSr9IZw0ClAoU40xFu63p2laphNaWDrr7aOlgqMRah6wWfhaauGCcMTUe7n_Tm",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7226,7 +7226,7 @@
           "icon": "https://play-lh.googleusercontent.com/T_JlG04AL7cXxGH-lzU0KQdEFxQeHIV5Vc6atRstyRUA3bh2Rc_HuhxzkTcrrxHgcbZDGHKHIakWEPMZeJ_PHA",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7239,7 +7239,7 @@
           "icon": "https://play-lh.googleusercontent.com/tcXUaY6sYR3LH9NfSXyukxl6Sd1ss5tcwenFT82gXe2NCcl-EkK5eyWp5ee2ZyohDUF-cnL9hO7Y7JfNPAFh_Q",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7252,7 +7252,7 @@
           "icon": "https://play-lh.googleusercontent.com/XRROCU10EenYkIVwgELctilhZRq4n9EX-G5aCaW4LaAgTVyczXN93lukhtq2RhyNV4Kzy5mKohW8VVhKJfTA9Q",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7265,11 +7265,11 @@
           "icon": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T08:45:29.731Z",
+      "updatedAt": "2026-10-08T08:53:11.532Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -7811,7 +7811,7 @@
           "rank": 41,
           "url": "https://play.google.com/store/apps/details?id=com.moonactive.cmboard&hl=en&gl=US",
           "developer": "Moon Active",
-          "rating": 4.741337,
+          "rating": 4.7416425,
           "icon": "https://play-lh.googleusercontent.com/pFMYxxHpIsLKeaxO9wjVRpAsgMaLKbT1kPwofNQtGi69-6fF_eUyIViAMY66auDrvsJnw2h6S5rpF8XaZcrm",
           "platform": "Google Play",
           "summary": "",
@@ -7915,7 +7915,7 @@
           "rank": 49,
           "url": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=en&gl=US",
           "developer": "Supercell",
-          "rating": 4.4296293,
+          "rating": 4.4296265,
           "icon": "https://play-lh.googleusercontent.com/z0rspJKftanEI7MA4WOdypbaaHfeKy4UjoawRGKf4Ys3v6LrrcleZWOfms7XK-J33Oqyfm3DlFd4Z_eKWafVFg",
           "platform": "Google Play",
           "summary": "",
@@ -7936,7 +7936,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T08:45:29.757Z",
+      "updatedAt": "2026-10-08T08:53:11.571Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -8144,7 +8144,7 @@
           "icon": "https://play-lh.googleusercontent.com/YoP4Pd_zbzGWIAAU9WwRsndXXDKbeXH5vUAVRKAwHh9WwgUEx1F1u3O38F9kjXQEISgT5lpor3ZEJQ1dXM2q798",
           "platform": "Google Play",
           "summary": "",
-          "change": 11,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8157,7 +8157,7 @@
           "icon": "https://play-lh.googleusercontent.com/xSB-NSG-vyrj3_Jhfs6Kp74kF4ls5tHjmSCdpB9Fc9TWS-YWyoWCOcD_ysmuA_YzGVZQ-o2C67a144R1BeRknw",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8170,7 +8170,7 @@
           "icon": "https://play-lh.googleusercontent.com/VqJWXEzCPnmd4pCVdTBOvzYzbRs9u_BEcKVWUuL07RhKCtUmun3J5qC2p9_1C0A27Fpg8EaGUaE8AmDmF1pBfA",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8183,7 +8183,7 @@
           "icon": "https://play-lh.googleusercontent.com/A-E2jczrwGXsu42MoQdEFQ0YFhMT_9Svyk_7eOCiyYQx8PVcs6gUV99ZYycWiqGca2Zzr8YqUHtxSHhdmm1uw0I",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8196,7 +8196,7 @@
           "icon": "https://play-lh.googleusercontent.com/yyaAXE4gI3LdgxhgCxBv-shKhJSaGtJIQEqR3oacuQkKT7FNDnRYfabqDnbUg_fcITV799ZJ5twLNFx7oF-RiQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8209,7 +8209,7 @@
           "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8222,7 +8222,7 @@
           "icon": "https://play-lh.googleusercontent.com/f7HHbEOewA0rIk299hsDv6vN4Iz_W5OvivKF2lMKOKzttF1g4lp8kE7qDAUGlJLAelw56TSRd6V5y4SFGCKp",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8235,7 +8235,7 @@
           "icon": "https://play-lh.googleusercontent.com/F9Nk01jBia2OZFGndBuTP-rJ-ThbicTHpxJj3iZIk-M1-V8qFhVuVQWYAG_zCuggkiRXHrfqyU5XwZPhAJyAfA",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8248,7 +8248,7 @@
           "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8261,7 +8261,7 @@
           "icon": "https://play-lh.googleusercontent.com/9zMGZmZ-Uw84zLh00yFdcOWbu2YMh3IYwxYRfhCvUTMwLx7lYcli-mcuUeMano-IiXJbx47u8e18LmrvUdSteQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8274,7 +8274,7 @@
           "icon": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8287,7 +8287,7 @@
           "icon": "https://play-lh.googleusercontent.com/uyk39WsDkQFPrgFcfuHThxoL7OcFidySe8RpyJUZo5hrYsWFV3a9pxkhUfnEXv_vKWfL0koo5J98PgPK0vOlAR8",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8534,8 +8534,8 @@
           "icon": "https://play-lh.googleusercontent.com/nY-H0tleYceH-jXbYCsXWZI9s_XC-1XVZeEuybkUEaniNyP3CdrL0xGDtQQmzqMGHXTUboyy9kiO3yaIcWmopGo",
           "platform": "Google Play",
           "summary": "",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "block.color.game.jam.blocks.sort.puzzle.games.slide.free",
@@ -8547,7 +8547,7 @@
           "icon": "https://play-lh.googleusercontent.com/5SB2idoprwmlQp1Whr0Yvi0ihmdoUqfFAQpxzAkovSLtdM1k5NIdAdMpufHvGZYOUJ3ld5uZzgLtpZ7f__bXeHA",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8560,7 +8560,7 @@
           "icon": "https://play-lh.googleusercontent.com/lkdSKdnQWDxZO2-dLfzz5V2lMzl7JOC-_WKftNILfkmTTnvoa-3K5btDU7VDqUERVCuKzrjIFJAcwH759HDD6xk",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8573,7 +8573,7 @@
           "icon": "https://play-lh.googleusercontent.com/tg-BeEJO7UDjvfxWXWJ1u-PMLa-45twu0YhJkZfQu-PEjRJU_2l9Sb9xMR3YBha3mtLzdzU-016ZpWN5IUwrFwU",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8586,7 +8586,7 @@
           "icon": "https://play-lh.googleusercontent.com/WLRF2CUFZ9qbetyqQdbBfW3TVJL1zGN0fJkPFC64mMIioE-e3sRRLjuxfMR3gPvPwvJ4blCEUnQKCxqY4p5V",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8599,11 +8599,11 @@
           "icon": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T08:45:29.758Z",
+      "updatedAt": "2026-10-08T08:53:11.573Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -8755,7 +8755,7 @@
           "rank": 11,
           "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=en&gl=JP",
           "developer": "COGNOSPHERE PTE. LTD.",
-          "rating": 3.7415955,
+          "rating": 3.741968,
           "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
           "platform": "Google Play",
           "summary": "",
@@ -8781,7 +8781,7 @@
           "rank": 13,
           "url": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=JP",
           "developer": "KONAMI",
-          "rating": 4.506528,
+          "rating": 4.5069113,
           "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
           "platform": "Google Play",
           "summary": "",
@@ -8859,7 +8859,7 @@
           "rank": 19,
           "url": "https://play.google.com/store/apps/details?id=jp.konami.suikoden.starleap&hl=en&gl=JP",
           "developer": "KONAMI",
-          "rating": 4.0653534,
+          "rating": 4.064516,
           "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
           "platform": "Google Play",
           "summary": "",
@@ -9214,7 +9214,7 @@
           "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9227,7 +9227,7 @@
           "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9270,7 +9270,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T08:45:30.076Z",
+      "updatedAt": "2026-10-08T08:53:11.856Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -9447,7 +9447,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T08:45:31.353Z",
+      "updatedAt": "2026-10-08T08:53:13.235Z",
       "sourceUpdatedAt": "2026-10-08",
       "source": "MomoRank 第三方公开榜"
     },
@@ -9634,7 +9634,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T08:45:31.366Z",
+      "updatedAt": "2026-10-08T08:53:14.887Z",
       "sourceUpdatedAt": "2026-10-08",
       "source": "MomoRank 第三方公开榜"
     },
@@ -9811,7 +9811,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-08T08:45:31.414Z",
+      "updatedAt": "2026-10-08T08:53:15.048Z",
       "sourceUpdatedAt": "2026-10-08",
       "source": "MomoRank 第三方公开榜"
     }
@@ -12052,164 +12052,164 @@
       "checkedAt": "2026-10-08T06:05:05.58Z"
     },
     {
-      "id": "play-us-grossing",
-      "ok": true,
-      "count": 50,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-      "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
-    },
-    {
       "id": "play-us-free",
       "ok": true,
       "count": 50,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+      "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
+    },
+    {
+      "id": "play-us-grossing",
+      "ok": true,
+      "count": 50,
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
       "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
     },
     {
       "id": "play-jp-free",
       "ok": true,
       "count": 50,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
       "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
     },
     {
       "id": "play-jp-grossing",
       "ok": true,
       "count": 50,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
       "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
     },
     {
       "id": "us-free",
       "ok": true,
       "count": 100,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
       "webUrl": "https://apps.apple.com/us/iphone/charts/6014?chart=top-free"
     },
     {
       "id": "jp-free",
       "ok": true,
       "count": 100,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
       "webUrl": "https://apps.apple.com/jp/iphone/charts/6014?chart=top-free"
     },
     {
       "id": "us-grossing",
       "ok": true,
       "count": 100,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
       "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/us/genre/6014"
+    },
+    {
+      "id": "jp-grossing",
+      "ok": true,
+      "count": 100,
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+      "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/jp/genre/6014"
+    },
+    {
+      "id": "wechat-popular",
+      "ok": true,
+      "count": 10,
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+      "webUrl": "https://www.momorank.com/rankings/popular"
     },
     {
       "id": "wechat-played",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
       "webUrl": "https://www.momorank.com/rankings/most_played"
     },
     {
       "id": "wechat-grossing",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
       "webUrl": "https://www.momorank.com/rankings/bestseller"
-    },
-    {
-      "id": "wechat-popular",
-      "ok": true,
-      "count": 10,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-      "webUrl": "https://www.momorank.com/rankings/popular"
     },
     {
       "id": "douyin-popular",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
       "webUrl": "https://www.momorank.com/douyin/rankings/popular"
-    },
-    {
-      "id": "jp-grossing",
-      "ok": true,
-      "count": 100,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-      "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/jp/genre/6014"
     },
     {
       "id": "mini-news",
       "ok": true,
       "count": 37,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
       "webUrl": "https://news.google.com/search?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F"
-    },
-    {
-      "id": "iaa-news",
-      "ok": true,
-      "count": 40,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-      "webUrl": "https://news.google.com/search?q=%E5%B0%8F%E6%B8%B8%E6%88%8F%20%E5%B9%BF%E5%91%8A%E5%8F%98%E7%8E%B0"
-    },
-    {
-      "id": "reward-news",
-      "ok": true,
-      "count": 40,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-      "webUrl": "https://news.google.com/search?q=rewarded%20gaming"
-    },
-    {
-      "id": "industry",
-      "ok": true,
-      "count": 40,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-      "webUrl": "https://www.gamesindustry.biz/"
-    },
-    {
-      "id": "pcgamer",
-      "ok": true,
-      "count": 40,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-      "webUrl": "https://www.pcgamer.com/games/"
     },
     {
       "id": "douyin-grossing",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
       "webUrl": "https://www.momorank.com/douyin/rankings/bestseller"
     },
     {
-      "id": "eurogamer",
+      "id": "iaa-news",
       "ok": true,
       "count": 40,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-      "webUrl": "https://www.eurogamer.net/"
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+      "webUrl": "https://news.google.com/search?q=%E5%B0%8F%E6%B8%B8%E6%88%8F%20%E5%B9%BF%E5%91%8A%E5%8F%98%E7%8E%B0"
     },
     {
       "id": "wechat-rising",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-10-08T08:45:29.730Z",
-      "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
       "webUrl": "https://www.momorank.com/rising"
+    },
+    {
+      "id": "reward-news",
+      "ok": true,
+      "count": 40,
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+      "webUrl": "https://news.google.com/search?q=rewarded%20gaming"
+    },
+    {
+      "id": "pcgamer",
+      "ok": true,
+      "count": 40,
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+      "webUrl": "https://www.pcgamer.com/games/"
+    },
+    {
+      "id": "eurogamer",
+      "ok": true,
+      "count": 40,
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+      "webUrl": "https://www.eurogamer.net/"
+    },
+    {
+      "id": "industry",
+      "ok": true,
+      "count": 40,
+      "checkedAt": "2026-10-08T08:53:11.531Z",
+      "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+      "webUrl": "https://www.gamesindustry.biz/"
     }
   ],
   "history": [],
@@ -12223,7 +12223,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.846200942993164,
       "ratingCount": 5631522,
-      "checkedAt": "2026-10-08T08:45:33.874Z",
+      "checkedAt": "2026-10-08T08:53:17.818Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "HungryStudio",
@@ -12253,7 +12253,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.850196838378906,
       "ratingCount": 6360798,
-      "checkedAt": "2026-10-08T08:45:33.826Z",
+      "checkedAt": "2026-10-08T08:53:17.841Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "Vita Studio.",
@@ -12312,7 +12312,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.46359920501709,
       "ratingCount": 661896,
-      "checkedAt": "2026-10-08T08:45:33.981Z",
+      "checkedAt": "2026-10-08T08:53:17.945Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=cashgiraffe.app&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "Cash Giraffe",
@@ -12342,7 +12342,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.413002967834473,
       "ratingCount": 626075,
-      "checkedAt": "2026-10-08T08:45:34.024Z",
+      "checkedAt": "2026-10-08T08:53:17.976Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=online.moneywell.app&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "Money Well",
@@ -12370,9 +12370,9 @@
       "url": "https://play.google.com/store/apps/details?id=com.justplay.app&hl=en&gl=US",
       "installs": "10M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
-      "rating": 4.427291393280029,
-      "ratingCount": 1747740,
-      "checkedAt": "2026-10-08T08:45:34.014Z",
+      "rating": 4.427366733551025,
+      "ratingCount": 1747737,
+      "checkedAt": "2026-10-08T08:53:17.997Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.justplay.app&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "JustPlay GmbH",
@@ -12402,7 +12402,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.397676944732666,
       "ratingCount": 1059400,
-      "checkedAt": "2026-10-08T08:45:34.143Z",
+      "checkedAt": "2026-10-08T08:53:18.100Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.mistplay.mistplay&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "MISTPLAY",
@@ -12432,7 +12432,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.123348236083984,
       "ratingCount": 451108,
-      "checkedAt": "2026-10-08T08:45:34.154Z",
+      "checkedAt": "2026-10-08T08:53:18.122Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.winrgames.bigtime&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "WINR Games Inc",
@@ -12464,7 +12464,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.197238922119141,
       "ratingCountLabel": "248K",
-      "checkedAt": "2026-10-08T08:45:34.163Z",
+      "checkedAt": "2026-10-08T08:53:18.143Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "containsAds": true,
       "id": "google:com.affinity.rewarded_play",
@@ -12501,7 +12501,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T08:45:34.307Z",
+      "checkedAt": "2026-10-08T08:53:18.283Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.bandainamcoent.gget_JP:JP",
       "tags": [
@@ -12525,7 +12525,7 @@
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T08:45:33.860Z",
+      "checkedAt": "2026-10-08T08:53:17.828Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.oakever.meowdoku:JP",
       "tags": [
@@ -12549,7 +12549,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T08:45:34.285Z",
+      "checkedAt": "2026-10-08T08:53:18.266Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.roblox.client",
       "tags": [
@@ -12573,7 +12573,7 @@
       "price": null,
       "containsAds": true,
       "containsIAP": false,
-      "checkedAt": "2026-10-08T08:45:34.316Z",
+      "checkedAt": "2026-10-08T08:53:18.298Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.nebula.rotaterings:JP",
       "tags": [
@@ -12597,7 +12597,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T08:45:34.422Z",
+      "checkedAt": "2026-10-08T08:53:18.393Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.scopely.monopolygo",
       "tags": [
@@ -12617,11 +12617,11 @@
       "installs": "1B+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.629678249359131,
-      "ratingCount": 38942003,
+      "ratingCount": 38941999,
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T08:45:34.465Z",
+      "checkedAt": "2026-10-08T08:53:18.430Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.king.candycrushsaga",
       "tags": [
@@ -12645,7 +12645,7 @@
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T08:45:34.494Z",
+      "checkedAt": "2026-10-08T08:53:18.485Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:triple.sorting.bubble.fish.match:JP",
       "tags": [
@@ -12669,7 +12669,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T08:45:34.601Z",
+      "checkedAt": "2026-10-08T08:53:18.545Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.kurogame.wutheringwaves.global:JP",
       "tags": [
@@ -12693,7 +12693,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-08T08:45:34.662Z",
+      "checkedAt": "2026-10-08T08:53:18.586Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:game.qualiarts.hololive.dreams.jp:JP",
       "tags": [
@@ -12703,180 +12703,185 @@
   },
   "snapshots": [
     {
+      "key": "history/2026-10-08T08-53-18-587Z.json",
+      "at": "2026-10-08T08:53:18.596Z",
+      "chartCount": 14
+    },
+    {
       "key": "history/2026-10-08T08-45-34-662Z.json",
       "at": "2026-10-08T08:45:34.665Z",
       "chartCount": 14
     }
   ],
   "lastRun": {
-    "at": "2026-10-08T08:45:29.730Z",
+    "at": "2026-10-08T08:53:11.531Z",
     "success": 20,
     "failed": 0,
     "total": 20,
     "items": [
       {
-        "id": "play-us-grossing",
-        "ok": true,
-        "count": 50,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-        "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
-      },
-      {
         "id": "play-us-free",
         "ok": true,
         "count": 50,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+        "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
+      },
+      {
+        "id": "play-us-grossing",
+        "ok": true,
+        "count": 50,
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
         "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
       },
       {
         "id": "play-jp-free",
         "ok": true,
         "count": 50,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
         "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
       },
       {
         "id": "play-jp-grossing",
         "ok": true,
         "count": 50,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
         "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
       },
       {
         "id": "us-free",
         "ok": true,
         "count": 100,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
         "webUrl": "https://apps.apple.com/us/iphone/charts/6014?chart=top-free"
       },
       {
         "id": "jp-free",
         "ok": true,
         "count": 100,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
         "webUrl": "https://apps.apple.com/jp/iphone/charts/6014?chart=top-free"
       },
       {
         "id": "us-grossing",
         "ok": true,
         "count": 100,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
         "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/us/genre/6014"
+      },
+      {
+        "id": "jp-grossing",
+        "ok": true,
+        "count": 100,
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+        "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/jp/genre/6014"
+      },
+      {
+        "id": "wechat-popular",
+        "ok": true,
+        "count": 10,
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+        "webUrl": "https://www.momorank.com/rankings/popular"
       },
       {
         "id": "wechat-played",
         "ok": true,
         "count": 10,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
         "webUrl": "https://www.momorank.com/rankings/most_played"
       },
       {
         "id": "wechat-grossing",
         "ok": true,
         "count": 10,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
         "webUrl": "https://www.momorank.com/rankings/bestseller"
-      },
-      {
-        "id": "wechat-popular",
-        "ok": true,
-        "count": 10,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-        "webUrl": "https://www.momorank.com/rankings/popular"
       },
       {
         "id": "douyin-popular",
         "ok": true,
         "count": 10,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
         "webUrl": "https://www.momorank.com/douyin/rankings/popular"
-      },
-      {
-        "id": "jp-grossing",
-        "ok": true,
-        "count": 100,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-        "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/jp/genre/6014"
       },
       {
         "id": "mini-news",
         "ok": true,
         "count": 37,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
         "webUrl": "https://news.google.com/search?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F"
-      },
-      {
-        "id": "iaa-news",
-        "ok": true,
-        "count": 40,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-        "webUrl": "https://news.google.com/search?q=%E5%B0%8F%E6%B8%B8%E6%88%8F%20%E5%B9%BF%E5%91%8A%E5%8F%98%E7%8E%B0"
-      },
-      {
-        "id": "reward-news",
-        "ok": true,
-        "count": 40,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-        "webUrl": "https://news.google.com/search?q=rewarded%20gaming"
-      },
-      {
-        "id": "industry",
-        "ok": true,
-        "count": 40,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-        "webUrl": "https://www.gamesindustry.biz/"
-      },
-      {
-        "id": "pcgamer",
-        "ok": true,
-        "count": 40,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-        "webUrl": "https://www.pcgamer.com/games/"
       },
       {
         "id": "douyin-grossing",
         "ok": true,
         "count": 10,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
         "webUrl": "https://www.momorank.com/douyin/rankings/bestseller"
       },
       {
-        "id": "eurogamer",
+        "id": "iaa-news",
         "ok": true,
         "count": 40,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
-        "webUrl": "https://www.eurogamer.net/"
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+        "webUrl": "https://news.google.com/search?q=%E5%B0%8F%E6%B8%B8%E6%88%8F%20%E5%B9%BF%E5%91%8A%E5%8F%98%E7%8E%B0"
       },
       {
         "id": "wechat-rising",
         "ok": true,
         "count": 10,
-        "checkedAt": "2026-10-08T08:45:29.730Z",
-        "lastSuccessAt": "2026-10-08T08:45:29.730Z",
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
         "webUrl": "https://www.momorank.com/rising"
+      },
+      {
+        "id": "reward-news",
+        "ok": true,
+        "count": 40,
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+        "webUrl": "https://news.google.com/search?q=rewarded%20gaming"
+      },
+      {
+        "id": "pcgamer",
+        "ok": true,
+        "count": 40,
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+        "webUrl": "https://www.pcgamer.com/games/"
+      },
+      {
+        "id": "eurogamer",
+        "ok": true,
+        "count": 40,
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+        "webUrl": "https://www.eurogamer.net/"
+      },
+      {
+        "id": "industry",
+        "ok": true,
+        "count": 40,
+        "checkedAt": "2026-10-08T08:53:11.531Z",
+        "lastSuccessAt": "2026-10-08T08:53:11.531Z",
+        "webUrl": "https://www.gamesindustry.biz/"
       }
     ]
   },
-  "attemptedAt": "2026-10-08T08:45:29.730Z",
+  "attemptedAt": "2026-10-08T08:53:11.531Z",
   "lastSync": {
     "at": "2026-10-08T06:53:33.468Z",
     "accepted": [
