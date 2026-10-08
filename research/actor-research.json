@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "wechat-games",
+    "name": "微信小游戏",
+    "aliases": [
+      "微信小游戏",
+      "WeChat Mini Games",
+      "微信公众平台"
+    ],
+    "category": "小游戏平台",
+    "focus": "小游戏开发与平台生态",
+    "region": "中国",
+    "tags": [
+      "小游戏"
+    ],
+    "homepage": "https://mp.weixin.qq.com/",
+    "newsroom": "https://developers.weixin.qq.com/minigame/dev/guide/",
+    "query": "\"微信小游戏\" 平台 OR 广告 OR 发行",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://developers.weixin.qq.com/minigame/dev/guide/",
+    "sourceStatus": "official_developer_portal_no_rss"
+  },
+  {
+    "id": "douyin-games",
+    "name": "抖音小游戏",
+    "aliases": [
+      "抖音小游戏",
+      "字节小游戏",
+      "Douyin Mini Games"
+    ],
+    "category": "小游戏平台",
+    "focus": "抖音小游戏开发与平台生态",
+    "region": "中国",
+    "tags": [
+      "小游戏"
+    ],
+    "homepage": "https://developer.open-douyin.com/",
+    "newsroom": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/introduction/overview",
+    "query": "\"抖音小游戏\" 平台 OR 广告 OR 发行",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/introduction/overview",
+    "sourceStatus": "official_developer_portal_no_rss"
+  },
+  {
+    "id": "kuaishou-games",
+    "name": "快手小游戏",
+    "aliases": [
+      "快手小游戏",
+      "Kuaishou"
+    ],
+    "category": "小游戏平台",
+    "focus": "快手小游戏与开放平台",
+    "region": "中国",
+    "tags": [
+      "小游戏"
+    ],
+    "homepage": "https://open.kuaishou.com/",
+    "newsroom": "https://open.kuaishou.com/",
+    "query": "\"快手小游戏\" 游戏 OR 广告 OR 发行",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://open.kuaishou.com/",
+    "sourceStatus": "official_developer_portal_no_rss"
+  },
+  {
+    "id": "4399",
+    "name": "4399",
+    "aliases": [
+      "4399",
+      "四三九九"
+    ],
+    "category": "游戏发行与门户",
+    "focus": "网页游戏、小游戏与手游",
+    "region": "中国",
+    "tags": [
+      "小游戏",
+      "手游"
+    ],
+    "homepage": "https://www.4399.com/",
+    "newsroom": "https://news.4399.com/",
+    "query": "\"4399\" 游戏 OR 广告 OR 发行",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://news.4399.com/",
+    "sourceStatus": "official_webpage_verified",
+    "verificationNote": "news.4399.com为该平台游戏资讯门户，不是纯公司公告；需要内容筛选。"
+  },
+  {
+    "id": "leiting",
+    "name": "雷霆游戏",
+    "aliases": [
+      "雷霆游戏",
+      "Leiting Games"
+    ],
+    "category": "游戏发行",
+    "focus": "手游发行与开发者服务",
+    "region": "中国",
+    "tags": [
+      "手游"
+    ],
+    "homepage": "https://www.leiting.com/",
+    "newsroom": "https://www.leiting.com/terrace/news/news_1.html",
+    "query": "\"雷霆游戏\" 游戏 OR 广告 OR 发行",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.leiting.com/terrace/news/news_1.html",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "37games",
+    "name": "三七互娱",
+    "aliases": [
+      "三七互娱",
+      "37 Interactive Entertainment",
+      "37游戏"
+    ],
+    "category": "游戏厂商",
+    "focus": "网页游戏与移动游戏发行",
+    "region": "中国",
+    "tags": [
+      "小游戏",
+      "手游"
+    ],
+    "homepage": "https://www.37.com/",
+    "newsroom": "https://www.37.com/",
+    "query": "\"三七互娱\" 小游戏 OR 手游 OR 财报",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.37.com/",
+    "sourceStatus": "official_homepage_only"
+  },
+  {
+    "id": "yodo1",
+    "name": "游道易",
+    "aliases": [
+      "游道易",
+      "Yodo1"
+    ],
+    "category": "游戏发行与服务",
+    "focus": "游戏发行与广告变现",
+    "region": "中国",
+    "tags": [
+      "IAA",
+      "买量",
+      "手游"
+    ],
+    "homepage": "https://www.yodo1.com/",
+    "newsroom": "https://www.yodo1.com/blog",
+    "query": "\"游道易\" 游戏 OR 广告 OR 发行",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.yodo1.com/blog",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "net-ease",
+    "name": "网易游戏",
+    "aliases": [
+      "网易游戏",
+      "NetEase Games"
+    ],
+    "category": "游戏厂商",
+    "focus": "游戏研发与发行",
+    "region": "中国",
+    "tags": [
+      "手游"
+    ],
+    "homepage": "https://www.neteasegames.com/",
+    "newsroom": "https://www.neteasegames.com/news/game/",
+    "query": "\"网易游戏\" 游戏 OR 广告 OR 发行",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.neteasegames.com/news/game/",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "tencent-games",
+    "name": "腾讯游戏",
+    "aliases": [
+      "腾讯游戏",
+      "Tencent Games"
+    ],
+    "category": "游戏厂商",
+    "focus": "游戏研发、发行与生态",
+    "region": "中国",
+    "tags": [
+      "手游"
+    ],
+    "homepage": "https://game.qq.com/",
+    "newsroom": "https://game.qq.com/web201910/news-more.html",
+    "query": "\"腾讯游戏\" 游戏 OR 广告 OR 发行",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://game.qq.com/web201910/news-more.html",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "mihoyo",
+    "name": "米哈游",
+    "aliases": [
+      "米哈游",
+      "miHoYo",
+      "HoYoverse"
+    ],
+    "category": "游戏厂商",
+    "focus": "跨平台游戏研发与发行",
+    "region": "中国",
+    "tags": [
+      "手游"
+    ],
+    "homepage": "https://www.mihoyo.com/",
+    "newsroom": "https://www.hoyoverse.com/en-us/news",
+    "query": "\"米哈游\" 游戏 OR 广告 OR 发行",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.hoyoverse.com/en-us/news",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "oceanengine",
+    "name": "巨量引擎",
+    "aliases": [
+      "巨量引擎",
+      "Ocean Engine",
+      "巨量广告"
+    ],
+    "category": "广告平台",
+    "focus": "广告投放与增长",
+    "region": "中国",
+    "tags": [
+      "IAA",
+      "买量"
+    ],
+    "homepage": "https://www.oceanengine.com/",
+    "newsroom": "https://www.oceanengine.com/",
+    "query": "\"巨量引擎\" 游戏 OR 广告 OR 发行",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.oceanengine.com/",
+    "sourceStatus": "official_homepage_only"
+  },
+  {
+    "id": "tencent-ads",
+    "name": "腾讯广告",
+    "aliases": [
+      "腾讯广告",
+      "Tencent Ads",
+      "广点通"
+    ],
+    "category": "广告平台",
+    "focus": "广告投放与流量变现",
+    "region": "中国",
+    "tags": [
+      "IAA",
+      "买量"
+    ],
+    "homepage": "https://e.qq.com/",
+    "newsroom": "https://e.qq.com/",
+    "query": "\"腾讯广告\" 游戏 OR 广告 OR 发行",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://e.qq.com/",
+    "sourceStatus": "official_homepage_only"
+  },
+  {
+    "id": "mintegral",
+    "name": "Mintegral",
+    "aliases": [
+      "Mintegral",
+      "汇量科技广告平台"
+    ],
+    "category": "广告变现与买量",
+    "focus": "移动广告与游戏广告变现",
+    "region": "中国",
+    "tags": [
+      "IAA",
+      "买量"
+    ],
+    "homepage": "https://www.mintegral.com/",
+    "newsroom": "https://www.mintegral.com/en/blog",
+    "query": "\"Mintegral\" 游戏 OR 广告 OR 发行",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.mintegral.com/en/blog",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "mobvista",
+    "name": "汇量科技",
+    "aliases": [
+      "汇量科技",
+      "Mobvista"
+    ],
+    "category": "广告技术",
+    "focus": "移动营销与广告技术",
+    "region": "中国",
+    "tags": [
+      "IAA",
+      "买量"
+    ],
+    "homepage": "https://www.mobvista.com/",
+    "newsroom": "https://mobvista.cn/press-release",
+    "query": "\"汇量科技\" 游戏 OR 广告 OR 发行",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://mobvista.cn/press-release",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "topon",
+    "name": "TopOn",
+    "aliases": [
+      "TopOn",
+      "塔酷"
+    ],
+    "category": "广告聚合",
+    "focus": "移动应用与游戏广告聚合变现",
+    "region": "中国",
+    "tags": [
+      "IAA",
+      "买量"
+    ],
+    "homepage": "https://www.toponad.com/",
+    "newsroom": "https://www.toponad.com/en/posts",
+    "query": "\"TopOn\" 游戏 OR 广告 OR 发行",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.toponad.com/en/posts",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "tradplus",
+    "name": "TradPlus",
+    "aliases": [
+      "TradPlus",
+      "聚合广告平台"
+    ],
+    "category": "广告聚合",
+    "focus": "移动应用与游戏广告聚合变现",
+    "region": "中国",
+    "tags": [
+      "IAA",
+      "买量"
+    ],
+    "homepage": "https://www.tradplusad.com/",
+    "newsroom": "https://www.tradplusad.com/blog",
+    "query": "\"TradPlus\" 游戏 OR 广告 OR 发行",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.tradplusad.com/blog",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "appsflyer",
+    "name": "AppsFlyer",
+    "aliases": [
+      "AppsFlyer"
+    ],
+    "category": "归因与测量",
+    "focus": "移动营销归因与测量",
+    "region": "全球",
+    "tags": [
+      "买量"
+    ],
+    "homepage": "https://www.appsflyer.com/",
+    "newsroom": "https://www.appsflyer.com/blog/",
+    "query": "\"AppsFlyer\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.appsflyer.com/blog/",
+    "sourceStatus": "official_rss_verified",
+    "feedUrl": "https://www.appsflyer.com/feed/",
+    "feedVerification": {
+      "httpXmlParsed": true,
+      "itemCount": 10,
+      "latestPublishedAt": "Mon, 28 Sep 2026 10:23:20 +0000",
+      "verifiedAt": "2026-10-08",
+      "resolvedUrl": "https://www.appsflyer.com/feed/"
+    }
+  },
+  {
+    "id": "adjust",
+    "name": "Adjust",
+    "aliases": [
+      "Adjust"
+    ],
+    "category": "归因与测量",
+    "focus": "移动应用归因与测量",
+    "region": "全球",
+    "tags": [
+      "买量"
+    ],
+    "homepage": "https://www.adjust.com/",
+    "newsroom": "https://www.adjust.com/blog/",
+    "query": "\"Adjust\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.adjust.com/blog/",
+    "sourceStatus": "official_webpage_verified_static_fetch_blocked"
+  },
+  {
+    "id": "singular",
+    "name": "Singular",
+    "aliases": [
+      "Singular"
+    ],
+    "category": "归因与测量",
+    "focus": "营销归因与分析",
+    "region": "全球",
+    "tags": [
+      "买量"
+    ],
+    "homepage": "https://www.singular.net/",
+    "newsroom": "https://www.singular.net/blog/",
+    "query": "\"Singular\" \"mobile attribution\" OR \"game marketing\"",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.singular.net/blog/",
+    "sourceStatus": "official_webpage_verified_static_fetch_blocked"
+  },
+  {
+    "id": "applovin",
+    "name": "AppLovin",
+    "aliases": [
+      "AppLovin",
+      "MAX",
+      "AXON",
+      "AppLovin Corporation"
+    ],
+    "category": "广告变现与买量",
+    "focus": "应用广告变现与广告投放",
+    "region": "全球",
+    "tags": [
+      "IAA",
+      "买量"
+    ],
+    "homepage": "https://www.applovin.com/",
+    "newsroom": "https://www.applovin.com/",
+    "query": "\"AppLovin\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.applovin.com/",
+    "sourceStatus": "official_homepage_only"
+  },
+  {
+    "id": "unity",
+    "name": "Unity",
+    "aliases": [
+      "Unity",
+      "Unity Ads",
+      "LevelPlay",
+      "ironSource"
+    ],
+    "category": "引擎与广告技术",
+    "focus": "游戏引擎与广告变现",
+    "region": "全球",
+    "tags": [
+      "IAA",
+      "技术工具",
+      "买量"
+    ],
+    "homepage": "https://unity.com/",
+    "newsroom": "https://unity.com/blog",
+    "query": "\"Unity Technologies\" OR \"Unity Ads\" OR \"LevelPlay\" game",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://unity.com/blog",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "liftoff",
+    "name": "Liftoff",
+    "aliases": [
+      "Liftoff",
+      "Vungle"
+    ],
+    "category": "广告变现与买量",
+    "focus": "移动营销与广告变现",
+    "region": "全球",
+    "tags": [
+      "IAA",
+      "买量"
+    ],
+    "homepage": "https://liftoff.ai/",
+    "newsroom": "https://liftoff.ai/resources/?type=post",
+    "query": "\"Liftoff\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://liftoff.ai/resources/?type=post",
+    "sourceStatus": "official_webpage_verified_static_fetch_blocked"
+  },
+  {
+    "id": "moloco",
+    "name": "Moloco",
+    "aliases": [
+      "Moloco"
+    ],
+    "category": "广告平台",
+    "focus": "机器学习广告投放",
+    "region": "全球",
+    "tags": [
+      "IAA",
+      "买量"
+    ],
+    "homepage": "https://www.moloco.com/",
+    "newsroom": "https://www.moloco.com/blog",
+    "query": "\"Moloco\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.moloco.com/blog",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "google-admob",
+    "name": "Google AdMob",
+    "aliases": [
+      "Google AdMob",
+      "AdMob"
+    ],
+    "category": "广告变现",
+    "focus": "移动应用广告变现",
+    "region": "全球",
+    "tags": [
+      "IAA",
+      "买量"
+    ],
+    "homepage": "https://admob.google.com/",
+    "newsroom": "https://blog.google/products/admob/",
+    "query": "\"Google AdMob\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://blog.google/products/admob/",
+    "sourceStatus": "official_webpage_verified",
+    "feedCandidate": "https://blog.google/products/admob/rss/",
+    "feedNote": "XML可解析，但最新条目2024-05-16，陈旧，不作为活跃热点feed。"
+  },
+  {
+    "id": "google-ads",
+    "name": "Google Ads",
+    "aliases": [
+      "Google Ads",
+      "AdWords"
+    ],
+    "category": "广告平台",
+    "focus": "搜索与应用广告投放",
+    "region": "全球",
+    "tags": [
+      "IAA",
+      "买量"
+    ],
+    "homepage": "https://ads.google.com/",
+    "newsroom": "https://blog.google/products/ads-commerce/",
+    "query": "\"Google Ads\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://blog.google/products/ads-commerce/",
+    "sourceStatus": "official_rss_verified",
+    "feedUrl": "https://blog.google/products/ads-commerce/rss/",
+    "feedVerification": {
+      "httpXmlParsed": true,
+      "itemCount": 20,
+      "latestPublishedAt": "Thu, 01 Oct 2026 20:30:00 +0000",
+      "verifiedAt": "2026-10-08",
+      "resolvedUrl": "https://blog.google/products/ads-commerce/rss/"
+    }
+  },
+  {
+    "id": "voodoo",
+    "name": "Voodoo",
+    "aliases": [
+      "Voodoo"
+    ],
+    "category": "休闲游戏厂商",
+    "focus": "休闲与混合休闲游戏研发发行",
+    "region": "全球",
+    "tags": [
+      "手游",
+      "休闲"
+    ],
+    "homepage": "https://voodoo.io/",
+    "newsroom": "https://voodoo.io/news",
+    "query": "\"Voodoo\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://voodoo.io/news",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "saygames",
+    "name": "SayGames",
+    "aliases": [
+      "SayGames"
+    ],
+    "category": "休闲游戏发行",
+    "focus": "移动休闲游戏发行",
+    "region": "全球",
+    "tags": [
+      "手游",
+      "休闲"
+    ],
+    "homepage": "https://say.games/",
+    "newsroom": "https://blog.say.games/",
+    "query": "\"SayGames\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://blog.say.games/",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "homa",
+    "name": "Homa",
+    "aliases": [
+      "Homa",
+      "Homa Games"
+    ],
+    "category": "休闲游戏厂商",
+    "focus": "移动游戏研发发行与开发工具",
+    "region": "全球",
+    "tags": [
+      "手游",
+      "休闲"
+    ],
+    "homepage": "https://www.homagames.com/",
+    "newsroom": "https://www.homagames.com/blog",
+    "query": "\"Homa\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.homagames.com/blog",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "kwalee",
+    "name": "Kwalee",
+    "aliases": [
+      "Kwalee"
+    ],
+    "category": "游戏发行",
+    "focus": "移动、PC与主机游戏发行",
+    "region": "全球",
+    "tags": [
+      "休闲",
+      "手游",
+      "PC主机"
+    ],
+    "homepage": "https://www.kwalee.com/",
+    "newsroom": "https://www.kwalee.com/blog",
+    "query": "\"Kwalee\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.kwalee.com/blog",
+    "sourceStatus": "official_webpage_verified_static_redirect_issue"
+  },
+  {
+    "id": "crazylabs",
+    "name": "CrazyLabs",
+    "aliases": [
+      "CrazyLabs",
+      "TabTale"
+    ],
+    "category": "休闲游戏厂商",
+    "focus": "移动休闲游戏研发发行",
+    "region": "全球",
+    "tags": [
+      "手游",
+      "休闲"
+    ],
+    "homepage": "https://www.crazylabs.com/",
+    "newsroom": "https://www.crazylabs.com/",
+    "query": "\"CrazyLabs\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.crazylabs.com/",
+    "sourceStatus": "official_webpage_verified_static_fetch_blocked"
+  },
+  {
+    "id": "supersonic",
+    "name": "Supersonic",
+    "aliases": [
+      "Supersonic",
+      "Supersonic Studios"
+    ],
+    "category": "休闲游戏发行",
+    "focus": "移动休闲游戏发行",
+    "region": "全球",
+    "tags": [
+      "手游",
+      "休闲"
+    ],
+    "homepage": "https://supersonic.com/",
+    "newsroom": "https://supersonic.com/blog/",
+    "query": "\"Supersonic\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://supersonic.com/blog/",
+    "sourceStatus": "official_rss_verified",
+    "feedUrl": "https://supersonic.com/feed/",
+    "verificationNote": "2026-08-06官方RSS宣布加入Tripledot Studios；不得沿用Unity旗下标签。",
+    "feedVerification": {
+      "httpXmlParsed": true,
+      "itemCount": 10,
+      "latestPublishedAt": "Thu, 06 Aug 2026 12:50:04 +0000",
+      "verifiedAt": "2026-10-08",
+      "resolvedUrl": "https://supersonic.com/feed/"
+    }
+  },
+  {
+    "id": "zynga",
+    "name": "Zynga",
+    "aliases": [
+      "Zynga"
+    ],
+    "category": "游戏厂商",
+    "focus": "移动与社交游戏研发发行",
+    "region": "全球",
+    "tags": [
+      "手游"
+    ],
+    "homepage": "https://www.zynga.com/",
+    "newsroom": "https://www.zynga.com/news/",
+    "query": "\"Zynga\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.zynga.com/news/",
+    "sourceStatus": "official_rss_verified",
+    "feedUrl": "https://www.zynga.com/feed/",
+    "feedVerification": {
+      "httpXmlParsed": true,
+      "itemCount": 100,
+      "latestPublishedAt": "Wed, 07 Oct 2026 13:00:53 +0000",
+      "verifiedAt": "2026-10-08",
+      "resolvedUrl": "https://www.zynga.com/feed/"
+    }
+  },
+  {
+    "id": "playtika",
+    "name": "Playtika",
+    "aliases": [
+      "Playtika"
+    ],
+    "category": "游戏厂商",
+    "focus": "移动游戏研发与运营",
+    "region": "全球",
+    "tags": [
+      "手游"
+    ],
+    "homepage": "https://www.playtika.com/",
+    "newsroom": "https://news.playtika.com/press-releases",
+    "query": "\"Playtika\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://news.playtika.com/press-releases",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "scopely",
+    "name": "Scopely",
+    "aliases": [
+      "Scopely"
+    ],
+    "category": "游戏厂商",
+    "focus": "移动游戏研发与发行",
+    "region": "全球",
+    "tags": [
+      "手游"
+    ],
+    "homepage": "https://www.scopely.com/",
+    "newsroom": "https://www.scopely.com/en/news",
+    "query": "\"Scopely\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.scopely.com/en/news",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "supercell",
+    "name": "Supercell",
+    "aliases": [
+      "Supercell"
+    ],
+    "category": "游戏厂商",
+    "focus": "移动游戏研发",
+    "region": "全球",
+    "tags": [
+      "手游"
+    ],
+    "homepage": "https://supercell.com/",
+    "newsroom": "https://supercell.com/en/news/",
+    "query": "\"Supercell\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://supercell.com/en/news/",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "rovio",
+    "name": "Rovio",
+    "aliases": [
+      "Rovio",
+      "Angry Birds"
+    ],
+    "category": "游戏厂商",
+    "focus": "移动游戏与IP",
+    "region": "全球",
+    "tags": [
+      "手游"
+    ],
+    "homepage": "https://www.rovio.com/",
+    "newsroom": "https://www.rovio.com/news/",
+    "query": "\"Rovio\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.rovio.com/news/",
+    "sourceStatus": "official_webpage_verified_static_fetch_blocked"
+  },
+  {
+    "id": "mistplay",
+    "name": "Mistplay",
+    "aliases": [
+      "Mistplay"
+    ],
+    "category": "奖励游戏与用户获取",
+    "focus": "游戏奖励与玩家获取平台",
+    "region": "全球",
+    "tags": [
+      "网赚",
+      "买量"
+    ],
+    "homepage": "https://www.mistplay.com/",
+    "newsroom": "https://www.mistplay.com/blog",
+    "query": "\"Mistplay\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.mistplay.com/blog",
+    "sourceStatus": "official_webpage_verified",
+    "verificationNote": "玩家博客含大量游戏推荐，B2B行业热点须另筛选。"
+  },
+  {
+    "id": "adjoe",
+    "name": "adjoe",
+    "aliases": [
+      "adjoe",
+      "Playtime",
+      "adjoe GmbH"
+    ],
+    "category": "奖励游戏与广告技术",
+    "focus": "奖励游戏广告与用户获取",
+    "region": "全球",
+    "tags": [
+      "IAA",
+      "买量",
+      "网赚"
+    ],
+    "homepage": "https://adjoe.io/",
+    "newsroom": "https://adjoe.io/blog/",
+    "query": "\"adjoe\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://adjoe.io/blog/",
+    "sourceStatus": "official_webpage_verified_static_fetch_blocked",
+    "feedCandidate": "https://adjoe.io/feed/",
+    "feedNote": "静态请求HTTP403，尚未确认可自动采集。"
+  },
+  {
+    "id": "almedia",
+    "name": "Almedia",
+    "aliases": [
+      "Almedia",
+      "Freecash"
+    ],
+    "category": "奖励平台与用户获取",
+    "focus": "奖励平台与广告用户获取",
+    "region": "全球",
+    "tags": [
+      "IAA",
+      "买量",
+      "网赚"
+    ],
+    "homepage": "https://almedia.co/",
+    "newsroom": "https://almedia.co/press",
+    "query": "\"Almedia\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://almedia.co/press",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "justplay",
+    "name": "JustPlay",
+    "aliases": [
+      "JustPlay"
+    ],
+    "category": "奖励游戏",
+    "focus": "移动游戏奖励平台",
+    "region": "全球",
+    "tags": [
+      "网赚",
+      "买量"
+    ],
+    "homepage": "https://justplayapps.com/",
+    "newsroom": "https://justplayapps.com/",
+    "query": "\"JustPlay\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://justplayapps.com/",
+    "sourceStatus": "official_homepage_only"
+  },
+  {
+    "id": "digital-turbine",
+    "name": "Digital Turbine",
+    "aliases": [
+      "Digital Turbine",
+      "DT Exchange",
+      "Fyber"
+    ],
+    "category": "广告技术",
+    "focus": "移动广告与应用分发",
+    "region": "全球",
+    "tags": [
+      "IAA",
+      "买量"
+    ],
+    "homepage": "https://www.digitalturbine.com/",
+    "newsroom": "https://www.digitalturbine.com/blog",
+    "query": "\"Digital Turbine\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.digitalturbine.com/blog",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "xsolla",
+    "name": "Xsolla",
+    "aliases": [
+      "Xsolla"
+    ],
+    "category": "游戏商业服务",
+    "focus": "游戏支付与商业服务",
+    "region": "全球",
+    "tags": [
+      "技术工具"
+    ],
+    "homepage": "https://xsolla.com/",
+    "newsroom": "https://xsolla.com/newsroom",
+    "query": "\"Xsolla\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://xsolla.com/newsroom",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "sensor-tower",
+    "name": "Sensor Tower",
+    "aliases": [
+      "Sensor Tower",
+      "data.ai"
+    ],
+    "category": "市场数据",
+    "focus": "移动应用与游戏市场数据",
+    "region": "全球",
+    "tags": [
+      "行业",
+      "手游"
+    ],
+    "homepage": "https://sensortower.com/",
+    "newsroom": "https://sensortower.com/blog",
+    "query": "\"Sensor Tower\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://sensortower.com/blog",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "niko-partners",
+    "name": "Niko Partners",
+    "aliases": [
+      "Niko Partners"
+    ],
+    "category": "市场研究",
+    "focus": "亚洲与中东游戏市场研究",
+    "region": "全球",
+    "tags": [
+      "行业",
+      "手游"
+    ],
+    "homepage": "https://nikopartners.com/",
+    "newsroom": "https://nikopartners.com/news/",
+    "query": "\"Niko Partners\" games OR gaming OR advertising OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://nikopartners.com/news/",
+    "sourceStatus": "official_webpage_verified"
+  },
+  {
+    "id": "centurygames",
+    "name": "Century Games",
+    "aliases": [
+      "Century Games",
+      "Century Games Pte. Ltd."
+    ],
+    "category": "游戏厂商",
+    "focus": "移动策略与休闲游戏研发发行",
+    "region": "全球",
+    "tags": [
+      "手游",
+      "休闲"
+    ],
+    "homepage": "https://www.centurygames.com/",
+    "newsroom": "https://www.centurygames.com/news/",
+    "query": "\"Century Games\" games OR gaming OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://www.centurygames.com/news/",
+    "sourceStatus": "official_webpage_verified",
+    "verificationNote": "官方新闻页已读取；大量玩家活动/游戏更新，需要行业热点筛选。"
+  },
+  {
+    "id": "learnings",
+    "name": "乐信圣文",
+    "aliases": [
+      "乐信圣文",
+      "北京乐信圣文科技有限责任公司",
+      "Learnings"
+    ],
+    "category": "休闲游戏厂商",
+    "focus": "休闲游戏研发与发行",
+    "region": "中国",
+    "tags": [
+      "IAA",
+      "休闲",
+      "手游"
+    ],
+    "homepage": "https://learnings.com.cn/",
+    "newsroom": "https://learnings.com.cn/",
+    "query": "\"乐信圣文\" OR \"Learnings\" \"casual games\"",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://learnings.com.cn/",
+    "sourceStatus": "official_homepage_only",
+    "verificationNote": "官方域名learnings.com.cn；Microfun为柠檬微趣，不是乐信圣文。"
+  },
+  {
+    "id": "godot",
+    "name": "Godot Engine",
+    "aliases": [
+      "Godot Engine",
+      "Godot Foundation"
+    ],
+    "category": "游戏引擎",
+    "focus": "开源2D与3D游戏引擎",
+    "region": "全球",
+    "tags": [
+      "技术工具"
+    ],
+    "homepage": "https://godotengine.org/",
+    "newsroom": "https://godotengine.org/",
+    "query": "\"Godot Engine\" games OR gaming OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://godotengine.org/",
+    "sourceStatus": "official_rss_verified",
+    "feedUrl": "https://godotengine.org/rss.xml",
+    "feedVerification": {
+      "httpXmlParsed": true,
+      "itemCount": 15,
+      "latestPublishedAt": "Tue, 29 Sep 2026 12:00:00 +0000",
+      "verifiedAt": "2026-10-08",
+      "resolvedUrl": "https://godotengine.org/rss.xml"
+    }
+  },
+  {
+    "id": "playstation",
+    "name": "PlayStation",
+    "aliases": [
+      "PlayStation",
+      "Sony Interactive Entertainment",
+      "索尼互动娱乐"
+    ],
+    "category": "主机游戏平台",
+    "focus": "PlayStation主机游戏与平台",
+    "region": "日本",
+    "tags": [
+      "PC主机"
+    ],
+    "homepage": "https://blog.playstation.com/",
+    "newsroom": "https://blog.playstation.com/",
+    "query": "\"PlayStation\" games OR gaming OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://blog.playstation.com/",
+    "sourceStatus": "official_rss_verified",
+    "feedUrl": "https://blog.playstation.com/feed/",
+    "feedVerification": {
+      "httpXmlParsed": true,
+      "itemCount": 10,
+      "latestPublishedAt": "Wed, 07 Oct 2026 17:00:48 +0000",
+      "verifiedAt": "2026-10-08",
+      "resolvedUrl": "https://blog.playstation.com/feed/"
+    }
+  },
+  {
+    "id": "xbox",
+    "name": "Xbox",
+    "aliases": [
+      "Xbox",
+      "Microsoft Gaming",
+      "微软游戏"
+    ],
+    "category": "游戏与订阅平台",
+    "focus": "Xbox游戏、平台与Game Pass",
+    "region": "美国",
+    "tags": [
+      "PC主机"
+    ],
+    "homepage": "https://news.xbox.com/en-us/",
+    "newsroom": "https://news.xbox.com/en-us/",
+    "query": "\"Xbox\" games OR gaming OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://news.xbox.com/en-us/",
+    "sourceStatus": "official_webpage_verified_static_feed_blocked",
+    "feedCandidate": "https://news.xbox.com/en-us/feed/",
+    "feedNote": "静态请求HTTP403，网页可通过搜索抓取读取，feed自动获取未验证。"
+  },
+  {
+    "id": "googleplay",
+    "name": "Google Play",
+    "aliases": [
+      "Google Play",
+      "Google LLC",
+      "Google Play Games"
+    ],
+    "category": "应用分发平台",
+    "focus": "Android游戏分发与平台生态",
+    "region": "全球",
+    "tags": [
+      "手游",
+      "行业"
+    ],
+    "homepage": "https://blog.google/products-and-platforms/platforms/google-play/",
+    "newsroom": "https://blog.google/products-and-platforms/platforms/google-play/",
+    "query": "\"Google Play\" games OR gaming OR publishing",
+    "queryType": "media_discovery_non_official",
+    "verifiedAt": "2026-10-08",
+    "verificationUrl": "https://blog.google/products-and-platforms/platforms/google-play/",
+    "sourceStatus": "official_rss_verified",
+    "feedUrl": "https://blog.google/products/google-play/rss/",
+    "feedVerification": {
+      "httpXmlParsed": true,
+      "itemCount": 20,
+      "latestPublishedAt": "Wed, 02 Sep 2026 16:00:00 +0000",
+      "verifiedAt": "2026-10-08",
+      "resolvedUrl": "https://blog.google/products-and-platforms/platforms/google-play/rss/"
+    }
+  }
+]

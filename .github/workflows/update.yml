@@ -21,11 +21,16 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
+        with:
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
       - name: Collect current official sources
+        # Public source data only; browser notes and credentials never enter the artifact.
         run: node scripts/collect.mjs
+      - name: Verify intelligence rules
+        run: node --test tests/*.test.mjs
       - name: Persist successful snapshot
         run: |
           git config user.name "github-actions[bot]"
@@ -36,6 +41,7 @@ jobs:
             git push
           fi
       - run: node scripts/build.mjs
+      - run: node --check public/app.js
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
