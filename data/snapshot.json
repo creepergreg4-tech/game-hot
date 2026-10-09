@@ -9818,6 +9818,34 @@
   },
   "news": [
     {
+      "id": "https://ads.google.com/status/publisher/incidents/eG7uzoaofpNp6xaWURjp",
+      "url": "https://ads.google.com/status/publisher/incidents/eG7uzoaofpNp6xaWURjp",
+      "title": "AdMob插屏黑屏故障已恢复：官方事件记录持续约9小时29分",
+      "summary": "官方记录故障于2026-10-08 10:31 UTC开始、20:00 UTC结束；20:08:57 UTC发布恢复说明。影响iOS/Android插屏视频渲染和关闭按钮，不能据此推断所有激励广告均故障。",
+      "source": "Google AdMob官方状态",
+      "origin": "official",
+      "ownerActorId": "google-admob",
+      "publishedAt": "2026-10-08T20:08:57.000Z",
+      "discoveredAt": "2026-10-09T01:06:01.203Z",
+      "contentType": "news",
+      "evidenceType": "官方状态原文已回读 · 当前为已恢复",
+      "actorIds": [
+        "google-admob"
+      ],
+      "tags": [
+        "行业",
+        "IAA",
+        "买量"
+      ],
+      "ruleScore": 78,
+      "noise": false,
+      "materialReady": true,
+      "undated": false,
+      "archived": false,
+      "selectionMode": "rule-v1",
+      "why": "关注用户获取、奖励设计、广告变现或小游戏生态；先核对原文中的数据口径。"
+    },
+    {
       "id": "https://www.pcgamer.com/games/horror/why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-that-something-so-influential-could-eventually-become-unplayable-never-sat-right-with-me/",
       "title": "Why a 21-year-old coder finally ported the real P.T. to PC: 'That something so influential could eventually become unplayable never sat right with me'",
       "url": "https://www.pcgamer.com/games/horror/why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-that-something-so-influential-could-eventually-become-unplayable-never-sat-right-with-me/",
@@ -16793,6 +16821,34 @@
       }
     ],
     "items": [
+      {
+        "id": "https://ads.google.com/status/publisher/incidents/eG7uzoaofpNp6xaWURjp",
+        "url": "https://ads.google.com/status/publisher/incidents/eG7uzoaofpNp6xaWURjp",
+        "title": "AdMob插屏黑屏故障已恢复：官方事件记录持续约9小时29分",
+        "summary": "官方记录故障于2026-10-08 10:31 UTC开始、20:00 UTC结束；20:08:57 UTC发布恢复说明。影响iOS/Android插屏视频渲染和关闭按钮，不能据此推断所有激励广告均故障。",
+        "source": "Google AdMob官方状态",
+        "origin": "official",
+        "ownerActorId": "google-admob",
+        "publishedAt": "2026-10-08T20:08:57.000Z",
+        "discoveredAt": "2026-10-09T01:06:01.203Z",
+        "contentType": "news",
+        "evidenceType": "官方状态原文已回读 · 当前为已恢复",
+        "actorIds": [
+          "google-admob"
+        ],
+        "tags": [
+          "行业",
+          "IAA",
+          "买量"
+        ],
+        "ruleScore": 78,
+        "noise": false,
+        "materialReady": true,
+        "undated": false,
+        "archived": false,
+        "selectionMode": "rule-v1",
+        "why": "关注用户获取、奖励设计、广告变现或小游戏生态；先核对原文中的数据口径。"
+      },
       {
         "id": "489311340b93032cac8d",
         "title": "Voodoo Doughnut Creates New Treats with Animation Studio LAIKA - Yahoo",
@@ -39204,7 +39260,7 @@
         "publishedAt": "2026-10-08T13:03:01.000Z",
         "discoveredAt": "2026-10-08T16:25:59.652Z",
         "firstAt": "2026-10-08T13:00:00.000Z",
-        "heat": 1.415,
+        "heat": 1.411,
         "participants": 2,
         "reportCount": 2,
         "ruleScore": 35,
@@ -39247,7 +39303,7 @@
         "publishedAt": "2026-10-08T22:44:28.000Z",
         "discoveredAt": "2026-10-08T16:25:59.652Z",
         "firstAt": "2026-10-08T22:44:28.000Z",
-        "heat": 0.936,
+        "heat": 0.934,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -39267,6 +39323,40 @@
         "verification": "媒体报道；事实待核查"
       },
       {
+        "id": "b4a1033767c67a942085",
+        "title": "AdMob插屏黑屏故障已恢复：官方事件记录持续约9小时29分",
+        "url": "https://ads.google.com/status/publisher/incidents/eG7uzoaofpNp6xaWURjp",
+        "summary": "官方记录故障于2026-10-08 10:31 UTC开始、20:00 UTC结束；20:08:57 UTC发布恢复说明。影响iOS/Android插屏视频渲染和关闭按钮，不能据此推断所有激励广告均故障。",
+        "actorIds": [
+          "google-admob"
+        ],
+        "tags": [
+          "行业",
+          "IAA",
+          "买量"
+        ],
+        "publishedAt": "2026-10-08T20:08:57.000Z",
+        "discoveredAt": "2026-10-09T01:06:01.203Z",
+        "firstAt": "2026-10-08T20:08:57.000Z",
+        "heat": 0.867,
+        "participants": 1,
+        "reportCount": 1,
+        "ruleScore": 78,
+        "officialCount": 1,
+        "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+        "evidence": [
+          {
+            "title": "AdMob插屏黑屏故障已恢复：官方事件记录持续约9小时29分",
+            "url": "https://ads.google.com/status/publisher/incidents/eG7uzoaofpNp6xaWURjp",
+            "source": "Google AdMob官方状态",
+            "publishedAt": "2026-10-08T20:08:57.000Z",
+            "origin": "official",
+            "evidenceType": "官方状态原文已回读 · 当前为已恢复"
+          }
+        ],
+        "verification": "有官方发布；宣传效果未独立验证"
+      },
+      {
         "id": "1fee75672d76ce470403",
         "title": "Critical Role joins Rockbeasts, launching January 2027.",
         "url": "https://blog.playstation.com/2026/10/08/critical-role-joins-rockbeasts-launching-january-2027/",
@@ -39281,7 +39371,7 @@
         "publishedAt": "2026-10-08T17:00:00.000Z",
         "discoveredAt": "2026-10-08T22:02:30.412Z",
         "firstAt": "2026-10-08T17:00:00.000Z",
-        "heat": 0.793,
+        "heat": 0.791,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 54,
@@ -39316,7 +39406,7 @@
         "publishedAt": "2026-10-08T16:52:14.000Z",
         "discoveredAt": "2026-10-08T22:02:30.412Z",
         "firstAt": "2026-10-08T16:52:14.000Z",
-        "heat": 0.79,
+        "heat": 0.788,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -39352,7 +39442,7 @@
         "publishedAt": "2026-10-08T16:38:44.000Z",
         "discoveredAt": "2026-10-08T16:25:59.652Z",
         "firstAt": "2026-10-08T16:11:43.000Z",
-        "heat": 0.785,
+        "heat": 0.783,
         "participants": 1,
         "reportCount": 6,
         "ruleScore": 35,
@@ -39432,7 +39522,7 @@
         "publishedAt": "2026-10-08T16:35:54.000Z",
         "discoveredAt": "2026-10-09T01:01:00.960Z",
         "firstAt": "2026-10-08T16:35:54.000Z",
-        "heat": 0.784,
+        "heat": 0.782,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -39466,7 +39556,7 @@
         "publishedAt": "2026-10-08T16:30:00.000Z",
         "discoveredAt": "2026-10-08T22:02:30.412Z",
         "firstAt": "2026-10-08T16:30:00.000Z",
-        "heat": 0.782,
+        "heat": 0.78,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -39500,7 +39590,7 @@
         "publishedAt": "2026-10-08T16:18:25.000Z",
         "discoveredAt": "2026-10-08T16:25:58.426Z",
         "firstAt": "2026-10-08T16:18:25.000Z",
-        "heat": 0.778,
+        "heat": 0.776,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -39533,7 +39623,7 @@
         "publishedAt": "2026-10-08T16:17:17.000Z",
         "discoveredAt": "2026-10-08T16:25:58.427Z",
         "firstAt": "2026-10-08T16:17:17.000Z",
-        "heat": 0.777,
+        "heat": 0.775,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -39566,7 +39656,7 @@
         "publishedAt": "2026-10-08T16:17:11.000Z",
         "discoveredAt": "2026-10-08T16:25:58.427Z",
         "firstAt": "2026-10-08T16:17:11.000Z",
-        "heat": 0.777,
+        "heat": 0.775,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -39599,7 +39689,7 @@
         "publishedAt": "2026-10-08T15:58:16.000Z",
         "discoveredAt": "2026-10-08T22:02:30.412Z",
         "firstAt": "2026-10-08T15:58:16.000Z",
-        "heat": 0.77,
+        "heat": 0.768,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -39633,7 +39723,7 @@
         "publishedAt": "2026-10-08T15:30:00.000Z",
         "discoveredAt": "2026-10-08T16:25:59.652Z",
         "firstAt": "2026-10-08T15:30:00.000Z",
-        "heat": 0.76,
+        "heat": 0.758,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -39667,7 +39757,7 @@
         "publishedAt": "2026-10-08T15:04:55.000Z",
         "discoveredAt": "2026-10-08T16:25:59.652Z",
         "firstAt": "2026-10-08T15:00:00.000Z",
-        "heat": 0.751,
+        "heat": 0.749,
         "participants": 1,
         "reportCount": 2,
         "ruleScore": 44,
@@ -39711,7 +39801,7 @@
         "publishedAt": "2026-10-08T14:37:21.000Z",
         "discoveredAt": "2026-10-08T16:25:59.652Z",
         "firstAt": "2026-10-08T14:37:21.000Z",
-        "heat": 0.741,
+        "heat": 0.739,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -39745,7 +39835,7 @@
         "publishedAt": "2026-10-08T14:11:00.000Z",
         "discoveredAt": "2026-10-08T16:25:59.652Z",
         "firstAt": "2026-10-08T14:11:00.000Z",
-        "heat": 0.731,
+        "heat": 0.73,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -39780,7 +39870,7 @@
         "publishedAt": "2026-10-08T14:06:15.000Z",
         "discoveredAt": "2026-10-08T16:25:59.652Z",
         "firstAt": "2026-10-08T14:06:15.000Z",
-        "heat": 0.73,
+        "heat": 0.728,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -39815,7 +39905,7 @@
         "publishedAt": "2026-10-08T13:40:14.000Z",
         "discoveredAt": "2026-10-08T16:25:59.652Z",
         "firstAt": "2026-10-08T13:40:14.000Z",
-        "heat": 0.721,
+        "heat": 0.719,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -39849,7 +39939,7 @@
         "publishedAt": "2026-10-08T13:00:30.000Z",
         "discoveredAt": "2026-10-08T22:02:30.412Z",
         "firstAt": "2026-10-08T13:00:30.000Z",
-        "heat": 0.707,
+        "heat": 0.705,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 54,
@@ -39883,7 +39973,7 @@
         "publishedAt": "2026-10-08T12:18:40.000Z",
         "discoveredAt": "2026-10-08T16:25:58.330Z",
         "firstAt": "2026-10-08T12:18:40.000Z",
-        "heat": 0.693,
+        "heat": 0.691,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -39917,7 +40007,7 @@
         "publishedAt": "2026-10-08T12:12:45.000Z",
         "discoveredAt": "2026-10-08T16:25:58.481Z",
         "firstAt": "2026-10-08T12:12:45.000Z",
-        "heat": 0.691,
+        "heat": 0.689,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -39950,7 +40040,7 @@
         "publishedAt": "2026-10-08T11:59:55.000Z",
         "discoveredAt": "2026-10-08T16:25:59.652Z",
         "firstAt": "2026-10-08T11:57:41.000Z",
-        "heat": 0.687,
+        "heat": 0.685,
         "participants": 1,
         "reportCount": 2,
         "ruleScore": 44,
@@ -39993,7 +40083,7 @@
         "publishedAt": "2026-10-08T11:59:55.000Z",
         "discoveredAt": "2026-10-08T16:25:59.652Z",
         "firstAt": "2026-10-08T11:57:02.000Z",
-        "heat": 0.687,
+        "heat": 0.685,
         "participants": 1,
         "reportCount": 2,
         "ruleScore": 44,
@@ -40038,7 +40128,7 @@
         "publishedAt": "2026-10-08T11:33:09.000Z",
         "discoveredAt": "2026-10-08T16:25:58.481Z",
         "firstAt": "2026-10-08T11:33:09.000Z",
-        "heat": 0.678,
+        "heat": 0.676,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -40071,7 +40161,7 @@
         "publishedAt": "2026-10-08T10:02:12.000Z",
         "discoveredAt": "2026-10-08T16:25:59.652Z",
         "firstAt": "2026-10-08T10:02:12.000Z",
-        "heat": 0.649,
+        "heat": 0.647,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -40106,7 +40196,7 @@
         "publishedAt": "2026-10-08T10:00:00.000Z",
         "discoveredAt": "2026-10-08T16:25:59.652Z",
         "firstAt": "2026-10-08T10:00:00.000Z",
-        "heat": 0.648,
+        "heat": 0.647,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -40141,7 +40231,7 @@
         "publishedAt": "2026-10-08T09:43:37.000Z",
         "discoveredAt": "2026-10-08T10:03:40.294Z",
         "firstAt": "2026-10-08T09:43:37.000Z",
-        "heat": 0.643,
+        "heat": 0.641,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -40175,7 +40265,7 @@
         "publishedAt": "2026-10-08T09:30:57.000Z",
         "discoveredAt": "2026-10-08T22:02:30.412Z",
         "firstAt": "2026-10-08T09:30:57.000Z",
-        "heat": 0.639,
+        "heat": 0.638,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -40210,7 +40300,7 @@
         "publishedAt": "2026-10-08T09:11:18.000Z",
         "discoveredAt": "2026-10-08T09:30:04.778Z",
         "firstAt": "2026-10-08T09:11:18.000Z",
-        "heat": 0.633,
+        "heat": 0.632,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -40243,7 +40333,7 @@
         "publishedAt": "2026-10-08T08:57:13.000Z",
         "discoveredAt": "2026-10-08T09:30:04.290Z",
         "firstAt": "2026-10-08T08:57:13.000Z",
-        "heat": 0.629,
+        "heat": 0.627,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -40276,7 +40366,7 @@
         "publishedAt": "2026-10-08T08:21:27.000Z",
         "discoveredAt": "2026-10-08T08:45:33.293Z",
         "firstAt": "2026-10-08T08:21:27.000Z",
-        "heat": 0.618,
+        "heat": 0.617,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -40309,7 +40399,7 @@
         "publishedAt": "2026-10-08T06:40:50.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-08T06:40:50.000Z",
-        "heat": 0.589,
+        "heat": 0.587,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -40343,7 +40433,7 @@
         "publishedAt": "2026-10-08T05:00:56.000Z",
         "discoveredAt": "2026-10-08T09:54:57.538Z",
         "firstAt": "2026-10-08T05:00:56.000Z",
-        "heat": 0.561,
+        "heat": 0.56,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -40377,7 +40467,7 @@
         "publishedAt": "2026-10-08T04:00:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-08T04:00:00.000Z",
-        "heat": 0.545,
+        "heat": 0.544,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 54,
@@ -40412,7 +40502,7 @@
         "publishedAt": "2026-10-08T00:00:00.000Z",
         "discoveredAt": "2026-10-08T06:06:51.248Z",
         "firstAt": "2026-10-08T00:00:00.000Z",
-        "heat": 0.486,
+        "heat": 0.484,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -40445,7 +40535,7 @@
         "publishedAt": "2026-10-08T00:00:00.000Z",
         "discoveredAt": "2026-10-08T06:06:51.248Z",
         "firstAt": "2026-10-08T00:00:00.000Z",
-        "heat": 0.486,
+        "heat": 0.484,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -40479,7 +40569,7 @@
         "publishedAt": "2026-10-07T21:51:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T21:51:00.000Z",
-        "heat": 0.456,
+        "heat": 0.455,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -40513,7 +40603,7 @@
         "publishedAt": "2026-10-07T21:30:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T21:30:00.000Z",
-        "heat": 0.452,
+        "heat": 0.451,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -40548,7 +40638,7 @@
         "publishedAt": "2026-10-07T20:16:31.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T20:16:31.000Z",
-        "heat": 0.436,
+        "heat": 0.435,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 47,
@@ -40582,7 +40672,7 @@
         "publishedAt": "2026-10-07T20:15:43.000Z",
         "discoveredAt": "2026-10-08T05:10:17.509Z",
         "firstAt": "2026-10-07T20:15:43.000Z",
-        "heat": 0.436,
+        "heat": 0.435,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -40615,7 +40705,7 @@
         "publishedAt": "2026-10-07T18:28:00.000Z",
         "discoveredAt": "2026-10-08T05:10:16.827Z",
         "firstAt": "2026-10-07T18:28:00.000Z",
-        "heat": 0.414,
+        "heat": 0.413,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -40648,7 +40738,7 @@
         "publishedAt": "2026-10-07T17:00:48.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T17:00:48.000Z",
-        "heat": 0.397,
+        "heat": 0.396,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -40682,7 +40772,7 @@
         "publishedAt": "2026-10-07T16:55:21.000Z",
         "discoveredAt": "2026-10-08T05:10:16.827Z",
         "firstAt": "2026-10-07T16:55:21.000Z",
-        "heat": 0.396,
+        "heat": 0.395,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -40715,7 +40805,7 @@
         "publishedAt": "2026-10-07T16:05:02.000Z",
         "discoveredAt": "2026-10-08T05:10:17.509Z",
         "firstAt": "2026-10-07T16:05:02.000Z",
-        "heat": 0.386,
+        "heat": 0.385,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 57,
@@ -40749,7 +40839,7 @@
         "publishedAt": "2026-10-07T16:01:14.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T16:01:14.000Z",
-        "heat": 0.386,
+        "heat": 0.385,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -40783,7 +40873,7 @@
         "publishedAt": "2026-10-07T16:00:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T16:00:00.000Z",
-        "heat": 0.385,
+        "heat": 0.384,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -40817,7 +40907,7 @@
         "publishedAt": "2026-10-07T15:00:00.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T15:00:00.000Z",
-        "heat": 0.374,
+        "heat": 0.373,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -40851,7 +40941,7 @@
         "publishedAt": "2026-10-07T13:56:05.000Z",
         "discoveredAt": "2026-10-08T05:10:16.827Z",
         "firstAt": "2026-10-07T13:56:05.000Z",
-        "heat": 0.363,
+        "heat": 0.362,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -40886,7 +40976,7 @@
         "publishedAt": "2026-10-07T13:27:42.000Z",
         "discoveredAt": "2026-10-08T05:10:16.827Z",
         "firstAt": "2026-10-07T13:27:42.000Z",
-        "heat": 0.358,
+        "heat": 0.357,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -40919,7 +41009,7 @@
         "publishedAt": "2026-10-07T13:22:49.000Z",
         "discoveredAt": "2026-10-08T05:10:16.827Z",
         "firstAt": "2026-10-07T13:22:49.000Z",
-        "heat": 0.357,
+        "heat": 0.356,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -40952,7 +41042,7 @@
         "publishedAt": "2026-10-07T13:00:53.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T13:00:53.000Z",
-        "heat": 0.354,
+        "heat": 0.353,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 54,
@@ -41022,7 +41112,7 @@
         "publishedAt": "2026-10-07T12:32:35.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T12:32:35.000Z",
-        "heat": 0.349,
+        "heat": 0.348,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -41058,7 +41148,7 @@
         "publishedAt": "2026-10-07T12:00:00.000Z",
         "discoveredAt": "2026-10-08T05:10:16.769Z",
         "firstAt": "2026-10-07T12:00:00.000Z",
-        "heat": 0.343,
+        "heat": 0.342,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -41125,7 +41215,7 @@
         "publishedAt": "2026-10-07T10:38:16.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T10:38:16.000Z",
-        "heat": 0.33,
+        "heat": 0.329,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -41159,7 +41249,7 @@
         "publishedAt": "2026-10-07T10:24:13.000Z",
         "discoveredAt": "2026-10-08T05:10:16.827Z",
         "firstAt": "2026-10-07T10:24:13.000Z",
-        "heat": 0.328,
+        "heat": 0.327,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -41226,7 +41316,7 @@
         "publishedAt": "2026-10-07T08:52:44.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T08:52:44.000Z",
-        "heat": 0.314,
+        "heat": 0.313,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -41260,7 +41350,7 @@
         "publishedAt": "2026-10-07T08:31:39.000Z",
         "discoveredAt": "2026-10-08T05:10:16.828Z",
         "firstAt": "2026-10-07T08:31:39.000Z",
-        "heat": 0.311,
+        "heat": 0.31,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -41329,7 +41419,7 @@
         "publishedAt": "2026-10-07T05:53:30.000Z",
         "discoveredAt": "2026-10-08T09:30:18.058Z",
         "firstAt": "2026-10-07T05:53:30.000Z",
-        "heat": 0.288,
+        "heat": 0.287,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -41363,7 +41453,7 @@
         "publishedAt": "2026-10-07T02:35:34.000Z",
         "discoveredAt": "2026-10-08T09:54:57.538Z",
         "firstAt": "2026-10-07T02:35:34.000Z",
-        "heat": 0.262,
+        "heat": 0.261,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -52582,288 +52672,47 @@
         "generatedAt": "2026-10-09T01:01:00.960Z",
         "windowStart": "2026-10-08T01:00:00.000Z",
         "windowEnd": "2026-10-09T01:00:00.000Z",
-        "mode": "规则编排 · 保留原标题与原文摘要",
+        "mode": "逐条回读官方原文的中文简报；研究方向为待实测建议",
         "entries": [
           {
-            "id": "1fee75672d76ce470403",
-            "title": "Critical Role joins Rockbeasts, launching January 2027.",
-            "url": "https://blog.playstation.com/2026/10/08/critical-role-joins-rockbeasts-launching-january-2027/",
-            "summary": "Since the very beginning, we knew Rockbeasts was something special. To us, at least. Not because it’s the biggest game, or the safest bet. Quite the opposite. It’s not built around a genre you can neatly file it under. It’s built around a t",
+            "id": "b4a1033767c67a942085",
+            "title": "AdMob插屏黑屏故障已恢复，IAA团队应复核故障时段的流失。",
+            "summary": "官方事件记录：10月8日18:31开始、10月9日04:00结束，约04:09发布恢复说明。影响iOS和Android插屏视频：黑屏、关闭按钮无响应。研究方向：检查广告展示完成率、强退、留存及卡关数据，避免把平台故障当作关卡或经济系统问题；不能把插屏故障推断成所有激励广告均受影响。",
+            "url": "https://ads.google.com/status/publisher/incidents/eG7uzoaofpNp6xaWURjp",
             "actorIds": [
-              "playstation"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-08T17:00:00.000Z",
-            "discoveredAt": "2026-10-08T22:02:30.412Z",
-            "firstAt": "2026-10-08T17:00:00.000Z",
-            "heat": 0.793,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 54,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Critical Role joins Rockbeasts, launching January 2027.",
-                "url": "https://blog.playstation.com/2026/10/08/critical-role-joins-rockbeasts-launching-january-2027/",
-                "source": "PlayStation 官方订阅",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-08T17:00:00.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "1386ba708d0a94309a9d",
-            "title": "Words With Friends Expands Its Dictionary with 25,000 New Words",
-            "url": "https://www.zynga.com/corporate/words-with-friends-dictionary-update/",
-            "summary": "Zynga’s beloved mobile word game Words With Friends has refreshed its lexicon with a major dictionary upgrade. The update includes new words, fresh definitions and a new word-reporting feature. Players can now explore a revamped lexicon fea",
-            "actorIds": [
-              "zynga"
-            ],
-            "tags": [
-              "行业",
-              "手游"
-            ],
-            "publishedAt": "2026-10-08T13:00:30.000Z",
-            "discoveredAt": "2026-10-08T22:02:30.412Z",
-            "firstAt": "2026-10-08T13:00:30.000Z",
-            "heat": 0.707,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 54,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Words With Friends Expands Its Dictionary with 25,000 New Words",
-                "url": "https://www.zynga.com/corporate/words-with-friends-dictionary-update/",
-                "source": "Zynga 官方订阅",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-08T13:00:30.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "703e87c4c56f60c1a7fa",
-            "title": "Monster Hunter Stories 3: Twisted Reflection Heading to XBOX on PC November 18",
-            "url": "https://news.xbox.com/en-us/2026/10/07/monster-hunter-stories-3-xbox-px-xbox-play-anywhere-announce/",
-            "summary": "The hit RPG Monster Hunter Stories 3: Twisted Reflection, currently available on XBOX Series X|S, will launch on XBOX on PC on November 18, 2026, with Xbox Play Anywhere support. This will allow players to enjoy the game on XBOX Series X|S,",
-            "actorIds": [
-              "xbox"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-08T04:00:00.000Z",
-            "discoveredAt": "2026-10-08T09:30:18.058Z",
-            "firstAt": "2026-10-08T04:00:00.000Z",
-            "heat": 0.545,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 54,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Monster Hunter Stories 3: Twisted Reflection Heading to XBOX on PC November 18",
-                "url": "https://news.xbox.com/en-us/2026/10/07/monster-hunter-stories-3-xbox-px-xbox-play-anywhere-announce/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-08T04:00:00.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "9c8772b661a06306aacd",
-            "title": "Similarweb Picks Digital Turbine Executive Michael Akkerman to Succeed Founder - theaisoftwarereport.com",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeWczRWNWVTNTaENzdzlYLW1YX1pWa2M5VUZFbFpxaG9TdGVLVThXcVlwZ0xsTEQ3UjJDM1lqNXlidlJIdWRBOEpkNUpyT0hwU2JKQk1iNDIzb2pPMncxbmRzTllaazh5c1BMNkxENVZzYTVnY2pJelNDaV96NmRVY0pKTzZ2Vk5ocHRJYVlTZUhQZUxhcGpRRG9zdF9VR0ZCM2R1eFRaY3M0NUt6emxHeg?oc=5",
-            "summary": "Similarweb Picks Digital Turbine Executive Michael Akkerman to Succeed Founder theaisoftwarereport.com",
-            "actorIds": [
-              "digital-turbine"
+              "google-admob"
             ],
             "tags": [
               "行业",
               "IAA",
               "买量"
             ],
-            "publishedAt": "2026-10-08T16:52:14.000Z",
-            "discoveredAt": "2026-10-08T22:02:30.412Z",
-            "firstAt": "2026-10-08T16:52:14.000Z",
-            "heat": 0.79,
+            "publishedAt": "2026-10-08T20:08:57.000Z",
+            "discoveredAt": "2026-10-09T01:06:01.203Z",
+            "firstAt": "2026-10-08T20:08:57.000Z",
+            "heat": 0.867,
             "participants": 1,
             "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Similarweb Picks Digital Turbine Executive Michael Akkerman to Succeed Founder - theaisoftwarereport.com",
-                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeWczRWNWVTNTaENzdzlYLW1YX1pWa2M5VUZFbFpxaG9TdGVLVThXcVlwZ0xsTEQ3UjJDM1lqNXlidlJIdWRBOEpkNUpyT0hwU2JKQk1iNDIzb2pPMncxbmRzTllaazh5c1BMNkxENVZzYTVnY2pJelNDaV96NmRVY0pKTzZ2Vk5ocHRJYVlTZUhQZUxhcGpRRG9zdF9VR0ZCM2R1eFRaY3M0NUt6emxHeg?oc=5",
-                "source": "theaisoftwarereport.com",
-                "publisherUrl": "https://theaisoftwarereport.com/",
-                "publishedAt": "2026-10-08T16:52:14.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "f64fe4548ebdf27e4168",
-            "title": "Sensor Tower 2026 Japan Mobile Gaming Report: Market Tops $10B IAP Revenue Amid Year-Over-Year Decline, Analysing Downturn Drivers & Industry Landscape - awnchina.cn",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6TEFCYnQwQ1c0SDRCaFNMVDRtekoyUFMzMmpYdXRpRGpkSDZVbUxrU1lTbkRVTGFjdmZVS2pLWVNHVnBlRGRXYWZOSklZbm5INk1qSnZGVWU4SzlzX3o5UzRn?oc=5",
-            "summary": "Sensor Tower 2026 Japan Mobile Gaming Report: Market Tops $10B IAP Revenue Amid Year-Over-Year Decline, Analysing Downturn Drivers & Industry Landscape awnchina.cn",
-            "actorIds": [
-              "sensor-tower"
-            ],
-            "tags": [
-              "行业",
-              "手游"
-            ],
-            "publishedAt": "2026-10-08T10:02:12.000Z",
-            "discoveredAt": "2026-10-08T16:25:59.652Z",
-            "firstAt": "2026-10-08T10:02:12.000Z",
-            "heat": 0.649,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Sensor Tower 2026 Japan Mobile Gaming Report: Market Tops $10B IAP Revenue Amid Year-Over-Year Decline, Analysing Downturn Drivers & Industry Landscape - awnchina.cn",
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6TEFCYnQwQ1c0SDRCaFNMVDRtekoyUFMzMmpYdXRpRGpkSDZVbUxrU1lTbkRVTGFjdmZVS2pLWVNHVnBlRGRXYWZOSklZbm5INk1qSnZGVWU4SzlzX3o5UzRn?oc=5",
-                "source": "awnchina.cn",
-                "publisherUrl": "https://awnchina.cn/",
-                "publishedAt": "2026-10-08T10:02:12.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "47d43fb2709f88ec54c5",
-            "title": "谷歌上线Gemini版4399游戏站 - 新浪财经",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tclJKUHlJdnZfcFk4cnZUVWdKWW1KUmhlTlQxX2pYTDBMbGZsT1pQblJubFlOVEtXMHRFdFJRUVI5NGpIMHppMnIwWXZkUWZIWTF2SkxfWC1GTlNMb1ZrV0x0N3RxbDFBd1BtRTRrSHNQby05c2c?oc=5",
-            "summary": "谷歌上线Gemini版4399游戏站 新浪财经",
-            "actorIds": [
-              "4399"
-            ],
-            "tags": [
-              "行业",
-              "小游戏",
-              "手游"
-            ],
-            "publishedAt": "2026-10-08T10:00:00.000Z",
-            "discoveredAt": "2026-10-08T16:25:59.652Z",
-            "firstAt": "2026-10-08T10:00:00.000Z",
-            "heat": 0.648,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "谷歌上线Gemini版4399游戏站 - 新浪财经",
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tclJKUHlJdnZfcFk4cnZUVWdKWW1KUmhlTlQxX2pYTDBMbGZsT1pQblJubFlOVEtXMHRFdFJRUVI5NGpIMHppMnIwWXZkUWZIWTF2SkxfWC1GTlNMb1ZrV0x0N3RxbDFBd1BtRTRrSHNQby05c2c?oc=5",
-                "source": "新浪财经",
-                "publisherUrl": "https://finance.sina.com.cn/",
-                "publishedAt": "2026-10-08T10:00:00.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "f0c64c39bb927c8c5321",
-            "title": "Apple launches new App Store creative assets and Asset Library for developers - The Apple Post",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVUzWEpfd3MzS2o4Wlo3NEl3dDdQaW9MelJfWEJfM3hMSWJDYTgzaWNENFhnc2hIdElyTTVwSzF3RHdtdmlMLUVkZ29ENVBZZkFFcDQwU1pRZ3kyZ0dMQlZaUGZhOThhTHozeFdXd25qdEJNNHpYRFVGYWZEVGJJaVN3ZGhIcjRnMDNHMV9WRXBoT1N3aDdUMGZVSlNvRFRXem1nOFlOb0dWNUxXMVVVUDBMamxSaFBMYzFzS3B2cVh1d9IBxwFBVV95cUxPZERTWEItWUxfU1lyRHZ1UVJEWllsd18tQXF4bldXV1hONWZkV1p1NzdIYnJxLXZuTGI5T3BsTE9UaUVFUGFoYzFBRXpsZGUydHJXQjM1M2ZWel9IcnJyblZBMGNtbHcxd1d3RDRnN0gzNDRvTGEwdTM0TG1mVHVfWERZUEJnbTJtMk1EblI2dEw0UDFWWnQ2WWJnMDVGNXhsMG5SR0ZiZTBpc29mRUpaVHZ5TFBNb0RiMnNmNTEydHdGWHBqdHFB?oc=5",
-            "summary": "Apple launches new App Store creative assets and Asset Library for developers The Apple Post",
-            "actorIds": [
-              "apple-appstore"
-            ],
-            "tags": [
-              "行业",
-              "手游",
-              "技术工具"
-            ],
-            "publishedAt": "2026-10-08T09:43:37.000Z",
-            "discoveredAt": "2026-10-08T10:03:40.294Z",
-            "firstAt": "2026-10-08T09:43:37.000Z",
-            "heat": 0.643,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Apple launches new App Store creative assets and Asset Library for developers - The Apple Post",
-                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVUzWEpfd3MzS2o4Wlo3NEl3dDdQaW9MelJfWEJfM3hMSWJDYTgzaWNENFhnc2hIdElyTTVwSzF3RHdtdmlMLUVkZ29ENVBZZkFFcDQwU1pRZ3kyZ0dMQlZaUGZhOThhTHozeFdXd25qdEJNNHpYRFVGYWZEVGJJaVN3ZGhIcjRnMDNHMV9WRXBoT1N3aDdUMGZVSlNvRFRXem1nOFlOb0dWNUxXMVVVUDBMamxSaFBMYzFzS3B2cVh1d9IBxwFBVV95cUxPZERTWEItWUxfU1lyRHZ1UVJEWllsd18tQXF4bldXV1hONWZkV1p1NzdIYnJxLXZuTGI5T3BsTE9UaUVFUGFoYzFBRXpsZGUydHJXQjM1M2ZWel9IcnJyblZBMGNtbHcxd1d3RDRnN0gzNDRvTGEwdTM0TG1mVHVfWERZUEJnbTJtMk1EblI2dEw0UDFWWnQ2WWJnMDVGNXhsMG5SR0ZiZTBpc29mRUpaVHZ5TFBNb0RiMnNmNTEydHdGWHBqdHFB?oc=5",
-                "source": "The Apple Post",
-                "publisherUrl": "https://www.theapplepost.com/",
-                "publishedAt": "2026-10-08T09:43:37.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "4e4eb4394c794cd3c3d4",
-            "title": "You Have Minutes to Live: Introducing Echo Weaver",
-            "url": "https://news.xbox.com/en-us/2026/10/08/you-have-minutes-to-live-introducing-echo-weaver/",
-            "summary": "“This is the best demo I’ve ever played.” Two years ago, a demo from a three-person team in northwest North America hit my email and I wasn’t really prepared for how special it would end up being. My name is Buddy Solá, I’m the Head of Publ",
-            "actorIds": [
-              "xbox"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-08T16:30:00.000Z",
-            "discoveredAt": "2026-10-08T22:02:30.412Z",
-            "firstAt": "2026-10-08T16:30:00.000Z",
-            "heat": 0.782,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 44,
+            "ruleScore": 78,
             "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "grouping": "本任务逐条核对原文；相关公告已合并去重",
+            "verification": "官方原文已回读；研究建议未实测",
             "evidence": [
               {
-                "title": "You Have Minutes to Live: Introducing Echo Weaver",
-                "url": "https://news.xbox.com/en-us/2026/10/08/you-have-minutes-to-live-introducing-echo-weaver/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-08T16:30:00.000Z",
+                "title": "AdMob插屏黑屏故障已恢复，IAA团队应复核故障时段的流失。",
+                "url": "https://ads.google.com/status/publisher/incidents/eG7uzoaofpNp6xaWURjp",
+                "source": "Google AdMob官方状态",
+                "publishedAt": "2026-10-08T20:08:57.000Z",
                 "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+                "evidenceType": "官方原文已回读；研究建议未实测"
               }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
+            ]
           },
           {
             "id": "8f2cddc6acf4615a4f8d",
-            "title": "Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13",
+            "title": "Google Play公布Play Fest，值得拆解平台奖励与回流设计。",
+            "summary": "10月8日官方公告，活动计划10月13—19日举行，将Play Points、竞赛、积分加成和游戏奖励结合，涉及Angry Birds 2、Free Fire、8 Ball Pool等。研究方向：看预注册、任务、兑换和回流如何串起来；积分不是现金收益，资格和地域受条款约束。",
             "url": "https://blog.google/products-and-platforms/platforms/google-play/play-fest/",
-            "summary": "Celebrate Play Fest starting October 13 with sweepstakes prizes, global gaming leagues, and major Google Play deals all week.",
             "actorIds": [
               "googleplay"
             ],
@@ -52874,73 +52723,62 @@
             "publishedAt": "2026-10-08T15:30:00.000Z",
             "discoveredAt": "2026-10-08T16:25:59.652Z",
             "firstAt": "2026-10-08T15:30:00.000Z",
-            "heat": 0.76,
+            "heat": 0.758,
             "participants": 1,
             "reportCount": 1,
             "ruleScore": 44,
             "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "grouping": "本任务逐条核对原文；相关公告已合并去重",
+            "verification": "官方原文已回读；研究建议未实测",
             "evidence": [
               {
-                "title": "Win big at Play Fest: Epic prizes, gaming leagues, and daily deals start October 13",
+                "title": "Google Play公布Play Fest，值得拆解平台奖励与回流设计。",
                 "url": "https://blog.google/products-and-platforms/platforms/google-play/play-fest/",
                 "source": "Google Play 官方订阅",
-                "publisherUrl": null,
                 "publishedAt": "2026-10-08T15:30:00.000Z",
                 "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+                "evidenceType": "官方原文已回读；研究建议未实测"
               }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
+            ]
           },
           {
-            "id": "ef2da34eff5f57495006",
-            "title": "Xsolla Introduces New Redemption Options for Citi ThankYou® Points - AOL.com",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUGdjUjNSS2hxVUpjbmNMZnE3WDJYRFFnb1FITEVsWWIwcWwtZkh4OGxUaEQtMEl0NkxORWNzUkZ2WDNaYU1hSW4wblplOWFtRWNHZGFJS24zVWZ2bVFtY184NFJrMnVVQkJMMXdQV2V0VUEyR0plY3JQbVdoeklFOWI3WnhlWHpNMWc3bW9B?oc=5",
-            "summary": "Xsolla Introduces New Redemption Options for Citi ThankYou® Points AOL.com",
+            "id": "1386ba708d0a94309a9d",
+            "title": "Words With Friends更新词库，把玩家纠错反馈接入内容维护。",
+            "summary": "Zynga于10月8日宣布新增超过25,000个可用词、更新定义，并加入词语报告工具。研究方向：研究成熟休闲产品如何扩充长期内容、降低玩家对“规则不公平”的疑虑，不能把词库增加直接推断为留存增长。",
+            "url": "https://www.zynga.com/corporate/words-with-friends-dictionary-update/",
             "actorIds": [
-              "xsolla"
+              "zynga"
             ],
             "tags": [
               "行业",
-              "技术工具"
+              "手游"
             ],
-            "publishedAt": "2026-10-08T13:03:01.000Z",
-            "discoveredAt": "2026-10-08T16:25:59.652Z",
-            "firstAt": "2026-10-08T13:00:00.000Z",
-            "heat": 1.415,
-            "participants": 2,
-            "reportCount": 2,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "publishedAt": "2026-10-08T13:00:30.000Z",
+            "discoveredAt": "2026-10-08T22:02:30.412Z",
+            "firstAt": "2026-10-08T13:00:30.000Z",
+            "heat": 0.705,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 54,
+            "officialCount": 1,
+            "grouping": "本任务逐条核对原文；相关公告已合并去重",
+            "verification": "官方原文已回读；研究建议未实测",
             "evidence": [
               {
-                "title": "Xsolla Introduces New Redemption Options for Citi ThankYou® Points - AOL.com",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUGdjUjNSS2hxVUpjbmNMZnE3WDJYRFFnb1FITEVsWWIwcWwtZkh4OGxUaEQtMEl0NkxORWNzUkZ2WDNaYU1hSW4wblplOWFtRWNHZGFJS24zVWZ2bVFtY184NFJrMnVVQkJMMXdQV2V0VUEyR0plY3JQbVdoeklFOWI3WnhlWHpNMWc3bW9B?oc=5",
-                "source": "AOL.com",
-                "publisherUrl": "https://www.aol.com/",
-                "publishedAt": "2026-10-08T13:03:01.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "Xsolla Introduces New Redemption Options for Citi ThankYou® Points - Yahoo Finance",
-                "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDFtQk40UG95bklpdFFLWllZMldadUVNUzZjYlRSLWY2bjM0eXZVMFE4UUsyYjZZR3lFOGxPMnFmLTczTmJYUnhuRGdyVHR2OU5NUTRCM01OaDRnMmVocUFoUGRIcHZ2YlA5ZmgzNmUzejR5VmNOakNtbF9FQ1k0VXFVQTY2NTZzc2FKemdHbHZCRENhdWdXbWEwaTF1OEhubjRacFJJbHI1TXdYVXc?oc=5",
-                "source": "Yahoo Finance",
-                "publisherUrl": "https://finance.yahoo.com/",
-                "publishedAt": "2026-10-08T13:00:00.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
+                "title": "Words With Friends更新词库，把玩家纠错反馈接入内容维护。",
+                "url": "https://www.zynga.com/corporate/words-with-friends-dictionary-update/",
+                "source": "Zynga 官方订阅",
+                "publishedAt": "2026-10-08T13:00:30.000Z",
+                "origin": "official",
+                "evidenceType": "官方原文已回读；研究建议未实测"
               }
-            ],
-            "verification": "媒体报道；事实待核查"
+            ]
           },
           {
-            "id": "30900d49ad35a798d1bc",
-            "title": "10 Xbox Games Are Out Today, Including A Trio Of Day One Game Pass Titles (October 8) - Pure Xbox",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOU9lR0h4OXoxQ25GUjdCanY4dHpfTFN3T1hKNVdjZjJZaE9iMTZBbG9yNENoUFh6OGxuaHdubER0ZUVNNGVIcDhqSzNnTUU2OXJlNzU4VldSSG1icFhhRGdVQlJHZ3Q0Rk91M1JmZ0t4bE1xS2k3MlZBcll6X0Q1Zk9ZMW02cV9COWVSdWI5Q2Uzek1yNWN4WVgxNUtNT05RRG1nSEtvb05GcVAzemU4OHBfcWk3cXdRb0tCdw?oc=5",
-            "summary": "10 Xbox Games Are Out Today, Including A Trio Of Day One Game Pass Titles (October 8) Pure Xbox",
+            "id": "4e4eb4394c794cd3c3d4",
+            "title": "Echo Weaver上线，用知识而非装备驱动重复循环。",
+            "summary": "10月8日发行方在Xbox Wire介绍，该作已登陆Xbox Series X|S和PC，并加入Game Pass。玩家在限时循环中通过掌握信息与路线推进，不以随机生成作为核心。研究方向：可拆解“失败之后保留什么进展”、知识提示、计时压力与挽留；并未验证其适合直接迁移到IAA或网赚。",
+            "url": "https://news.xbox.com/en-us/2026/10/08/you-have-minutes-to-live-introducing-echo-weaver/",
             "actorIds": [
               "xbox"
             ],
@@ -52948,33 +52786,98 @@
               "行业",
               "PC主机"
             ],
-            "publishedAt": "2026-10-08T22:44:28.000Z",
-            "discoveredAt": "2026-10-08T16:25:59.652Z",
-            "firstAt": "2026-10-08T22:44:28.000Z",
-            "heat": 0.936,
+            "publishedAt": "2026-10-08T16:30:00.000Z",
+            "discoveredAt": "2026-10-08T22:02:30.412Z",
+            "firstAt": "2026-10-08T16:30:00.000Z",
+            "heat": 0.78,
             "participants": 1,
             "reportCount": 1,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "本任务逐条核对原文；相关公告已合并去重",
+            "verification": "官方原文已回读；研究建议未实测",
             "evidence": [
               {
-                "title": "10 Xbox Games Are Out Today, Including A Trio Of Day One Game Pass Titles (October 8) - Pure Xbox",
-                "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOU9lR0h4OXoxQ25GUjdCanY4dHpfTFN3T1hKNVdjZjJZaE9iMTZBbG9yNENoUFh6OGxuaHdubER0ZUVNNGVIcDhqSzNnTUU2OXJlNzU4VldSSG1icFhhRGdVQlJHZ3Q0Rk91M1JmZ0t4bE1xS2k3MlZBcll6X0Q1Zk9ZMW02cV9COWVSdWI5Q2Uzek1yNWN4WVgxNUtNT05RRG1nSEtvb05GcVAzemU4OHBfcWk3cXdRb0tCdw?oc=5",
-                "source": "Pure Xbox",
-                "publisherUrl": "https://www.purexbox.com/",
-                "publishedAt": "2026-10-08T22:44:28.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
+                "title": "Echo Weaver上线，用知识而非装备驱动重复循环。",
+                "url": "https://news.xbox.com/en-us/2026/10/08/you-have-minutes-to-live-introducing-echo-weaver/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-10-08T16:30:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方原文已回读；研究建议未实测"
               }
-            ],
-            "verification": "媒体报道；事实待核查"
+            ]
           },
           {
-            "id": "c74973495e002a2e13a1",
-            "title": "The Triple-i Initiative 2026: game announcements, news, and trailers - Epic Games",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1JETW4zaUkzM0NoM1Z1TlhWTEhFQWpkYkhXZV9MZlduRkFXVG50Rnh4NU5tLU4tS1VVMnZINTF0N0J1UEMxci1mVlB6QUpmakEzS3VndHRoZnZ1eS1uYmYxUE9GVVgtV2dGeTJ1YUJMaDlhSzBYSFBaT213ZXZHTVBwYmVfRXRGck9RTTM1dlNjOElvVGc?oc=5",
-            "summary": "The Triple-i Initiative 2026: game announcements, news, and trailers Epic Games",
+            "id": "1fee75672d76ce470403",
+            "title": "Rockbeasts宣布Critical Role参与合作，计划2027年1月推出。",
+            "summary": "10月8日开发者在PlayStation Blog说明合作，Matthew Mercer和Sam Riegel加入配音阵容；玩法围绕乐队经纪人的资源、角色关系与成长管理。研究方向：观察明确的身份幻想如何支撑经营循环与传播包装，发布计划不等于已上线。",
+            "url": "https://blog.playstation.com/2026/10/08/critical-role-joins-rockbeasts-launching-january-2027/",
+            "actorIds": [
+              "playstation"
+            ],
+            "tags": [
+              "行业",
+              "PC主机"
+            ],
+            "publishedAt": "2026-10-08T17:00:00.000Z",
+            "discoveredAt": "2026-10-08T22:02:30.412Z",
+            "firstAt": "2026-10-08T17:00:00.000Z",
+            "heat": 0.791,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 54,
+            "officialCount": 1,
+            "grouping": "本任务逐条核对原文；相关公告已合并去重",
+            "verification": "官方原文已回读；研究建议未实测",
+            "evidence": [
+              {
+                "title": "Rockbeasts宣布Critical Role参与合作，计划2027年1月推出。",
+                "url": "https://blog.playstation.com/2026/10/08/critical-role-joins-rockbeasts-launching-january-2027/",
+                "source": "PlayStation 官方订阅",
+                "publishedAt": "2026-10-08T17:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方原文已回读；研究建议未实测"
+              }
+            ]
+          },
+          {
+            "id": "46a684ed03cc2661c73a",
+            "title": "Xbox成立XP部门，集中发展游戏IP的跨媒体业务。",
+            "summary": "10月8日官方宣布，由Kayleen Walters领导，覆盖影视、消费产品、品牌合作与线下体验。将领导任命与XP介绍合并为一件组织动作，不重复计数。研究方向：对小团队可借鉴的是主题资产如何跨触点使用，不应把大型IP跨媒体策略直接当作小游戏盈利路径。",
+            "url": "https://news.xbox.com/en-us/2026/10/08/introducing-xp/",
+            "actorIds": [
+              "xbox"
+            ],
+            "tags": [
+              "行业",
+              "PC主机"
+            ],
+            "publishedAt": "2026-10-08T11:57:41.000Z",
+            "discoveredAt": "2026-10-08T16:25:59.652Z",
+            "firstAt": "2026-10-08T11:57:41.000Z",
+            "heat": 0.684,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "本任务逐条核对原文；相关公告已合并去重",
+            "verification": "官方原文已回读；研究建议未实测",
+            "evidence": [
+              {
+                "title": "Xbox成立XP部门，集中发展游戏IP的跨媒体业务。",
+                "url": "https://news.xbox.com/en-us/2026/10/08/introducing-xp/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-10-08T11:57:41.000Z",
+                "origin": "official",
+                "evidenceType": "官方原文已回读；研究建议未实测"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261009-6",
+            "title": "Triple-i展示新一批独立玩法和可体验Demo。",
+            "summary": "Epic Games于10月8日整理发布：Hela开放Demo，Astral Ascent联动更新上线，Brotato: Primal Dread计划11月2日推出等。研究方向：优先看核心玩法演示与Demo，在真实体验后记录目标、失败成本与难度曲线。整场展示按一件信息入口去重，不拆成多条凑热点。",
+            "url": "https://store.epicgames.com/news/triple-i-initiative-2026-news-trailers-video-games",
             "actorIds": [
               "epicgames"
             ],
@@ -52985,442 +52888,30 @@
               "手游"
             ],
             "publishedAt": "2026-10-08T16:38:44.000Z",
-            "discoveredAt": "2026-10-08T16:25:59.652Z",
-            "firstAt": "2026-10-08T16:11:43.000Z",
-            "heat": 0.785,
-            "participants": 1,
-            "reportCount": 6,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "The Triple-i Initiative 2026: game announcements, news, and trailers - Epic Games",
-                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1JETW4zaUkzM0NoM1Z1TlhWTEhFQWpkYkhXZV9MZlduRkFXVG50Rnh4NU5tLU4tS1VVMnZINTF0N0J1UEMxci1mVlB6QUpmakEzS3VndHRoZnZ1eS1uYmYxUE9GVVgtV2dGeTJ1YUJMaDlhSzBYSFBaT213ZXZHTVBwYmVfRXRGck9RTTM1dlNjOElvVGc?oc=5",
-                "source": "Epic Games",
-                "publisherUrl": "https://store.epicgames.com/",
-                "publishedAt": "2026-10-08T16:38:44.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "The Triple-i Initiative 2026: game announcements, news, and trailers - Epic Games",
-                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTXR4dVoyRmNwZDB3c19aOVJhYUN1YkxGVk81dklSNFJJWFZMVGRPaVp5Qy1idjFvbko0OHJXeGNtSWdIUHdkb3AwSExEanVmdlc0VWxlbDdkc1BaNGVSOEIxSXZRc21RTmJwREdPdkFBRVFETWZSZW80VklvWmtxbGlMU055OGtVQ1lBRXgxTUZiQkZUTmc?oc=5",
-                "source": "Epic Games",
-                "publisherUrl": "https://store.epicgames.com/",
-                "publishedAt": "2026-10-08T16:29:14.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "The Triple-i Initiative 2026: game announcements, news, and trailers - Epic Games",
-                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUUx1OGxPRkJqcmpNWV9IQlpvRkpkZWVCS3BySHh2SU5VRW93Ry1uMGEzcDBhbGtKdHFhMi1GUFB5Z1pJdHBUN0x3TWZ4UjB0YTdjcDQyczE1WURoc29Kb1c2cWR3c09qcXJ6YThySnBpblF1U0NjbmZvbTM1UWtmQ3FjaEU1VlZlRzVRZnV4bHVWRGsya2c?oc=5",
-                "source": "Epic Games",
-                "publisherUrl": "https://store.epicgames.com/",
-                "publishedAt": "2026-10-08T16:26:12.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "The Triple-i Initiative 2026: game announcements, news, and trailers - Epic Games",
-                "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVVwSmRJRnlnaFNEbFM3aGV5T3c1aEM1eVo4aEJTQ1lKYlhjUFR1WnFPRTZlQi01cEktNEJpVG43UVpBR2EybmlJVllKS084VXN2cGJKS190Sm9rbHRpVXZJN1RBbUlHNXJiQVgzQWdLM2lkTVI0QWQ0YmJjQ3ZzbDU2UDRvd0NlNjgwUFAyUlNnSllqZ3c?oc=5",
-                "source": "Epic Games",
-                "publisherUrl": "https://store.epicgames.com/",
-                "publishedAt": "2026-10-08T16:20:31.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "The Triple-i Initiative 2026: game announcements, news, and trailers - Epic Games",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUFk2bHRpR0VmOEZwNThXd1BvcWhfUTg3cHJQVDQ2aU1ldWowUG15Sm42WW53U2ozcEtDaldZN1lpUWpxZTlhd2JrSGxBYlNCaXVGWEhtV3U4VF9rQXJEWXVzREF5VDFJeUJsX2RPcjl2NG9wQ2o5UUtPaThYNTlRYTJweUF3TlVFY0NN?oc=5",
-                "source": "Epic Games",
-                "publisherUrl": "https://store.epicgames.com/",
-                "publishedAt": "2026-10-08T16:11:43.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "The Triple-i Initiative 2026: game announcements, news, and trailers - Epic Games",
-                "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWlprd2xHVXZsc0FwN2E3RzhOSjFYeW44cGhsaWZFVFRzOGNHeWlhd1VjLTF5MEl4ZEJLZ3lBaTQ3Y2EtaEo3LUhHaWxQaVAzX2RUOHpCd2V3TnVUaWJ3OGNscnc4WVJlZWZ0d05abHB4SU5KeDM2Znc1MTJEX3E5Yl9sb25Wc1pXVldB?oc=5",
-                "source": "Epic Games",
-                "publisherUrl": "https://store.epicgames.com/",
-                "publishedAt": "2026-10-08T16:11:43.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          }
-        ],
-        "briefs": [
-          {
-            "id": "484bd2b937da58a25750",
-            "title": "Free Play Days – ARC Raiders, S.T.A.L.K.E.R. 2: Heart of Chornobyl, Little Nightmares III, Screamer, and More",
-            "url": "https://news.xbox.com/en-us/2026/10/08/free-play-days-10-08-2026/",
-            "summary": "One Weekend. Seven Worlds. Endless Possibilities. Screamer and Family Man are available in Free Play Days this weekend for XBOX Game Pass Ultimate, Premium and Essential members to play from Thursday, October 8 until Sunday, October 11. Add",
-            "actorIds": [
-              "xbox"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-08T15:04:55.000Z",
-            "discoveredAt": "2026-10-08T16:25:59.652Z",
-            "firstAt": "2026-10-08T15:00:00.000Z",
-            "heat": 0.751,
-            "participants": 1,
-            "reportCount": 2,
-            "ruleScore": 44,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Free Play Days – ARC Raiders, S.T.A.L.K.E.R. 2: Heart of Chornobyl, Little Nightmares III, Screamer, and More - XBOX Wire",
-                "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DbjlsbHlpUlBtWVV1VGpla2FHS284WXNOZ1J1Sy12cFlMMFpHNjlSTWl1NGNfaFIxakhxTUNFOXU0Sm5vRXZWc2JGcE1YTDZzQnpuaGRTVlVBbTZCYTJuMWdSNFZjOUdnQ0pBN29LQUNseXfSAXhBVV95cUxNbUtobklRLWwwaEZXelhCTHNBbE5QZlVJaUZtYzNGZ1hsekVxNHNKN2pqbTYyRWRsSEplbEw2Vk1sMUN0NzRUUW82dDM1Mm1nRk1OYktVd2FKeVA2T0xjeTFBRjlmNjJrZEkzZE1wdWxOd0lHeU52TGk?oc=5",
-                "source": "XBOX Wire",
-                "publisherUrl": "https://news.xbox.com/",
-                "publishedAt": "2026-10-08T15:04:55.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "Free Play Days – ARC Raiders, S.T.A.L.K.E.R. 2: Heart of Chornobyl, Little Nightmares III, Screamer, and More",
-                "url": "https://news.xbox.com/en-us/2026/10/08/free-play-days-10-08-2026/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-08T15:00:00.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "e8afb7ac3c90e484a1b3",
-            "title": "Pull Up to 7-Eleven in Forza Horizon 6",
-            "url": "https://news.xbox.com/en-us/2026/10/08/forza-horizon-6-7-eleven/",
-            "summary": "Every good drive has a convenience store stop along the way somewhere. Starting today, that stop becomes possible for a limited time inside Forza Horizon 6. XBOX and 7-Eleven, Inc. are teaming up on the new Horizon Meets update – as well as",
-            "actorIds": [
-              "xbox"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-08T14:11:00.000Z",
-            "discoveredAt": "2026-10-08T16:25:59.652Z",
-            "firstAt": "2026-10-08T14:11:00.000Z",
-            "heat": 0.731,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 44,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Pull Up to 7-Eleven in Forza Horizon 6",
-                "url": "https://news.xbox.com/en-us/2026/10/08/forza-horizon-6-7-eleven/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-08T14:11:00.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "46a684ed03cc2661c73a",
-            "title": "Introducing XP",
-            "url": "https://news.xbox.com/en-us/2026/10/08/introducing-xp/",
-            "summary": "Our ambition at XBOX is to be the number one entertainment company in the world. This means growing our games into enduring franchises that entertain, inspire and connect people across every generation and across the globe. That opportunity",
-            "actorIds": [
-              "xbox"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-08T11:59:55.000Z",
-            "discoveredAt": "2026-10-08T16:25:59.652Z",
-            "firstAt": "2026-10-08T11:57:41.000Z",
-            "heat": 0.687,
-            "participants": 1,
-            "reportCount": 2,
-            "ruleScore": 44,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Introducing XP - XBOX Wire",
-                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oakU5cFpYeGk0b09tQndRMXBNMm9INTZ6N0VsZF9WaklpTWs2NnAzbHQ5WVEyN09xaWc2RG9QS0NKa1U1RG1ISHZFNmlOa09VS0lGWUMwZWFzUHRTRnB6R0pNOE7SAWpBVV95cUxPY1Q4Q2hVTExUM2pzb1FKNVRneUpiNERSazBENGdJRnVYZ0ZQYVkteVcxYllfRlhNVDBOWlkzTlByNXNtQkE5SHVOcklCYnpzdFJMRUxIczBRNWlvWklOeXJoeWdBU2NfMDhB?oc=5",
-                "source": "XBOX Wire",
-                "publisherUrl": "https://news.xbox.com/",
-                "publishedAt": "2026-10-08T11:59:55.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "Introducing XP",
-                "url": "https://news.xbox.com/en-us/2026/10/08/introducing-xp/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-08T11:57:41.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "cc371e751f712d9be2c1",
-            "title": "New Leadership Appointments and XBOX Division",
-            "url": "https://news.xbox.com/en-us/2026/10/08/new-leadership-appointments-and-xbox-division/",
-            "summary": "This message was just sent to Team XBOX employees globally. Team, At Town Hall on Tuesday, I talked about the four Cs and the choices we are making to put them into practice. You’ve seen a lot of our work on Core and Content. Today I want t",
-            "actorIds": [
-              "xbox"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-08T11:59:55.000Z",
-            "discoveredAt": "2026-10-08T16:25:59.652Z",
-            "firstAt": "2026-10-08T11:57:02.000Z",
-            "heat": 0.687,
-            "participants": 1,
-            "reportCount": 2,
-            "ruleScore": 44,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "New Leadership Appointments and XBOX Division - XBOX Wire",
-                "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWnNSYWRuLW5Wcjd0ZDZlLWpKTlJSYzNNdWlWRmtmSzVFSFJ1c09nVjdNZUF3eVBxOWFMUkNXV1JzQ21SdnNnOUNQZWo3a0IycV9iblAtM1ZtR2gxbUkyRVVUUDdXdWtFdGdxT1JCeTRwWVJTQ3psemlRR2tzeldSSlFlS3JIdlB4UW4yTW9n0gGTAUFVX3lxTFAxT2JWWUp4SmdFOVZDZVFvTEtDR1JmOVdxUDVsb2xOWHAxblRrX3lPcUJ4NVlYQk1RWno5RVFnRmtZUlFsbk5JQVB2RVM1cDQza2pFb3NHS3d0OHpGclRMWVVBWDBqbVZiVmVOdUZQUDVyTlhVTVdONlBXZ29FdEw2U0RKYXlIYm8yUW9acVBVdGhTQQ?oc=5",
-                "source": "XBOX Wire",
-                "publisherUrl": "https://news.xbox.com/",
-                "publishedAt": "2026-10-08T11:59:55.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "New Leadership Appointments and XBOX Division",
-                "url": "https://news.xbox.com/en-us/2026/10/08/new-leadership-appointments-and-xbox-division/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-08T11:57:02.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "cbb414085f7239378d69",
-            "title": "Google Ads introduces commerce audience sharing for retail media - Search Engine Land",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTThiaUtJU0ZMR09QemozdElKZmxXaDdtVlhvalNsNlVrOXBDcHppeTVHSk81aHg0UXFoV0xfdXJ1OTlhUHJ0RHZqWFM5MlFBZ01oaFpfenY1TEgwb2JhWS1ja0xBcklYRUg3dDEyQl8ybGdJeC1RTUZNQnVCSWZiUUdfeHZlRUpqSndUdDhteU9TUHBzVlJFNS1ndUpHdnhBdXc?oc=5",
-            "summary": "Google Ads introduces commerce audience sharing for retail media Search Engine Land",
-            "actorIds": [
-              "google-ads"
-            ],
-            "tags": [
-              "行业",
-              "IAA",
-              "买量"
-            ],
-            "publishedAt": "2026-10-08T16:35:54.000Z",
-            "discoveredAt": "2026-10-09T01:01:00.960Z",
-            "firstAt": "2026-10-08T16:35:54.000Z",
-            "heat": 0.784,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Google Ads introduces commerce audience sharing for retail media - Search Engine Land",
-                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTThiaUtJU0ZMR09QemozdElKZmxXaDdtVlhvalNsNlVrOXBDcHppeTVHSk81aHg0UXFoV0xfdXJ1OTlhUHJ0RHZqWFM5MlFBZ01oaFpfenY1TEgwb2JhWS1ja0xBcklYRUg3dDEyQl8ybGdJeC1RTUZNQnVCSWZiUUdfeHZlRUpqSndUdDhteU9TUHBzVlJFNS1ndUpHdnhBdXc?oc=5",
-                "source": "Search Engine Land",
-                "publisherUrl": "https://searchengineland.com/",
-                "publishedAt": "2026-10-08T16:35:54.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "2b5d7a013799fc821f9e",
-            "title": "As it lays off developers and closes studios, Xbox gets into the movie business",
-            "url": "https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/",
-            "summary": "Asha Sharma's latest big move is all about bringing \"franchises\" to the world in ways that don't involve games.",
-            "actorIds": [
-              "xbox"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-08T16:18:25.000Z",
-            "discoveredAt": "2026-10-08T16:25:58.426Z",
-            "firstAt": "2026-10-08T16:18:25.000Z",
-            "heat": 0.778,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "As it lays off developers and closes studios, Xbox gets into the movie business",
-                "url": "https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/",
-                "source": "PC Gamer",
-                "publishedAt": "2026-10-08T16:18:25.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体报道 · 尚未独立核实"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "18e4870210ee6ea59bcf",
-            "title": "All hail the long steam machine, Pimax's new SteamOS-ready mini PC",
-            "url": "https://www.pcgamer.com/hardware/steam-machines/all-hail-the-long-steam-machine-pimaxs-new-steamos-ready-mini-pc/",
-            "summary": "It looks like a Steam Machine, and it runs SteamOS, so it must be a steam machine.",
-            "actorIds": [
-              "steam"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-08T16:17:17.000Z",
-            "discoveredAt": "2026-10-08T16:25:58.427Z",
-            "firstAt": "2026-10-08T16:17:17.000Z",
-            "heat": 0.777,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "All hail the long steam machine, Pimax's new SteamOS-ready mini PC",
-                "url": "https://www.pcgamer.com/hardware/steam-machines/all-hail-the-long-steam-machine-pimaxs-new-steamos-ready-mini-pc/",
-                "source": "PC Gamer",
-                "publishedAt": "2026-10-08T16:17:17.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体报道 · 尚未独立核实"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "99d9e2e4fdfd6bde56e5",
-            "title": "Pimax says 'I'll have what Valve's having' as it announces new wireless VR headset, foveated streaming, updated controllers, and long Steam Machine",
-            "url": "https://www.pcgamer.com/hardware/vr-hardware/pimax-says-ill-have-what-valves-having-as-it-announces-new-wireless-vr-headset-foveated-streaming-updated-controllers-and-long-steam-machine/",
-            "summary": "Imagine a Steam Machine but taller… yep, you got it.",
-            "actorIds": [
-              "steam"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-08T16:17:11.000Z",
-            "discoveredAt": "2026-10-08T16:25:58.427Z",
-            "firstAt": "2026-10-08T16:17:11.000Z",
-            "heat": 0.777,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Pimax says 'I'll have what Valve's having' as it announces new wireless VR headset, foveated streaming, updated controllers, and long Steam Machine",
-                "url": "https://www.pcgamer.com/hardware/vr-hardware/pimax-says-ill-have-what-valves-having-as-it-announces-new-wireless-vr-headset-foveated-streaming-updated-controllers-and-long-steam-machine/",
-                "source": "PC Gamer",
-                "publishedAt": "2026-10-08T16:17:11.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体报道 · 尚未独立核实"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "c6e63c682e4fb73d89a8",
-            "title": "Sony in Trouble as It Turns Out It’s Pretty Easy to Get PlayStation 5 Games to Run on PC - Futurism",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2ZHZZMFRBdFZQelNqbWlXMktzQ0xXaVU5OUVQOHhpWm9McDF4N3NOeHpjNEhCV0VnZV90UFhBQ0M4b05aRkZoemxRSXlpZVQxZHJkVTU4VWRMTTNTcHVMeG1jTk1XZVV4RGxZS1l6Q0g1dw?oc=5",
-            "summary": "Sony in Trouble as It Turns Out It’s Pretty Easy to Get PlayStation 5 Games to Run on PC Futurism",
-            "actorIds": [
-              "playstation"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-08T15:58:16.000Z",
             "discoveredAt": "2026-10-08T22:02:30.412Z",
-            "firstAt": "2026-10-08T15:58:16.000Z",
-            "heat": 0.77,
+            "firstAt": "2026-10-08T16:38:44.000Z",
+            "heat": 0.783,
             "participants": 1,
             "reportCount": 1,
             "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "officialCount": 1,
+            "grouping": "本任务逐条核对原文；相关公告已合并去重",
+            "verification": "平台官方汇总；原文标10月8日，具体时刻来自聚合索引",
             "evidence": [
               {
-                "title": "Sony in Trouble as It Turns Out It’s Pretty Easy to Get PlayStation 5 Games to Run on PC - Futurism",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2ZHZZMFRBdFZQelNqbWlXMktzQ0xXaVU5OUVQOHhpWm9McDF4N3NOeHpjNEhCV0VnZV90UFhBQ0M4b05aRkZoemxRSXlpZVQxZHJkVTU4VWRMTTNTcHVMeG1jTk1XZVV4RGxZS1l6Q0g1dw?oc=5",
-                "source": "Futurism",
-                "publisherUrl": "https://futurism.com/",
-                "publishedAt": "2026-10-08T15:58:16.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
+                "title": "Triple-i展示新一批独立玩法和可体验Demo。",
+                "url": "https://store.epicgames.com/news/triple-i-initiative-2026-news-trailers-video-games",
+                "source": "Epic Games",
+                "publishedAt": "2026-10-08T16:38:44.000Z",
+                "origin": "official",
+                "evidenceType": "平台官方汇总；原文标10月8日，具体时刻来自聚合索引"
               }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "85f031fe86c77812aad5",
-            "title": "Apt Digital Publishes AppLovin Ads Benchmarks for Ecommerce Brands, Showing What Results to Expect - The Des Moines Register",
-            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM1JKWlRtZG43U3RJRE5TY05jVjNZVlZDbmd1ZS1oNENiMl9sWWFsNEwyN3pyNkpZdGNwRGF6am4xNGFYdl9iUnRLc2EtWS1WSDZPNWdUenZsNVIzWGItOVNVdGREX2xWOEg3XzlsSlBXVTZ4RXV3ZjhhSmhJS21tTVBoaXkwWnl2em1CRG9YQTJKZzhnQXZ4UHNfMFJ1MWwtZ1J4YUl3OWkxakEzSW5LSVIxV1Nqczk0blY3WHhtekZNNVMtMVBRM0pfZktMN1FCSEw1X0djMUt2c3lVOVd0QkJOQVlSTmNBelBjLXZyLXY?oc=5",
-            "summary": "Apt Digital Publishes AppLovin Ads Benchmarks for Ecommerce Brands, Showing What Results to Expect The Des Moines Register",
-            "actorIds": [
-              "applovin"
-            ],
-            "tags": [
-              "行业",
-              "IAA",
-              "买量"
-            ],
-            "publishedAt": "2026-10-08T14:37:21.000Z",
-            "discoveredAt": "2026-10-08T16:25:59.652Z",
-            "firstAt": "2026-10-08T14:37:21.000Z",
-            "heat": 0.741,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Apt Digital Publishes AppLovin Ads Benchmarks for Ecommerce Brands, Showing What Results to Expect - The Des Moines Register",
-                "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM1JKWlRtZG43U3RJRE5TY05jVjNZVlZDbmd1ZS1oNENiMl9sWWFsNEwyN3pyNkpZdGNwRGF6am4xNGFYdl9iUnRLc2EtWS1WSDZPNWdUenZsNVIzWGItOVNVdGREX2xWOEg3XzlsSlBXVTZ4RXV3ZjhhSmhJS21tTVBoaXkwWnl2em1CRG9YQTJKZzhnQXZ4UHNfMFJ1MWwtZ1J4YUl3OWkxakEzSW5LSVIxV1Nqczk0blY3WHhtekZNNVMtMVBRM0pfZktMN1FCSEw1X0djMUt2c3lVOVd0QkJOQVlSTmNBelBjLXZyLXY?oc=5",
-                "source": "The Des Moines Register",
-                "publisherUrl": "https://www.desmoinesregister.com/",
-                "publishedAt": "2026-10-08T14:37:21.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
+            ]
           }
         ],
-        "quiet": false
+        "briefs": [],
+        "quiet": false,
+        "reviewedAt": "2026-10-09T01:06:01.203Z"
       },
       {
         "date": "2026-10-08",
