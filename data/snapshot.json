@@ -58153,6 +58153,192 @@
     ],
     "digests": [
       {
+        "date": "2026-10-10",
+        "publishedAt": "2026-10-10T01:00:39.667Z",
+        "generatedAt": "2026-10-10T01:00:39.667Z",
+        "reviewedAt": "2026-10-10T01:00:39.667Z",
+        "windowStart": "2026-10-09T01:00:00.000Z",
+        "windowEnd": "2026-10-10T01:00:00.000Z",
+        "dataCutoff": "2026-10-10T00:45:19.266Z",
+        "mode": "逐条核查的中文简报；含1条榜单快照观察，另列旧公告复核；数据截至08:45",
+        "entries": [
+          {
+            "id": "verified-20261010-0",
+            "title": "Meowdoku位列美日iOS免费游戏榜第1。",
+            "summary": "今日08:45成功快照显示美国与日本均第1；日本在昨日约09:01快照中为第2。美国Google Play免费游戏第2，日本第2。这里是跨日快照对比，不是本轮“较上次采集”涨幅；排名不代表实际下载或收入。研究价值：重点体验首局理解成本、难度曲线、提示道具与广告触点，未发现现金奖励证据。",
+            "url": "https://apps.apple.com/jp/iphone/charts/6014?chart=top-free",
+            "actorIds": [
+              "oakever",
+              "apple-appstore"
+            ],
+            "tags": [
+              "休闲"
+            ],
+            "publishedAt": "2026-10-10T00:45:20.020Z",
+            "discoveredAt": "2026-10-10T00:45:20.020Z",
+            "firstAt": "2026-10-10T00:45:20.020Z",
+            "heat": 0.993,
+            "participants": 1,
+            "reportCount": 2,
+            "ruleScore": 0,
+            "officialCount": 2,
+            "grouping": "本任务回读官方原文；榜单为成功快照观察，未将同一发布渠道算成多个独立报道",
+            "verification": "官方榜单快照；日期是采集时间，非新闻发表时间",
+            "evidence": [
+              {
+                "title": "Meowdoku位列美日iOS免费游戏榜第1。",
+                "url": "https://apps.apple.com/jp/iphone/charts/6014?chart=top-free",
+                "source": "Apple 官方游戏榜",
+                "publishedAt": "2026-10-10T00:45:20.020Z",
+                "origin": "official",
+                "evidenceType": "官方榜单采集时间 · 非真实下载"
+              },
+              {
+                "title": "Meowdoku位列美日iOS免费游戏榜第1。",
+                "url": "https://apps.apple.com/us/iphone/charts/6014?chart=top-free",
+                "source": "Apple 官方游戏榜",
+                "publishedAt": "2026-10-10T00:45:20.020Z",
+                "origin": "official",
+                "evidenceType": "官方榜单采集时间 · 非真实下载"
+              }
+            ]
+          },
+          {
+            "id": "d52f0fb01a8f28e2ff17",
+            "title": "DMZ介绍持续角色成长与撤离失败成本。",
+            "summary": "Xbox Wire于10月9日整理《Modern Warfare 4》新模式：局外制作、任务、共享物资、持久化角色与撤离相互连接；角色救回费用随特性投入增长。文章说符合条件的数字预购用户计划10月20日提前体验，不能写成已经上线。研究价值：拆解一次失败后哪些资产保留、哪些损失，以及救回费用的增长曲线；文中DMZ Cash是游戏内资源，不是网赚现金收益。",
+            "url": "https://news.xbox.com/en-us/2026/10/09/dmz-5-features-get-excited-for-mw4/",
+            "actorIds": [
+              "xbox"
+            ],
+            "tags": [
+              "行业",
+              "PC主机"
+            ],
+            "publishedAt": "2026-10-09T17:00:00.000Z",
+            "discoveredAt": "2026-10-09T20:51:12.190Z",
+            "firstAt": "2026-10-09T17:00:00.000Z",
+            "heat": 0.793,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "本任务回读官方原文；榜单为成功快照观察，未将同一发布渠道算成多个独立报道",
+            "verification": "官方原文回读；研究方向未实测",
+            "evidence": [
+              {
+                "title": "DMZ介绍持续角色成长与撤离失败成本。",
+                "url": "https://news.xbox.com/en-us/2026/10/09/dmz-5-features-get-excited-for-mw4/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-10-09T17:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方平台原文 · 效果未经实测"
+              }
+            ]
+          },
+          {
+            "id": "c2244f621baa0f5d6ea4",
+            "title": "PlayStation用每周主题与官方展示组织玩家UGC。",
+            "summary": "10月9日《Marvel’s Wolverine》专题选登玩家的盟友/反派截图，并公布下一轮“服装”主题，截止为10月14日23:59 PT。研究价值：可拆解“主题—提交—精选展示—下一轮主题”的低成本参与循环；官方展示机会不是现金奖励，也没有已证实的留存提升数据。这是运营案例，不是游戏新品。",
+            "url": "https://blog.playstation.com/2026/10/09/share-of-the-week-marvels-wolverine-allies-villains/",
+            "actorIds": [
+              "playstation"
+            ],
+            "tags": [
+              "行业",
+              "PC主机"
+            ],
+            "publishedAt": "2026-10-09T15:59:32.000Z",
+            "discoveredAt": "2026-10-09T16:08:57.415Z",
+            "firstAt": "2026-10-09T15:59:32.000Z",
+            "heat": 0.771,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "本任务回读官方原文；榜单为成功快照观察，未将同一发布渠道算成多个独立报道",
+            "verification": "官方原文回读；研究方向未实测",
+            "evidence": [
+              {
+                "title": "PlayStation用每周主题与官方展示组织玩家UGC。",
+                "url": "https://blog.playstation.com/2026/10/09/share-of-the-week-marvels-wolverine-allies-villains/",
+                "source": "PlayStation 官方订阅",
+                "publishedAt": "2026-10-09T15:59:32.000Z",
+                "origin": "official",
+                "evidenceType": "官方平台原文 · 效果未经实测"
+              }
+            ]
+          },
+          {
+            "id": "70869dc2a385ff5d072b",
+            "title": "Xbox公布10月12—16日新作观察名单。",
+            "summary": "10月9日平台日程列出《Colorbound》（12日）、《Survivor Cells》（13日）、《Cleaning Simulator》（14日）等计划。研究价值：跟踪颜色改变环境、主动防守幸存者、清洁任务可视反馈等玩法；日期是计划，发售可能调整，未实测不写成可直接复刻。",
+            "url": "https://news.xbox.com/en-us/2026/10/09/next-week-on-xbox-new-games-for-october-12-to-16/",
+            "actorIds": [
+              "xbox"
+            ],
+            "tags": [
+              "行业",
+              "PC主机"
+            ],
+            "publishedAt": "2026-10-09T14:01:46.000Z",
+            "discoveredAt": "2026-10-09T16:08:57.415Z",
+            "firstAt": "2026-10-09T14:01:46.000Z",
+            "heat": 0.728,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "本任务回读官方原文；榜单为成功快照观察，未将同一发布渠道算成多个独立报道",
+            "verification": "官方原文回读；研究方向未实测",
+            "evidence": [
+              {
+                "title": "Xbox公布10月12—16日新作观察名单。",
+                "url": "https://news.xbox.com/en-us/2026/10/09/next-week-on-xbox-new-games-for-october-12-to-16/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-10-09T14:01:46.000Z",
+                "origin": "official",
+                "evidenceType": "官方平台原文 · 效果未经实测"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "followup-r6m-20261010",
+            "title": "复核跟进：Rainbow Six Mobile停服公告日期是10月8日，不能写成10月9日新宣布",
+            "summary": "官网公告计划于2027年1月15日结束服务，下一赛季仍计划推进；官方FAQ解释资源与长期战略安排，未提供足以认定玩家数量或营收是原因的数据。官网原公告仅标10月8日，不伪造具体时刻。",
+            "url": "https://www.ubisoft.com/en-us/game/rainbow-six/mobile/news-updates/7pg9eqvmqGKyfJHmnrUUKQ/rainbow-six-mobile-update-message-from-the-devs",
+            "actorIds": [],
+            "tags": [
+              "行业"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-10T01:00:39.667Z",
+            "firstAt": null,
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "旧公告复核，未计为今日新宣布",
+            "verification": "官网原文日期10月8日；媒体10月9日报道",
+            "evidence": [
+              {
+                "title": "Rainbow Six Mobile Update – Message From the Devs",
+                "url": "https://www.ubisoft.com/en-us/game/rainbow-six/mobile/news-updates/7pg9eqvmqGKyfJHmnrUUKQ/rainbow-six-mobile-update-message-from-the-devs",
+                "source": "Ubisoft 开发团队",
+                "publishedAt": null,
+                "sourceDate": "2026-10-08",
+                "origin": "official",
+                "evidenceType": "原公告10月8日；具体时刻未披露"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-10-09",
         "publishedAt": "2026-10-09T01:00:00.000Z",
         "generatedAt": "2026-10-09T01:01:00.960Z",
