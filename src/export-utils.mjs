@@ -1,4 +1,5 @@
 export function gameCountry(g){if(g.country)return g.country;try{const u=new URL(g.evidenceUrl||g.url);if(u.hostname==='play.google.com'&&u.searchParams.get('gl'))return u.searchParams.get('gl').toUpperCase();if(u.hostname==='apps.apple.com'&&/^\/[a-z]{2}\//i.test(u.pathname))return u.pathname.split('/')[1].toUpperCase()}catch{}return '未披露'}
+export function gameKey(platform,id,country='US'){const region=country.toUpperCase();return (platform==='google'?'google:':'ios:')+id+(region==='US'?'':':'+region)}
 export function matchingGames(games,query='',topic='全部'){return Object.values(games).filter(g=>!query||(g.name+' '+g.developer).toLowerCase().includes(query.toLowerCase())).filter(g=>topic==='全部'||g.tags?.includes(topic)).map(g=>({...g,country:gameCountry(g)}))}
 export function csvRows(rows,fields){const cell=v=>{let s=String(v??'未披露');if(/^[=+@-]/.test(s)&&!/^[-+]?\d+(\.\d+)?$/.test(s))s="'"+s;return '"'+s.replace(/"/g,'""')+'"'};return [fields.join(','),...rows.map(r=>fields.map(k=>cell(r[k])).join(','))].join('\n')}
 export function buildExport({view,games=[],notes=[],sources=[],news=[],chart,basis,range,actors=[],events=[],digest}){

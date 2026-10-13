@@ -1,0 +1,2 @@
+import {gameCountry,gameKey} from './export-utils.mjs';
+export function metadataCandidates(games,charts,limit=32){const map=new Map();const offer=(id,country)=>{country=country.toUpperCase();if(id&&['US','JP'].includes(country))map.set(gameKey('google',id,country),[String(id),country])};for(const [key,chart] of Object.entries(charts)){if(key.startsWith('play-'))for(const item of chart.items.slice(0,3))offer(item.id,chart.country)}for(const g of Object.values(games))if(g.platform==='Google Play')offer(g.appId,gameCountry(g));return [...map.values()].slice(0,limit)}
