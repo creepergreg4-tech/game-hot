@@ -76834,832 +76834,182 @@
     "digests": [
       {
         "date": "2026-10-15",
-        "publishedAt": "2026-10-15T01:00:00.000Z",
-        "generatedAt": "2026-10-15T01:04:01.984Z",
+        "publishedAt": "2026-10-15T01:06:38.500Z",
+        "generatedAt": "2026-10-15T01:06:38.500Z",
         "windowStart": "2026-10-14T01:00:00.000Z",
         "windowEnd": "2026-10-15T01:00:00.000Z",
-        "mode": "规则编排 · 保留原标题与原文摘要",
+        "dataCutoff": "2026-10-15T01:03:49.216Z",
+        "mode": "中文核查版：官方发布与媒体跟进分开；计划开放不是已上线；快照截至09:04左右",
         "entries": [
           {
-            "id": "22fab09dfc95fa7d4e08",
-            "title": "Gran Turismo 7’s Spec IV (Part 1) launches today and a first look at DualSense wireless controller – Gran Turismo Limited Edition",
-            "url": "https://blog.playstation.com/2026/10/14/gran-turismo-7s-spec-iv-part-1-launches-today-and-a-first-look-at-dualsense-wireless-controller-gran-turismo-limited-edition/",
-            "summary": "Hey everyone, we’re excited to share news on Gran Turismo with you today. For starters, we have full details on today’s Part 1 of the Gran Turismo 7 Spec IV update. Plus, we celebrate 30 years of Gran Turismo with the first look at the Gran",
-            "actorIds": [
-              "playstation"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-14T13:00:48.000Z",
-            "discoveredAt": "2026-10-14T15:04:17.372Z",
-            "firstAt": "2026-10-14T13:00:48.000Z",
-            "heat": 0.706,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 54,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Gran Turismo 7’s Spec IV (Part 1) launches today and a first look at DualSense wireless controller – Gran Turismo Limited Edition",
-                "url": "https://blog.playstation.com/2026/10/14/gran-turismo-7s-spec-iv-part-1-launches-today-and-a-first-look-at-dualsense-wireless-controller-gran-turismo-limited-edition/",
-                "source": "PlayStation 官方订阅",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-14T13:00:48.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "93a9b674914fe71f03cc",
-            "title": "FarmVille 2: Country Escape Partners With Blue Cross To Drive Real-World Impact",
-            "url": "https://www.zynga.com/corporate/farmville-2-country-escape-partners-with-blue-cross-to-drive-real-world-impact/",
-            "summary": "Prepare to play with purpose as FarmVille 2: Country Escape launches a major new partnership with animal charity Blue Cross. Over the coming weeks, players can support real-world animals in need by tending to their Pet Pal in-game. Beginnin",
-            "actorIds": [
-              "zynga"
-            ],
-            "tags": [
-              "行业",
-              "手游"
-            ],
-            "publishedAt": "2026-10-14T03:00:57.000Z",
-            "discoveredAt": "2026-10-14T15:04:17.372Z",
-            "firstAt": "2026-10-14T03:00:57.000Z",
-            "heat": 0.529,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 54,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "FarmVille 2: Country Escape Partners With Blue Cross To Drive Real-World Impact",
-                "url": "https://www.zynga.com/corporate/farmville-2-country-escape-partners-with-blue-cross-to-drive-real-world-impact/",
-                "source": "Zynga 官方订阅",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-14T03:00:57.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "f42e688e09ba9a074e5c",
-            "title": "Two-Time World Record Holder R.M. Almonte Honors House Dance Legend Voodoo Ray, the Mentor Who Inspired His Journey - EIN News",
-            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObjB4c3FGcE9fVmc2S1hDY04zN3BvWHdTSjBSdmNoMno1Tm02UkhTcmVfX1RfNVZXU3NyZWNvYldjeGg1X0cxZ0xpRWd5TDRfWVBpa0ZDQnZ5Q2ptNkJYNTVqT1BVclM4ZDhRZDVPU2pONXpaNWxMV3R3b2JOSHVhX3k1T2xrdE15ZXl0VDJNVXRBZDdwNVZIV2RDclNQd1NCWVk5bHh4THRicGJteHhTWG1oOE9YUzhsSFZsbXFZVDlnSE5GSXEwel8ydkctTENZQWx0cGpQX0huT0dmR0NHd2JRYWxFOThBUmlF?oc=5",
-            "summary": "Two-Time World Record Holder R.M. Almonte Honors House Dance Legend Voodoo Ray, the Mentor Who Inspired His Journey EIN News",
-            "actorIds": [
-              "voodoo"
-            ],
-            "tags": [
-              "行业",
-              "手游",
-              "休闲"
-            ],
-            "publishedAt": "2026-10-14T17:20:00.000Z",
-            "discoveredAt": "2026-10-14T19:19:37.923Z",
-            "firstAt": "2026-10-14T17:20:00.000Z",
-            "heat": 0.8,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 47,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Two-Time World Record Holder R.M. Almonte Honors House Dance Legend Voodoo Ray, the Mentor Who Inspired His Journey - EIN News",
-                "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObjB4c3FGcE9fVmc2S1hDY04zN3BvWHdTSjBSdmNoMno1Tm02UkhTcmVfX1RfNVZXU3NyZWNvYldjeGg1X0cxZ0xpRWd5TDRfWVBpa0ZDQnZ5Q2ptNkJYNTVqT1BVclM4ZDhRZDVPU2pONXpaNWxMV3R3b2JOSHVhX3k1T2xrdE15ZXl0VDJNVXRBZDdwNVZIV2RDclNQd1NCWVk5bHh4THRicGJteHhTWG1oOE9YUzhsSFZsbXFZVDlnSE5GSXEwel8ydkctTENZQWx0cGpQX0huT0dmR0NHd2JRYWxFOThBUmlF?oc=5",
-                "source": "EIN News",
-                "publisherUrl": "https://www.einnews.com/",
-                "publishedAt": "2026-10-14T17:20:00.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "ee9c77d85ccef3f8b78f",
-            "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam - Ars Technica",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUZJNnpGeVQ4M3cyTzZRSW5mT0NuOWczeURQbnJrWTBNdzhpWGVfWlp1RjNtQ1VHSFhKdXlDVVpJa0VaUG9aT1dxX0NOdk9Cc2xUUDRsbm5EZWNaZEpLc0dhVUl2SFdGRGg0VFFtZmFHR1N6RFc3UU9CZS1yQ2dQT3Q4dEI1ZGdsSm9lbFBhQl9oUUdtNFhxYWJXSmZvTFJBa0dDZGd3VnVOeVBLOV9sRWxRdEtSLUU?oc=5",
-            "summary": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam Ars Technica",
-            "actorIds": [
-              "steam",
-              "epicgames"
-            ],
-            "tags": [
-              "行业",
-              "PC主机",
-              "技术工具",
-              "手游"
-            ],
-            "publishedAt": "2026-10-14T21:15:56.000Z",
-            "discoveredAt": "2026-10-14T15:04:14.043Z",
-            "firstAt": "2026-10-14T14:15:44.000Z",
-            "heat": 1.628,
-            "participants": 2,
-            "reportCount": 2,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam - Ars Technica",
-                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUZJNnpGeVQ4M3cyTzZRSW5mT0NuOWczeURQbnJrWTBNdzhpWGVfWlp1RjNtQ1VHSFhKdXlDVVpJa0VaUG9aT1dxX0NOdk9Cc2xUUDRsbm5EZWNaZEpLc0dhVUl2SFdGRGg0VFFtZmFHR1N6RFc3UU9CZS1yQ2dQT3Q4dEI1ZGdsSm9lbFBhQl9oUUdtNFhxYWJXSmZvTFJBa0dDZGd3VnVOeVBLOV9sRWxRdEtSLUU?oc=5",
-                "source": "Ars Technica",
-                "publisherUrl": "https://arstechnica.com/",
-                "publishedAt": "2026-10-14T21:15:56.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "Epic says its new 'vibe coded' Epic Games Store launcher is faster than Steam",
-                "url": "https://www.pcgamer.com/software/platforms/epic-says-its-new-vibe-coded-epic-games-store-launcher-is-faster-than-steam/",
-                "source": "PC Gamer",
-                "publishedAt": "2026-10-14T14:15:44.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体报道 · 尚未独立核实"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "01bad7fed57ec5a417b8",
-            "title": "'The Library Loads 30x Faster’ – The New, Much Speedier Epic Games Launcher Has Arrived - IGN Southeast Asia",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3VTaW91QXlmQW5ITzN3aHpLTzlNVTZqS0UxMk5Pdm5SckszMEpoQU1UaGp4UjkwbUVtbXlOQnF0ZWh3VDNSbHRCcUVybFJuOWxOV2lmdV9VVkJRUTdGSlpPOUNzVWRCaHdJT0xNM0lnNFlPcTJqNWJrcUFCcFdxRGdBY2VvNVNLRGFtMl9VZXhmd2pTMTVTT25xMUw5UGk1SUVIRF9jYmVTQktBdHRsUkRlSWJjMXNDSXc?oc=5",
-            "summary": "'The Library Loads 30x Faster’ – The New, Much Speedier Epic Games Launcher Has Arrived IGN Southeast Asia",
-            "actorIds": [
-              "epicgames"
-            ],
-            "tags": [
-              "行业",
-              "PC主机",
-              "技术工具",
-              "手游"
-            ],
-            "publishedAt": "2026-10-14T14:44:08.000Z",
-            "discoveredAt": "2026-10-14T15:04:17.372Z",
-            "firstAt": "2026-10-14T13:55:18.000Z",
-            "heat": 1.467,
-            "participants": 2,
-            "reportCount": 2,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "'The Library Loads 30x Faster’ – The New, Much Speedier Epic Games Launcher Has Arrived - IGN Southeast Asia",
-                "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3VTaW91QXlmQW5ITzN3aHpLTzlNVTZqS0UxMk5Pdm5SckszMEpoQU1UaGp4UjkwbUVtbXlOQnF0ZWh3VDNSbHRCcUVybFJuOWxOV2lmdV9VVkJRUTdGSlpPOUNzVWRCaHdJT0xNM0lnNFlPcTJqNWJrcUFCcFdxRGdBY2VvNVNLRGFtMl9VZXhmd2pTMTVTT25xMUw5UGk1SUVIRF9jYmVTQktBdHRsUkRlSWJjMXNDSXc?oc=5",
-                "source": "IGN Southeast Asia",
-                "publisherUrl": "https://sea.ign.com/",
-                "publishedAt": "2026-10-14T14:44:08.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "'The Library Loads 30x Faster’ – The New, Much Speedier Epic Games Launcher Has Arrived - IGN",
-                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeTRrT1oxank3WHQwSWxVZ0plYzNKc01iVDBrLTZkYlRXOFpVU09zamZoVFZfRmV3RXUySVlhOWloMERPUVp2Ml9rck5oSFdUWTg3ZjdkcVVwUGNBSUFCcjBzM2RrQVRFWXNtcVF5TjNkSUk2TWY0Z0xXRXU1Z2lTSlhPaTVqSlkxM1ViM0JMZFR3WDVCU19pQmtsYVNyLUhWZm14bXlxLWtYWkpjV1g5cg?oc=5",
-                "source": "IGN",
-                "publisherUrl": "https://www.ign.com/",
-                "publishedAt": "2026-10-14T13:55:18.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "deede59bc23ed8562204",
-            "title": "任天堂Switch Online新增3款GBA游戏：《合金弹头Advance》上线NSO - 搜狐",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUEplcjFxcDJ6bUNjZDVqNnNQbmdJZFVaOGpST0NUSTlYNEp5amdDOW5ISzJ6MHpzRk9KQUpoN1c1OFNpTW5fOGtZQ1FFZThXNl83VV95QjRESC01UEp4WGw3ZUZ6cEtiLXpyekFzTU5zMFMzYVR5MUhNVDk1M0NOT09jWUljc0Vo?oc=5",
-            "summary": "任天堂Switch Online新增3款GBA游戏：《合金弹头Advance》上线NSO 搜狐",
-            "actorIds": [
-              "nintendo"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-14T10:52:48.000Z",
-            "discoveredAt": "2026-10-14T15:04:17.372Z",
-            "firstAt": "2026-10-14T10:52:48.000Z",
-            "heat": 1.328,
-            "participants": 2,
-            "reportCount": 2,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "任天堂Switch Online新增3款GBA游戏：《合金弹头Advance》上线NSO - 搜狐",
-                "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUEplcjFxcDJ6bUNjZDVqNnNQbmdJZFVaOGpST0NUSTlYNEp5amdDOW5ISzJ6MHpzRk9KQUpoN1c1OFNpTW5fOGtZQ1FFZThXNl83VV95QjRESC01UEp4WGw3ZUZ6cEtiLXpyekFzTU5zMFMzYVR5MUhNVDk1M0NOT09jWUljc0Vo?oc=5",
-                "source": "搜狐",
-                "publisherUrl": "https://m.sohu.com/",
-                "publishedAt": "2026-10-14T10:52:48.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "任天堂Switch Online新增3款GBA游戏：《合金弹头Advance》上线NSO - 搜狐网",
-                "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNV0UxQWhMcnd5eXI3N0xaUVBLRWZkcHNIQ3FEbGViaEFtUGt4Z3haYTZvSmZfTXlLazdIQlQwajVsc3lTLXJOWFpfbUdFMGQ1MlFzZV9URFYyNG53T3BYR01fRno4cFBxNTNNMmJ0WVlQR29POWFpVW5FVHdSLWl4MGNzM3V2bGhsWlIydFlPNHlTN3poRTlEcWJRWTl0X0hvSGJzQUROOGF3b2libE1tRV9jTXk5Y2wwNVZXSmxQZERLemZHVmdKLVhZb2dMcmdCV1pUU0FZQXdFeGZtSm0wMm9oMWFha0w5RTFhenRva1plQmJmcnhNeVk1VQ?oc=5",
-                "source": "搜狐网",
-                "publisherUrl": "https://www.sohu.com/",
-                "publishedAt": "2026-10-14T10:52:48.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "d737d798a30e32667ec9",
-            "title": "Sensor Tower: Korean Mobile MMO Revenue Rebounds, Driven by Hits Like 'SOL: enchant' and 'Zeus' - Inven Global",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMnNsd254QUR5VXhudGpBb09jaXNqN0h3ajJ5RG9qUTN0ZTBWM0FLYmYtSmZRWWFpcUZPb3ZOam9mV1RSakZscUZEVDg3SklYenFvWUt6MTdkTi16STZlMEZoR082MURfam5JMEpxYWJ0V18yeWRNa1YtZXVnWGpxSUF2QkZmeDRVQVp1NDk1MDMySGxmSkhVc3dyYzNIZ0xYYXNDR1ZsbHR2WktPSGJ4T3pmbUN3U0puVlRRdWxINzlIb252ejVZUmh0aw?oc=5",
-            "summary": "Sensor Tower: Korean Mobile MMO Revenue Rebounds, Driven by Hits Like 'SOL: enchant' and 'Zeus' Inven Global",
-            "actorIds": [
-              "sensor-tower"
-            ],
-            "tags": [
-              "行业",
-              "手游"
-            ],
-            "publishedAt": "2026-10-15T00:52:08.000Z",
-            "discoveredAt": "2026-10-15T01:04:01.984Z",
-            "firstAt": "2026-10-15T00:52:08.000Z",
-            "heat": 0.994,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Sensor Tower: Korean Mobile MMO Revenue Rebounds, Driven by Hits Like 'SOL: enchant' and 'Zeus' - Inven Global",
-                "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMnNsd254QUR5VXhudGpBb09jaXNqN0h3ajJ5RG9qUTN0ZTBWM0FLYmYtSmZRWWFpcUZPb3ZOam9mV1RSakZscUZEVDg3SklYenFvWUt6MTdkTi16STZlMEZoR082MURfam5JMEpxYWJ0V18yeWRNa1YtZXVnWGpxSUF2QkZmeDRVQVp1NDk1MDMySGxmSkhVc3dyYzNIZ0xYYXNDR1ZsbHR2WktPSGJ4T3pmbUN3U0puVlRRdWxINzlIb252ejVZUmh0aw?oc=5",
-                "source": "Inven Global",
-                "publisherUrl": "https://www.invenglobal.com/",
-                "publishedAt": "2026-10-15T00:52:08.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "18deaf6850227620c73e",
-            "title": "Epic throws shade at Steam, admits to vibe-coding the new Epic Games Launcher with AI \"to be faster than the other guy\"",
-            "url": "https://www.eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai",
-            "summary": "Epic Games isn't lifting its foot off the gen-AI pedal. The company behind Fortnite and Unreal Engine has now vibe-coded a new Epic Games Launcher in an attempt to outrun Steam, by far the most popular digital games marketplace on PC. Read",
-            "actorIds": [
-              "steam",
-              "epicgames"
-            ],
-            "tags": [
-              "行业",
-              "PC主机",
-              "技术工具",
-              "手游"
-            ],
-            "publishedAt": "2026-10-14T18:17:03.000Z",
-            "discoveredAt": "2026-10-14T19:19:34.255Z",
-            "firstAt": "2026-10-14T18:17:03.000Z",
-            "heat": 0.822,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Epic throws shade at Steam, admits to vibe-coding the new Epic Games Launcher with AI \"to be faster than the other guy\"",
-                "url": "https://www.eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai",
-                "source": "Eurogamer",
-                "publishedAt": "2026-10-14T18:17:03.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体报道 · 尚未独立核实"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "4e0f64527fcb0f6e7091",
-            "title": "Epic Games’ New “Vibe Coded” Launcher Is Now in Preview, Claims 1.8x Faster Startup Than Steam and Adds Linux Support - Wccftech",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3FpSTN1QkUxY25SN3VuMmM3QjBCNWRZbVJyVGtUYXNERk9maklDS04tV25CTnVKSTVMY2ZpRWg5UEpGMzFfMDZxa2R1eDU2bGNOTW8yX1dRV0hMbnV2R1g1WHlpb0pybHlrelFqZENiLS1TUkxWQ01ycWFhS1cxd3h3RXdwZzF0eUVsMjhaR3FneHVYYnpnRmlzSdIBoAFBVV95cUxOX3lDa0puLURPaXJ1dlZmdzMwVHRBQUVxT09ObXN1V25XQUhKOFdVcHd0S2R3Vi02dERXTnU4bGU3NG5KWWFESzZkSnFTZGcyc1B1VG9nV1E1VmtQSmhabjRIQkJjM2I1TFRaRV9iVGFVdWdPcHhJQktxYy0xLUN5cE1YRkw4V2RYN184SU9Jbk14a1NyV09DdWtlS09MN1Bf?oc=5",
-            "summary": "Epic Games’ New “Vibe Coded” Launcher Is Now in Preview, Claims 1.8x Faster Startup Than Steam and Adds Linux Support Wccftech",
-            "actorIds": [
-              "steam",
-              "epicgames"
-            ],
-            "tags": [
-              "行业",
-              "PC主机",
-              "技术工具",
-              "手游"
-            ],
-            "publishedAt": "2026-10-14T16:00:00.000Z",
-            "discoveredAt": "2026-10-14T23:10:57.230Z",
-            "firstAt": "2026-10-14T16:00:00.000Z",
-            "heat": 0.77,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Epic Games’ New “Vibe Coded” Launcher Is Now in Preview, Claims 1.8x Faster Startup Than Steam and Adds Linux Support - Wccftech",
-                "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3FpSTN1QkUxY25SN3VuMmM3QjBCNWRZbVJyVGtUYXNERk9maklDS04tV25CTnVKSTVMY2ZpRWg5UEpGMzFfMDZxa2R1eDU2bGNOTW8yX1dRV0hMbnV2R1g1WHlpb0pybHlrelFqZENiLS1TUkxWQ01ycWFhS1cxd3h3RXdwZzF0eUVsMjhaR3FneHVYYnpnRmlzSdIBoAFBVV95cUxOX3lDa0puLURPaXJ1dlZmdzMwVHRBQUVxT09ObXN1V25XQUhKOFdVcHd0S2R3Vi02dERXTnU4bGU3NG5KWWFESzZkSnFTZGcyc1B1VG9nV1E1VmtQSmhabjRIQkJjM2I1TFRaRV9iVGFVdWdPcHhJQktxYy0xLUN5cE1YRkw4V2RYN184SU9Jbk14a1NyV09DdWtlS09MN1Bf?oc=5",
-                "source": "Wccftech",
-                "publisherUrl": "https://wccftech.com/",
-                "publishedAt": "2026-10-14T16:00:00.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "6656c0f5e5c271befc61",
-            "title": "New Epic Games Launcher Arrives in Preview for Windows, Mac, and Linux - Thurrott.com",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVXl5ZXNzQ0M0TFZpRmFLWjBsYXBCSmY5Mk5pSG84djhrcHJuUVowb3JvUVB1dDJiSjBfbWVHR05hNnRlN2VhbzNIYVljWWw4NGVTNlprekdJRENtbERHSjFveDJteUlMM3VuTGYtckV4TWdDUnJZZGdWWmJVaG5Jb1E3QWZBYnQ5UWJJblR0OUM3a2xGc1VIeS1UcHJvYm9xQ3hoR2hZNk9Cdw?oc=5",
-            "summary": "New Epic Games Launcher Arrives in Preview for Windows, Mac, and Linux Thurrott.com",
-            "actorIds": [
-              "epicgames"
-            ],
-            "tags": [
-              "行业",
-              "PC主机",
-              "技术工具",
-              "手游"
-            ],
-            "publishedAt": "2026-10-14T15:14:25.000Z",
-            "discoveredAt": "2026-10-14T19:19:37.923Z",
-            "firstAt": "2026-10-14T15:14:25.000Z",
-            "heat": 0.753,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "New Epic Games Launcher Arrives in Preview for Windows, Mac, and Linux - Thurrott.com",
-                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVXl5ZXNzQ0M0TFZpRmFLWjBsYXBCSmY5Mk5pSG84djhrcHJuUVowb3JvUVB1dDJiSjBfbWVHR05hNnRlN2VhbzNIYVljWWw4NGVTNlprekdJRENtbERHSjFveDJteUlMM3VuTGYtckV4TWdDUnJZZGdWWmJVaG5Jb1E3QWZBYnQ5UWJJblR0OUM3a2xGc1VIeS1UcHJvYm9xQ3hoR2hZNk9Cdw?oc=5",
-                "source": "Thurrott.com",
-                "publisherUrl": "https://www.thurrott.com/",
-                "publishedAt": "2026-10-14T15:14:25.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "ba0be55df3710642b121",
-            "title": "The new Epic Games Launcher is finally here in Preview - Epic Games",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uN0RwM0hiVEdWeFFlR3NKYVRCLUhTc0VBNExpbjJ4bl83Z2lBOU1GNGhrQ3dTcUc5cURlQzJQOE9uMWxNY1hfYVRFQWR6TGFmc1JrNXFVZmNLcE5qZWItVHNpT2o3cU1Fc3ltXw?oc=5",
-            "summary": "The new Epic Games Launcher is finally here in Preview Epic Games",
-            "actorIds": [
-              "epicgames"
-            ],
-            "tags": [
-              "行业",
-              "PC主机",
-              "技术工具",
-              "手游"
-            ],
-            "publishedAt": "2026-10-14T14:09:29.000Z",
-            "discoveredAt": "2026-10-14T19:19:37.923Z",
-            "firstAt": "2026-10-14T14:09:29.000Z",
-            "heat": 0.73,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "The new Epic Games Launcher is finally here in Preview - Epic Games",
-                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uN0RwM0hiVEdWeFFlR3NKYVRCLUhTc0VBNExpbjJ4bl83Z2lBOU1GNGhrQ3dTcUc5cURlQzJQOE9uMWxNY1hfYVRFQWR6TGFmc1JrNXFVZmNLcE5qZWItVHNpT2o3cU1Fc3ltXw?oc=5",
-                "source": "Epic Games",
-                "publisherUrl": "https://store.epicgames.com/",
-                "publishedAt": "2026-10-14T14:09:29.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "eda435d4df55bbf6011c",
-            "title": "汇量科技(01860.HK)发布公告，于2026年10月14日，该公司斥资464.4万港元回购40万股-证券之星 - 证券之星",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oLWJGYjRZd0tjRlVEWHFnYlZvUlJJcEd2YnBJMFNoeGtNMHRFM1ozVnZabzZzdVhmZW9VeVhIVnZMdkJZLUU4M1JfNUloUzlvSHZzaTVxRGsyV0IwaGc?oc=5",
-            "summary": "汇量科技(01860.HK)发布公告，于2026年10月14日，该公司斥资464.4万港元回购40万股-证券之星 证券之星",
-            "actorIds": [
-              "mobvista"
-            ],
-            "tags": [
-              "行业",
-              "IAA",
-              "买量"
-            ],
-            "publishedAt": "2026-10-14T12:20:21.000Z",
-            "discoveredAt": "2026-10-14T15:04:17.372Z",
-            "firstAt": "2026-10-14T12:20:21.000Z",
-            "heat": 0.692,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "汇量科技(01860.HK)发布公告，于2026年10月14日，该公司斥资464.4万港元回购40万股-证券之星 - 证券之星",
-                "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oLWJGYjRZd0tjRlVEWHFnYlZvUlJJcEd2YnBJMFNoeGtNMHRFM1ozVnZabzZzdVhmZW9VeVhIVnZMdkJZLUU4M1JfNUloUzlvSHZzaTVxRGsyV0IwaGc?oc=5",
-                "source": "证券之星",
-                "publisherUrl": "https://hk.stockstar.com/",
-                "publishedAt": "2026-10-14T12:20:21.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          }
-        ],
-        "briefs": [
-          {
-            "id": "57ed6ad600ecdbe262f7",
-            "title": "米哈游《原神》游戏测试人员泄密至境外，二审被判赔50万元 - 东方财富",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91SEtwblpYY055V2ZsdnpyX21ob04wb1k3dHpUb25YY0Q0Q1BraldlLVdsUTdpZDl1WVNpRHdtVDRLMEVlRzMxcTNwcHg4c090RkVwWUd4UE1HUmVaTDVkV2VMOEo?oc=5",
-            "summary": "米哈游《原神》游戏测试人员泄密至境外，二审被判赔50万元 东方财富",
-            "actorIds": [
-              "mihoyo"
-            ],
-            "tags": [
-              "行业",
-              "手游"
-            ],
-            "publishedAt": "2026-10-14T08:19:09.000Z",
-            "discoveredAt": "2026-10-14T10:07:41.170Z",
-            "firstAt": "2026-10-14T08:19:09.000Z",
-            "heat": 0.616,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "米哈游《原神》游戏测试人员泄密至境外，二审被判赔50万元 - 东方财富",
-                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91SEtwblpYY055V2ZsdnpyX21ob04wb1k3dHpUb25YY0Q0Q1BraldlLVdsUTdpZDl1WVNpRHdtVDRLMEVlRzMxcTNwcHg4c090RkVwWUd4UE1HUmVaTDVkV2VMOEo?oc=5",
-                "source": "东方财富",
-                "publisherUrl": "http://finance.eastmoney.com/",
-                "publishedAt": "2026-10-14T08:19:09.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "530714c8d975c960b5e3",
-            "title": "Xbox CEO reportedly warns firm will \"not survive\" if it only relies on existing franchises",
-            "url": "https://www.gamesindustry.biz/xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-relies-on-existing-franchises",
-            "summary": "Xbox boss Asha Sharma has reportedly warned that the organisation will \"not survive\" if it relies on existing game franchises. Read more",
-            "actorIds": [
-              "xbox"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-14T07:44:27.000Z",
-            "discoveredAt": "2026-10-14T10:07:39.826Z",
-            "firstAt": "2026-10-14T07:44:27.000Z",
-            "heat": 0.606,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Xbox CEO reportedly warns firm will \"not survive\" if it only relies on existing franchises",
-                "url": "https://www.gamesindustry.biz/xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-relies-on-existing-franchises",
-                "source": "GamesIndustry.biz",
-                "publishedAt": "2026-10-14T07:44:27.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体报道 · 尚未独立核实"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "b5a7aa77ca0f23b41f8c",
-            "title": "米哈游：《原神》测试人员金某擅自使用手机拍摄游戏未公开内容，泄密至境外，被判赔偿50万 - 搜狐网",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2hCbHQ1V3JzMjdDN1ZiRUt5MFljUTF6Vmx5V3lhODF6b2VfV0FSa3A2dEdZWkN6T3hyUWxIZ1JGQ1lDem5tcU5KRjRxYXlWeGROeTlKN3J1RUxEZ04wY0dKVmNOV0l3bU5xdjJuZ3g3RURDVFAtUDlVZ2Z6RUR5NFp1Qkg3cjRLaFBjNGFqaw?oc=5",
-            "summary": "米哈游：《原神》测试人员金某擅自使用手机拍摄游戏未公开内容，泄密至境外，被判赔偿50万 搜狐网",
-            "actorIds": [
-              "mihoyo"
-            ],
-            "tags": [
-              "行业",
-              "手游"
-            ],
-            "publishedAt": "2026-10-14T05:40:41.000Z",
-            "discoveredAt": "2026-10-14T10:07:41.170Z",
-            "firstAt": "2026-10-14T05:40:41.000Z",
-            "heat": 0.571,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "米哈游：《原神》测试人员金某擅自使用手机拍摄游戏未公开内容，泄密至境外，被判赔偿50万 - 搜狐网",
-                "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2hCbHQ1V3JzMjdDN1ZiRUt5MFljUTF6Vmx5V3lhODF6b2VfV0FSa3A2dEdZWkN6T3hyUWxIZ1JGQ1lDem5tcU5KRjRxYXlWeGROeTlKN3J1RUxEZ04wY0dKVmNOV0l3bU5xdjJuZ3g3RURDVFAtUDlVZ2Z6RUR5NFp1Qkg3cjRLaFBjNGFqaw?oc=5",
-                "source": "搜狐网",
-                "publisherUrl": "https://www.sohu.com/",
-                "publishedAt": "2026-10-14T05:40:41.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "3d315022d6e479157e22",
-            "title": "Google Play Launches Personalized Game Recommendation Feature 'Game Finder' - Inven Global",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzNDV0U4Nlo0dlVlckJwZnBpekl1SXk3dGY1NkwtbjJVeFBmYjJ6anM0a1I4cDhtZVdOYWs5a3h6TFp3aUtiRE5DUW42eU1LWDBTbXRGbFJZWXVaMmZMLXNTek1INmV3MkpvaUkyTVlROVp0aHFGcmN0NnR5b0xVMlZFWjhTdTVSNGhiVlRLdUl6andSempseWxhTWxfUmZ3NFdKYUZ4dVozQ08weGRRaHJVV0l0aWs?oc=5",
-            "summary": "Google Play Launches Personalized Game Recommendation Feature 'Game Finder' Inven Global",
-            "actorIds": [
-              "googleplay"
-            ],
-            "tags": [
-              "行业",
-              "手游"
-            ],
-            "publishedAt": "2026-10-14T01:21:20.000Z",
-            "discoveredAt": "2026-10-14T15:04:17.372Z",
-            "firstAt": "2026-10-14T01:21:20.000Z",
-            "heat": 0.504,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Google Play Launches Personalized Game Recommendation Feature 'Game Finder' - Inven Global",
-                "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzNDV0U4Nlo0dlVlckJwZnBpekl1SXk3dGY1NkwtbjJVeFBmYjJ6anM0a1I4cDhtZVdOYWs5a3h6TFp3aUtiRE5DUW42eU1LWDBTbXRGbFJZWXVaMmZMLXNTek1INmV3MkpvaUkyTVlROVp0aHFGcmN0NnR5b0xVMlZFWjhTdTVSNGhiVlRLdUl6andSempseWxhTWxfUmZ3NFdKYUZ4dVozQ08weGRRaHJVV0l0aWs?oc=5",
-                "source": "Inven Global",
-                "publisherUrl": "https://www.invenglobal.com/",
-                "publishedAt": "2026-10-14T01:21:20.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "d1b77e6d30b7a264c21b",
-            "title": "Meet the XBOX Nano Controller",
-            "url": "https://news.xbox.com/en-us/2026/10/14/xbox-nano-controller/",
-            "summary": "Today, we’re introducing the XBOX Nano Controller, designed to fit nearly every pocket and budget. Its compact design offers a great option for younger players, smaller hands, or anyone seeking something portable for play on the go. The XBO",
-            "actorIds": [
-              "xbox"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-14T16:00:00.000Z",
-            "discoveredAt": "2026-10-14T19:19:37.923Z",
-            "firstAt": "2026-10-14T16:00:00.000Z",
-            "heat": 0.77,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 44,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Meet the XBOX Nano Controller",
-                "url": "https://news.xbox.com/en-us/2026/10/14/xbox-nano-controller/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-14T16:00:00.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "b2dbf0f33725033f2274",
-            "title": "PlayStation Plus Game Catalog for October: Mafia: The Old Country, Horizon Forbidden West, Mycopunk and more",
-            "url": "https://blog.playstation.com/2026/10/14/playstation-plus-game-catalog-for-october-mafia-the-old-country-horizon-forbidden-west-mycopunk-and-more/",
-            "summary": "This month, descend into the criminal underworld of early 20th-century Sicily in Mafia: The Old Country, brave a deadly frontier filled with awe-inspiring machines in Horizon Forbidden West, or take on hordes of fungal enemies with an outra",
-            "actorIds": [
-              "playstation"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-14T15:30:18.000Z",
-            "discoveredAt": "2026-10-14T19:19:37.923Z",
-            "firstAt": "2026-10-14T15:30:18.000Z",
-            "heat": 0.759,
-            "participants": 1,
-            "reportCount": 2,
-            "ruleScore": 44,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "PlayStation Plus Game Catalog for October: Mafia: The Old Country, Horizon Forbidden West, Mycopunk and more",
-                "url": "https://blog.playstation.com/2026/10/14/playstation-plus-game-catalog-for-october-mafia-the-old-country-horizon-forbidden-west-mycopunk-and-more/",
-                "source": "PlayStation 官方订阅",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-14T15:30:18.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              },
-              {
-                "title": "PlayStation Plus Game Catalog for October: Mafia: The Old Country, Horizon Forbidden West, Mycopunk and more - PlayStation.Blog",
-                "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNR3pBNFpJUzhMOWN5NmZPckFUYjNQYW1DTVRlUDZ2czZfNmhkYU1rNTRoRHNDWWl4Z2MtSmNfTmJNYm5wVGhKZmtZanpxT0FDUmRxcWppVmdGTENGOUp4TEhfQWpac0xCZmM0X1MxMmNEQXdqY3VpcV9GSjFVR1VuVktzbWx0MnVYU1VLVVdKOGVrb0dQT2ZxTjc3RFFUWW9wN2N3XzZJUWE4bl80ZmJGVzRJbk96VjhnZE5YUmJGZ0FlMVNZa3VuVkJGRlBhTUc3eGF4T3RKNlk4aWZZOHc?oc=5",
-                "source": "PlayStation.Blog",
-                "publisherUrl": "https://blog.playstation.com/",
-                "publishedAt": "2026-10-14T15:30:18.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "e23761688206a82cea04",
-            "title": "Castlevania: Belmont’s Curse Is a Worthy Heir to its Legacy",
-            "url": "https://news.xbox.com/en-us/2026/10/14/castlevania-belmonts-curse-legacy/",
-            "summary": "Just like that pesky Count Dracula, the Castlevania series refuses to stay dead. 40 years after legendary vampire hunter Simon Belmont’s debut, and 18 (!) after the last original 2D entry, Rose Belmont is here to whip undead ass and show th",
-            "actorIds": [
-              "xbox"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-14T15:00:00.000Z",
-            "discoveredAt": "2026-10-14T15:04:17.372Z",
-            "firstAt": "2026-10-14T15:00:00.000Z",
-            "heat": 0.748,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 44,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Castlevania: Belmont’s Curse Is a Worthy Heir to its Legacy",
-                "url": "https://news.xbox.com/en-us/2026/10/14/castlevania-belmonts-curse-legacy/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-14T15:00:00.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "e3a4b909ae73dfca3360",
-            "title": "Guide your campaign spending with new priority and allocation features",
+            "id": "verified-20261015-0",
+            "title": "Google Ads推出渠道优先级与预算分配控制，先核对广告系列适用范围。",
+            "summary": "Google于10月14日发文介绍高/低优先级，以及低优先级渠道每日预算占比控制；公告列出的系列包括Search、Shopping、Performance Max、Demand Gen，未来数月逐步推出。公告没有据此确认App campaigns适用，且预算比例属于best-effort目标，不是硬性封顶保证。研究价值：游戏买量团队可核对账户实际可见范围与渠道分配变化，不能把这项公告直接当作App campaigns已获新开关或ROAS会提升。",
             "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
-            "summary": "New controls in Google Ads let marketers categorize channel groupings by priority and better control how budget is allocated",
             "actorIds": [
               "google-ads"
             ],
             "tags": [
-              "行业",
-              "IAA",
-              "买量"
+              "买量",
+              "行业"
             ],
             "publishedAt": "2026-10-14T15:00:00.000Z",
             "discoveredAt": "2026-10-14T19:19:37.923Z",
             "firstAt": "2026-10-14T15:00:00.000Z",
-            "heat": 0.748,
+            "heat": 0,
             "participants": 1,
             "reportCount": 1,
             "ruleScore": 44,
             "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "grouping": "本任务回读官网；媒体跟进与新动作、计划开放和已开放分别记录",
+            "verification": "官方原文已回读；效果未独立实测",
             "evidence": [
               {
-                "title": "Guide your campaign spending with new priority and allocation features",
+                "title": "Google Ads推出渠道优先级与预算分配控制，先核对广告系列适用范围。",
                 "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
-                "source": "Google Ads 官方订阅",
-                "publisherUrl": null,
+                "source": "Google Ads官方博客",
                 "publishedAt": "2026-10-14T15:00:00.000Z",
                 "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+                "evidenceType": "逐步推出；未确认App campaigns适用"
               }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
+            ]
           },
           {
-            "id": "8be4c522b7657e8fa339",
-            "title": "XSOLLA PARTNERS WITH GAMEJAMPLUS TO SUPPORT EMERGING STUDIOS THROUGHOUT 2026-2027 - Games Press",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaTZLM01XRDhnTmcwMm94Y1JaZHBXMVM1WnByenpybW9EbDdmVkFURF94eHdIS25HOVV5UVlZanAta0gzanZZNUMtYWppdWZpSFpwMW5RN3Q4M20tdXV0ZHRVb24tODQ2M1lsLWlkVUdsWXktVDRTTGx0dUVacWYtZFA2Q2VqOEJ5cFpyVUF3Z0JkZVpzaXRVTmJCOEJxUQ?oc=5",
-            "summary": "XSOLLA PARTNERS WITH GAMEJAMPLUS TO SUPPORT EMERGING STUDIOS THROUGHOUT 2026-2027 Games Press",
+            "id": "verified-20261015-1",
+            "title": "Squad Busters最终时间线已由官网确认，停止开发与停服不是同一天。",
+            "summary": "10月14日媒体跟进了具体日期，Supercell官网只标最后更新为2026年10月：12月1日从App Store和Google Play移除，已安装用户仍可玩；12月14日不可再玩。停止开发与关闭内购为更早动作，不算本轮首次决定关闭。研究价值：观察多次重做之后的产品取舍、最终目标收束、权益沟通和用户信任；不把第三方估算下载/收入写成官方经营数据。",
+            "url": "https://supercell.com/en/news/squad-busters-faq/",
             "actorIds": [
-              "xsolla"
+              "supercell"
             ],
             "tags": [
-              "行业",
-              "技术工具"
+              "行业"
             ],
-            "publishedAt": "2026-10-14T13:54:41.000Z",
+            "publishedAt": "2026-10-14T14:28:15.000Z",
             "discoveredAt": "2026-10-14T15:04:17.372Z",
-            "firstAt": "2026-10-14T13:03:40.000Z",
-            "heat": 1.432,
-            "participants": 2,
-            "reportCount": 3,
+            "firstAt": "2026-10-14T14:28:15.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 2,
             "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "officialCount": 1,
+            "grouping": "本任务回读官网；媒体跟进与新动作、计划开放和已开放分别记录",
+            "verification": "媒体跟进10月14日；官网仅标10月更新",
             "evidence": [
               {
-                "title": "XSOLLA PARTNERS WITH GAMEJAMPLUS TO SUPPORT EMERGING STUDIOS THROUGHOUT 2026-2027 - Games Press",
-                "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaTZLM01XRDhnTmcwMm94Y1JaZHBXMVM1WnByenpybW9EbDdmVkFURF94eHdIS25HOVV5UVlZanAta0gzanZZNUMtYWppdWZpSFpwMW5RN3Q4M20tdXV0ZHRVb24tODQ2M1lsLWlkVUdsWXktVDRTTGx0dUVacWYtZFA2Q2VqOEJ5cFpyVUF3Z0JkZVpzaXRVTmJCOEJxUQ?oc=5",
-                "source": "Games Press",
-                "publisherUrl": "https://www.gamespress.com/",
-                "publishedAt": "2026-10-14T13:54:41.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
+                "title": "Squad Busters最终时间线已由官网确认，停止开发与停服不是同一天。",
+                "url": "https://supercell.com/en/news/squad-busters-faq/",
+                "source": "Supercell官网",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "最终时间线与原有停止开发决定分开"
               },
               {
-                "title": "XSOLLA PARTNERS WITH GAMEJAMPLUS TO SUPPORT EMERGING STUDIOS THROUGHOUT 2026-2027 - Games Press",
-                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHg0SWRnTkxRc1EtM0IwdEFDdnZTTGZlZHFHR09lSGRrS0JNZGl0ZUJOUkdlX2FOSk5XVDluN1cyejlib1dLV2V4WW1NOTB2RUN2SktDazkwcXQ4TEt5aGtGQWl4d0x6SzcxaUw3ejQxSEJ1Ujl1XzczSlp3ZHR3YkRFUTNlLTE0TXJrN3VTU2lrVGJDTTJvb2xCLWs3UWIwcVVTX0hn?oc=5",
-                "source": "Games Press",
-                "publisherUrl": "https://www.gamespress.com/",
-                "publishedAt": "2026-10-14T13:44:44.000Z",
+                "title": "Squad Busters最终时间线已由官网确认，停止开发与停服不是同一天。",
+                "url": "https://mobilegamer.biz/supercell-confirms-squad-busters-will-shut-down-on-december-14/",
+                "source": "Mobilegamer.biz媒体",
+                "publishedAt": "2026-10-14T14:28:15.000Z",
                 "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "Xsolla Partners With GameJamPlus to Support Emerging Studios Throughout 2026-2027 - AOL.com",
-                "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzQ3dERlRFRVSWVaZS16UVRlZ3JrbGFCLWFkeDhHS05qbTNnYmVhbUZzaFBySkg5UDN5VjNiSXhXaUVLS29FMlJfZkxGSHRwNVpoYUVtcHlRVFJweE5pVHA5TDZ0eElfb3JCYWxkVUFkTjlYa3plQWthYzJMeDJaUVAzZXJrS1RyTXFNcDhxUDJNUQ?oc=5",
-                "source": "AOL.com",
-                "publisherUrl": "https://www.aol.com/",
-                "publishedAt": "2026-10-14T13:03:40.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
+                "evidenceType": "最终时间线与原有停止开发决定分开"
               }
-            ],
-            "verification": "媒体报道；事实待核查"
+            ]
           },
           {
-            "id": "d49a9a45a8754451dd9d",
-            "title": "Mafia, Horizon Forbidden West and More Games Are Coming to PlayStation Plus Soon - CNET",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHpPc3pWdTJ4Y1BLVnRsWGkyYWtDNDRIQlpnSW5ldHc3RjFSbW1Ra0JFZV9ydTNOUERkV2tZWW9ReUV3ckx1a0lZemJSQmY0VG1YWnN3dFZtUWpBaVJtNDhRTzJ1SHNiOTlMZy1mVkhuRFIta2ZMamNDWnN1dVRFX3dn?oc=5",
-            "summary": "Mafia, Horizon Forbidden West and More Games Are Coming to PlayStation Plus Soon CNET",
+            "id": "verified-20261015-2",
+            "title": "FarmVille 2把个人任务、社区进度与公益目标连接起来。",
+            "summary": "Zynga于10月14日宣布与Blue Cross合作，Pet Pals活动持续至11月10日。玩家通过农场任务等获取饲料、喂养宠物并解锁游戏内里程碑；社区累计进度达到目标时，由Zynga向慈善机构捐款。它不是给玩家兑现现金的网赚活动，捐赠也有达标条件。研究价值：拆解“日常行为—可见进度—里程碑—外部意义”的循环与信任表达，效果数据和实际捐赠完成情况尚未验证。",
+            "url": "https://www.zynga.com/corporate/farmville-2-country-escape-partners-with-blue-cross-to-drive-real-world-impact/",
+            "actorIds": [
+              "zynga"
+            ],
+            "tags": [
+              "休闲"
+            ],
+            "publishedAt": "2026-10-14T03:00:57.000Z",
+            "discoveredAt": "2026-10-14T15:04:17.372Z",
+            "firstAt": "2026-10-14T03:00:57.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 54,
+            "officialCount": 1,
+            "grouping": "本任务回读官网；媒体跟进与新动作、计划开放和已开放分别记录",
+            "verification": "官方原文已回读；效果未独立实测",
+            "evidence": [
+              {
+                "title": "FarmVille 2把个人任务、社区进度与公益目标连接起来。",
+                "url": "https://www.zynga.com/corporate/farmville-2-country-escape-partners-with-blue-cross-to-drive-real-world-impact/",
+                "source": "Zynga官方公告",
+                "publishedAt": "2026-10-14T03:00:57.000Z",
+                "origin": "official",
+                "evidenceType": "达标后由Zynga捐赠，不是玩家现金收益"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261015-3",
+            "title": "GT7公布免费Spec IV第一部分，台北时间今天14:00才计划开放。",
+            "summary": "PlayStation Blog原文日期10月14日，写明开放为14日23:00 PDT／15日07:00 BST／15日15:00 JST，均对应台北15日14:00。因此本期早间不能写成已上线。内容包含6辆车、Sportsland Sugo赛道、新活动和体验功能。研究价值：观察长期运营如何分批组织新内容、回流目标与既有内容再利用；这不是IAA/网赚产品盈利证据。",
+            "url": "https://blog.playstation.com/2026/10/14/gran-turismo-7s-spec-iv-part-1-launches-today-and-a-first-look-at-dualsense-wireless-controller-gran-turismo-limited-edition/",
             "actorIds": [
               "playstation"
             ],
             "tags": [
-              "行业",
-              "PC主机"
+              "行业"
             ],
-            "publishedAt": "2026-10-14T22:20:00.000Z",
-            "discoveredAt": "2026-10-15T01:04:01.984Z",
-            "firstAt": "2026-10-14T22:20:00.000Z",
-            "heat": 0.924,
+            "publishedAt": "2026-10-14T13:00:48.000Z",
+            "discoveredAt": "2026-10-14T15:04:17.372Z",
+            "firstAt": "2026-10-14T13:00:48.000Z",
+            "heat": 0,
             "participants": 1,
             "reportCount": 1,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "ruleScore": 54,
+            "officialCount": 1,
+            "grouping": "本任务回读官网；媒体跟进与新动作、计划开放和已开放分别记录",
+            "verification": "截至本轮尚未到计划开放时间",
             "evidence": [
               {
-                "title": "Mafia, Horizon Forbidden West and More Games Are Coming to PlayStation Plus Soon - CNET",
-                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHpPc3pWdTJ4Y1BLVnRsWGkyYWtDNDRIQlpnSW5ldHc3RjFSbW1Ra0JFZV9ydTNOUERkV2tZWW9ReUV3ckx1a0lZemJSQmY0VG1YWnN3dFZtUWpBaVJtNDhRTzJ1SHNiOTlMZy1mVkhuRFIta2ZMamNDWnN1dVRFX3dn?oc=5",
-                "source": "CNET",
-                "publisherUrl": "https://www.cnet.com/",
-                "publishedAt": "2026-10-14T22:20:00.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
+                "title": "GT7公布免费Spec IV第一部分，台北时间今天14:00才计划开放。",
+                "url": "https://blog.playstation.com/2026/10/14/gran-turismo-7s-spec-iv-part-1-launches-today-and-a-first-look-at-dualsense-wireless-controller-gran-turismo-limited-edition/",
+                "source": "PlayStation官方博客",
+                "publishedAt": "2026-10-14T13:00:48.000Z",
+                "origin": "official",
+                "evidenceType": "计划台北10月15日14:00开放"
               }
+            ]
+          },
+          {
+            "id": "verified-20261015-4",
+            "title": "Legacy Games关闭商店与停止重新下载有不同截止日。",
+            "summary": "10月14日行业媒体报道触发本轮核查，官网FAQ没有明确首发时刻，不认定它一定在14日首次宣布。官网列明2026年12月31日关店、积分/奖励和部分兑换功能结束；2027年2月28日是已购游戏下载与安装的最后期限。已安装游戏仍可玩，但此后卸载可能无法再次下载。研究价值：区分购买、安装、重新下载和会员奖励权益，研究承诺与退出沟通；不能概括成关店当天所有游戏都不能玩。",
+            "url": "https://legacygames.com/legacy-games-closure-faq-everything-you-need-to-know/",
+            "actorIds": [],
+            "tags": [
+              "行业"
             ],
-            "verification": "媒体报道；事实待核查"
+            "publishedAt": null,
+            "discoveredAt": "2026-10-15T01:06:38.500Z",
+            "firstAt": null,
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "本任务回读官网；媒体跟进与新动作、计划开放和已开放分别记录",
+            "verification": "官网FAQ已读；首次发布日期未披露",
+            "evidence": [
+              {
+                "title": "Legacy Games关闭商店与停止重新下载有不同截止日。",
+                "url": "https://legacygames.com/legacy-games-closure-faq-everything-you-need-to-know/",
+                "source": "Legacy Games官方FAQ",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "关店与重新下载截止日分别记录"
+              }
+            ]
           }
         ],
+        "briefs": [],
         "quiet": false
       },
       {
