@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "appVersion": "公开阅读站 2.0 · 行动者雷达",
-  "updatedAt": "2026-10-16T02:54:05.554Z",
+  "updatedAt": "2026-10-16T02:59:01.673Z",
   "charts": {
     "wechat-played": {
       "id": "wechat-played",
@@ -140,7 +140,7 @@
           "sourceChange": 1,
           "summary": "毛线消一消，好运来报到",
           "platform": "微信小游戏",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -156,7 +156,7 @@
           "sourceChange": 1,
           "summary": "别笑，你试你也挪不完全部车！",
           "platform": "微信小游戏",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -172,11 +172,11 @@
           "sourceChange": -2,
           "summary": "一款挪车接小人上车解压小游戏",
           "platform": "微信小游戏",
-          "change": -2,
+          "change": 0,
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-16T02:54:06.956Z",
+      "updatedAt": "2026-10-16T02:59:02.345Z",
       "sourceUpdatedAt": "2026-10-16",
       "source": "MomoRank 第三方公开榜"
     },
@@ -237,7 +237,7 @@
           "sourceChange": 1,
           "summary": "改造浪漫餐厅，破解黑猫谜案！",
           "platform": "微信小游戏",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -253,7 +253,7 @@
           "sourceChange": 1,
           "summary": "未来水世界的文明重建与掠夺",
           "platform": "微信小游戏",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -269,7 +269,7 @@
           "sourceChange": -2,
           "summary": "探索冻土，重建家园",
           "platform": "微信小游戏",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -317,7 +317,7 @@
           "sourceChange": 1,
           "summary": "花儿与少年联动开启，七福相聚蘑菇屋",
           "platform": "微信小游戏",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -333,8 +333,8 @@
           "sourceChange": 3,
           "summary": "周杰伦代言，新人限时福利上线送1000抽",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wxcbc1fc07fb13d667",
@@ -353,7 +353,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-16T02:54:07.093Z",
+      "updatedAt": "2026-10-16T02:59:03.221Z",
       "sourceUpdatedAt": "2026-10-16",
       "source": "MomoRank 第三方公开榜"
     },
@@ -398,7 +398,7 @@
           "sourceChange": 3,
           "summary": "模拟经营",
           "platform": "抖音小游戏",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -414,7 +414,7 @@
           "sourceChange": -1,
           "summary": "修仙",
           "platform": "抖音小游戏",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -430,7 +430,7 @@
           "sourceChange": 2,
           "summary": "模拟经营",
           "platform": "抖音小游戏",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -446,7 +446,7 @@
           "sourceChange": 2,
           "summary": "合成",
           "platform": "抖音小游戏",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -462,7 +462,7 @@
           "sourceChange": -2,
           "summary": "冒险",
           "platform": "抖音小游戏",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -478,8 +478,8 @@
           "sourceChange": 4,
           "summary": "超休闲",
           "platform": "抖音小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "dy:tt8e13f8ae111a218b07",
@@ -510,7 +510,7 @@
           "sourceChange": 1,
           "summary": "合成",
           "platform": "抖音小游戏",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -526,11 +526,11 @@
           "sourceChange": 9,
           "summary": "模拟经营",
           "platform": "抖音小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         }
       ],
-      "updatedAt": "2026-10-16T02:54:09.942Z",
+      "updatedAt": "2026-10-16T02:59:04.888Z",
       "sourceUpdatedAt": "2026-10-16",
       "source": "MomoRank 第三方公开榜"
     },
@@ -664,7 +664,7 @@
           "releaseDate": "2011-05-26T13:51:47-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -679,7 +679,7 @@
           "releaseDate": "2013-10-23T18:11:48-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -694,7 +694,7 @@
           "releaseDate": "2026-03-13T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -709,7 +709,7 @@
           "releaseDate": "2025-12-16T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -724,7 +724,7 @@
           "releaseDate": "2022-04-03T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -739,7 +739,7 @@
           "releaseDate": "2026-02-13T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -754,7 +754,7 @@
           "releaseDate": "2022-07-07T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -769,7 +769,7 @@
           "releaseDate": "2026-06-13T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -784,7 +784,7 @@
           "releaseDate": "2026-10-15T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -799,7 +799,7 @@
           "releaseDate": "2026-03-13T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -814,7 +814,7 @@
           "releaseDate": "2025-04-17T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -829,7 +829,7 @@
           "releaseDate": "2026-09-03T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -874,7 +874,7 @@
           "releaseDate": "2026-06-30T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -889,7 +889,7 @@
           "releaseDate": "2023-04-11T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -919,7 +919,7 @@
           "releaseDate": "2022-02-22T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -934,7 +934,7 @@
           "releaseDate": "2018-12-15T00:55:33-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -949,7 +949,7 @@
           "releaseDate": "2025-06-24T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -964,7 +964,7 @@
           "releaseDate": "2026-05-27T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -994,7 +994,7 @@
           "releaseDate": "2026-02-05T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1009,7 +1009,7 @@
           "releaseDate": "2023-02-12T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1054,7 +1054,7 @@
           "releaseDate": "2025-04-29T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1069,7 +1069,7 @@
           "releaseDate": "2026-04-08T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1099,7 +1099,7 @@
           "releaseDate": "2025-08-09T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1114,7 +1114,7 @@
           "releaseDate": "2025-05-26T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1129,7 +1129,7 @@
           "releaseDate": "2009-10-28T20:18:55-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1144,7 +1144,7 @@
           "releaseDate": "2023-02-11T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1159,7 +1159,7 @@
           "releaseDate": "2025-09-11T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1174,7 +1174,7 @@
           "releaseDate": "2026-04-20T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1219,7 +1219,7 @@
           "releaseDate": "2019-09-30T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1234,7 +1234,7 @@
           "releaseDate": "2026-07-22T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1249,7 +1249,7 @@
           "releaseDate": "2025-11-10T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1264,7 +1264,7 @@
           "releaseDate": "2025-02-22T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1309,7 +1309,7 @@
           "releaseDate": "2012-11-14T06:41:32-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1324,7 +1324,7 @@
           "releaseDate": "2026-10-15T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1339,7 +1339,7 @@
           "releaseDate": "2024-07-01T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1354,7 +1354,7 @@
           "releaseDate": "2025-11-12T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1369,7 +1369,7 @@
           "releaseDate": "2018-08-08T19:50:42-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1399,7 +1399,7 @@
           "releaseDate": "2018-12-28T20:56:52-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1414,7 +1414,7 @@
           "releaseDate": "2025-09-25T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1429,7 +1429,7 @@
           "releaseDate": "2026-02-27T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1444,7 +1444,7 @@
           "releaseDate": "2026-03-26T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1489,7 +1489,7 @@
           "releaseDate": "2024-11-21T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1504,7 +1504,7 @@
           "releaseDate": "2009-03-26T19:01:58-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1519,7 +1519,7 @@
           "releaseDate": "2025-11-21T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1534,7 +1534,7 @@
           "releaseDate": "2026-05-12T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1549,7 +1549,7 @@
           "releaseDate": "2018-07-25T02:39:48-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1564,7 +1564,7 @@
           "releaseDate": "2025-08-17T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1579,7 +1579,7 @@
           "releaseDate": "2023-11-01T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1594,7 +1594,7 @@
           "releaseDate": "2025-01-08T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1609,7 +1609,7 @@
           "releaseDate": "2024-05-17T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 11,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1624,7 +1624,7 @@
           "releaseDate": "2024-10-17T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1639,7 +1639,7 @@
           "releaseDate": "2026-05-31T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1654,7 +1654,7 @@
           "releaseDate": "2025-09-14T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1669,7 +1669,7 @@
           "releaseDate": "2024-05-22T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1684,7 +1684,7 @@
           "releaseDate": "2019-09-30T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1699,7 +1699,7 @@
           "releaseDate": "2026-05-11T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1714,7 +1714,7 @@
           "releaseDate": "2021-06-01T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1744,7 +1744,7 @@
           "releaseDate": "2016-08-24T21:13:46-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1759,7 +1759,7 @@
           "releaseDate": "2020-01-17T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 11,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1774,7 +1774,7 @@
           "releaseDate": "2016-03-01T23:25:45-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1789,7 +1789,7 @@
           "releaseDate": "2025-12-29T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1804,7 +1804,7 @@
           "releaseDate": "2026-07-09T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1819,7 +1819,7 @@
           "releaseDate": "2025-11-26T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 10,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1834,7 +1834,7 @@
           "releaseDate": "2016-10-11T01:25:15-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1849,7 +1849,7 @@
           "releaseDate": "2025-11-11T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1864,7 +1864,7 @@
           "releaseDate": "2021-12-20T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1879,7 +1879,7 @@
           "releaseDate": "2023-12-10T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1894,7 +1894,7 @@
           "releaseDate": "2016-07-06T17:39:49-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1909,7 +1909,7 @@
           "releaseDate": "2017-06-14T07:39:50-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1924,7 +1924,7 @@
           "releaseDate": "2010-12-11T11:19:07-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1939,7 +1939,7 @@
           "releaseDate": "2012-08-02T01:24:58-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1954,7 +1954,7 @@
           "releaseDate": "2017-08-15T01:15:03-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -7,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1969,7 +1969,7 @@
           "releaseDate": "2024-08-15T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -7,
+          "change": 0,
           "isNew": false
         },
         {
@@ -1984,8 +1984,8 @@
           "releaseDate": "2013-09-12T15:51:56-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "6768564100",
@@ -1999,8 +1999,8 @@
           "releaseDate": "2026-05-16T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "6450834358",
@@ -2014,8 +2014,8 @@
           "releaseDate": "2025-11-05T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "6757154335",
@@ -2029,7 +2029,7 @@
           "releaseDate": "2026-01-18T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2044,12 +2044,12 @@
           "releaseDate": "2018-06-23T21:28:15-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         }
       ],
-      "updatedAt": "2026-10-16T02:54:05.951Z",
-      "sourceUpdatedAt": "2026-10-15T19:54:06-07:00",
+      "updatedAt": "2026-10-16T02:59:02.076Z",
+      "sourceUpdatedAt": "2026-10-15T19:57:52-07:00",
       "source": "Apple 官方 RSS"
     },
     "jp-grossing": {
@@ -2077,7 +2077,7 @@
           "releaseDate": "2017-05-23T20:14:53-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2092,7 +2092,7 @@
           "releaseDate": "2020-01-15T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2317,7 +2317,7 @@
           "releaseDate": "2015-08-11T18:19:48-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2332,7 +2332,7 @@
           "releaseDate": "2017-01-20T03:29:55-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2347,7 +2347,7 @@
           "releaseDate": "2020-03-12T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2392,7 +2392,7 @@
           "releaseDate": "2020-08-21T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2407,7 +2407,7 @@
           "releaseDate": "2015-10-20T20:42:57-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2437,7 +2437,7 @@
           "releaseDate": "2025-04-14T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 6,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2452,7 +2452,7 @@
           "releaseDate": "2016-08-24T21:13:46-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2467,7 +2467,7 @@
           "releaseDate": "2026-10-05T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2497,7 +2497,7 @@
           "releaseDate": "2026-04-24T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2512,7 +2512,7 @@
           "releaseDate": "2026-08-06T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2527,7 +2527,7 @@
           "releaseDate": "2025-08-14T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2557,7 +2557,7 @@
           "releaseDate": "2024-08-08T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2572,7 +2572,7 @@
           "releaseDate": "2018-03-29T01:22:41-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2587,7 +2587,7 @@
           "releaseDate": "2025-04-17T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2602,7 +2602,7 @@
           "releaseDate": "2025-10-08T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2617,7 +2617,7 @@
           "releaseDate": "2014-01-28T16:32:04-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2632,7 +2632,7 @@
           "releaseDate": "2017-09-19T03:45:36-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2647,7 +2647,7 @@
           "releaseDate": "2012-02-19T22:31:52-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2662,7 +2662,7 @@
           "releaseDate": "2022-10-17T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2677,7 +2677,7 @@
           "releaseDate": "2019-04-09T15:08:08-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2752,7 +2752,7 @@
           "releaseDate": "2024-11-21T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2767,7 +2767,7 @@
           "releaseDate": "2026-07-30T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2902,7 +2902,7 @@
           "releaseDate": "2026-03-26T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2917,7 +2917,7 @@
           "releaseDate": "2023-07-19T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2932,7 +2932,7 @@
           "releaseDate": "2025-06-12T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2947,7 +2947,7 @@
           "releaseDate": "2022-11-02T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2977,7 +2977,7 @@
           "releaseDate": "2024-02-22T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 8,
+          "change": 0,
           "isNew": false
         },
         {
@@ -2992,7 +2992,7 @@
           "releaseDate": "2018-07-06T14:55:45-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3007,7 +3007,7 @@
           "releaseDate": "2012-11-15T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3022,7 +3022,7 @@
           "releaseDate": "2021-02-21T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3037,7 +3037,7 @@
           "releaseDate": "2024-05-21T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3052,7 +3052,7 @@
           "releaseDate": "2016-02-29T19:01:55-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3067,7 +3067,7 @@
           "releaseDate": "2026-09-01T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3082,7 +3082,7 @@
           "releaseDate": "2012-11-14T06:41:32-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3097,7 +3097,7 @@
           "releaseDate": "2024-10-22T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3127,7 +3127,7 @@
           "releaseDate": "2024-05-15T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3142,7 +3142,7 @@
           "releaseDate": "2022-10-19T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3157,7 +3157,7 @@
           "releaseDate": "2026-09-22T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3187,7 +3187,7 @@
           "releaseDate": "2025-04-27T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3202,7 +3202,7 @@
           "releaseDate": "2025-05-19T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3217,7 +3217,7 @@
           "releaseDate": "2026-09-23T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3337,7 +3337,7 @@
           "releaseDate": "2026-03-02T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3352,7 +3352,7 @@
           "releaseDate": "2023-02-27T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3397,7 +3397,7 @@
           "releaseDate": "2022-02-21T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3412,7 +3412,7 @@
           "releaseDate": "2015-02-04T09:30:46-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3442,8 +3442,8 @@
           "releaseDate": "2025-05-29T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "1477455989",
@@ -3457,7 +3457,7 @@
           "releaseDate": "2020-03-17T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3472,7 +3472,7 @@
           "releaseDate": "2025-09-25T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3487,7 +3487,7 @@
           "releaseDate": "2018-10-25T05:18:48-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3532,7 +3532,7 @@
           "releaseDate": "2026-05-25T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3562,12 +3562,12 @@
           "releaseDate": "2024-10-10T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-16T02:54:06.909Z",
-      "sourceUpdatedAt": "2026-10-15T19:54:06-07:00",
+      "updatedAt": "2026-10-16T02:59:02.329Z",
+      "sourceUpdatedAt": "2026-10-15T19:59:02-07:00",
       "source": "Apple 官方 RSS"
     },
     "us-grossing": {
@@ -3715,7 +3715,7 @@
           "releaseDate": "2016-07-06T17:39:49-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3730,7 +3730,7 @@
           "releaseDate": "2023-02-12T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3745,7 +3745,7 @@
           "releaseDate": "2025-04-24T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3790,7 +3790,7 @@
           "releaseDate": "2016-08-24T21:13:46-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3805,7 +3805,7 @@
           "releaseDate": "2013-10-23T18:11:48-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3850,7 +3850,7 @@
           "releaseDate": "2018-10-20T08:45:58-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3865,7 +3865,7 @@
           "releaseDate": "2025-10-31T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3880,7 +3880,7 @@
           "releaseDate": "2026-06-13T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3955,7 +3955,7 @@
           "releaseDate": "2017-09-19T03:45:36-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3970,7 +3970,7 @@
           "releaseDate": "2019-09-30T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -3985,7 +3985,7 @@
           "releaseDate": "2026-03-13T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4000,7 +4000,7 @@
           "releaseDate": "2015-07-15T19:59:25-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4090,7 +4090,7 @@
           "releaseDate": "2012-12-12T15:33:11-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4105,7 +4105,7 @@
           "releaseDate": "2016-10-11T01:25:15-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4210,7 +4210,7 @@
           "releaseDate": "2026-05-19T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4225,7 +4225,7 @@
           "releaseDate": "2020-01-15T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4240,7 +4240,7 @@
           "releaseDate": "2016-03-01T23:25:45-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4255,7 +4255,7 @@
           "releaseDate": "2024-06-28T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4270,7 +4270,7 @@
           "releaseDate": "2016-04-26T19:06:23-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4285,7 +4285,7 @@
           "releaseDate": "2024-06-07T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4300,7 +4300,7 @@
           "releaseDate": "2024-09-11T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4345,7 +4345,7 @@
           "releaseDate": "2021-02-12T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4360,7 +4360,7 @@
           "releaseDate": "2025-05-08T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4375,7 +4375,7 @@
           "releaseDate": "2026-06-02T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4390,7 +4390,7 @@
           "releaseDate": "2025-11-05T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4420,7 +4420,7 @@
           "releaseDate": "2015-09-17T21:56:27-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4435,7 +4435,7 @@
           "releaseDate": "2020-02-05T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4555,7 +4555,7 @@
           "releaseDate": "2023-11-08T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4570,7 +4570,7 @@
           "releaseDate": "2012-06-21T01:10:22-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4585,7 +4585,7 @@
           "releaseDate": "2024-10-23T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4600,7 +4600,7 @@
           "releaseDate": "2026-05-12T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4615,7 +4615,7 @@
           "releaseDate": "2026-05-31T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4630,7 +4630,7 @@
           "releaseDate": "2026-07-19T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4645,7 +4645,7 @@
           "releaseDate": "2020-09-16T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4660,7 +4660,7 @@
           "releaseDate": "2026-01-14T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4675,7 +4675,7 @@
           "releaseDate": "2026-01-18T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4690,7 +4690,7 @@
           "releaseDate": "2022-11-24T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4705,7 +4705,7 @@
           "releaseDate": "2011-11-17T00:00:00-07:00",
           "price": "6.99",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4735,7 +4735,7 @@
           "releaseDate": "2012-08-15T18:34:42-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4750,7 +4750,7 @@
           "releaseDate": "2025-12-11T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4765,7 +4765,7 @@
           "releaseDate": "2022-04-30T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4780,7 +4780,7 @@
           "releaseDate": "2014-12-10T08:39:54-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4795,7 +4795,7 @@
           "releaseDate": "2014-07-26T13:37:31-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4810,7 +4810,7 @@
           "releaseDate": "2025-06-24T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4825,7 +4825,7 @@
           "releaseDate": "2025-05-20T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4840,7 +4840,7 @@
           "releaseDate": "2022-04-13T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4855,7 +4855,7 @@
           "releaseDate": "2017-05-23T20:14:53-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4885,7 +4885,7 @@
           "releaseDate": "2017-01-18T08:59:39-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4900,7 +4900,7 @@
           "releaseDate": "2018-10-25T05:18:48-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4915,7 +4915,7 @@
           "releaseDate": "2018-08-01T08:53:17-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4930,7 +4930,7 @@
           "releaseDate": "2020-08-04T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 6,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4945,7 +4945,7 @@
           "releaseDate": "2018-03-19T10:13:23-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4960,7 +4960,7 @@
           "releaseDate": "2018-03-09T15:36:04-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -4975,7 +4975,7 @@
           "releaseDate": "2025-09-14T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5005,7 +5005,7 @@
           "releaseDate": "2012-03-01T11:32:50-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5020,7 +5020,7 @@
           "releaseDate": "2011-11-07T06:33:35-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5035,7 +5035,7 @@
           "releaseDate": "2026-02-27T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5050,7 +5050,7 @@
           "releaseDate": "2018-08-16T02:33:26-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5065,7 +5065,7 @@
           "releaseDate": "2026-06-08T00:00:00-07:00",
           "price": "0.00",
           "currency": "USD",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5084,8 +5084,8 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-16T02:54:05.967Z",
-      "sourceUpdatedAt": "2026-10-15T19:54:06-07:00",
+      "updatedAt": "2026-10-16T02:59:02.088Z",
+      "sourceUpdatedAt": "2026-10-15T19:59:02-07:00",
       "source": "Apple 官方 RSS"
     },
     "jp-free": {
@@ -5308,7 +5308,7 @@
           "releaseDate": "2024-07-29T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5338,7 +5338,7 @@
           "releaseDate": "2021-02-25T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5353,7 +5353,7 @@
           "releaseDate": "2026-10-13T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5398,7 +5398,7 @@
           "releaseDate": "2026-09-01T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5413,7 +5413,7 @@
           "releaseDate": "2026-02-18T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5473,7 +5473,7 @@
           "releaseDate": "2026-10-05T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5488,7 +5488,7 @@
           "releaseDate": "2026-08-11T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5548,7 +5548,7 @@
           "releaseDate": "2026-02-05T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5563,7 +5563,7 @@
           "releaseDate": "2020-09-11T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5578,7 +5578,7 @@
           "releaseDate": "2013-10-23T06:38:15-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5608,7 +5608,7 @@
           "releaseDate": "2011-05-26T13:51:47-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5623,7 +5623,7 @@
           "releaseDate": "2018-12-18T21:26:48-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5683,7 +5683,7 @@
           "releaseDate": "2026-09-03T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5713,7 +5713,7 @@
           "releaseDate": "2025-10-16T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5743,7 +5743,7 @@
           "releaseDate": "2026-08-05T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5758,7 +5758,7 @@
           "releaseDate": "2025-12-11T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5773,7 +5773,7 @@
           "releaseDate": "2026-03-02T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5788,7 +5788,7 @@
           "releaseDate": "2025-04-24T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5803,7 +5803,7 @@
           "releaseDate": "2025-09-14T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5818,7 +5818,7 @@
           "releaseDate": "2026-06-14T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5833,7 +5833,7 @@
           "releaseDate": "2026-03-02T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5848,7 +5848,7 @@
           "releaseDate": "2025-08-04T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5863,7 +5863,7 @@
           "releaseDate": "2025-08-09T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5893,7 +5893,7 @@
           "releaseDate": "2023-12-01T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5908,7 +5908,7 @@
           "releaseDate": "2026-05-19T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5938,7 +5938,7 @@
           "releaseDate": "2025-04-27T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5953,7 +5953,7 @@
           "releaseDate": "2018-12-12T00:27:45-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5968,7 +5968,7 @@
           "releaseDate": "2026-05-29T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -5998,7 +5998,7 @@
           "releaseDate": "2014-01-28T16:32:04-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6013,7 +6013,7 @@
           "releaseDate": "2025-10-28T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6028,7 +6028,7 @@
           "releaseDate": "2026-05-11T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6043,7 +6043,7 @@
           "releaseDate": "2024-10-30T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6058,7 +6058,7 @@
           "releaseDate": "2026-06-08T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6073,7 +6073,7 @@
           "releaseDate": "2019-11-27T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6088,7 +6088,7 @@
           "releaseDate": "2026-09-23T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6103,7 +6103,7 @@
           "releaseDate": "2026-05-03T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6118,7 +6118,7 @@
           "releaseDate": "2024-11-08T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6133,7 +6133,7 @@
           "releaseDate": "2024-09-09T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 6,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6148,7 +6148,7 @@
           "releaseDate": "2026-10-04T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6163,7 +6163,7 @@
           "releaseDate": "2023-07-19T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6178,7 +6178,7 @@
           "releaseDate": "2026-09-10T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 10,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6223,7 +6223,7 @@
           "releaseDate": "2025-09-29T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6238,7 +6238,7 @@
           "releaseDate": "2015-10-12T23:05:58-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6253,7 +6253,7 @@
           "releaseDate": "2026-10-02T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6268,7 +6268,7 @@
           "releaseDate": "2026-06-25T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6283,7 +6283,7 @@
           "releaseDate": "2025-12-29T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6328,7 +6328,7 @@
           "releaseDate": "2026-10-09T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6358,7 +6358,7 @@
           "releaseDate": "2020-08-21T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6373,7 +6373,7 @@
           "releaseDate": "2026-07-19T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6388,7 +6388,7 @@
           "releaseDate": "2024-09-21T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6403,7 +6403,7 @@
           "releaseDate": "2025-06-12T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6418,7 +6418,7 @@
           "releaseDate": "2026-01-26T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6433,7 +6433,7 @@
           "releaseDate": "2026-08-02T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6448,7 +6448,7 @@
           "releaseDate": "2025-11-10T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6463,7 +6463,7 @@
           "releaseDate": "2026-07-30T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6478,7 +6478,7 @@
           "releaseDate": "2017-05-23T20:14:53-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6493,7 +6493,7 @@
           "releaseDate": "2021-01-06T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6508,7 +6508,7 @@
           "releaseDate": "2017-03-30T02:32:35-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6523,7 +6523,7 @@
           "releaseDate": "2026-06-12T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6538,7 +6538,7 @@
           "releaseDate": "2025-09-18T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6568,7 +6568,7 @@
           "releaseDate": "2026-03-10T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6583,8 +6583,8 @@
           "releaseDate": "2026-09-15T00:00:00-07:00",
           "price": "0",
           "currency": "JPY",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "6450412255",
@@ -6602,8 +6602,8 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-16T02:54:06.156Z",
-      "sourceUpdatedAt": "2026-10-15T19:54:06-07:00",
+      "updatedAt": "2026-10-16T02:59:02.229Z",
+      "sourceUpdatedAt": "2026-10-15T19:57:53-07:00",
       "source": "Apple 官方 RSS"
     },
     "play-us-free": {
@@ -6650,7 +6650,7 @@
           "rank": 3,
           "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=US",
           "developer": "Roblox Corporation",
-          "rating": 4.22321,
+          "rating": 4.2232084,
           "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
           "platform": "Google Play",
           "summary": "",
@@ -6680,7 +6680,7 @@
           "icon": "https://play-lh.googleusercontent.com/z54K2UZPuABcdfrjgcRc0_--d3V1WMPFcrvYku299sV4PJXEz7oosH8G3ZvZtkTjbiXpyc196MGWMi9zcVa9TA",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6693,7 +6693,7 @@
           "icon": "https://play-lh.googleusercontent.com/VqJWXEzCPnmd4pCVdTBOvzYzbRs9u_BEcKVWUuL07RhKCtUmun3J5qC2p9_1C0A27Fpg8EaGUaE8AmDmF1pBfA",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6875,7 +6875,7 @@
           "icon": "https://play-lh.googleusercontent.com/AHmha0RTMkNchGnLfchmuFzdC0EVE9WRxVjNXIGJDUhknEMmucwFdW9noBSinYdq_sdITW1LKqNE_nlhfjRR",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6888,7 +6888,7 @@
           "icon": "https://play-lh.googleusercontent.com/lamvwfGw4eEjWFFfcL19XAwFpCKZJjdCBNBs0DFnsOwhBAsK9X738lDrDFqosGp7CLinvREDBdhJyQdmot6KbQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6901,7 +6901,7 @@
           "icon": "https://play-lh.googleusercontent.com/XrA1acf-l1YT0jw0QTxWqpJLE_TYSgdGpWE1vrEepFpA2128Zx4to0ARPvKFdhT5vAc0LHHC7xAAwa8aABIFeg",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6914,7 +6914,7 @@
           "icon": "https://play-lh.googleusercontent.com/5IqlTzxPN2yibQDOhQUQ2zdxy41iAQ31A0pIzaTmq-ccGNv-xzaCwlOlFGlvji7p6m_8h1HqS6I6TUYvttd4",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6927,7 +6927,7 @@
           "icon": "https://play-lh.googleusercontent.com/KCp0RI0b5soxMm-VaiimK-rhbSRRGl8zGvO3Isc_eSUdrMyzES7saPjQUu1CTsKZzz_hiQIXz_QLM0BvS4SQ7_M",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6992,7 +6992,7 @@
           "icon": "https://play-lh.googleusercontent.com/N94VIX65f7wtuXZBV9t-T3L_OOAoBpvvSQ1erHtqi_FvG5T9HYLy09E_RfFobviQy1IZHo898WVxlEviIPaonA",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7005,7 +7005,7 @@
           "icon": "https://play-lh.googleusercontent.com/nB3aVJ6eYhfGa1m1EzgvE0RjH3C13v2wLLrwkQYzsG0427-jyQDopxiddjDOQNpOSoePVcl7jNgBUPXOCVmjXg",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7018,7 +7018,7 @@
           "icon": "https://play-lh.googleusercontent.com/LdTwdaH7d_ucLyMsHt21aN7HznGFDRvkpwfe3HAIlGgtmvnR87dRGSxuDdGQMJJNlmhnGeZfw1QrOsCs3QD6dew",
           "platform": "Google Play",
           "summary": "",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7031,7 +7031,7 @@
           "icon": "https://play-lh.googleusercontent.com/XJM2uz8yxBb6BLJ-1qk2KNzPjWfNQdLPyWPSJDycuSwSyFiIangg7skGDM_sIrEmQVueqmWJQb63NFIwUEmAhA",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7044,7 +7044,7 @@
           "icon": "https://play-lh.googleusercontent.com/BpyKPyeCiAoCtYP23WtOoHW1G_4IAGUyk4G6V_5YNmXomuBwNC5ZnSq5OfxejW-Ufuukma8-UYZirB2wz3m8UnM",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7057,7 +7057,7 @@
           "icon": "https://play-lh.googleusercontent.com/33uObVFJ0-1md9XkQSTMHnh-E91drVuMj6cODaGcKuag07lwFVfWxCg0Ef-gKfaY9iKFrCOdaw5GJa0-6JV7FQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7252,8 +7252,8 @@
           "icon": "https://play-lh.googleusercontent.com/EAM3IMjpOfxx0kHbmxLhBswGoDJRnMXv8Hfax_N7BD4no70H7vj95cAhxcLBOQuHIseMg6btqte4BOhh1jDHqlo",
           "platform": "Google Play",
           "summary": "",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "com.ecffri.arrows",
@@ -7265,11 +7265,11 @@
           "icon": "https://play-lh.googleusercontent.com/lMmSA4L1MNUvZ3w4c_T10tJvrptwAdObx8WxAzn5SuboyQtrwMPy1Grqqlgg6qBpgf4PQWvk7QPsiPy6R5ZIQQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-16T02:54:05.555Z",
+      "updatedAt": "2026-10-16T02:59:01.674Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -7304,7 +7304,7 @@
           "rank": 2,
           "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=US",
           "developer": "Roblox Corporation",
-          "rating": 4.223208,
+          "rating": 4.22321,
           "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
           "platform": "Google Play",
           "summary": "",
@@ -7551,11 +7551,11 @@
           "rank": 21,
           "url": "https://play.google.com/store/apps/details?id=com.williamsinteractive.jackpotparty&hl=en&gl=US",
           "developer": "SciPlay",
-          "rating": 4.6472178,
+          "rating": 4.647237,
           "icon": "https://play-lh.googleusercontent.com/oyR6kea4Lvh2DPI26ShP7Hb1gQLv4pxwcCyqWJpg1XlyJ6BeFgtEb1dIyzqLqKvQcLdTWgU7c86_IsTPevAdpA",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7568,7 +7568,7 @@
           "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7581,7 +7581,7 @@
           "icon": "https://play-lh.googleusercontent.com/hKMrj02uXPQ9AKsrsvuW2EFCf7ij7RZrCHjZnV3HiU-IjfY6W9tlEYwI1G_iT_FyeA3eX4KSyJSh9ocDVw_oHQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7642,7 +7642,7 @@
           "rank": 28,
           "url": "https://play.google.com/store/apps/details?id=com.productmadness.cashmancasino&hl=en&gl=US",
           "developer": "Product Madness",
-          "rating": 4.5289006,
+          "rating": 4.5288887,
           "icon": "https://play-lh.googleusercontent.com/de9R1sPj8IfrM4TDmabO6sXzPouT4e6FK78m2dbdNcY4zyQQrtVKbTjr0t8Pa_gx9awQyE4b-z_31eyMcqmrLw",
           "platform": "Google Play",
           "summary": "",
@@ -7724,7 +7724,7 @@
           "icon": "https://play-lh.googleusercontent.com/N94VIX65f7wtuXZBV9t-T3L_OOAoBpvvSQ1erHtqi_FvG5T9HYLy09E_RfFobviQy1IZHo898WVxlEviIPaonA",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7737,7 +7737,7 @@
           "icon": "https://play-lh.googleusercontent.com/p7BAWzMKh5KRFEizi1loj86xgH2-WFQdm_060NXUd02zV5Nl8Tmrfa5FM7XT8Chw9zzis_3MzgTT6sWXxPckCCM",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7750,7 +7750,7 @@
           "icon": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7863,7 +7863,7 @@
           "rank": 45,
           "url": "https://play.google.com/store/apps/details?id=slots.pcg.casino.games.free.android&hl=en&gl=US",
           "developer": "SpinX Games Limited",
-          "rating": 4.746854,
+          "rating": 4.746846,
           "icon": "https://play-lh.googleusercontent.com/sU8DvqTKPhBjccxhmxeWKCUHAyGsXz7wgjqP_yv4OjAQkCU-UZOkDRotSNAxuBYLMgE-zoQC1mRdAqs-ueyMFw",
           "platform": "Google Play",
           "summary": "",
@@ -7919,8 +7919,8 @@
           "icon": "https://play-lh.googleusercontent.com/FjEQ_owl-a4h7Sn6hIcJjhzcsdns6XdQiuuVzppzXZnlKSIYzPXAvm3lExtqKBZCSnF5remmvV_JePcVN6DMTg",
           "platform": "Google Play",
           "summary": "",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "com.grandgames.magicsort",
@@ -7932,11 +7932,11 @@
           "icon": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
           "platform": "Google Play",
           "summary": "",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         }
       ],
-      "updatedAt": "2026-10-16T02:54:05.590Z",
+      "updatedAt": "2026-10-16T02:59:01.717Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -8053,7 +8053,7 @@
           "icon": "https://play-lh.googleusercontent.com/z54K2UZPuABcdfrjgcRc0_--d3V1WMPFcrvYku299sV4PJXEz7oosH8G3ZvZtkTjbiXpyc196MGWMi9zcVa9TA",
           "platform": "Google Play",
           "summary": "",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8066,7 +8066,7 @@
           "icon": "https://play-lh.googleusercontent.com/VEmJnv1zUKIcst7pnOOqEFBXItThIbTzS29wxDEhJ9vPnXxNEHJAOkclrUMYFBR9essYJKDhkm-lPR95161D",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8079,7 +8079,7 @@
           "icon": "https://play-lh.googleusercontent.com/P5X4m-dDF31hnhlQvGE1L3MAJonj8KmnQQxj4nQl77Eg8kI2K-XFLu3UGStPC7hgP7VMrTf8ieurxA-rqdukwQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8092,7 +8092,7 @@
           "icon": "https://play-lh.googleusercontent.com/gOMUc9LZZ_hcGbRUocRx_RJX0TZmAt4TeiGRfArTaA7na2JTCwtn9zivXX_gNmOAwXXx6Pv6LsBp904kVoWfthU",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8547,8 +8547,8 @@
           "icon": "https://play-lh.googleusercontent.com/4O3eRZ4cOMPSFiasjvlJuodijaKtNiv7HZ9Hm5r4CT78imAL32QbbWoJkiOJ3erjS4Yi652WTBrwcQrbbsuW",
           "platform": "Google Play",
           "summary": "",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "com.grandgames.magicsort",
@@ -8560,8 +8560,8 @@
           "icon": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
           "platform": "Google Play",
           "summary": "",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "water.sort.color.puzzle.offline.games",
@@ -8573,7 +8573,7 @@
           "icon": "https://play-lh.googleusercontent.com/HGwC4kVKMlVC--9Maf9h6-xm5dhbDHu5WnVLEFhs9A6byuqbSnWg_pqoPzRlSiHPkSpBtnlPQcurkodTJ7lh",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8586,7 +8586,7 @@
           "icon": "https://play-lh.googleusercontent.com/lkdSKdnQWDxZO2-dLfzz5V2lMzl7JOC-_WKftNILfkmTTnvoa-3K5btDU7VDqUERVCuKzrjIFJAcwH759HDD6xk",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8599,11 +8599,11 @@
           "icon": "https://play-lh.googleusercontent.com/lamvwfGw4eEjWFFfcL19XAwFpCKZJjdCBNBs0DFnsOwhBAsK9X738lDrDFqosGp7CLinvREDBdhJyQdmot6KbQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-16T02:54:05.592Z",
+      "updatedAt": "2026-10-16T02:59:01.719Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -8820,7 +8820,7 @@
           "rank": 16,
           "url": "https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global&hl=en&gl=JP",
           "developer": "HK KURO GAMES LIMITED",
-          "rating": 4.3250804,
+          "rating": 4.3266053,
           "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
           "platform": "Google Play",
           "summary": "",
@@ -8850,7 +8850,7 @@
           "icon": "https://play-lh.googleusercontent.com/zHq6ZKQhVsI5DTjy05zsWTggWgQfNZ7Qg5PJk5Kv3Rhctyt2HgfYYXHjEhS6k_6Y5NzwKvf2ZpQiXCWfc9htnw",
           "platform": "Google Play",
           "summary": "",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8863,7 +8863,7 @@
           "icon": "https://play-lh.googleusercontent.com/DUA40mf0fd6lUkU_Pvfw78BOoY37nPNM5tKw0tf4sCqzJfNwR84wqj-J00WN99QaZ89SpruNsU1xX7sDw6uBZg",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8876,7 +8876,7 @@
           "icon": "https://play-lh.googleusercontent.com/2ih8DH-1lwOveG_OlB-3pxbDUkJjoY188kVB73NXFhEOZwApTiESOTv3JgaSVZ5oUqd-2SqB2f8Rjq5LRymNNQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8889,7 +8889,7 @@
           "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8902,7 +8902,7 @@
           "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8915,7 +8915,7 @@
           "icon": "https://play-lh.googleusercontent.com/AjC0FM5Y7Y-Nte45TKgOmvKZlfXPj3u9_CCLnWwzgDJfTTOziul3L4NqqzwupcdF7P4xgrwc1N_X0jRKwOSlf8M",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8993,7 +8993,7 @@
           "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9006,7 +9006,7 @@
           "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9214,7 +9214,7 @@
           "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9227,7 +9227,7 @@
           "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9270,7 +9270,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-16T02:54:05.895Z",
+      "updatedAt": "2026-10-16T02:59:02.017Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -9347,7 +9347,7 @@
           "sourceChange": 1,
           "summary": "国民消消乐，相伴十二载，开心更精彩",
           "platform": "微信小游戏",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9363,7 +9363,7 @@
           "sourceChange": 3,
           "summary": "欧豪带你玩真数字门，一炮定乾坤！",
           "platform": "微信小游戏",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9379,7 +9379,7 @@
           "sourceChange": -2,
           "summary": "一键种田薅菜，快乐直接起飞",
           "platform": "微信小游戏",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9395,7 +9395,7 @@
           "sourceChange": 2,
           "summary": "腾讯正版麻将！斗地主、好友组队免费约局！",
           "platform": "微信小游戏",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9411,8 +9411,8 @@
           "sourceChange": 3,
           "summary": "斗地主、跑得快、好友房免费玩！真人打牌！",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wx08ca4a979a9dba6c",
@@ -9427,7 +9427,7 @@
           "sourceChange": -3,
           "summary": "对子消消，IQ越高消的越多！",
           "platform": "微信小游戏",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9447,7 +9447,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-16T02:54:07.680Z",
+      "updatedAt": "2026-10-16T02:59:03.690Z",
       "sourceUpdatedAt": "2026-10-16",
       "source": "MomoRank 第三方公开榜"
     },
@@ -9476,8 +9476,8 @@
           "sourceChange": 24,
           "summary": "一款三国题材的轻策略对战游戏",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wx55965328effd38c1",
@@ -9492,8 +9492,8 @@
           "sourceChange": 22,
           "summary": "有趣的策略卡牌小游戏，公平竞技，等你来玩",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wxab6e09473d72adcd",
@@ -9508,8 +9508,8 @@
           "sourceChange": 21,
           "summary": "单手割草，等你来通关",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wx1b48b798ed3c9cfb",
@@ -9524,8 +9524,8 @@
           "sourceChange": 14,
           "summary": "睡觉挂机就变强，睡醒领取奖励成为武林盟主",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wx28a4f4446d1676f7",
@@ -9540,8 +9540,8 @@
           "sourceChange": 12,
           "summary": "开放世界，自由探索",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wxd6018f789d4d4d6d",
@@ -9556,8 +9556,8 @@
           "sourceChange": 12,
           "summary": "一款蔬果拟人风格的合成升级自走棋游戏。",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wxcdcbec6bf40d053a",
@@ -9572,8 +9572,8 @@
           "sourceChange": 11,
           "summary": "自动挂机修仙，战力飙升无限爽快!",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wxe01f160b85c96918",
@@ -9588,8 +9588,8 @@
           "sourceChange": 11,
           "summary": "轻松一挂，宇宙称霸！",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wxf6f9346dd7545588",
@@ -9604,8 +9604,8 @@
           "sourceChange": 10,
           "summary": "进来就送天材地宝，百分百出神器！",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wx693b4a44e1d81197",
@@ -9620,11 +9620,11 @@
           "sourceChange": 8,
           "summary": "四季与你，合而为一",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         }
       ],
-      "updatedAt": "2026-10-16T02:54:09.500Z",
+      "updatedAt": "2026-10-16T02:59:04.706Z",
       "sourceUpdatedAt": "2026-10-16",
       "source": "MomoRank 第三方公开榜"
     },
@@ -9733,7 +9733,7 @@
           "sourceChange": 1,
           "summary": "寻物",
           "platform": "抖音小游戏",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9749,7 +9749,7 @@
           "sourceChange": -1,
           "summary": "扑克牌",
           "platform": "抖音小游戏",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9765,7 +9765,7 @@
           "sourceChange": 1,
           "summary": "合成",
           "platform": "抖音小游戏",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9781,8 +9781,8 @@
           "sourceChange": null,
           "summary": "找茬",
           "platform": "抖音小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "dy:cli-name:7976ddbd7709b9af68802ac29059857cd68e8477eb1faf1fee8077c2c4d5da60",
@@ -9797,11 +9797,11 @@
           "sourceChange": null,
           "summary": "超休闲",
           "platform": "抖音小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         }
       ],
-      "updatedAt": "2026-10-16T02:54:09.772Z",
+      "updatedAt": "2026-10-16T02:59:04.735Z",
       "sourceUpdatedAt": "2026-10-16",
       "source": "MomoRank 第三方公开榜"
     }
@@ -16345,160 +16345,160 @@
       "id": "play-us-free",
       "ok": true,
       "count": 50,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
+      "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
+    },
+    {
+      "id": "play-us-grossing",
+      "ok": true,
+      "count": 50,
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
       "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
     },
     {
       "id": "play-jp-free",
       "ok": true,
       "count": 50,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
-      "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
-    },
-    {
-      "id": "play-us-grossing",
-      "ok": true,
-      "count": 50,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
-      "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
-    },
-    {
-      "id": "play-jp-grossing",
-      "ok": true,
-      "count": 50,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
       "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
     },
     {
       "id": "us-free",
       "ok": true,
       "count": 100,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
       "webUrl": "https://apps.apple.com/us/iphone/charts/6014?chart=top-free"
+    },
+    {
+      "id": "play-jp-grossing",
+      "ok": true,
+      "count": 50,
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
+      "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
     },
     {
       "id": "jp-free",
       "ok": true,
       "count": 100,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
       "webUrl": "https://apps.apple.com/jp/iphone/charts/6014?chart=top-free"
     },
     {
       "id": "us-grossing",
       "ok": true,
       "count": 100,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
       "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/us/genre/6014"
     },
     {
       "id": "jp-grossing",
       "ok": true,
       "count": 100,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
       "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/jp/genre/6014"
-    },
-    {
-      "id": "wechat-played",
-      "ok": true,
-      "count": 10,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
-      "webUrl": "https://www.momorank.com/rankings/most_played"
-    },
-    {
-      "id": "wechat-popular",
-      "ok": true,
-      "count": 10,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
-      "webUrl": "https://www.momorank.com/rankings/popular"
     },
     {
       "id": "wechat-grossing",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
       "webUrl": "https://www.momorank.com/rankings/bestseller"
+    },
+    {
+      "id": "wechat-popular",
+      "ok": true,
+      "count": 10,
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
+      "webUrl": "https://www.momorank.com/rankings/popular"
+    },
+    {
+      "id": "wechat-played",
+      "ok": true,
+      "count": 10,
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
+      "webUrl": "https://www.momorank.com/rankings/most_played"
     },
     {
       "id": "douyin-popular",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
       "webUrl": "https://www.momorank.com/douyin/rankings/popular"
     },
     {
-      "id": "wechat-rising",
+      "id": "douyin-grossing",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
-      "webUrl": "https://www.momorank.com/rising"
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
+      "webUrl": "https://www.momorank.com/douyin/rankings/bestseller"
     },
     {
       "id": "mini-news",
       "ok": true,
       "count": 38,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
       "webUrl": "https://news.google.com/search?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F"
+    },
+    {
+      "id": "wechat-rising",
+      "ok": true,
+      "count": 10,
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
+      "webUrl": "https://www.momorank.com/rising"
     },
     {
       "id": "iaa-news",
       "ok": true,
       "count": 40,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
       "webUrl": "https://news.google.com/search?q=%E5%B0%8F%E6%B8%B8%E6%88%8F%20%E5%B9%BF%E5%91%8A%E5%8F%98%E7%8E%B0"
     },
     {
       "id": "reward-news",
       "ok": true,
       "count": 40,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
       "webUrl": "https://news.google.com/search?q=rewarded%20gaming"
-    },
-    {
-      "id": "pcgamer",
-      "ok": true,
-      "count": 40,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
-      "webUrl": "https://www.pcgamer.com/games/"
     },
     {
       "id": "industry",
       "ok": true,
       "count": 40,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
       "webUrl": "https://www.gamesindustry.biz/"
     },
     {
-      "id": "douyin-grossing",
+      "id": "pcgamer",
       "ok": true,
-      "count": 10,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
-      "webUrl": "https://www.momorank.com/douyin/rankings/bestseller"
+      "count": 40,
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
+      "webUrl": "https://www.pcgamer.com/games/"
     },
     {
       "id": "eurogamer",
       "ok": true,
       "count": 40,
-      "checkedAt": "2026-10-16T02:54:05.554Z",
-      "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+      "checkedAt": "2026-10-16T02:59:01.673Z",
+      "lastSuccessAt": "2026-10-16T02:59:01.673Z",
       "webUrl": "https://www.eurogamer.net/"
     }
   ],
@@ -16512,8 +16512,8 @@
       "installs": "1B+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.846674919128418,
-      "ratingCount": 5683063,
-      "checkedAt": "2026-10-16T02:54:12.819Z",
+      "ratingCount": 5683062,
+      "checkedAt": "2026-10-16T02:59:07.382Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "HungryStudio",
@@ -16542,8 +16542,8 @@
       "installs": "100M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.8513689041137695,
-      "ratingCount": 6420059,
-      "checkedAt": "2026-10-16T02:54:12.969Z",
+      "ratingCount": 6420060,
+      "checkedAt": "2026-10-16T02:59:07.420Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "Vita Studio.",
@@ -16573,7 +16573,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.701716899871826,
       "ratingCount": 468997,
-      "checkedAt": "2026-10-16T02:54:12.344Z",
+      "checkedAt": "2026-10-16T02:59:06.654Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "Oakever Games",
@@ -16603,7 +16603,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.46300745010376,
       "ratingCount": 662701,
-      "checkedAt": "2026-10-16T02:54:13.036Z",
+      "checkedAt": "2026-10-16T02:59:07.510Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=cashgiraffe.app&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "Cash Giraffe",
@@ -16633,7 +16633,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.412887096405029,
       "ratingCount": 626093,
-      "checkedAt": "2026-10-16T02:54:13.103Z",
+      "checkedAt": "2026-10-16T02:59:07.522Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=online.moneywell.app&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "Money Well",
@@ -16663,7 +16663,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.4284281730651855,
       "ratingCount": 1757419,
-      "checkedAt": "2026-10-16T02:54:13.163Z",
+      "checkedAt": "2026-10-16T02:59:07.663Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.justplay.app&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "JustPlay GmbH",
@@ -16692,8 +16692,8 @@
       "installs": "50M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.393432140350342,
-      "ratingCount": 1061583,
-      "checkedAt": "2026-10-16T02:54:13.264Z",
+      "ratingCount": 1061584,
+      "checkedAt": "2026-10-16T02:59:07.649Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.mistplay.mistplay&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "MISTPLAY",
@@ -16723,7 +16723,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.120511531829834,
       "ratingCount": 451087,
-      "checkedAt": "2026-10-16T02:54:13.322Z",
+      "checkedAt": "2026-10-16T02:59:07.773Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.winrgames.bigtime&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "WINR Games Inc",
@@ -16755,7 +16755,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.198301792144775,
       "ratingCountLabel": "248K",
-      "checkedAt": "2026-10-16T02:54:13.430Z",
+      "checkedAt": "2026-10-16T02:59:08.031Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "containsAds": true,
       "id": "google:com.affinity.rewarded_play",
@@ -16792,7 +16792,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-16T02:54:13.472Z",
+      "checkedAt": "2026-10-16T02:59:09.170Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.bandainamcoent.gget_JP:JP",
       "tags": [
@@ -16812,11 +16812,11 @@
       "installs": "10M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.472057819366455,
-      "ratingCount": 468996,
+      "ratingCount": 468997,
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-16T02:54:12.505Z",
+      "checkedAt": "2026-10-16T02:59:06.963Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.oakever.meowdoku:JP",
       "tags": [
@@ -16835,12 +16835,12 @@
       "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
       "installs": "1B+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
-      "rating": 4.223207950592041,
-      "ratingCount": 53036126,
+      "rating": 4.223208427429199,
+      "ratingCount": 53036117,
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-16T02:54:12.336Z",
+      "checkedAt": "2026-10-16T02:59:07.116Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.roblox.client",
       "tags": [
@@ -16864,7 +16864,7 @@
       "price": null,
       "containsAds": true,
       "containsIAP": false,
-      "checkedAt": "2026-10-16T02:54:12.665Z",
+      "checkedAt": "2026-10-16T02:59:06.980Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.nebula.rotaterings:JP",
       "tags": [
@@ -16888,7 +16888,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-16T02:54:12.490Z",
+      "checkedAt": "2026-10-16T02:59:06.749Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.scopely.monopolygo",
       "tags": [
@@ -16908,11 +16908,11 @@
       "installs": "1B+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.6309685707092285,
-      "ratingCount": 38933488,
+      "ratingCount": 38933481,
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-16T02:54:12.500Z",
+      "checkedAt": "2026-10-16T02:59:06.815Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.king.candycrushsaga",
       "tags": [
@@ -16936,7 +16936,7 @@
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-16T02:54:13.597Z",
+      "checkedAt": "2026-10-16T02:59:09.642Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:triple.sorting.bubble.fish.match:JP",
       "tags": [
@@ -16956,11 +16956,11 @@
       "installs": "10M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.326605319976807,
-      "ratingCount": 524973,
+      "ratingCount": 524972,
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-16T02:54:13.621Z",
+      "checkedAt": "2026-10-16T02:59:08.183Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.kurogame.wutheringwaves.global:JP",
       "tags": [
@@ -16979,12 +16979,12 @@
       "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
       "installs": "500K+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
-      "rating": 4.222883224487305,
-      "ratingCount": 35341,
+      "rating": 4.2237958908081055,
+      "ratingCount": 35340,
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-16T02:54:13.799Z",
+      "checkedAt": "2026-10-16T02:59:08.351Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:game.qualiarts.hololive.dreams.jp:JP",
       "tags": [
@@ -17008,7 +17008,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-16T02:54:12.867Z",
+      "checkedAt": "2026-10-16T02:59:07.286Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.aniplex.fategrandorder:JP",
       "tags": [
@@ -17032,7 +17032,7 @@
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-16T02:54:13.762Z",
+      "checkedAt": "2026-10-16T02:59:08.472Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.grandgames.magicsort",
       "tags": [
@@ -17056,7 +17056,7 @@
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-16T02:54:13.966Z",
+      "checkedAt": "2026-10-16T02:59:07.912Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:jp.co.mixi.monsterstrike:JP",
       "tags": [
@@ -17080,7 +17080,7 @@
       "price": null,
       "containsAds": true,
       "containsIAP": false,
-      "checkedAt": "2026-10-16T02:54:12.356Z",
+      "checkedAt": "2026-10-16T02:59:06.603Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.nebula.rotaterings",
       "tags": [
@@ -17104,7 +17104,7 @@
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-16T02:54:13.933Z",
+      "checkedAt": "2026-10-16T02:59:08.635Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.mergegames.gossipharbor",
       "tags": [
@@ -17128,7 +17128,7 @@
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-16T02:54:13.942Z",
+      "checkedAt": "2026-10-16T02:59:09.627Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.block.juggle:JP",
       "tags": [
@@ -17152,7 +17152,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-16T02:54:12.683Z",
+      "checkedAt": "2026-10-16T02:59:07.160Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.YoStarJP.Arknights:JP",
       "tags": [
@@ -17176,7 +17176,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-16T02:54:12.655Z",
+      "checkedAt": "2026-10-16T02:59:07.215Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.zigzagame.paranoize:JP",
       "tags": [
@@ -17185,6 +17185,11 @@
     }
   },
   "snapshots": [
+    {
+      "key": "history/2026-10-16T02-59-09-643Z.json",
+      "at": "2026-10-16T02:59:09.653Z",
+      "chartCount": 14
+    },
     {
       "key": "history/2026-10-16T02-54-13-967Z.json",
       "at": "2026-10-16T02:54:13.970Z",
@@ -17419,15 +17424,10 @@
       "key": "history/2026-10-08T09-56-34-768Z.json",
       "at": "2026-10-08T09:56:34.774Z",
       "chartCount": 14
-    },
-    {
-      "key": "history/2026-10-08T09-46-17-208Z.json",
-      "at": "2026-10-08T09:46:17.216Z",
-      "chartCount": 14
     }
   ],
   "lastRun": {
-    "at": "2026-10-16T02:54:05.554Z",
+    "at": "2026-10-16T02:59:01.673Z",
     "success": 20,
     "failed": 0,
     "total": 20,
@@ -17436,165 +17436,165 @@
         "id": "play-us-free",
         "ok": true,
         "count": 50,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
+        "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
+      },
+      {
+        "id": "play-us-grossing",
+        "ok": true,
+        "count": 50,
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
         "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
       },
       {
         "id": "play-jp-free",
         "ok": true,
         "count": 50,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
-        "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
-      },
-      {
-        "id": "play-us-grossing",
-        "ok": true,
-        "count": 50,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
-        "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
-      },
-      {
-        "id": "play-jp-grossing",
-        "ok": true,
-        "count": 50,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
         "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
       },
       {
         "id": "us-free",
         "ok": true,
         "count": 100,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
         "webUrl": "https://apps.apple.com/us/iphone/charts/6014?chart=top-free"
+      },
+      {
+        "id": "play-jp-grossing",
+        "ok": true,
+        "count": 50,
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
+        "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
       },
       {
         "id": "jp-free",
         "ok": true,
         "count": 100,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
         "webUrl": "https://apps.apple.com/jp/iphone/charts/6014?chart=top-free"
       },
       {
         "id": "us-grossing",
         "ok": true,
         "count": 100,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
         "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/us/genre/6014"
       },
       {
         "id": "jp-grossing",
         "ok": true,
         "count": 100,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
         "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/jp/genre/6014"
-      },
-      {
-        "id": "wechat-played",
-        "ok": true,
-        "count": 10,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
-        "webUrl": "https://www.momorank.com/rankings/most_played"
-      },
-      {
-        "id": "wechat-popular",
-        "ok": true,
-        "count": 10,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
-        "webUrl": "https://www.momorank.com/rankings/popular"
       },
       {
         "id": "wechat-grossing",
         "ok": true,
         "count": 10,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
         "webUrl": "https://www.momorank.com/rankings/bestseller"
+      },
+      {
+        "id": "wechat-popular",
+        "ok": true,
+        "count": 10,
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
+        "webUrl": "https://www.momorank.com/rankings/popular"
+      },
+      {
+        "id": "wechat-played",
+        "ok": true,
+        "count": 10,
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
+        "webUrl": "https://www.momorank.com/rankings/most_played"
       },
       {
         "id": "douyin-popular",
         "ok": true,
         "count": 10,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
         "webUrl": "https://www.momorank.com/douyin/rankings/popular"
       },
       {
-        "id": "wechat-rising",
+        "id": "douyin-grossing",
         "ok": true,
         "count": 10,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
-        "webUrl": "https://www.momorank.com/rising"
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
+        "webUrl": "https://www.momorank.com/douyin/rankings/bestseller"
       },
       {
         "id": "mini-news",
         "ok": true,
         "count": 38,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
         "webUrl": "https://news.google.com/search?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F"
+      },
+      {
+        "id": "wechat-rising",
+        "ok": true,
+        "count": 10,
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
+        "webUrl": "https://www.momorank.com/rising"
       },
       {
         "id": "iaa-news",
         "ok": true,
         "count": 40,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
         "webUrl": "https://news.google.com/search?q=%E5%B0%8F%E6%B8%B8%E6%88%8F%20%E5%B9%BF%E5%91%8A%E5%8F%98%E7%8E%B0"
       },
       {
         "id": "reward-news",
         "ok": true,
         "count": 40,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
         "webUrl": "https://news.google.com/search?q=rewarded%20gaming"
-      },
-      {
-        "id": "pcgamer",
-        "ok": true,
-        "count": 40,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
-        "webUrl": "https://www.pcgamer.com/games/"
       },
       {
         "id": "industry",
         "ok": true,
         "count": 40,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
         "webUrl": "https://www.gamesindustry.biz/"
       },
       {
-        "id": "douyin-grossing",
+        "id": "pcgamer",
         "ok": true,
-        "count": 10,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
-        "webUrl": "https://www.momorank.com/douyin/rankings/bestseller"
+        "count": 40,
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
+        "webUrl": "https://www.pcgamer.com/games/"
       },
       {
         "id": "eurogamer",
         "ok": true,
         "count": 40,
-        "checkedAt": "2026-10-16T02:54:05.554Z",
-        "lastSuccessAt": "2026-10-16T02:54:05.554Z",
+        "checkedAt": "2026-10-16T02:59:01.673Z",
+        "lastSuccessAt": "2026-10-16T02:59:01.673Z",
         "webUrl": "https://www.eurogamer.net/"
       }
     ]
   },
-  "attemptedAt": "2026-10-16T02:54:05.554Z",
+  "attemptedAt": "2026-10-16T02:59:01.673Z",
   "lastSync": {
     "at": "2026-10-08T06:53:33.468Z",
     "accepted": [
@@ -17858,7 +17858,7 @@
   ],
   "intelligence": {
     "version": 2,
-    "updatedAt": "2026-10-16T02:54:13.971Z",
+    "updatedAt": "2026-10-16T02:59:09.654Z",
     "actors": [
       {
         "id": "wechat-games",
@@ -19921,16 +19921,17 @@
     ],
     "sourceStatus": [
       {
-        "id": "official-appsflyer",
-        "actorId": "appsflyer",
-        "name": "AppsFlyer 官方订阅",
-        "url": "https://www.appsflyer.com/feed/",
+        "id": "official-supersonic",
+        "actorId": "supersonic",
+        "name": "Supersonic 官方订阅",
+        "url": "https://supersonic.com/feed/",
         "kind": "official",
         "intervalHours": 3,
         "ok": true,
         "count": 10,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "official-adjoe",
@@ -19942,139 +19943,21 @@
         "ok": true,
         "count": 10,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
-        "id": "official-supersonic",
-        "actorId": "supersonic",
-        "name": "Supersonic 官方订阅",
-        "url": "https://supersonic.com/feed/",
+        "id": "official-appsflyer",
+        "actorId": "appsflyer",
+        "name": "AppsFlyer 官方订阅",
+        "url": "https://www.appsflyer.com/feed/",
         "kind": "official",
         "intervalHours": 3,
         "ok": true,
         "count": 10,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "official-xbox",
-        "actorId": "xbox",
-        "name": "Xbox Wire 官方消息",
-        "url": "https://news.xbox.com/en-us/feed/",
-        "kind": "official",
-        "intervalHours": 3,
-        "ok": true,
-        "count": 10,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "official-playstation",
-        "actorId": "playstation",
-        "name": "PlayStation 官方订阅",
-        "url": "https://blog.playstation.com/feed/",
-        "kind": "official",
-        "intervalHours": 3,
-        "ok": true,
-        "count": 10,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "official-google-ads",
-        "actorId": "google-ads",
-        "name": "Google Ads 官方订阅",
-        "url": "https://blog.google/products/ads-commerce/rss/",
-        "kind": "official",
-        "intervalHours": 3,
-        "ok": true,
-        "count": 20,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "official-zynga",
-        "actorId": "zynga",
-        "name": "Zynga 官方订阅",
-        "url": "https://www.zynga.com/feed/",
-        "kind": "official",
-        "intervalHours": 3,
-        "ok": true,
-        "count": 30,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "official-googleplay",
-        "actorId": "googleplay",
-        "name": "Google Play 官方订阅",
-        "url": "https://blog.google/products/google-play/rss/",
-        "kind": "official",
-        "intervalHours": 3,
-        "ok": true,
-        "count": 20,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "official-apple-appstore",
-        "actorId": "apple-appstore",
-        "name": "Apple App Store 官方订阅",
-        "url": "https://developer.apple.com/news/rss/news.rss",
-        "kind": "official",
-        "intervalHours": 3,
-        "ok": true,
-        "count": 30,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-wechat-games",
-        "actorId": "wechat-games",
-        "name": "微信小游戏 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E5%B9%B3%E5%8F%B0%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-douyin-games",
-        "actorId": "douyin-games",
-        "name": "抖音小游戏 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E6%8A%96%E9%9F%B3%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E5%B9%B3%E5%8F%B0%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "official-supercent",
-        "actorId": "supercent",
-        "name": "Supercent 官方订阅",
-        "url": "https://medium.com/feed/supercent-blog",
-        "kind": "official",
-        "intervalHours": 3,
-        "ok": true,
-        "count": 10,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-kuaishou-games",
-        "actorId": "kuaishou-games",
-        "name": "快手小游戏 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E5%BF%AB%E6%89%8B%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "official-godot",
@@ -20086,7 +19969,138 @@
         "ok": true,
         "count": 15,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "official-playstation",
+        "actorId": "playstation",
+        "name": "PlayStation 官方订阅",
+        "url": "https://blog.playstation.com/feed/",
+        "kind": "official",
+        "intervalHours": 3,
+        "ok": true,
+        "count": 10,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "official-xbox",
+        "actorId": "xbox",
+        "name": "Xbox Wire 官方消息",
+        "url": "https://news.xbox.com/en-us/feed/",
+        "kind": "official",
+        "intervalHours": 3,
+        "ok": true,
+        "count": 10,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "official-googleplay",
+        "actorId": "googleplay",
+        "name": "Google Play 官方订阅",
+        "url": "https://blog.google/products/google-play/rss/",
+        "kind": "official",
+        "intervalHours": 3,
+        "ok": true,
+        "count": 20,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "official-google-ads",
+        "actorId": "google-ads",
+        "name": "Google Ads 官方订阅",
+        "url": "https://blog.google/products/ads-commerce/rss/",
+        "kind": "official",
+        "intervalHours": 3,
+        "ok": true,
+        "count": 20,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "official-zynga",
+        "actorId": "zynga",
+        "name": "Zynga 官方订阅",
+        "url": "https://www.zynga.com/feed/",
+        "kind": "official",
+        "intervalHours": 3,
+        "ok": true,
+        "count": 30,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "official-apple-appstore",
+        "actorId": "apple-appstore",
+        "name": "Apple App Store 官方订阅",
+        "url": "https://developer.apple.com/news/rss/news.rss",
+        "kind": "official",
+        "intervalHours": 3,
+        "ok": true,
+        "count": 30,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "official-supercent",
+        "actorId": "supercent",
+        "name": "Supercent 官方订阅",
+        "url": "https://medium.com/feed/supercent-blog",
+        "kind": "official",
+        "intervalHours": 3,
+        "ok": true,
+        "count": 10,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-wechat-games",
+        "actorId": "wechat-games",
+        "name": "微信小游戏 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E5%B9%B3%E5%8F%B0%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-douyin-games",
+        "actorId": "douyin-games",
+        "name": "抖音小游戏 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E6%8A%96%E9%9F%B3%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E5%B9%B3%E5%8F%B0%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-kuaishou-games",
+        "actorId": "kuaishou-games",
+        "name": "快手小游戏 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E5%BF%AB%E6%89%8B%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-4399",
@@ -20098,19 +20112,8 @@
         "ok": true,
         "count": 7,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-37games",
-        "actorId": "37games",
-        "name": "三七互娱 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E4%B8%89%E4%B8%83%E4%BA%92%E5%A8%B1%22%20%E5%B0%8F%E6%B8%B8%E6%88%8F%20OR%20%E6%89%8B%E6%B8%B8%20OR%20%E8%B4%A2%E6%8A%A5%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 1,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-leiting",
@@ -20122,19 +20125,21 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
-        "id": "actor-net-ease",
-        "actorId": "net-ease",
-        "name": "网易游戏 新闻发现",
+        "id": "actor-37games",
+        "actorId": "37games",
+        "name": "三七互娱 新闻发现",
         "kind": "discovery",
         "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "url": "https://news.google.com/rss/search?q=%22%E4%B8%89%E4%B8%83%E4%BA%92%E5%A8%B1%22%20%E5%B0%8F%E6%B8%B8%E6%88%8F%20OR%20%E6%89%8B%E6%B8%B8%20OR%20%E8%B4%A2%E6%8A%A5%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "ok": true,
-        "count": 6,
+        "count": 1,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-yodo1",
@@ -20146,7 +20151,21 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-net-ease",
+        "actorId": "net-ease",
+        "name": "网易游戏 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 6,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-tencent-games",
@@ -20158,31 +20177,8 @@
         "ok": true,
         "count": 3,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-oceanengine",
-        "actorId": "oceanengine",
-        "name": "巨量引擎 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E5%B7%A8%E9%87%8F%E5%BC%95%E6%93%8E%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 1,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-tencent-ads",
-        "actorId": "tencent-ads",
-        "name": "腾讯广告 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E8%85%BE%E8%AE%AF%E5%B9%BF%E5%91%8A%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-mihoyo",
@@ -20194,7 +20190,34 @@
         "ok": true,
         "count": 25,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-oceanengine",
+        "actorId": "oceanengine",
+        "name": "巨量引擎 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E5%B7%A8%E9%87%8F%E5%BC%95%E6%93%8E%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 1,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-tencent-ads",
+        "actorId": "tencent-ads",
+        "name": "腾讯广告 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E8%85%BE%E8%AE%AF%E5%B9%BF%E5%91%8A%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-mintegral",
@@ -20206,7 +20229,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-mobvista",
@@ -20218,7 +20242,8 @@
         "ok": true,
         "count": 7,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-topon",
@@ -20230,7 +20255,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-tradplus",
@@ -20242,7 +20268,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-appsflyer",
@@ -20254,31 +20281,8 @@
         "ok": true,
         "count": 4,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-singular",
-        "actorId": "singular",
-        "name": "Singular 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Singular%22%20%22mobile%20attribution%22%20OR%20%22game%20marketing%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-unity",
-        "actorId": "unity",
-        "name": "Unity 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Unity%20Technologies%22%20OR%20%22Unity%20Ads%22%20OR%20%22LevelPlay%22%20game%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 2,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-adjust",
@@ -20290,7 +20294,21 @@
         "ok": true,
         "count": 20,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-singular",
+        "actorId": "singular",
+        "name": "Singular 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Singular%22%20%22mobile%20attribution%22%20OR%20%22game%20marketing%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-applovin",
@@ -20302,7 +20320,21 @@
         "ok": true,
         "count": 29,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-unity",
+        "actorId": "unity",
+        "name": "Unity 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Unity%20Technologies%22%20OR%20%22Unity%20Ads%22%20OR%20%22LevelPlay%22%20game%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 2,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-liftoff",
@@ -20314,7 +20346,8 @@
         "ok": true,
         "count": 19,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-moloco",
@@ -20326,7 +20359,8 @@
         "ok": true,
         "count": 2,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-google-admob",
@@ -20338,19 +20372,8 @@
         "ok": true,
         "count": 1,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-saygames",
-        "actorId": "saygames",
-        "name": "SayGames 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22SayGames%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-google-ads",
@@ -20362,19 +20385,8 @@
         "ok": true,
         "count": 17,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-homa",
-        "actorId": "homa",
-        "name": "Homa 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Homa%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 17,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-voodoo",
@@ -20386,7 +20398,34 @@
         "ok": true,
         "count": 21,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-saygames",
+        "actorId": "saygames",
+        "name": "SayGames 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22SayGames%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-homa",
+        "actorId": "homa",
+        "name": "Homa 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Homa%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 17,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-kwalee",
@@ -20398,7 +20437,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-crazylabs",
@@ -20410,19 +20450,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-zynga",
-        "actorId": "zynga",
-        "name": "Zynga 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Zynga%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 9,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-supersonic",
@@ -20434,7 +20463,21 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-zynga",
+        "actorId": "zynga",
+        "name": "Zynga 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Zynga%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 9,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-playtika",
@@ -20446,7 +20489,8 @@
         "ok": true,
         "count": 7,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-scopely",
@@ -20458,19 +20502,8 @@
         "ok": true,
         "count": 8,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-rovio",
-        "actorId": "rovio",
-        "name": "Rovio 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Rovio%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 4,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-supercell",
@@ -20482,7 +20515,21 @@
         "ok": true,
         "count": 13,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-rovio",
+        "actorId": "rovio",
+        "name": "Rovio 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Rovio%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 4,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-mistplay",
@@ -20494,7 +20541,8 @@
         "ok": true,
         "count": 1,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-adjoe",
@@ -20506,7 +20554,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-almedia",
@@ -20518,7 +20567,8 @@
         "ok": true,
         "count": 3,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-justplay",
@@ -20530,7 +20580,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-digital-turbine",
@@ -20542,7 +20593,8 @@
         "ok": true,
         "count": 19,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-xsolla",
@@ -20554,31 +20606,8 @@
         "ok": true,
         "count": 14,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-niko-partners",
-        "actorId": "niko-partners",
-        "name": "Niko Partners 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Niko%20Partners%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 2,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-learnings",
-        "actorId": "learnings",
-        "name": "乐信圣文 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E4%B9%90%E4%BF%A1%E5%9C%A3%E6%96%87%22%20OR%20%22Learnings%22%20%22casual%20games%22%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-sensor-tower",
@@ -20590,7 +20619,21 @@
         "ok": true,
         "count": 8,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-niko-partners",
+        "actorId": "niko-partners",
+        "name": "Niko Partners 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Niko%20Partners%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 2,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-centurygames",
@@ -20602,7 +20645,21 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-learnings",
+        "actorId": "learnings",
+        "name": "乐信圣文 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E4%B9%90%E4%BF%A1%E5%9C%A3%E6%96%87%22%20OR%20%22Learnings%22%20%22casual%20games%22%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-godot",
@@ -20614,19 +20671,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-steam",
-        "actorId": "steam",
-        "name": "Steam / Valve 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Valve%20Corporation%22%20OR%20%22Steam%22%20%22game%20distribution%22%20OR%20%22Steamworks%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 13,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-playstation",
@@ -20638,7 +20684,8 @@
         "ok": true,
         "count": 25,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-xbox",
@@ -20650,7 +20697,8 @@
         "ok": true,
         "count": 30,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-googleplay",
@@ -20662,19 +20710,21 @@
         "ok": true,
         "count": 21,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
-        "id": "actor-roblox",
-        "actorId": "roblox",
-        "name": "Roblox 新闻发现",
+        "id": "actor-steam",
+        "actorId": "steam",
+        "name": "Steam / Valve 新闻发现",
         "kind": "discovery",
         "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Roblox%20Corporation%22%20OR%20%22Roblox%22%20%22developer%20economy%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "url": "https://news.google.com/rss/search?q=%22Valve%20Corporation%22%20OR%20%22Steam%22%20%22game%20distribution%22%20OR%20%22Steamworks%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
         "ok": true,
-        "count": 0,
+        "count": 13,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-epicgames",
@@ -20686,19 +20736,21 @@
         "ok": true,
         "count": 29,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
-        "id": "actor-appmagic",
-        "actorId": "appmagic",
-        "name": "AppMagic 新闻发现",
+        "id": "actor-roblox",
+        "actorId": "roblox",
+        "name": "Roblox 新闻发现",
         "kind": "discovery",
         "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22AppMagic%22%20mobile%20OR%20games%20OR%20revenue%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "url": "https://news.google.com/rss/search?q=%22Roblox%20Corporation%22%20OR%20%22Roblox%22%20%22developer%20economy%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
         "ok": true,
-        "count": 1,
+        "count": 0,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-nintendo",
@@ -20710,31 +20762,8 @@
         "ok": true,
         "count": 25,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-dataeye",
-        "actorId": "dataeye",
-        "name": "DataEye 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22DataEye%22%20OR%20%22DataEye%E7%A0%94%E7%A9%B6%E9%99%A2%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B0%8F%E6%B8%B8%E6%88%8F%20OR%20%E4%B9%B0%E9%87%8F%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 1,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
-      },
-      {
-        "id": "actor-hungrystudio",
-        "actorId": "hungrystudio",
-        "name": "Hungry Studio 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Hungry%20Studio%22%20games%20OR%20%22Block%20Blast%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-apple-appstore",
@@ -20746,7 +20775,47 @@
         "ok": true,
         "count": 17,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-appmagic",
+        "actorId": "appmagic",
+        "name": "AppMagic 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22AppMagic%22%20mobile%20OR%20games%20OR%20revenue%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 1,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-dataeye",
+        "actorId": "dataeye",
+        "name": "DataEye 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22DataEye%22%20OR%20%22DataEye%E7%A0%94%E7%A9%B6%E9%99%A2%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B0%8F%E6%B8%B8%E6%88%8F%20OR%20%E4%B9%B0%E9%87%8F%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 1,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-hungrystudio",
+        "actorId": "hungrystudio",
+        "name": "Hungry Studio 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Hungry%20Studio%22%20games%20OR%20%22Block%20Blast%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-16T02:54:13.971Z",
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-oakever",
@@ -20758,7 +20827,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-dreamgames",
@@ -20770,7 +20840,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-microfun",
@@ -20782,7 +20853,8 @@
         "ok": true,
         "count": 2,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       },
       {
         "id": "actor-supercent",
@@ -20794,7 +20866,8 @@
         "ok": true,
         "count": 1,
         "checkedAt": "2026-10-16T02:54:13.971Z",
-        "lastSuccessAt": "2026-10-16T02:54:13.971Z"
+        "lastSuccessAt": "2026-10-16T02:54:13.971Z",
+        "skipped": true
       }
     ],
     "items": [
@@ -60834,7 +60907,7 @@
         "publishedAt": "2026-10-15T18:06:00.000Z",
         "discoveredAt": "2026-10-15T18:14:39.601Z",
         "firstAt": "2026-10-15T15:16:56.000Z",
-        "heat": 1.49,
+        "heat": 1.487,
         "participants": 2,
         "reportCount": 2,
         "ruleScore": 35,
@@ -60877,7 +60950,7 @@
         "publishedAt": "2026-10-14T13:54:41.000Z",
         "discoveredAt": "2026-10-14T15:04:17.372Z",
         "firstAt": "2026-10-14T13:00:00.000Z",
-        "heat": 1.348,
+        "heat": 1.345,
         "participants": 4,
         "reportCount": 5,
         "ruleScore": 35,
@@ -60947,7 +61020,7 @@
         "publishedAt": "2026-10-14T10:52:48.000Z",
         "discoveredAt": "2026-10-14T15:04:17.372Z",
         "firstAt": "2026-10-14T10:52:00.000Z",
-        "heat": 0.944,
+        "heat": 0.942,
         "participants": 3,
         "reportCount": 3,
         "ruleScore": 45,
@@ -61001,7 +61074,7 @@
         "publishedAt": "2026-10-15T22:06:35.000Z",
         "discoveredAt": "2026-10-16T00:24:29.622Z",
         "firstAt": "2026-10-15T22:06:35.000Z",
-        "heat": 0.871,
+        "heat": 0.869,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -61035,7 +61108,7 @@
         "publishedAt": "2026-10-15T18:59:13.000Z",
         "discoveredAt": "2026-10-15T22:12:45.566Z",
         "firstAt": "2026-10-15T18:59:13.000Z",
-        "heat": 0.796,
+        "heat": 0.794,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -61069,7 +61142,7 @@
         "publishedAt": "2026-10-15T18:00:00.000Z",
         "discoveredAt": "2026-10-15T18:14:39.601Z",
         "firstAt": "2026-10-15T18:00:00.000Z",
-        "heat": 0.773,
+        "heat": 0.771,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 54,
@@ -61106,7 +61179,7 @@
         "publishedAt": "2026-10-14T21:15:56.000Z",
         "discoveredAt": "2026-10-14T15:04:14.043Z",
         "firstAt": "2026-10-14T14:15:44.000Z",
-        "heat": 0.772,
+        "heat": 0.77,
         "participants": 2,
         "reportCount": 2,
         "ruleScore": 45,
@@ -61148,7 +61221,7 @@
         "publishedAt": "2026-10-15T17:24:30.000Z",
         "discoveredAt": "2026-10-16T02:54:13.971Z",
         "firstAt": "2026-10-15T17:24:30.000Z",
-        "heat": 0.76,
+        "heat": 0.758,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -61182,7 +61255,7 @@
         "publishedAt": "2026-10-15T17:00:08.000Z",
         "discoveredAt": "2026-10-15T18:14:39.601Z",
         "firstAt": "2026-10-15T17:00:08.000Z",
-        "heat": 0.751,
+        "heat": 0.75,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 54,
@@ -61216,7 +61289,7 @@
         "publishedAt": "2026-10-15T16:06:45.000Z",
         "discoveredAt": "2026-10-15T18:14:39.601Z",
         "firstAt": "2026-10-15T15:01:00.000Z",
-        "heat": 0.732,
+        "heat": 0.73,
         "participants": 1,
         "reportCount": 2,
         "ruleScore": 44,
@@ -61259,7 +61332,7 @@
         "publishedAt": "2026-10-15T16:00:00.000Z",
         "discoveredAt": "2026-10-15T18:14:39.601Z",
         "firstAt": "2026-10-15T16:00:00.000Z",
-        "heat": 0.73,
+        "heat": 0.728,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -61293,7 +61366,7 @@
         "publishedAt": "2026-10-15T15:38:09.000Z",
         "discoveredAt": "2026-10-15T18:14:39.601Z",
         "firstAt": "2026-10-15T15:38:09.000Z",
-        "heat": 0.722,
+        "heat": 0.721,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -61327,7 +61400,7 @@
         "publishedAt": "2026-10-15T15:16:00.000Z",
         "discoveredAt": "2026-10-15T22:12:45.566Z",
         "firstAt": "2026-10-15T15:16:00.000Z",
-        "heat": 0.715,
+        "heat": 0.713,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -61364,7 +61437,7 @@
         "publishedAt": "2026-10-15T14:28:11.000Z",
         "discoveredAt": "2026-10-15T18:14:39.601Z",
         "firstAt": "2026-10-15T14:28:11.000Z",
-        "heat": 0.698,
+        "heat": 0.697,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -61400,7 +61473,7 @@
         "publishedAt": "2026-10-14T14:44:08.000Z",
         "discoveredAt": "2026-10-14T15:04:17.372Z",
         "firstAt": "2026-10-14T13:55:18.000Z",
-        "heat": 0.696,
+        "heat": 0.694,
         "participants": 2,
         "reportCount": 2,
         "ruleScore": 45,
@@ -61443,7 +61516,7 @@
         "publishedAt": "2026-10-15T14:00:00.000Z",
         "discoveredAt": "2026-10-15T18:14:39.601Z",
         "firstAt": "2026-10-15T14:00:00.000Z",
-        "heat": 0.689,
+        "heat": 0.687,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -61477,7 +61550,7 @@
         "publishedAt": "2026-10-15T13:48:43.000Z",
         "discoveredAt": "2026-10-15T18:14:37.921Z",
         "firstAt": "2026-10-15T13:48:43.000Z",
-        "heat": 0.685,
+        "heat": 0.684,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -61510,7 +61583,7 @@
         "publishedAt": "2026-10-15T13:10:51.000Z",
         "discoveredAt": "2026-10-15T13:22:03.661Z",
         "firstAt": "2026-10-15T13:10:51.000Z",
-        "heat": 0.673,
+        "heat": 0.671,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -61544,7 +61617,7 @@
         "publishedAt": "2026-10-15T13:09:40.000Z",
         "discoveredAt": "2026-10-15T13:22:14.405Z",
         "firstAt": "2026-10-15T13:09:40.000Z",
-        "heat": 0.672,
+        "heat": 0.671,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -61580,7 +61653,7 @@
         "publishedAt": "2026-10-15T13:02:51.000Z",
         "discoveredAt": "2026-10-15T13:22:03.910Z",
         "firstAt": "2026-10-15T13:02:51.000Z",
-        "heat": 0.67,
+        "heat": 0.669,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -61614,7 +61687,7 @@
         "publishedAt": "2026-10-15T13:00:00.000Z",
         "discoveredAt": "2026-10-15T13:22:14.405Z",
         "firstAt": "2026-10-15T13:00:00.000Z",
-        "heat": 0.669,
+        "heat": 0.668,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -61649,7 +61722,7 @@
         "publishedAt": "2026-10-15T13:00:00.000Z",
         "discoveredAt": "2026-10-15T13:22:14.405Z",
         "firstAt": "2026-10-15T13:00:00.000Z",
-        "heat": 0.669,
+        "heat": 0.668,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -61683,7 +61756,7 @@
         "publishedAt": "2026-10-15T12:00:00.000Z",
         "discoveredAt": "2026-10-16T02:54:13.971Z",
         "firstAt": "2026-10-15T12:00:00.000Z",
-        "heat": 0.65,
+        "heat": 0.649,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 54,
@@ -61717,7 +61790,7 @@
         "publishedAt": "2026-10-15T11:36:38.000Z",
         "discoveredAt": "2026-10-15T13:22:03.663Z",
         "firstAt": "2026-10-15T11:36:38.000Z",
-        "heat": 0.643,
+        "heat": 0.641,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -61752,7 +61825,7 @@
         "publishedAt": "2026-10-15T11:18:33.000Z",
         "discoveredAt": "2026-10-15T13:22:14.405Z",
         "firstAt": "2026-10-15T11:18:33.000Z",
-        "heat": 0.637,
+        "heat": 0.636,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -61786,7 +61859,7 @@
         "publishedAt": "2026-10-15T11:15:00.000Z",
         "discoveredAt": "2026-10-15T22:12:45.566Z",
         "firstAt": "2026-10-15T11:15:00.000Z",
-        "heat": 0.636,
+        "heat": 0.635,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -61820,7 +61893,7 @@
         "publishedAt": "2026-10-15T11:08:03.000Z",
         "discoveredAt": "2026-10-15T13:22:04.445Z",
         "firstAt": "2026-10-15T11:08:03.000Z",
-        "heat": 0.634,
+        "heat": 0.633,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -61856,7 +61929,7 @@
         "publishedAt": "2026-10-15T09:35:29.000Z",
         "discoveredAt": "2026-10-15T13:22:04.445Z",
         "firstAt": "2026-10-15T09:35:29.000Z",
-        "heat": 0.607,
+        "heat": 0.605,
         "participants": 1,
         "reportCount": 2,
         "ruleScore": 45,
@@ -61899,7 +61972,7 @@
         "publishedAt": "2026-10-15T09:36:02.000Z",
         "discoveredAt": "2026-10-15T18:14:39.601Z",
         "firstAt": "2026-10-15T09:36:02.000Z",
-        "heat": 0.607,
+        "heat": 0.605,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -61933,7 +62006,7 @@
         "publishedAt": "2026-10-15T08:48:27.000Z",
         "discoveredAt": "2026-10-15T13:22:03.911Z",
         "firstAt": "2026-10-15T08:48:27.000Z",
-        "heat": 0.593,
+        "heat": 0.592,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -61966,7 +62039,7 @@
         "publishedAt": "2026-10-15T05:44:16.000Z",
         "discoveredAt": "2026-10-15T07:21:57.127Z",
         "firstAt": "2026-10-15T05:44:16.000Z",
-        "heat": 0.543,
+        "heat": 0.541,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 57,
@@ -62000,7 +62073,7 @@
         "publishedAt": "2026-10-15T02:19:55.000Z",
         "discoveredAt": "2026-10-14T23:10:57.230Z",
         "firstAt": "2026-10-15T02:19:55.000Z",
-        "heat": 0.492,
+        "heat": 0.491,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -62034,7 +62107,7 @@
         "publishedAt": "2026-10-15T02:06:55.000Z",
         "discoveredAt": "2026-10-14T15:04:17.372Z",
         "firstAt": "2026-10-14T13:00:48.000Z",
-        "heat": 0.489,
+        "heat": 0.488,
         "participants": 1,
         "reportCount": 2,
         "ruleScore": 54,
@@ -62077,7 +62150,7 @@
         "publishedAt": "2026-10-15T01:39:00.000Z",
         "discoveredAt": "2026-10-15T07:21:57.127Z",
         "firstAt": "2026-10-15T01:39:00.000Z",
-        "heat": 0.482,
+        "heat": 0.481,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -62111,7 +62184,7 @@
         "publishedAt": "2026-10-15T00:52:08.000Z",
         "discoveredAt": "2026-10-15T01:04:01.984Z",
         "firstAt": "2026-10-15T00:52:08.000Z",
-        "heat": 0.471,
+        "heat": 0.47,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -62145,7 +62218,7 @@
         "publishedAt": "2026-10-14T22:45:29.000Z",
         "discoveredAt": "2026-10-15T18:14:39.601Z",
         "firstAt": "2026-10-14T22:45:29.000Z",
-        "heat": 0.444,
+        "heat": 0.443,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -62179,7 +62252,7 @@
         "publishedAt": "2026-10-14T22:20:00.000Z",
         "discoveredAt": "2026-10-15T01:04:01.984Z",
         "firstAt": "2026-10-14T22:20:00.000Z",
-        "heat": 0.438,
+        "heat": 0.437,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -62213,7 +62286,7 @@
         "publishedAt": "2026-10-14T21:02:24.000Z",
         "discoveredAt": "2026-10-14T23:10:54.390Z",
         "firstAt": "2026-10-14T21:02:24.000Z",
-        "heat": 0.422,
+        "heat": 0.421,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -62248,7 +62321,7 @@
         "publishedAt": "2026-10-14T20:39:26.000Z",
         "discoveredAt": "2026-10-12T22:55:22.397Z",
         "firstAt": "2026-10-12T20:59:50.000Z",
-        "heat": 0.417,
+        "heat": 0.416,
         "participants": 1,
         "reportCount": 2,
         "ruleScore": 45,
@@ -62291,7 +62364,7 @@
         "publishedAt": "2026-10-14T18:38:36.000Z",
         "discoveredAt": "2026-10-14T23:10:57.230Z",
         "firstAt": "2026-10-14T18:38:36.000Z",
-        "heat": 0.394,
+        "heat": 0.393,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -62325,7 +62398,7 @@
         "publishedAt": "2026-10-14T18:21:52.000Z",
         "discoveredAt": "2026-10-14T19:19:34.112Z",
         "firstAt": "2026-10-14T18:21:52.000Z",
-        "heat": 0.391,
+        "heat": 0.39,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -62361,7 +62434,7 @@
         "publishedAt": "2026-10-14T18:17:03.000Z",
         "discoveredAt": "2026-10-14T19:19:34.255Z",
         "firstAt": "2026-10-14T18:17:03.000Z",
-        "heat": 0.39,
+        "heat": 0.389,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -62396,7 +62469,7 @@
         "publishedAt": "2026-10-14T18:05:00.000Z",
         "discoveredAt": "2026-10-14T19:19:37.923Z",
         "firstAt": "2026-10-14T18:05:00.000Z",
-        "heat": 0.388,
+        "heat": 0.387,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -62433,7 +62506,7 @@
         "publishedAt": "2026-10-14T17:57:00.000Z",
         "discoveredAt": "2026-10-14T19:19:37.923Z",
         "firstAt": "2026-10-14T17:57:00.000Z",
-        "heat": 0.386,
+        "heat": 0.385,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -62468,7 +62541,7 @@
         "publishedAt": "2026-10-14T17:20:00.000Z",
         "discoveredAt": "2026-10-14T19:19:37.923Z",
         "firstAt": "2026-10-14T17:20:00.000Z",
-        "heat": 0.379,
+        "heat": 0.378,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 47,
@@ -62502,7 +62575,7 @@
         "publishedAt": "2026-10-14T16:55:20.000Z",
         "discoveredAt": "2026-10-14T23:10:57.230Z",
         "firstAt": "2026-10-14T16:55:20.000Z",
-        "heat": 0.375,
+        "heat": 0.374,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -62536,7 +62609,7 @@
         "publishedAt": "2026-10-14T16:51:54.000Z",
         "discoveredAt": "2026-10-14T19:19:34.255Z",
         "firstAt": "2026-10-14T16:51:54.000Z",
-        "heat": 0.374,
+        "heat": 0.373,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -62571,7 +62644,7 @@
         "publishedAt": "2026-10-14T16:16:43.000Z",
         "discoveredAt": "2026-10-16T00:24:29.622Z",
         "firstAt": "2026-10-14T16:16:43.000Z",
-        "heat": 0.368,
+        "heat": 0.367,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -62608,7 +62681,7 @@
         "publishedAt": "2026-10-14T16:00:00.000Z",
         "discoveredAt": "2026-10-14T23:10:57.230Z",
         "firstAt": "2026-10-14T16:00:00.000Z",
-        "heat": 0.365,
+        "heat": 0.364,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -62642,7 +62715,7 @@
         "publishedAt": "2026-10-14T16:00:00.000Z",
         "discoveredAt": "2026-10-14T19:19:37.923Z",
         "firstAt": "2026-10-14T16:00:00.000Z",
-        "heat": 0.365,
+        "heat": 0.364,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -62678,7 +62751,7 @@
         "publishedAt": "2026-10-14T15:39:00.000Z",
         "discoveredAt": "2026-10-14T19:19:37.923Z",
         "firstAt": "2026-10-14T15:39:00.000Z",
-        "heat": 0.361,
+        "heat": 0.36,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -62712,7 +62785,7 @@
         "publishedAt": "2026-10-14T15:30:18.000Z",
         "discoveredAt": "2026-10-14T19:19:37.923Z",
         "firstAt": "2026-10-14T15:30:18.000Z",
-        "heat": 0.36,
+        "heat": 0.359,
         "participants": 1,
         "reportCount": 2,
         "ruleScore": 44,
@@ -62757,7 +62830,7 @@
         "publishedAt": "2026-10-14T15:14:25.000Z",
         "discoveredAt": "2026-10-14T19:19:37.923Z",
         "firstAt": "2026-10-14T15:14:25.000Z",
-        "heat": 0.357,
+        "heat": 0.356,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -62791,7 +62864,7 @@
         "publishedAt": "2026-10-14T15:00:00.000Z",
         "discoveredAt": "2026-10-14T15:04:17.372Z",
         "firstAt": "2026-10-14T15:00:00.000Z",
-        "heat": 0.355,
+        "heat": 0.354,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -62826,7 +62899,7 @@
         "publishedAt": "2026-10-14T15:00:00.000Z",
         "discoveredAt": "2026-10-14T19:19:37.923Z",
         "firstAt": "2026-10-14T15:00:00.000Z",
-        "heat": 0.355,
+        "heat": 0.354,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -62862,7 +62935,7 @@
         "publishedAt": "2026-10-14T14:37:00.000Z",
         "discoveredAt": "2026-10-14T23:10:57.230Z",
         "firstAt": "2026-10-14T14:37:00.000Z",
-        "heat": 0.351,
+        "heat": 0.35,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -62898,7 +62971,7 @@
         "publishedAt": "2026-10-14T13:46:09.000Z",
         "discoveredAt": "2026-10-14T19:19:37.923Z",
         "firstAt": "2026-10-14T13:46:09.000Z",
-        "heat": 0.342,
+        "heat": 0.341,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -62932,7 +63005,7 @@
         "publishedAt": "2026-10-14T13:34:31.000Z",
         "discoveredAt": "2026-10-14T10:07:41.170Z",
         "firstAt": "2026-10-14T13:34:31.000Z",
-        "heat": 0.34,
+        "heat": 0.339,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -62966,7 +63039,7 @@
         "publishedAt": "2026-10-14T13:00:57.000Z",
         "discoveredAt": "2026-10-14T15:04:17.372Z",
         "firstAt": "2026-10-14T13:00:57.000Z",
-        "heat": 0.335,
+        "heat": 0.334,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 54,
@@ -63000,7 +63073,7 @@
         "publishedAt": "2026-10-14T13:00:00.000Z",
         "discoveredAt": "2026-10-14T15:04:15.422Z",
         "firstAt": "2026-10-14T13:00:00.000Z",
-        "heat": 0.335,
+        "heat": 0.334,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -63135,7 +63208,7 @@
         "publishedAt": "2026-10-14T08:35:47.000Z",
         "discoveredAt": "2026-10-14T10:07:40.096Z",
         "firstAt": "2026-10-14T08:35:47.000Z",
-        "heat": 0.295,
+        "heat": 0.294,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -63202,7 +63275,7 @@
         "publishedAt": "2026-10-14T08:01:53.000Z",
         "discoveredAt": "2026-10-14T10:07:41.170Z",
         "firstAt": "2026-10-14T08:01:53.000Z",
-        "heat": 0.29,
+        "heat": 0.289,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -63304,7 +63377,7 @@
         "publishedAt": "2026-10-14T05:40:41.000Z",
         "discoveredAt": "2026-10-14T10:07:41.170Z",
         "firstAt": "2026-10-14T05:40:41.000Z",
-        "heat": 0.271,
+        "heat": 0.27,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 45,
@@ -84440,10 +84513,10 @@
       "notice": "来源数量表示发布渠道候选，不证明报道独立或事实属实。初始旧文只进历史，未知日期不进入热点与日报。"
     },
     "run": {
-      "at": "2026-10-16T02:54:13.971Z",
-      "success": 73,
+      "at": "2026-10-16T02:59:09.654Z",
+      "success": 0,
       "failed": 0,
-      "skipped": 0,
+      "skipped": 73,
       "total": 73
     }
   }
