@@ -86488,604 +86488,153 @@
     "digests": [
       {
         "date": "2026-10-17",
-        "publishedAt": "2026-10-17T01:00:00.000Z",
-        "generatedAt": "2026-10-17T01:05:50.410Z",
+        "publishedAt": "2026-10-17T01:21:19.406Z",
+        "generatedAt": "2026-10-17T01:21:19.406Z",
         "windowStart": "2026-10-16T01:00:00.000Z",
         "windowEnd": "2026-10-17T01:00:00.000Z",
-        "mode": "规则编排 · 保留原标题与原文摘要",
+        "dataCutoff": "2026-10-17T01:16:19.199Z",
+        "mode": "中文核查版 · 3条新消息＋1条榜单观察；榜单补采截至台北09:16",
         "entries": [
           {
-            "id": "7b8936e6525ef29a7e3f",
-            "title": "Tenebris Somnia: Blood, Pixels, and Prosthetics",
+            "id": "verified-20261017-tenebris",
+            "title": "Tenebris Somnia 已发售：像素操作与真人演出交替制造悬念",
             "url": "https://news.xbox.com/en-us/2026/10/16/tenebris-somnia-live-action-survival-horror/",
-            "summary": "As I’m typing this, we’re in the final hellish days before the October 16 launch of TENEBRIS SOMNIA – the retro survival horror game with live-action cutscenes – coming at you from Andrés Borghi (The Black Heart) Saibot Studios (Hellbound),",
+            "summary": "行动者：New Blood／Saibot／Xbox。官方开发者文章，原文 10月16日。文章末尾确认已在 Xbox Series X|S 与 Xbox on PC 发售，支持 Xbox Play Anywhere。制作方用像素玩法与真人过场衔接，场景需对应实景与像素地图；真人片段并非只在关底出现。研究价值：记录画面切换前的预告、操作中断时长和回到操作的反馈，用于研究悬念与阶段奖励。制作团队描述了专业拍摄、实物特效及接近四年的制作过程，不能据此宣称低成本，也没有留存或广告收益证据。",
             "actorIds": [
               "xbox"
             ],
             "tags": [
               "行业",
-              "PC主机"
+              "玩法研究"
             ],
             "publishedAt": "2026-10-16T16:00:00.000Z",
-            "discoveredAt": "2026-10-16T16:34:16.117Z",
+            "discoveredAt": "2026-10-17T01:21:19.406Z",
             "firstAt": "2026-10-16T16:00:00.000Z",
-            "heat": 0.769,
+            "heat": 0,
             "participants": 1,
             "reportCount": 1,
             "ruleScore": 54,
             "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "grouping": "人工核查 · 单篇原文",
+            "verification": "已读官方原文；宣传及研究推断分别标注",
             "evidence": [
               {
                 "title": "Tenebris Somnia: Blood, Pixels, and Prosthetics",
                 "url": "https://news.xbox.com/en-us/2026/10/16/tenebris-somnia-live-action-survival-horror/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
+                "source": "Xbox Wire 官方／开发者投稿",
                 "publishedAt": "2026-10-16T16:00:00.000Z",
                 "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+                "evidenceType": "一手文章；不代表独立效果验证"
               }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
+            ]
           },
           {
-            "id": "1fe8a1ac0525489f7b83",
-            "title": "Senior Business Development Manager II, LoyaltyPlay @ Mistplay | Work In Tech Job Board - Communitech",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOemtrUm5BXzQ1OEVodUZTcGg5ZFNzdGlVX0pxQW16UjNwZmdLUXd0N05iRHlwM2RWRFRaWkVwNXVBTUN6YmNNYjV1d3dkTkNwQ0RjR2tCd0FTWGQ5SDZzZ3BJOVY2VUd4bEI2UFFsZ2k5Y1Z6dlpiNmZEMVoyQXhMUW5lbndld0pQeXhSZWlpbVdsN2J2SDV4VE1LWXBheEtfMjRGNHdkNU1VRjZOVnJpTA?oc=5",
-            "summary": "Senior Business Development Manager II, LoyaltyPlay @ Mistplay | Work In Tech Job Board Communitech",
-            "actorIds": [
-              "mistplay"
-            ],
-            "tags": [
-              "网赚",
-              "买量"
-            ],
-            "publishedAt": "2026-10-16T19:03:15.000Z",
-            "discoveredAt": "2026-10-16T22:47:54.357Z",
-            "firstAt": "2026-10-16T19:03:15.000Z",
-            "heat": 0.84,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 47,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Senior Business Development Manager II, LoyaltyPlay @ Mistplay | Work In Tech Job Board - Communitech",
-                "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOemtrUm5BXzQ1OEVodUZTcGg5ZFNzdGlVX0pxQW16UjNwZmdLUXd0N05iRHlwM2RWRFRaWkVwNXVBTUN6YmNNYjV1d3dkTkNwQ0RjR2tCd0FTWGQ5SDZzZ3BJOVY2VUd4bEI2UFFsZ2k5Y1Z6dlpiNmZEMVoyQXhMUW5lbndld0pQeXhSZWlpbVdsN2J2SDV4VE1LWXBheEtfMjRGNHdkNU1VRjZOVnJpTA?oc=5",
-                "source": "Communitech",
-                "publisherUrl": "https://www1.communitech.ca/",
-                "publishedAt": "2026-10-16T19:03:15.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "50e74f0278a819591bf3",
-            "title": "American Youth Rugby Is Ready for Liftoff - Youth Sports Business Report",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGRrVENXbW5XOG1lQm5rbDZZaFdGOW5HV1piVU9MQU9aajBpczdMU0cxWDQ5dmNwczN1YnRjQTlJRVRMVlJ2a3paM2tOU0JGN0kwWk5seUg1Zm9KT0l1a0JSOFFfWUlubGVCdmR2Xzl3ZFNlQUh3cVdva1M4TWNBV2g1dHhCU1E?oc=5",
-            "summary": "American Youth Rugby Is Ready for Liftoff Youth Sports Business Report",
-            "actorIds": [
-              "liftoff"
-            ],
-            "tags": [
-              "行业",
-              "IAA",
-              "买量"
-            ],
-            "publishedAt": "2026-10-16T18:33:16.000Z",
-            "discoveredAt": "2026-10-16T19:55:44.364Z",
-            "firstAt": "2026-10-16T18:33:16.000Z",
-            "heat": 0.828,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "American Youth Rugby Is Ready for Liftoff - Youth Sports Business Report",
-                "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGRrVENXbW5XOG1lQm5rbDZZaFdGOW5HV1piVU9MQU9aajBpczdMU0cxWDQ5dmNwczN1YnRjQTlJRVRMVlJ2a3paM2tOU0JGN0kwWk5seUg1Zm9KT0l1a0JSOFFfWUlubGVCdmR2Xzl3ZFNlQUh3cVdva1M4TWNBV2g1dHhCU1E?oc=5",
-                "source": "Youth Sports Business Report",
-                "publisherUrl": "https://youthsportsbusinessreport.com/",
-                "publishedAt": "2026-10-16T18:33:16.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "2919b997634f2fd06323",
-            "title": "Maestro Media, Supercell Launch 'Clash Royale: The Grand Arena' - License Global",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYzdsY3RSMlhFYVhnNVBudm8taktuTG8zUWwwWVU3RDNCMGNVNVhXNExIME5JOExqbnB4dlQ2VXBvRVpkUmZWb3AwUXBYNlNWekR3TkhMUl9SR1ZUQWdZUE1oTDMwY280QTh1NXRfbVJPRmdQQjctVE83WXl0ZjNOWmJqR1RRajRwU2g0VEluUFFsa2NFaFNhN25nRzlmTWhOWFQ3a0RrQ2lYNlpBbGRFNTctUS1QN2RxQS1yTjhOaG9CTm1UWWdzOHRVTmZiaVE?oc=5",
-            "summary": "Maestro Media, Supercell Launch 'Clash Royale: The Grand Arena' License Global",
-            "actorIds": [
-              "supercell"
-            ],
-            "tags": [
-              "行业",
-              "手游"
-            ],
-            "publishedAt": "2026-10-16T12:12:58.000Z",
-            "discoveredAt": "2026-10-16T16:34:16.117Z",
-            "firstAt": "2026-10-16T12:12:58.000Z",
-            "heat": 0.689,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Maestro Media, Supercell Launch 'Clash Royale: The Grand Arena' - License Global",
-                "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYzdsY3RSMlhFYVhnNVBudm8taktuTG8zUWwwWVU3RDNCMGNVNVhXNExIME5JOExqbnB4dlQ2VXBvRVpkUmZWb3AwUXBYNlNWekR3TkhMUl9SR1ZUQWdZUE1oTDMwY280QTh1NXRfbVJPRmdQQjctVE83WXl0ZjNOWmJqR1RRajRwU2g0VEluUFFsa2NFaFNhN25nRzlmTWhOWFQ3a0RrQ2lYNlpBbGRFNTctUS1QN2RxQS1yTjhOaG9CTm1UWWdzOHRVTmZiaVE?oc=5",
-                "source": "License Global",
-                "publisherUrl": "https://www.licenseglobal.com/",
-                "publishedAt": "2026-10-16T12:12:58.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "a9a4dcbc2aec3b454acf",
-            "title": "Playtika to Report Third Quarter 2026 Financial Results on November 5 - Quiver Quantitative",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQazd6SU9rbS12VTJhYUREVTBORklUb0w5clJMSEZJckRzc2FEVk4tYjhvcjFCMkxHdzZUMHdTYi1kaXdRRFRMSWlGY2czandWbWlKaG1BRWlhdEtyWWR4OHlCWjlSX0xwSTRSdG5Fc3pIQkJqQ1RZaWxVZFVIcXpZRTM0cFpGYXhFbmxzR2dFLUk1aW9yYzVYWS1OdXpGbDlQMlNQMw?oc=5",
-            "summary": "Playtika to Report Third Quarter 2026 Financial Results on November 5 Quiver Quantitative",
-            "actorIds": [
-              "playtika"
-            ],
-            "tags": [
-              "行业",
-              "手游"
-            ],
-            "publishedAt": "2026-10-16T12:12:00.000Z",
-            "discoveredAt": "2026-10-16T16:34:16.117Z",
-            "firstAt": "2026-10-16T12:12:00.000Z",
-            "heat": 0.689,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Playtika to Report Third Quarter 2026 Financial Results on November 5 - Quiver Quantitative",
-                "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQazd6SU9rbS12VTJhYUREVTBORklUb0w5clJMSEZJckRzc2FEVk4tYjhvcjFCMkxHdzZUMHdTYi1kaXdRRFRMSWlGY2czandWbWlKaG1BRWlhdEtyWWR4OHlCWjlSX0xwSTRSdG5Fc3pIQkJqQ1RZaWxVZFVIcXpZRTM0cFpGYXhFbmxzR2dFLUk1aW9yYzVYWS1OdXpGbDlQMlNQMw?oc=5",
-                "source": "Quiver Quantitative",
-                "publisherUrl": "https://www.quiverquant.com/",
-                "publishedAt": "2026-10-16T12:12:00.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "ebc85cd32507fefacb41",
-            "title": "Updated App Review Guidelines are now available",
-            "url": "https://developer.apple.com/news/?id=92th7e5i",
-            "summary": "The App Review Guidelines have been revised to support new features, updated policies, and to provide clarification. App Review Guidelines Before You Submit: Added links to additional documentation. 1.2: Clarified app content and app types",
-            "actorIds": [
-              "apple-appstore"
-            ],
-            "tags": [
-              "行业",
-              "手游",
-              "技术工具"
-            ],
-            "publishedAt": "2026-10-16T20:05:42.000Z",
-            "discoveredAt": "2026-10-16T22:47:54.357Z",
-            "firstAt": "2026-10-16T20:05:42.000Z",
-            "heat": 0.865,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 44,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Updated App Review Guidelines are now available",
-                "url": "https://developer.apple.com/news/?id=92th7e5i",
-                "source": "Apple App Store 官方订阅",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-16T20:05:42.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "7bfe8d9f5f7fce20b76b",
-            "title": "Strengthening App Review Guidelines against nonconsensual intimate imagery and bait-and-switch apps",
-            "url": "https://developer.apple.com/news/?id=vvzx6cul",
-            "summary": "The App Review Guidelines are a core part of the safe and trusted experience that the App Store strives to offer users around the world — and the foundation of that trust is clear standards that are consistently enforced. As outlined in our",
-            "actorIds": [
-              "apple-appstore"
-            ],
-            "tags": [
-              "行业",
-              "手游",
-              "技术工具"
-            ],
-            "publishedAt": "2026-10-16T20:00:56.000Z",
-            "discoveredAt": "2026-10-16T22:47:54.357Z",
-            "firstAt": "2026-10-16T20:00:56.000Z",
-            "heat": 0.863,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 44,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Strengthening App Review Guidelines against nonconsensual intimate imagery and bait-and-switch apps",
-                "url": "https://developer.apple.com/news/?id=vvzx6cul",
-                "source": "Apple App Store 官方订阅",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-16T20:00:56.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "823ac8e1772f066a484a",
-            "title": "Official PlayStation Podcast Episode 551: Quadruple Duty",
-            "url": "https://blog.playstation.com/2026/10/16/official-playstation-podcast-episode-551-quadruple-duty/",
-            "summary": "Email us at PSPodcast@sony.com! Subscribe via Apple Podcasts, Spotify, or download here Hey, y’all! Sid, Tim, O’Dell, and Kristen are back this week to talk about some of the spooky games they have been playing, how 2026 may go down in gami",
-            "actorIds": [
-              "playstation"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-16T16:46:26.000Z",
-            "discoveredAt": "2026-10-16T19:55:44.364Z",
-            "firstAt": "2026-10-16T16:46:26.000Z",
-            "heat": 0.786,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 44,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Official PlayStation Podcast Episode 551: Quadruple Duty",
-                "url": "https://blog.playstation.com/2026/10/16/official-playstation-podcast-episode-551-quadruple-duty/",
-                "source": "PlayStation 官方订阅",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-16T16:46:26.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "5d28fd3d2b920030d56d",
-            "title": "Celebrating the Next Generation of Latin American Game Creators",
+            "id": "verified-20261017-latam",
+            "title": "Xbox Game Camp 墨西哥站定于10月17日举行，并展示六款拉美作品",
             "url": "https://news.xbox.com/en-us/2026/10/16/xbox-latin-american-latam-game-camp-id-xbox/",
-            "summary": "Across Latin America, developers are creating some of gaming’s most distinctive new worlds by turning personal memories, local history, cultural traditions, and bold ideas into experiences that resonate far beyond the region. Games such as",
+            "summary": "行动者：Xbox／ID@Xbox／拉美独立工作室。官方平台与工作室访谈，原文 10月16日。Xbox 公布墨西哥城 Game Camp 将在10月17日举行；截至本期窗口仅核实举办计划。平台称 DAP 自2023年以来支持超过60家当地工作室、推动超过30款游戏登陆 Xbox，这是平台自述的累计成果。展示项目包括 Colorbound 的环境换色解谜、Treetopians 的树冠纵向建造、Greak 2 的平行维度合作。研究价值：把地域题材落到可操作机制，观察少规则如何组合成关卡；展示或获得支持不等于已发行、销量或商业成功。",
             "actorIds": [
               "xbox"
             ],
             "tags": [
               "行业",
-              "PC主机"
+              "玩法研究"
             ],
             "publishedAt": "2026-10-16T15:00:00.000Z",
-            "discoveredAt": "2026-10-16T16:34:16.117Z",
+            "discoveredAt": "2026-10-17T01:21:19.406Z",
             "firstAt": "2026-10-16T15:00:00.000Z",
-            "heat": 0.747,
+            "heat": 0,
             "participants": 1,
             "reportCount": 1,
             "ruleScore": 44,
             "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "grouping": "人工核查 · 单篇原文",
+            "verification": "已读官方原文；宣传及研究推断分别标注",
             "evidence": [
               {
                 "title": "Celebrating the Next Generation of Latin American Game Creators",
                 "url": "https://news.xbox.com/en-us/2026/10/16/xbox-latin-american-latam-game-camp-id-xbox/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
+                "source": "Xbox Wire 官方／开发者投稿",
                 "publishedAt": "2026-10-16T15:00:00.000Z",
                 "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+                "evidenceType": "一手文章；不代表独立效果验证"
               }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
+            ]
           },
           {
-            "id": "de1823c8cacc67a458c5",
-            "title": "Playtika Announces Date of Third Quarter 2026 Results Conference Call - markets.businessinsider.com",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd0h4N0I1ekhjcDFhS3d6eGlQbzAtNkdWVEZVU0RzNzhTc3FBQUtta1R2R0RNQUJtdVp6dDFVa09zQ0U3QlVleHNWVVRYTWJveVozYUFKY0dEOTJyQlg1SU5yZ2Z5a1FnbkxrdXZoTzNob1dTQlJyN2ZuSXNPQjJUeDJ3dno0Q0dmcEpaYlQ0Y1duQXBYbVNFOUc4VFBUMWd4RDJTTkdNcGRRZDJxZ21kOXlZWTBINmV5eHgtWURVTnVOVnptcEZn?oc=5",
-            "summary": "Playtika Announces Date of Third Quarter 2026 Results Conference Call markets.businessinsider.com",
-            "actorIds": [
-              "playtika"
-            ],
-            "tags": [
-              "行业",
-              "手游"
-            ],
-            "publishedAt": "2026-10-16T13:49:46.000Z",
-            "discoveredAt": "2026-10-16T16:34:16.117Z",
-            "firstAt": "2026-10-16T12:00:00.000Z",
-            "heat": 1.407,
-            "participants": 2,
-            "reportCount": 2,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Playtika Announces Date of Third Quarter 2026 Results Conference Call - markets.businessinsider.com",
-                "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd0h4N0I1ekhjcDFhS3d6eGlQbzAtNkdWVEZVU0RzNzhTc3FBQUtta1R2R0RNQUJtdVp6dDFVa09zQ0U3QlVleHNWVVRYTWJveVozYUFKY0dEOTJyQlg1SU5yZ2Z5a1FnbkxrdXZoTzNob1dTQlJyN2ZuSXNPQjJUeDJ3dno0Q0dmcEpaYlQ0Y1duQXBYbVNFOUc4VFBUMWd4RDJTTkdNcGRRZDJxZ21kOXlZWTBINmV5eHgtWURVTnVOVnptcEZn?oc=5",
-                "source": "markets.businessinsider.com",
-                "publisherUrl": "https://markets.businessinsider.com/",
-                "publishedAt": "2026-10-16T13:49:46.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "Playtika Announces Date of Third Quarter 2026 Results Conference Call - GlobeNewswire",
-                "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYTB5ZE43cmpkV0ZVTHU3a3JPekVGeUpUbjYwSU5GZUd1WG5tLUhqejBLMDAwbnlTRHJhNlVsMUxSTkxWcV8wLTBwVktSeFBucHNmWXNhQ0QxRkVjOG1RU0prVHhVc05qZkhfUGhNeks1M08yOGRfS3lzbHFseWhXU3RibURvdjdVUWZPcDAwbDVFYkd3c3JOMy0xRFg5d1FFMDd4UkIzenAwNDA4VVpMbi1paEtWVXQ4UWMyRXRmdTNCRnhpdlNQNE1CVGwxREgweTdqaDFBYlQ?oc=5",
-                "source": "GlobeNewswire",
-                "publisherUrl": "https://www.globenewswire.com/",
-                "publishedAt": "2026-10-16T12:00:00.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "f8fc73a4d6a5a7ecfc5c",
-            "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
-            "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
-            "summary": "Analogue - creator of various fancy retro-focused game consoles - has detailed its newly announced Mega Sg+ and Super Nt+: revised editions of its earlier Mega Sg and Super Nt machines, capable of playing original Sega and Nintendo cartridg",
-            "actorIds": [
-              "nintendo"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-16T17:11:28.000Z",
-            "discoveredAt": "2026-10-16T19:55:42.750Z",
-            "firstAt": "2026-10-16T17:11:28.000Z",
-            "heat": 0.796,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements",
-                "url": "https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed",
-                "source": "Eurogamer",
-                "publishedAt": "2026-10-16T17:11:28.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体报道 · 尚未独立核实"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "f181c6218a4c8f7b321e",
-            "title": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
-            "url": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
-            "summary": "Epic Games is officially working on bringing its battle royale shooter Fortnite to Linux. The announcement was tucked away at the bottom of Epic's widely mocked blog post revealing the new, \"vibe-coded\" Epic Games Store, which is also comin",
-            "actorIds": [
-              "steam",
-              "epicgames"
-            ],
-            "tags": [
-              "行业",
-              "PC主机",
-              "技术工具",
-              "手游"
-            ],
-            "publishedAt": "2026-10-16T13:46:23.000Z",
-            "discoveredAt": "2026-10-16T16:34:03.869Z",
-            "firstAt": "2026-10-16T13:46:23.000Z",
-            "heat": 0.721,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine",
-                "url": "https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development",
-                "source": "Eurogamer",
-                "publishedAt": "2026-10-16T13:46:23.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体报道 · 尚未独立核实"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          }
-        ],
-        "briefs": [
-          {
-            "id": "c2244f621baa0f5d6ea4",
-            "title": "Share of the Week: Marvel’s Wolverine – Suits",
-            "url": "https://blog.playstation.com/2026/10/16/share-of-the-week-marvels-wolverine-suits/",
-            "summary": "Last week, we asked you to share your favorite looks from Marvel’s Wolverine using #PSshare #PSBlog for a chance to be featured. Here are this week’s highlights: NickVPgamer shared a glinting portrait in the Ultimate Red Suit NemesisNatVP s",
-            "actorIds": [
-              "playstation"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-16T15:59:52.000Z",
-            "discoveredAt": "2026-10-16T16:34:16.117Z",
-            "firstAt": "2026-10-16T15:59:52.000Z",
-            "heat": 0.769,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 44,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Share of the Week: Marvel’s Wolverine – Suits",
-                "url": "https://blog.playstation.com/2026/10/16/share-of-the-week-marvels-wolverine-suits/",
-                "source": "PlayStation 官方订阅",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-16T15:59:52.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "416f9cccd6472f35b2ca",
-            "title": "Next Week on XBOX: New Games for October 19 to 23",
+            "id": "verified-20261017-nextweek",
+            "title": "Xbox 下周排期：双蜡烛限步、限定格数涂色等轻量解谜值得跟进",
             "url": "https://news.xbox.com/en-us/2026/10/16/next-week-on-xbox-new-games-for-october-19-to-23/",
-            "summary": "Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X|S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and click their profiles for further info (relea",
+            "summary": "行动者：Xbox／Afil Games／Over The Moon。官方排期，原文 10月16日。清单计划 Candlemates 于10月20日、Spray Trace 与 Tidy Up the Flower Shop 于10月22日、Railroad Swap 于10月23日推出；日期可能调整。前两者分别是双蜡烛各有步数限制的推箱子，以及每种颜色必须覆盖指定格数的路径涂色；花店以容量限制、分类篮与完成反馈形成整理循环。研究价值：优先拆解首关提示、错误是否可逆、限制逐步引入的节奏；这些是主机端设计线索，不能推断其已有 IAA、提现机制或移动端买量成绩。",
             "actorIds": [
               "xbox"
             ],
             "tags": [
               "行业",
-              "PC主机"
+              "玩法研究"
             ],
             "publishedAt": "2026-10-16T14:00:00.000Z",
-            "discoveredAt": "2026-10-16T16:34:16.117Z",
+            "discoveredAt": "2026-10-17T01:21:19.406Z",
             "firstAt": "2026-10-16T14:00:00.000Z",
-            "heat": 0.726,
+            "heat": 0,
             "participants": 1,
             "reportCount": 1,
             "ruleScore": 44,
             "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "grouping": "人工核查 · 单篇原文",
+            "verification": "已读官方原文；宣传及研究推断分别标注",
             "evidence": [
               {
                 "title": "Next Week on XBOX: New Games for October 19 to 23",
                 "url": "https://news.xbox.com/en-us/2026/10/16/next-week-on-xbox-new-games-for-october-19-to-23/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
+                "source": "Xbox Wire 官方／开发者投稿",
                 "publishedAt": "2026-10-16T14:00:00.000Z",
                 "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+                "evidenceType": "一手文章；不代表独立效果验证"
               }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
+            ]
+          }
+        ],
+        "briefs": [
           {
-            "id": "743bf9ba965646c458dd",
-            "title": "Third-quarter results are due before U.S. markets open, and Playtika's call is set for 8:30 a.m. ET. - Stock Titan",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPck5vdGlJSGNlS0thUk92ZkV5TG5EQktKc0l0endkWm92X1A1YUUtVjZ1cm4zUGlOcm8tTG1jalFYZUNYSVZWYkNlYUMwazhJQ19MakgyX0FaWUVhazF6ZUE2N0QtSGpyUVNVb3dmUnJSaF95cm91VGhTQi1GdnFPQjBYR1VYRnlzMDBzbkdnelNuYm9ldUdoc08xZXZIUU1uaENGRkRJa0FkTFBZMkZDSlRTM1A4VnVWSUdV?oc=5",
-            "summary": "Third-quarter results are due before U.S. markets open, and Playtika's call is set for 8:30 a.m. ET. Stock Titan",
-            "actorIds": [
-              "playtika"
-            ],
+            "id": "verified-20261017-charts",
+            "title": "榜单补采：QQ经典农场居微信第三方增速榜首，美日免费榜头部较稳定",
+            "url": "https://www.momorank.com/rising",
+            "summary": "榜单观察，非24小时新发新闻。数据截止 2026-10-17T01:16:19.199Z（台北时间约09:16）。MomoRank 微信增速排序前三为 QQ经典农场、口袋奇兵、城主别慌张；对应页面 currentRank 分别为2、78、50，增速序号不能当作畅销名次。美国 iOS 免费前三 Meowdoku、Block Out、Magic Sort；日本 iOS 免费前三 Duck Survivor、Meowdoku、Bus Fever Party；美日 Google Play 免费前二均为 Meowdoku、Rotate Rings。抖音第三方热榜前三羊了个羊：星球、抓大鹅、赵云与阿斗。微信抖音为第三方公开Top10，需回到平台内官方榜核对，不能冒充全量官方榜；排名也不能换算为下载量。",
+            "actorIds": [],
             "tags": [
-              "行业",
-              "手游"
+              "小游戏",
+              "休闲",
+              "竞品榜单"
             ],
-            "publishedAt": "2026-10-16T12:00:00.000Z",
-            "discoveredAt": "2026-10-16T16:34:16.117Z",
-            "firstAt": "2026-10-16T12:00:00.000Z",
-            "heat": 0.685,
+            "publishedAt": null,
+            "discoveredAt": "2026-10-17T01:21:19.406Z",
+            "firstAt": "2026-10-17T01:21:19.406Z",
+            "heat": 0,
             "participants": 1,
             "reportCount": 1,
-            "ruleScore": 35,
+            "ruleScore": 0,
             "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "grouping": "榜单快照 · 单列观察",
+            "verification": "采集字段已复核；第三方覆盖范围明确",
             "evidence": [
               {
-                "title": "Third-quarter results are due before U.S. markets open, and Playtika's call is set for 8:30 a.m. ET. - Stock Titan",
-                "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPck5vdGlJSGNlS0thUk92ZkV5TG5EQktKc0l0endkWm92X1A1YUUtVjZ1cm4zUGlOcm8tTG1jalFYZUNYSVZWYkNlYUMwazhJQ19MakgyX0FaWUVhazF6ZUE2N0QtSGpyUVNVb3dmUnJSaF95cm91VGhTQi1GdnFPQjBYR1VYRnlzMDBzbkdnelNuYm9ldUdoc08xZXZIUU1uaENGRkRJa0FkTFBZMkZDSlRTM1A4VnVWSUdV?oc=5",
-                "source": "Stock Titan",
-                "publisherUrl": "https://www.stocktitan.net/",
-                "publishedAt": "2026-10-16T12:00:00.000Z",
+                "title": "微信小游戏增速榜",
+                "url": "https://www.momorank.com/rising",
+                "source": "MomoRank 第三方公开榜",
+                "publishedAt": null,
                 "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "ec7a39060b64b8d0428e",
-            "title": "Ken Kutaragi ‘understands’ why PlayStation fans don’t want to give up physical games - Video Games Chronicle",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2Z1WU5JbUlPWEZCemhhZ0NTVE03S3N2cElTYmEweU5JY1BKMGszaGhoWjM1aUJkaTNrbXJ5VXh1dzN4MHM4MTVTM3dnaXFxNmJYSGthSE5DMDZXcWtpWTNkRzRPNnJGU3NHWjd2QXJnWHI1VnVlT19YbHFhZFRSUG9LQ1JtRnZWZG1mTUN3Q1dyWnBCQVNlQ2R5LU5rd2JEOVhjTlZaUzhfbUZXYjMwb2JRcGJicnk1OWhVYlJqY3U?oc=5",
-            "summary": "Ken Kutaragi ‘understands’ why PlayStation fans don’t want to give up physical games Video Games Chronicle",
-            "actorIds": [
-              "playstation"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-16T11:59:45.000Z",
-            "discoveredAt": "2026-10-16T16:34:16.117Z",
-            "firstAt": "2026-10-16T11:59:45.000Z",
-            "heat": 0.685,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
+                "evidenceType": "采集时间不是原文发布日期"
+              },
               {
-                "title": "Ken Kutaragi ‘understands’ why PlayStation fans don’t want to give up physical games - Video Games Chronicle",
-                "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2Z1WU5JbUlPWEZCemhhZ0NTVE03S3N2cElTYmEweU5JY1BKMGszaGhoWjM1aUJkaTNrbXJ5VXh1dzN4MHM4MTVTM3dnaXFxNmJYSGthSE5DMDZXcWtpWTNkRzRPNnJGU3NHWjd2QXJnWHI1VnVlT19YbHFhZFRSUG9LQ1JtRnZWZG1mTUN3Q1dyWnBCQVNlQ2R5LU5rd2JEOVhjTlZaUzhfbUZXYjMwb2JRcGJicnk1OWhVYlJqY3U?oc=5",
-                "source": "Video Games Chronicle",
-                "publisherUrl": "https://www.videogameschronicle.com/",
-                "publishedAt": "2026-10-16T11:59:45.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
+                "title": "美国 iOS 免费游戏榜",
+                "url": "https://apps.apple.com/us/iphone/charts/6014?chart=top-free",
+                "source": "Apple 官方榜",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "商店快照；非下载量"
               }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "4c26cce4400418bd0eaa",
-            "title": "Nintendo 更新后，Zelda Switch 2 主机可能配备用户可自行更换的电池 - Notebookcheck CN",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IRUxhOG0wZjlNUnFOdzhfc0UwcnpSTDRTUkQ2SktxNnlnWk1sdExLakphMjdLOFJFTVVUMDlpR0FLc0VnQ2t6Sy1OY2oyeDFGMEt6R080SEdrbG1VcUk3ZTZYYlRXZUlpNURjMHVfS3RnbzVuQ1FzeGNVVQ?oc=5",
-            "summary": "Nintendo 更新后，Zelda Switch 2 主机可能配备用户可自行更换的电池 Notebookcheck CN",
-            "actorIds": [
-              "nintendo"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-16T02:11:00.000Z",
-            "discoveredAt": "2026-10-16T16:34:16.117Z",
-            "firstAt": "2026-10-16T02:11:00.000Z",
-            "heat": 0.516,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Nintendo 更新后，Zelda Switch 2 主机可能配备用户可自行更换的电池 - Notebookcheck CN",
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IRUxhOG0wZjlNUnFOdzhfc0UwcnpSTDRTUkQ2SktxNnlnWk1sdExLakphMjdLOFJFTVVUMDlpR0FLc0VnQ2t6Sy1OY2oyeDFGMEt6R080SEdrbG1VcUk3ZTZYYlRXZUlpNURjMHVfS3RnbzVuQ1FzeGNVVQ?oc=5",
-                "source": "Notebookcheck CN",
-                "publisherUrl": "https://www.notebookcheck-cn.com/",
-                "publishedAt": "2026-10-16T02:11:00.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
+            ]
           }
         ],
         "quiet": false
