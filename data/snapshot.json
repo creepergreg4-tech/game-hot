@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "appVersion": "公开阅读站 2.0 · 行动者雷达",
-  "updatedAt": "2026-10-18T01:04:49.703Z",
+  "updatedAt": "2026-10-18T01:05:28.035Z",
   "charts": {
     "wechat-played": {
       "id": "wechat-played",
@@ -124,7 +124,7 @@
           "sourceChange": 1,
           "summary": "毛线消一消，好运来报到",
           "platform": "微信小游戏",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -140,7 +140,7 @@
           "sourceChange": -1,
           "summary": "快让小人上车啦，能挪8个算你牛！",
           "platform": "微信小游戏",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -172,11 +172,11 @@
           "sourceChange": 1,
           "summary": "听说只有真正的高手才能看到第五关",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         }
       ],
-      "updatedAt": "2026-10-18T01:04:50.360Z",
+      "updatedAt": "2026-10-18T01:05:29.723Z",
       "sourceUpdatedAt": "2026-10-18",
       "source": "MomoRank 第三方公开榜"
     },
@@ -237,7 +237,7 @@
           "sourceChange": 4,
           "summary": "探索冻土，重建家园",
           "platform": "微信小游戏",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -269,7 +269,7 @@
           "sourceChange": -2,
           "summary": "改造浪漫餐厅，破解黑猫谜案！",
           "platform": "微信小游戏",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -301,7 +301,7 @@
           "sourceChange": 2,
           "summary": "重生逆袭，经营茶楼做富婆",
           "platform": "微信小游戏",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -317,7 +317,7 @@
           "sourceChange": -3,
           "summary": "未来水世界的文明重建与掠夺",
           "platform": "微信小游戏",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -333,7 +333,7 @@
           "sourceChange": -1,
           "summary": "欧豪带你玩真数字门，一炮定乾坤！",
           "platform": "微信小游戏",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -349,11 +349,11 @@
           "sourceChange": 1,
           "summary": "种花有机会收获真实花束",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         }
       ],
-      "updatedAt": "2026-10-18T01:04:51.067Z",
+      "updatedAt": "2026-10-18T01:05:29.925Z",
       "sourceUpdatedAt": "2026-10-18",
       "source": "MomoRank 第三方公开榜"
     },
@@ -382,8 +382,8 @@
           "sourceChange": 12,
           "summary": "割草",
           "platform": "抖音小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "dy:tt76340089e939a1bf02",
@@ -398,7 +398,7 @@
           "sourceChange": -1,
           "summary": "模拟经营",
           "platform": "抖音小游戏",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -414,7 +414,7 @@
           "sourceChange": -1,
           "summary": "模拟经营",
           "platform": "抖音小游戏",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -430,8 +430,8 @@
           "sourceChange": 87,
           "summary": "塔防",
           "platform": "抖音小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "dy:tt8e13f8ae111a218b07",
@@ -446,7 +446,7 @@
           "sourceChange": 2,
           "summary": "合成",
           "platform": "抖音小游戏",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -462,7 +462,7 @@
           "sourceChange": -3,
           "summary": "修仙",
           "platform": "抖音小游戏",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -478,7 +478,7 @@
           "sourceChange": -1,
           "summary": "超休闲",
           "platform": "抖音小游戏",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -494,7 +494,7 @@
           "sourceChange": 2,
           "summary": "模拟经营",
           "platform": "抖音小游戏",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -510,7 +510,7 @@
           "sourceChange": -5,
           "summary": "回合战斗",
           "platform": "抖音小游戏",
-          "change": -5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -526,11 +526,11 @@
           "sourceChange": -2,
           "summary": "冒险",
           "platform": "抖音小游戏",
-          "change": -2,
+          "change": 0,
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-18T01:04:52.179Z",
+      "updatedAt": "2026-10-18T01:05:31.875Z",
       "sourceUpdatedAt": "2026-10-18",
       "source": "MomoRank 第三方公开榜"
     },
@@ -2048,8 +2048,8 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-18T01:04:50.068Z",
-      "sourceUpdatedAt": "2026-10-17T18:03:26-07:00",
+      "updatedAt": "2026-10-18T01:05:28.665Z",
+      "sourceUpdatedAt": "2026-10-17T18:05:28-07:00",
       "source": "Apple 官方 RSS"
     },
     "jp-grossing": {
@@ -3566,8 +3566,8 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-18T01:04:50.348Z",
-      "sourceUpdatedAt": "2026-10-17T18:04:50-07:00",
+      "updatedAt": "2026-10-18T01:05:29.632Z",
+      "sourceUpdatedAt": "2026-10-17T18:05:29-07:00",
       "source": "Apple 官方 RSS"
     },
     "us-grossing": {
@@ -5084,8 +5084,8 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-18T01:04:50.159Z",
-      "sourceUpdatedAt": "2026-10-17T18:04:50-07:00",
+      "updatedAt": "2026-10-18T01:05:28.675Z",
+      "sourceUpdatedAt": "2026-10-17T18:05:28-07:00",
       "source": "Apple 官方 RSS"
     },
     "jp-free": {
@@ -6602,8 +6602,8 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-18T01:04:50.291Z",
-      "sourceUpdatedAt": "2026-10-17T18:03:27-07:00",
+      "updatedAt": "2026-10-18T01:05:28.890Z",
+      "sourceUpdatedAt": "2026-10-17T18:05:29-07:00",
       "source": "Apple 官方 RSS"
     },
     "play-us-free": {
@@ -6624,7 +6624,7 @@
           "rank": 1,
           "url": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=en&gl=US",
           "developer": "Oakever Games",
-          "rating": 4.700524,
+          "rating": 4.6997046,
           "icon": "https://play-lh.googleusercontent.com/1vD3Jl37OTth18x__EkbpMZRAmDlGB5mlqKvveWumothf52-1HZXhAy5HGkGLzW_HYoz-rj2q0HBaxu5_8kyVQ",
           "platform": "Google Play",
           "summary": "",
@@ -6650,7 +6650,7 @@
           "rank": 3,
           "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=US",
           "developer": "Roblox Corporation",
-          "rating": 4.223812,
+          "rating": 4.2238812,
           "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
           "platform": "Google Play",
           "summary": "",
@@ -6663,7 +6663,7 @@
           "rank": 4,
           "url": "https://play.google.com/store/apps/details?id=com.cyphergames.royalsmash&hl=en&gl=US",
           "developer": "Cypher Games",
-          "rating": 4.6439457,
+          "rating": 4.644163,
           "icon": "https://play-lh.googleusercontent.com/VqJWXEzCPnmd4pCVdTBOvzYzbRs9u_BEcKVWUuL07RhKCtUmun3J5qC2p9_1C0A27Fpg8EaGUaE8AmDmF1pBfA",
           "platform": "Google Play",
           "summary": "",
@@ -6676,7 +6676,7 @@
           "rank": 5,
           "url": "https://play.google.com/store/apps/details?id=com.grandgames.magicsort&hl=en&gl=US",
           "developer": "Grand Games A.Ş.",
-          "rating": 4.55989,
+          "rating": 4.560765,
           "icon": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
           "platform": "Google Play",
           "summary": "",
@@ -6689,7 +6689,7 @@
           "rank": 6,
           "url": "https://play.google.com/store/apps/details?id=com.oakever.arrows&hl=en&gl=US",
           "developer": "Oakever Games",
-          "rating": 4.8622603,
+          "rating": 4.8635516,
           "icon": "https://play-lh.googleusercontent.com/z54K2UZPuABcdfrjgcRc0_--d3V1WMPFcrvYku299sV4PJXEz7oosH8G3ZvZtkTjbiXpyc196MGWMi9zcVa9TA",
           "platform": "Google Play",
           "summary": "",
@@ -6780,7 +6780,7 @@
           "rank": 13,
           "url": "https://play.google.com/store/apps/details?id=io.supercent.bulldozermasters&hl=en&gl=US",
           "developer": "Supercent, Inc.",
-          "rating": 4.3754363,
+          "rating": 4.377762,
           "icon": "https://play-lh.googleusercontent.com/0NGY8er_dpSqeYHiWm-dEASyRizuoif1FhXqQTcd4Zp3gGofUQdeTjhYKgCiAGsMJ9rxc1CNt4I-7qUOCYUQZTg",
           "platform": "Google Play",
           "summary": "",
@@ -6823,7 +6823,7 @@
           "icon": "https://play-lh.googleusercontent.com/5wPzX6vBVV-kr4jknuW4ACmYrRgD5m2UwjXw9VFlWAhIsJ5k_8BND8m8NGUv6hOgPuXQzOmvNBQYKY-GWNfDxg",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6836,7 +6836,7 @@
           "icon": "https://play-lh.googleusercontent.com/BhSjXMNR8wZi48F4NWlRhskKyM_pa8DFNzisNTTa8_16uLNCk5nsZo_3fCmo1szCv05Qpe6VHNZBUsWBtSpjpA",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6845,7 +6845,7 @@
           "rank": 18,
           "url": "https://play.google.com/store/apps/details?id=com.nebula.mahjongtile&hl=en&gl=US",
           "developer": "Nebula  Studio",
-          "rating": 4.8300047,
+          "rating": 4.8329577,
           "icon": "https://play-lh.googleusercontent.com/lamvwfGw4eEjWFFfcL19XAwFpCKZJjdCBNBs0DFnsOwhBAsK9X738lDrDFqosGp7CLinvREDBdhJyQdmot6KbQ",
           "platform": "Google Play",
           "summary": "",
@@ -6884,7 +6884,7 @@
           "rank": 21,
           "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=US",
           "developer": "Dream Games, Ltd.",
-          "rating": 4.7283783,
+          "rating": 4.7285175,
           "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
           "platform": "Google Play",
           "summary": "",
@@ -6910,11 +6910,11 @@
           "rank": 23,
           "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=US",
           "developer": "VOODOO",
-          "rating": 4.083418,
+          "rating": 4.0834513,
           "icon": "https://play-lh.googleusercontent.com/BfVTlzTEr_sNMthGFhIwOhZZGJ8WU4jw6k03WmS99GA1rk5vajvSD7PrbI0YwOALiF8TvMXEfvOeLzfJ69pg",
           "platform": "Google Play",
           "summary": "",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6927,7 +6927,7 @@
           "icon": "https://play-lh.googleusercontent.com/nJoghcUfRMRF4PJbdTKwz_3Y5ESi8fZUyFc9TcQ5yjhlXaT6U_c852ESmXqpRyGbSO1PeYDyO8l90i0kq4N4Rg",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6940,7 +6940,7 @@
           "icon": "https://play-lh.googleusercontent.com/nB3aVJ6eYhfGa1m1EzgvE0RjH3C13v2wLLrwkQYzsG0427-jyQDopxiddjDOQNpOSoePVcl7jNgBUPXOCVmjXg",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6949,7 +6949,7 @@
           "rank": 26,
           "url": "https://play.google.com/store/apps/details?id=com.teagarden.wilderness.world&hl=en&gl=US",
           "developer": "The Wilder-ness, World Piece Computer, LLC",
-          "rating": 4.637168,
+          "rating": 4.6306305,
           "icon": "https://play-lh.googleusercontent.com/5IqlTzxPN2yibQDOhQUQ2zdxy41iAQ31A0pIzaTmq-ccGNv-xzaCwlOlFGlvji7p6m_8h1HqS6I6TUYvttd4",
           "platform": "Google Play",
           "summary": "",
@@ -6962,11 +6962,11 @@
           "rank": 27,
           "url": "https://play.google.com/store/apps/details?id=com.combo.yarnflow&hl=en&gl=US",
           "developer": "Combo Game",
-          "rating": 4.5268354,
+          "rating": 4.523399,
           "icon": "https://play-lh.googleusercontent.com/N94VIX65f7wtuXZBV9t-T3L_OOAoBpvvSQ1erHtqi_FvG5T9HYLy09E_RfFobviQy1IZHo898WVxlEviIPaonA",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6979,7 +6979,7 @@
           "icon": "https://play-lh.googleusercontent.com/ECtjRuQLZPsZDgRSLViAG5d7zbeY7zhnnr65qoGye1J607d2Y27Z4d2HtPhKZWjNa4me4RdYENziVRv4Veau",
           "platform": "Google Play",
           "summary": "",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -6992,7 +6992,7 @@
           "icon": "https://play-lh.googleusercontent.com/s_eYlOXllE0wa6HZ9MBgFobyo632FETxMV11EX9FGUR4f60I4JupHMSA0jrgstlGCdqBvANkqm2u6tr6FG_ptro",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7018,7 +7018,7 @@
           "icon": "https://play-lh.googleusercontent.com/XJM2uz8yxBb6BLJ-1qk2KNzPjWfNQdLPyWPSJDycuSwSyFiIangg7skGDM_sIrEmQVueqmWJQb63NFIwUEmAhA",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7031,7 +7031,7 @@
           "icon": "https://play-lh.googleusercontent.com/BpyKPyeCiAoCtYP23WtOoHW1G_4IAGUyk4G6V_5YNmXomuBwNC5ZnSq5OfxejW-Ufuukma8-UYZirB2wz3m8UnM",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7040,7 +7040,7 @@
           "rank": 33,
           "url": "https://play.google.com/store/apps/details?id=com.blast.puzzlegame.bear&hl=en&gl=US",
           "developer": "UUTEAM Technology Limited",
-          "rating": 4.8828006,
+          "rating": 4.884073,
           "icon": "https://play-lh.googleusercontent.com/h3L4qv_vdhOCBuwn5k4aBnJoHhWxEdncfdr2HsR9c4VwVfU2JGRjMxJUgLGyPxDAKcNLwb3a_gKBYjKZRINe1rQ",
           "platform": "Google Play",
           "summary": "",
@@ -7053,7 +7053,7 @@
           "rank": 34,
           "url": "https://play.google.com/store/apps/details?id=com.uncosoft.wordpuzzle&hl=en&gl=US",
           "developer": "Rollic Games",
-          "rating": 4.428571,
+          "rating": 4.4478526,
           "icon": "https://play-lh.googleusercontent.com/BDIDXG1C9MWdOSnMkGXEH847rRLLFYuUOdyZs-nzvSd3Hn87NhAd7vnpQpooWBWA1uEB_m8XQLnlZouFUiQ9HA",
           "platform": "Google Play",
           "summary": "",
@@ -7066,7 +7066,7 @@
           "rank": 35,
           "url": "https://play.google.com/store/apps/details?id=triple.sorting.bubble.fish.match&hl=en&gl=US",
           "developer": "Shycheese",
-          "rating": 4.8520546,
+          "rating": 4.854054,
           "icon": "https://play-lh.googleusercontent.com/33uObVFJ0-1md9XkQSTMHnh-E91drVuMj6cODaGcKuag07lwFVfWxCg0Ef-gKfaY9iKFrCOdaw5GJa0-6JV7FQ",
           "platform": "Google Play",
           "summary": "",
@@ -7079,11 +7079,11 @@
           "rank": 36,
           "url": "https://play.google.com/store/apps/details?id=com.tfgco.apps.coloring.free.color.by.number&hl=en&gl=US",
           "developer": "Wildlife Studios",
-          "rating": 4.6203914,
+          "rating": 4.6202674,
           "icon": "https://play-lh.googleusercontent.com/XRROCU10EenYkIVwgELctilhZRq4n9EX-G5aCaW4LaAgTVyczXN93lukhtq2RhyNV4Kzy5mKohW8VVhKJfTA9Q",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7092,11 +7092,11 @@
           "rank": 37,
           "url": "https://play.google.com/store/apps/details?id=com.mahjong.master.solitaire.match.puzzle&hl=en&gl=US",
           "developer": "Mindful Daily Puzzles",
-          "rating": 4.933467,
+          "rating": 4.9336023,
           "icon": "https://play-lh.googleusercontent.com/nUHFn87Lc2AifraSGdQH3DnwOZNzwEj25zYYk3qz3lsxsAa5p_RbXwCHZg38XpZMOcc4KQqlSMWJHfZiBMzErQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7105,11 +7105,11 @@
           "rank": 38,
           "url": "https://play.google.com/store/apps/details?id=com.epicoro.castleclashers&hl=en&gl=US",
           "developer": "VOODOO",
-          "rating": 4.0950146,
+          "rating": 4.0953774,
           "icon": "https://play-lh.googleusercontent.com/Qm1As6WDJoG6-zPYGYf3uMCbF4pGNOBz6dowCfbXt4Bh4D5VJDe_8LCIFal3800M-a9EpHZbbh0EVHYIwLiAkg",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7135,7 +7135,7 @@
           "icon": "https://play-lh.googleusercontent.com/-CIHKxb8GZ3BL49L_Jz5z9rIqkOV15T8LyBevcuEK86CivKNIkMgChnbsQJtTyAkQCgJkPgHhO6BBtGMc-E",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7148,7 +7148,7 @@
           "icon": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7157,11 +7157,11 @@
           "rank": 42,
           "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=US",
           "developer": "Dream Games, Ltd.",
-          "rating": 4.634661,
+          "rating": 4.634632,
           "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7170,11 +7170,11 @@
           "rank": 43,
           "url": "https://play.google.com/store/apps/details?id=com.girlsecho.gp&hl=en&gl=US",
           "developer": "HOWLYO GAME",
-          "rating": 4.5317287,
+          "rating": 4.5246634,
           "icon": "https://play-lh.googleusercontent.com/D-TfQ6ovkB3y5kjp4r1YVIFnchqCZfE6vq8sLt2ABCj1nM-p4hjzwRRvfJ_2B9J-uicJeFAAgM3cwUzovChF",
           "platform": "Google Play",
           "summary": "",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7183,11 +7183,11 @@
           "rank": 44,
           "url": "https://play.google.com/store/apps/details?id=com.pic.blast.solitaire&hl=en&gl=US",
           "developer": "Gismart",
-          "rating": 4.6791863,
+          "rating": 4.6752,
           "icon": "https://play-lh.googleusercontent.com/ZZa1tEg9Mj3yzBTKcbhg0tcgVW64GaN3B9xZfCNNtNC_rIu0XToIpth3VmvItrwgu1070pAnO_K9mKAZM5XM",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7196,11 +7196,11 @@
           "rank": 45,
           "url": "https://play.google.com/store/apps/details?id=com.abi.colony.flow&hl=en&gl=US",
           "developer": "ABI GAMES PTE. LTD.",
-          "rating": 4.3745174,
+          "rating": 4.3737864,
           "icon": "https://play-lh.googleusercontent.com/k1oxB9qFtHfhIZeXH7bx-K4w_L38TsbFtbOwPfeTeL8UCwzJug8ShW-mHrjsFGjkGZsQwl6rJUv9K9AYKwKTcA",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7213,7 +7213,7 @@
           "icon": "https://play-lh.googleusercontent.com/n66j7RW_nkiV0Os2VqV6SYjSr9IZw0ClAoU40xFu63p2laphNaWDrr7aOlgqMRah6wWfhaauGCcMTUe7n_Tm",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7226,7 +7226,7 @@
           "icon": "https://play-lh.googleusercontent.com/JPx3qLbl_3v_9fXu9xc50EbmdVw1qP5Y2TRENTkx4we8eOXJeCVVGTGiqX8CVUPEqiiIp-4_yt3_5L1rHbaWluI",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7239,7 +7239,7 @@
           "icon": "https://play-lh.googleusercontent.com/xr_4iFHyaVTYYihR3_mg_hmQvVfmpWEBCiYZtXY0-3DYHzQGcaEkIYcAKce0TADYnldL17m8qqujb0mqZ4Ylog",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7252,8 +7252,8 @@
           "icon": "https://play-lh.googleusercontent.com/EAM3IMjpOfxx0kHbmxLhBswGoDJRnMXv8Hfax_N7BD4no70H7vj95cAhxcLBOQuHIseMg6btqte4BOhh1jDHqlo",
           "platform": "Google Play",
           "summary": "",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "com.oakever.jigsawcard",
@@ -7261,15 +7261,15 @@
           "rank": 50,
           "url": "https://play.google.com/store/apps/details?id=com.oakever.jigsawcard&hl=en&gl=US",
           "developer": "Oakever Games",
-          "rating": 4.63556,
+          "rating": 4.634728,
           "icon": "https://play-lh.googleusercontent.com/T_JlG04AL7cXxGH-lzU0KQdEFxQeHIV5Vc6atRstyRUA3bh2Rc_HuhxzkTcrrxHgcbZDGHKHIakWEPMZeJ_PHA",
           "platform": "Google Play",
           "summary": "",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         }
       ],
-      "updatedAt": "2026-10-18T01:04:49.703Z",
+      "updatedAt": "2026-10-18T01:05:28.036Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -7330,7 +7330,7 @@
           "rank": 4,
           "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=en&gl=US",
           "developer": "Microfun Limited",
-          "rating": 4.2856083,
+          "rating": 4.285336,
           "icon": "https://play-lh.googleusercontent.com/VIv1J5fPLy-r9KrlA4WhLvzTboMphqs_jo_U9OqLyOmkr1AGAZ-nzIPo74_VISY7Ul28ZkObCkvlyyWPd_50",
           "platform": "Google Play",
           "summary": "",
@@ -7347,7 +7347,7 @@
           "icon": "https://play-lh.googleusercontent.com/b5QL7lke38opLtJxvaDw1EEyJuaRjzEEL4j4zt5MtYSWz6t6o9DrG6LkH6rA_lNFHBe4cnXEZR0D_q_IW_-rcQ",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7360,7 +7360,7 @@
           "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7373,7 +7373,7 @@
           "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7386,7 +7386,7 @@
           "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7447,7 +7447,7 @@
           "rank": 13,
           "url": "https://play.google.com/store/apps/details?id=net.peakgames.toonblast&hl=en&gl=US",
           "developer": "Peak",
-          "rating": 4.634466,
+          "rating": 4.6344767,
           "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ",
           "platform": "Google Play",
           "summary": "",
@@ -7490,7 +7490,7 @@
           "icon": "https://play-lh.googleusercontent.com/O_2KnfGM5WwoQrZVXoyHJEv-NyyZf3Nv6zYe3uQCtAFHzx8v4PT4Sb9oaSRoJDQ9Z8RDAYfHZh-_23TkBRSGRQ",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7503,7 +7503,7 @@
           "icon": "https://play-lh.googleusercontent.com/Uv8KIWsfsXZJDk2ypWzrc_MCMGY32MvieP8hH9pujaBGwKRr4z88FpLwNuC8e5UxjioOHx9PcZU3XchZNZ4JjQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7516,7 +7516,7 @@
           "icon": "https://play-lh.googleusercontent.com/cK-U0_B9GrnSy26SNISDuvU_hL4VggyqJ1J5V2oiuyVEfiGo7fzegdBjk0ejXPg3PKK5sPwumdLBbWv8KkBKLQ",
           "platform": "Google Play",
           "summary": "",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7529,7 +7529,7 @@
           "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7542,7 +7542,7 @@
           "icon": "https://play-lh.googleusercontent.com/JrsX1K8iBig6HRQxouWSRM-DlxPyJGBGK33TE1WEqBajbLtEu13mPPeXoWQIrQrfSFR3he8tbtx-D2xCEXMJMQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7555,7 +7555,7 @@
           "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7581,7 +7581,7 @@
           "icon": "https://play-lh.googleusercontent.com/cKXlbU72_2wSXdjcD_zPWED3EVaaOQVqqHgiA9JoRQMprYen49arNUMTngcRc9UWLnv-ANT9gyQBDQpvAn61lg",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7590,11 +7590,11 @@
           "rank": 24,
           "url": "https://play.google.com/store/apps/details?id=air.com.buffalo_studios.newflashbingo&hl=en&gl=US",
           "developer": "Playtika Santa Monica",
-          "rating": 4.628316,
+          "rating": 4.628328,
           "icon": "https://play-lh.googleusercontent.com/hdcObg2DtOEp-sM7hntSzApTjQyoibpnoAz_rSUHwYa7xGg8hn5g-Lo0YvbD309HiEh_5ZKR6QgisOXbFK2B",
           "platform": "Google Play",
           "summary": "",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7607,7 +7607,7 @@
           "icon": "https://play-lh.googleusercontent.com/TfYptHuK821z2ugqfa7JUomzdoWWV1jBuO1hNraCb0TNAD-zplUWditdZPndKzN50fqzdWBEUp81vMi-s0B4",
           "platform": "Google Play",
           "summary": "",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7616,11 +7616,11 @@
           "rank": 26,
           "url": "https://play.google.com/store/apps/details?id=com.productmadness.cashmancasino&hl=en&gl=US",
           "developer": "Product Madness",
-          "rating": 4.5292583,
+          "rating": 4.5292463,
           "icon": "https://play-lh.googleusercontent.com/de9R1sPj8IfrM4TDmabO6sXzPouT4e6FK78m2dbdNcY4zyQQrtVKbTjr0t8Pa_gx9awQyE4b-z_31eyMcqmrLw",
           "platform": "Google Play",
           "summary": "",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7633,7 +7633,7 @@
           "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
           "platform": "Google Play",
           "summary": "",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7646,7 +7646,7 @@
           "icon": "https://play-lh.googleusercontent.com/5MLgC2WWXcq1Pol8qRAXOKzIJY9qySkjF43DnWyd5F9fPj_heinHeIxvgIpPQwcaQ1w-mUzUmoP1Xeslf29irg",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7659,7 +7659,7 @@
           "icon": "https://play-lh.googleusercontent.com/BpyKPyeCiAoCtYP23WtOoHW1G_4IAGUyk4G6V_5YNmXomuBwNC5ZnSq5OfxejW-Ufuukma8-UYZirB2wz3m8UnM",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7672,7 +7672,7 @@
           "icon": "https://play-lh.googleusercontent.com/i8BiNtEVh5wDKELktkyO6g0u0YausB6C1Fj06kNTGUT6JrphZHDcidpUtQUJkTyM_byRvzeisx6h1s0egnerXA",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7685,7 +7685,7 @@
           "icon": "https://play-lh.googleusercontent.com/SLFIzzluF4dl6lkNoxnApRKe-S_rs4QsvbNlO4RnBzuaj1GC4pBPysWILHDVFDIIgUqk5ev1Z8RMjxvZPY581Q",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7698,7 +7698,7 @@
           "icon": "https://play-lh.googleusercontent.com/JgtDyOR0A5zYyMlpXN8VKJeDu1T1C5uuLKJOtgP8ZaoqSY2BV2KPNAJ4az_WfcpZ9rHyy2Rca_UNEFeO69u49g",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7737,7 +7737,7 @@
           "icon": "https://play-lh.googleusercontent.com/pBNlu-ZHQlVdfXhzI7TGIjqt_00sAeYFFK6AqTygfF3rwQfoPIkfIz-zROY31POTDKtxqcMDMPaDLJVlwCdc",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7750,7 +7750,7 @@
           "icon": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7763,7 +7763,7 @@
           "icon": "https://play-lh.googleusercontent.com/p7BAWzMKh5KRFEizi1loj86xgH2-WFQdm_060NXUd02zV5Nl8Tmrfa5FM7XT8Chw9zzis_3MzgTT6sWXxPckCCM",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7776,7 +7776,7 @@
           "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7802,7 +7802,7 @@
           "icon": "https://play-lh.googleusercontent.com/_YoJBEqLA6qZ0xiulFJWKfubaZmxzyphcW4BwMIXFapkO3ifyuVsnMaLkWQClMPuUnahVtIAtyU_baUHLOdP2A",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7815,7 +7815,7 @@
           "icon": "https://play-lh.googleusercontent.com/4dsPtcGXkfF3ylgSZgkb54ay86InZVQdKvs6UrBwYdsCPpv1AegcN_V38sWqCqopDPsGYiPvQ48mgY5lyMtdzw",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7867,8 +7867,8 @@
           "icon": "https://play-lh.googleusercontent.com/cGGjj78nRTJwJdphCpGnL8bRHbpT2tHkwPihhWlsdmp1jH0j5Z6z9zDvrX0Wb_xWwmnFtQltTteOHx4zlLPZ",
           "platform": "Google Play",
           "summary": "",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "com.supercell.clashofclans",
@@ -7880,7 +7880,7 @@
           "icon": "https://play-lh.googleusercontent.com/sFmWfYbYp_2ea7VRMTnwd3gjIBrPGXHj_d_ab1_k1q1p2OMk4riGMF1vqxdhONOtTYOt_BVpk7a4AYcKU68LNGQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7893,7 +7893,7 @@
           "icon": "https://play-lh.googleusercontent.com/_B8WTUQVNhy4frnK0ekTvxNUpYDL-HYfeJvM8jo7Zw58N-RoAWD2gC4ksVp5KDNdtiYDGBMo3DVBo8bcBkxBLw",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7906,7 +7906,7 @@
           "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7919,7 +7919,7 @@
           "icon": "https://play-lh.googleusercontent.com/Lw9cKN6pzuNAf4rUaSe5NgBCxIcDE9pFAbqwlm_YNf3CHFRg1Q6V6whp0y8qVLDZlpOp3wHunZYvIPkA3HD8xd4",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -7932,11 +7932,11 @@
           "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-18T01:04:49.750Z",
+      "updatedAt": "2026-10-18T01:05:28.145Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -8001,7 +8001,7 @@
           "icon": "https://play-lh.googleusercontent.com/64udQifq6ukd71ZgNxM4C_n0DcBFEVBa2Blx1-Jcgt7b1J9TAq89qKXy54RcKghq4H6xBNcw05kxBxPJr50tOw",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8010,11 +8010,11 @@
           "rank": 5,
           "url": "https://play.google.com/store/apps/details?id=com.mrtgd2.jp.and&hl=en&gl=JP",
           "developer": "Joy Nice Games",
-          "rating": 4.513298,
+          "rating": 4.5027776,
           "icon": "https://play-lh.googleusercontent.com/LISUUHKHQ6hVM-vub0FTZWhroBAylNaRjWFn8mYGPhvHbWutNh-Gz4GjyW-xj0b59lT5gGYXEDu7lqfUWfGE",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8023,7 +8023,7 @@
           "rank": 6,
           "url": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=JP",
           "developer": "HungryStudio",
-          "rating": 4.785178,
+          "rating": 4.785848,
           "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
           "platform": "Google Play",
           "summary": "",
@@ -8040,7 +8040,7 @@
           "icon": "https://play-lh.googleusercontent.com/z54K2UZPuABcdfrjgcRc0_--d3V1WMPFcrvYku299sV4PJXEz7oosH8G3ZvZtkTjbiXpyc196MGWMi9zcVa9TA",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8053,7 +8053,7 @@
           "icon": "https://play-lh.googleusercontent.com/VIv1J5fPLy-r9KrlA4WhLvzTboMphqs_jo_U9OqLyOmkr1AGAZ-nzIPo74_VISY7Ul28ZkObCkvlyyWPd_50",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8066,7 +8066,7 @@
           "icon": "https://play-lh.googleusercontent.com/33uObVFJ0-1md9XkQSTMHnh-E91drVuMj6cODaGcKuag07lwFVfWxCg0Ef-gKfaY9iKFrCOdaw5GJa0-6JV7FQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8079,7 +8079,7 @@
           "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8101,11 +8101,11 @@
           "rank": 12,
           "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=JP",
           "developer": "Roblox Corporation",
-          "rating": 4.732153,
+          "rating": 4.7320843,
           "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
           "platform": "Google Play",
           "summary": "",
-          "change": 4,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8118,7 +8118,7 @@
           "icon": "https://play-lh.googleusercontent.com/P5X4m-dDF31hnhlQvGE1L3MAJonj8KmnQQxj4nQl77Eg8kI2K-XFLu3UGStPC7hgP7VMrTf8ieurxA-rqdukwQ",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8131,7 +8131,7 @@
           "icon": "https://play-lh.googleusercontent.com/rWfSqp_MUw55M0QtUZgiAFZvU3t2B8VVAF6K2a4V774aZCZGv2bTz_-QR_TVl7m1rvs417gToQXbJ0Wf4KL15g",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8144,7 +8144,7 @@
           "icon": "https://play-lh.googleusercontent.com/YoP4Pd_zbzGWIAAU9WwRsndXXDKbeXH5vUAVRKAwHh9WwgUEx1F1u3O38F9kjXQEISgT5lpor3ZEJQ1dXM2q798",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8153,11 +8153,11 @@
           "rank": 16,
           "url": "https://play.google.com/store/apps/details?id=com.cyphergames.royalsmash&hl=en&gl=JP",
           "developer": "Cypher Games",
-          "rating": 4.1306376,
+          "rating": 4.127925,
           "icon": "https://play-lh.googleusercontent.com/VqJWXEzCPnmd4pCVdTBOvzYzbRs9u_BEcKVWUuL07RhKCtUmun3J5qC2p9_1C0A27Fpg8EaGUaE8AmDmF1pBfA",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8179,7 +8179,7 @@
           "rank": 18,
           "url": "https://play.google.com/store/apps/details?id=block.color.game.jam.blocks.sort.puzzle.games.slide.free&hl=en&gl=JP",
           "developer": "Brainteaser Puzzle Game Studio",
-          "rating": 4.8283186,
+          "rating": 4.827402,
           "icon": "https://play-lh.googleusercontent.com/5SB2idoprwmlQp1Whr0Yvi0ihmdoUqfFAQpxzAkovSLtdM1k5NIdAdMpufHvGZYOUJ3ld5uZzgLtpZ7f__bXeHA",
           "platform": "Google Play",
           "summary": "",
@@ -8209,7 +8209,7 @@
           "icon": "https://play-lh.googleusercontent.com/6-ikcI29q0T0s4oW4iP3msbkX6oAd4-7MLroXX9DlQFcpO2ihPL0yBo_6OvARuJ4a1FBXSMulLmJRKMwojdAGg",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8222,7 +8222,7 @@
           "icon": "https://play-lh.googleusercontent.com/gOMUc9LZZ_hcGbRUocRx_RJX0TZmAt4TeiGRfArTaA7na2JTCwtn9zivXX_gNmOAwXXx6Pv6LsBp904kVoWfthU",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8261,7 +8261,7 @@
           "icon": "https://play-lh.googleusercontent.com/ioTu_sdNBDPnNsW2I-fHJgxsfOVmQr7wbtJOELatIcpPdToqSnmxsYTa3U7RdXrE1QSp1RBBscN6aNYSnkc",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8287,7 +8287,7 @@
           "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ",
           "platform": "Google Play",
           "summary": "",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8300,7 +8300,7 @@
           "icon": "https://play-lh.googleusercontent.com/2ikMhd0cqdaNWwQDD6Ts0BMMbYsR_OtZzmBnGxbd86Lknr_ZqAWE7bNE_JPWpQhTP86kwKN4CQpJWdrkfRPsog",
           "platform": "Google Play",
           "summary": "",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8326,7 +8326,7 @@
           "icon": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA",
           "platform": "Google Play",
           "summary": "",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8339,7 +8339,7 @@
           "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
           "platform": "Google Play",
           "summary": "",
-          "change": -3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8365,7 +8365,7 @@
           "icon": "https://play-lh.googleusercontent.com/KCp0RI0b5soxMm-VaiimK-rhbSRRGl8zGvO3Isc_eSUdrMyzES7saPjQUu1CTsKZzz_hiQIXz_QLM0BvS4SQ7_M",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8378,7 +8378,7 @@
           "icon": "https://play-lh.googleusercontent.com/CZNl5j5E1p1NMOdI-k0Nmg0aLpV_SqaRDZBrx9kpjIa3XULfk-cSsm2VyZACdwDSRClk_VK2zct7Hgdx6jmOw_w",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8391,7 +8391,7 @@
           "icon": "https://play-lh.googleusercontent.com/euxw3bfsJwNJI6h-JOgY-3BHAkAHK21NJuiKH-Dz9-xv6egXimMy7phmtZWG1nCRRxSYiimyCI06IfAUnUVoWA",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8404,7 +8404,7 @@
           "icon": "https://play-lh.googleusercontent.com/V5DYQj3Pr3ONe6_vLyzdycvIgEMUHDliR-Jlc76qdfQex6chXzJuQjmQt-OHvNjPvStjnTI67PtzmYVYtLuPuQ",
           "platform": "Google Play",
           "summary": "",
-          "change": 7,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8417,7 +8417,7 @@
           "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8430,7 +8430,7 @@
           "icon": "https://play-lh.googleusercontent.com/TfYptHuK821z2ugqfa7JUomzdoWWV1jBuO1hNraCb0TNAD-zplUWditdZPndKzN50fqzdWBEUp81vMi-s0B4",
           "platform": "Google Play",
           "summary": "",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8443,7 +8443,7 @@
           "icon": "https://play-lh.googleusercontent.com/nB3aVJ6eYhfGa1m1EzgvE0RjH3C13v2wLLrwkQYzsG0427-jyQDopxiddjDOQNpOSoePVcl7jNgBUPXOCVmjXg",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8456,7 +8456,7 @@
           "icon": "https://play-lh.googleusercontent.com/EAzrfHZ0t5ZAKGQAvnWzHsYWjOCyw8rkdvmvcCtdAYL8n6L0KPND7cVxxyqVs7xxHTB-gOTrjmL8vOTyYBpCLA",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8469,7 +8469,7 @@
           "icon": "https://play-lh.googleusercontent.com/Gxvwg8zMBJrKPbBFDeGsGsOwVBUYDSwu_MNT-Wf43sMzag4ilI4Lpdv_OkgemgDWB3RKlPUaNjA140WC5rGf_w",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8482,7 +8482,7 @@
           "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8495,7 +8495,7 @@
           "icon": "https://play-lh.googleusercontent.com/uyk39WsDkQFPrgFcfuHThxoL7OcFidySe8RpyJUZo5hrYsWFV3a9pxkhUfnEXv_vKWfL0koo5J98PgPK0vOlAR8",
           "platform": "Google Play",
           "summary": "",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8508,7 +8508,7 @@
           "icon": "https://play-lh.googleusercontent.com/M8SRl5xNMoiBXvNadN9U5Mt2UryAtDwd-OZxXhT0UxUYQfGeD6aSR7VmM3Z7fZl4N3Zwba-51Zx5Q5ZLbkJ1gFc",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8521,7 +8521,7 @@
           "icon": "https://play-lh.googleusercontent.com/F2_Kbn1-vQePDh_Y0qNCDhkmpEK5qdEyPwcJqwXho54ZVG4w6Szt32VHsyPzeVLPR2kfYI62-hGmNpQoDxS-wQ",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8530,11 +8530,11 @@
           "rank": 45,
           "url": "https://play.google.com/store/apps/details?id=color.number.paint.pixle.art.sort.jigsaw&hl=en&gl=JP",
           "developer": "TaTa Game Technology Limited",
-          "rating": 4.5432835,
+          "rating": 4.542474,
           "icon": "https://play-lh.googleusercontent.com/4O3eRZ4cOMPSFiasjvlJuodijaKtNiv7HZ9Hm5r4CT78imAL32QbbWoJkiOJ3erjS4Yi652WTBrwcQrbbsuW",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8547,7 +8547,7 @@
           "icon": "https://play-lh.googleusercontent.com/5djPkrhRUCq5yIPTqmCHGj5B5lD0vFlfNVwBCVtjCx5jd0RUXuw-y_L3i1pxCoJ8dvhMzXV9vlLc3Zn0PaH-Lyg",
           "platform": "Google Play",
           "summary": "",
-          "change": -2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8569,7 +8569,7 @@
           "rank": 48,
           "url": "https://play.google.com/store/apps/details?id=com.cscmobi.livestream.idle.clicker&hl=en&gl=JP",
           "developer": "CSCMobi Studios",
-          "rating": 4.62069,
+          "rating": 4.6239314,
           "icon": "https://play-lh.googleusercontent.com/mUs5ZpIQikSoxg6U2Uug6NdB7P86jI_Fv8v7MXHQYiNj2D-LFMX8CvxCssTInzuiX1yT3_jgW4SVwV3NhtGk",
           "platform": "Google Play",
           "summary": "",
@@ -8595,7 +8595,7 @@
           "rank": 50,
           "url": "https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles&hl=en&gl=JP",
           "developer": "Melodya Muses",
-          "rating": 4.5909824,
+          "rating": 4.5893292,
           "icon": "https://play-lh.googleusercontent.com/9qnGtHwqKtBwgDEVOW6z8pFCx7IbYKnLLVbXRs0gbihvXpgkHxOWMbtBYEhyGmcoHYBHlnL8QKib1bLG9wKgiA",
           "platform": "Google Play",
           "summary": "",
@@ -8603,7 +8603,7 @@
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-18T01:04:49.752Z",
+      "updatedAt": "2026-10-18T01:05:28.148Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -8746,7 +8746,7 @@
           "icon": "https://play-lh.googleusercontent.com/zHq6ZKQhVsI5DTjy05zsWTggWgQfNZ7Qg5PJk5Kv3Rhctyt2HgfYYXHjEhS6k_6Y5NzwKvf2ZpQiXCWfc9htnw",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8759,7 +8759,7 @@
           "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8772,7 +8772,7 @@
           "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8785,7 +8785,7 @@
           "icon": "https://play-lh.googleusercontent.com/PQEqjOxr-3uZaNHmWoQinLVQQ9fbSegMKXmqgFm5nGgagqC2REH-1er3BguYStWbH3YStijj5WH1DDlwPh2ehw",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8798,7 +8798,7 @@
           "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8811,7 +8811,7 @@
           "icon": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8824,7 +8824,7 @@
           "icon": "https://play-lh.googleusercontent.com/j00IPpPSDv3cGqoKVIDf0qnCw6EbZQ4KpgMr10UWkf8Rm1qO9vCSoVhJwfCF1PbbKxV_Qt_eqZ_Sp4QMHuhwYBI",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8876,7 +8876,7 @@
           "icon": "https://play-lh.googleusercontent.com/tAs4y-tmdUvB7XS83Ee-t7l3EoJhSFSfXmBotcxn6KPwe3ysOSIqjngMwWpKA-cGEVXjRNiu0rfkhhLGLNXpPg",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8889,7 +8889,7 @@
           "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8902,7 +8902,7 @@
           "icon": "https://play-lh.googleusercontent.com/2ih8DH-1lwOveG_OlB-3pxbDUkJjoY188kVB73NXFhEOZwApTiESOTv3JgaSVZ5oUqd-2SqB2f8Rjq5LRymNNQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8928,7 +8928,7 @@
           "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q",
           "platform": "Google Play",
           "summary": "",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8941,7 +8941,7 @@
           "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8954,7 +8954,7 @@
           "icon": "https://play-lh.googleusercontent.com/AjC0FM5Y7Y-Nte45TKgOmvKZlfXPj3u9_CCLnWwzgDJfTTOziul3L4NqqzwupcdF7P4xgrwc1N_X0jRKwOSlf8M",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8967,7 +8967,7 @@
           "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8980,7 +8980,7 @@
           "icon": "https://play-lh.googleusercontent.com/CZqC6kjKA871p5R5tf734xuTrgNd7B2DC9Q2Y1Fj0Bmdg3z2I8PhgV-7JNsOg-g-BV1ZWNLRPqq0frr9byaN",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -8993,7 +8993,7 @@
           "icon": "https://play-lh.googleusercontent.com/kpMAHoFE7T_ccji5-P1I6njm7tufDzFHFPTPUDstve1L1_3hKHU29_bu8kZASVSiGOnIpqyG4CmAcib7Kzh8Vg",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9019,7 +9019,7 @@
           "icon": "https://play-lh.googleusercontent.com/jn-jaGEFUPiu0dBP9O6PjiRk-BCwFFLm0RdeOjLH-qLYjhHJlzNBMgl3Sah24htajj67_fdve-DzGsqmMUx1tqQ",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9032,7 +9032,7 @@
           "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9175,7 +9175,7 @@
           "icon": "https://play-lh.googleusercontent.com/McMZLXR9hYWUG883v6EVIh5k9P5iME0wPSbgd_bhVNU9hkUV-NlpXsfR4Je8o9TrlF52jzhMUkRQcefF5ZVkFw",
           "platform": "Google Play",
           "summary": "",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9188,7 +9188,7 @@
           "icon": "https://play-lh.googleusercontent.com/N8j-t_IXvDvqFzN3U_19OJPIyAHHgljwVa7TMyCYpdRXRykalU3HKq9u9oPnzDXEkUOX1yyuX16yuWNDrUC_Uw",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9201,7 +9201,7 @@
           "icon": "https://play-lh.googleusercontent.com/8HMyH_YraLh46zeVl-6z_aEofF3Pf9cNAtRgj6V81Nd2zpblCVlzPb9yoLu8ZxeQOt57a_bTqpa6-aV-VScDDg",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9210,11 +9210,11 @@
           "rank": 46,
           "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=JP",
           "developer": "Roblox Corporation",
-          "rating": 4.732153,
+          "rating": 4.7320843,
           "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
           "platform": "Google Play",
           "summary": "",
-          "change": 3,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9227,7 +9227,7 @@
           "icon": "https://play-lh.googleusercontent.com/dMZpIM_uav-hfQKPl5XUjHB98vvUJJl_7U99lE1sIMJ447lPXCn93_SiInconGTh89-ia18k5Q8dJF799wXctQ",
           "platform": "Google Play",
           "summary": "",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9240,7 +9240,7 @@
           "icon": "https://play-lh.googleusercontent.com/-_BUqcuX8UPHqRrPj0CXgmxniigSAKhdYLaLWqC9PdNWVjkwu9wnI_hTXB69Ge3WtgeecDYN-rFAc0Xoj-lO-Q",
           "platform": "Google Play",
           "summary": "",
-          "change": 2,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9253,8 +9253,8 @@
           "icon": "https://play-lh.googleusercontent.com/7V0cKFHLRopYXDoWRC1E4RsAkqlxb_KkiC-1fe9vEG68YOHIDDsNZjQq2mwK4Wt4ghZbZsUQ-zijyAM6-arpWQ",
           "platform": "Google Play",
           "summary": "",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "com.Level5.YWP",
@@ -9266,11 +9266,11 @@
           "icon": "https://play-lh.googleusercontent.com/m4cpPncuh8hIkqJeQPCxexFzrx2nAz5Q0f9byV0n_mtonqiIqz0gk34zvaGk_ZftMVU36WEAcPjOmKVNwaG3",
           "platform": "Google Play",
           "summary": "",
-          "change": -5,
+          "change": 0,
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-18T01:04:50.034Z",
+      "updatedAt": "2026-10-18T01:05:28.647Z",
       "sourceUpdatedAt": null,
       "source": "Google Play 官方商店榜"
     },
@@ -9331,7 +9331,7 @@
           "sourceChange": 1,
           "summary": "一键种田薅菜，快乐直接起飞",
           "platform": "微信小游戏",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9347,7 +9347,7 @@
           "sourceChange": -1,
           "summary": "摸鱼神器 解压三消",
           "platform": "微信小游戏",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9427,8 +9427,8 @@
           "sourceChange": 2,
           "summary": "3分钟上手，全民掼蛋拼牌技！",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wx69949b45b793b612",
@@ -9443,11 +9443,11 @@
           "sourceChange": 2,
           "summary": "箭头迷宫消除游戏，一箭清空，轻松又解压",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         }
       ],
-      "updatedAt": "2026-10-18T01:04:51.313Z",
+      "updatedAt": "2026-10-18T01:05:30.372Z",
       "sourceUpdatedAt": "2026-10-18",
       "source": "MomoRank 第三方公开榜"
     },
@@ -9476,8 +9476,8 @@
           "sourceChange": 25,
           "summary": "既然上了生活的贼船，就做个快乐的海盗吧！",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wxae65611dd1391ed0",
@@ -9492,8 +9492,8 @@
           "sourceChange": 17,
           "summary": "国民飞行射击，经典重启，再战银河！",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wx35ab0021daa3a9a0",
@@ -9508,8 +9508,8 @@
           "sourceChange": 15,
           "summary": "魔性王子直播抢王位",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wxa2951c2cf9636811",
@@ -9524,8 +9524,8 @@
           "sourceChange": 15,
           "summary": "一键解锁全新户型限定服饰～",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wxc9ca302d7fa972f2",
@@ -9540,8 +9540,8 @@
           "sourceChange": 14,
           "summary": "中式恐怖，休闲解谜",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wx16de056120be0839",
@@ -9556,8 +9556,8 @@
           "sourceChange": 14,
           "summary": "铸造大洋传奇，策略5V5海战新玩法",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wx35f46551c29e980e",
@@ -9572,8 +9572,8 @@
           "sourceChange": 14,
           "summary": "策略塔防，守护最后防线",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wx6cce8ac2ea74103e",
@@ -9588,8 +9588,8 @@
           "sourceChange": 11,
           "summary": "暴爽开箱，秒出神装，一个轻松的养成游戏。",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wxbfd755517df393d8",
@@ -9604,8 +9604,8 @@
           "sourceChange": 11,
           "summary": "全新九职业 · 独家玩法 · 散人逆袭！",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "wx643f638c904e3ab0",
@@ -9620,11 +9620,11 @@
           "sourceChange": 10,
           "summary": "预知梦启，重入清宫。",
           "platform": "微信小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         }
       ],
-      "updatedAt": "2026-10-18T01:04:51.684Z",
+      "updatedAt": "2026-10-18T01:05:31.444Z",
       "sourceUpdatedAt": "2026-10-18",
       "source": "MomoRank 第三方公开榜"
     },
@@ -9685,7 +9685,7 @@
           "sourceChange": 1,
           "summary": "模拟经营",
           "platform": "抖音小游戏",
-          "change": 1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9701,7 +9701,7 @@
           "sourceChange": -1,
           "summary": "塔防",
           "platform": "抖音小游戏",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9717,7 +9717,7 @@
           "sourceChange": 5,
           "summary": "塔防",
           "platform": "抖音小游戏",
-          "change": 5,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9733,8 +9733,8 @@
           "sourceChange": null,
           "summary": "解谜",
           "platform": "抖音小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "dy:tt0dff7b4292d56f66",
@@ -9749,8 +9749,8 @@
           "sourceChange": null,
           "summary": "超休闲",
           "platform": "抖音小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "dy:ttd206a4bb4d0d870102",
@@ -9765,7 +9765,7 @@
           "sourceChange": -1,
           "summary": "寻物",
           "platform": "抖音小游戏",
-          "change": -1,
+          "change": 0,
           "isNew": false
         },
         {
@@ -9781,8 +9781,8 @@
           "sourceChange": 2,
           "summary": "消除",
           "platform": "抖音小游戏",
-          "change": null,
-          "isNew": true
+          "change": 0,
+          "isNew": false
         },
         {
           "id": "dy:tt8e13f8ae111a218b07",
@@ -9797,11 +9797,11 @@
           "sourceChange": -5,
           "summary": "合成",
           "platform": "抖音小游戏",
-          "change": -5,
+          "change": 0,
           "isNew": false
         }
       ],
-      "updatedAt": "2026-10-18T01:04:51.884Z",
+      "updatedAt": "2026-10-18T01:05:31.661Z",
       "sourceUpdatedAt": "2026-10-18",
       "source": "MomoRank 第三方公开榜"
     }
@@ -17000,164 +17000,164 @@
       "checkedAt": "2026-10-08T06:05:05.58Z"
     },
     {
-      "id": "play-us-free",
+      "id": "play-jp-free",
       "ok": true,
       "count": 50,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-      "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+      "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
     },
     {
       "id": "play-us-grossing",
       "ok": true,
       "count": 50,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
       "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
     },
     {
-      "id": "play-jp-free",
+      "id": "play-us-free",
       "ok": true,
       "count": 50,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-      "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+      "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
     },
     {
       "id": "play-jp-grossing",
       "ok": true,
       "count": 50,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
       "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
-    },
-    {
-      "id": "jp-free",
-      "ok": true,
-      "count": 100,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-      "webUrl": "https://apps.apple.com/jp/iphone/charts/6014?chart=top-free"
     },
     {
       "id": "us-free",
       "ok": true,
       "count": 100,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
       "webUrl": "https://apps.apple.com/us/iphone/charts/6014?chart=top-free"
     },
     {
       "id": "us-grossing",
       "ok": true,
       "count": 100,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
       "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/us/genre/6014"
+    },
+    {
+      "id": "jp-free",
+      "ok": true,
+      "count": 100,
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+      "webUrl": "https://apps.apple.com/jp/iphone/charts/6014?chart=top-free"
     },
     {
       "id": "jp-grossing",
       "ok": true,
       "count": 100,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
       "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/jp/genre/6014"
-    },
-    {
-      "id": "wechat-played",
-      "ok": true,
-      "count": 10,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-      "webUrl": "https://www.momorank.com/rankings/most_played"
     },
     {
       "id": "wechat-grossing",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
       "webUrl": "https://www.momorank.com/rankings/bestseller"
+    },
+    {
+      "id": "wechat-played",
+      "ok": true,
+      "count": 10,
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+      "webUrl": "https://www.momorank.com/rankings/most_played"
     },
     {
       "id": "wechat-popular",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
       "webUrl": "https://www.momorank.com/rankings/popular"
     },
     {
       "id": "douyin-popular",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
       "webUrl": "https://www.momorank.com/douyin/rankings/popular"
     },
     {
       "id": "wechat-rising",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
       "webUrl": "https://www.momorank.com/rising"
     },
     {
       "id": "mini-news",
       "ok": true,
       "count": 40,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
       "webUrl": "https://news.google.com/search?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F"
-    },
-    {
-      "id": "douyin-grossing",
-      "ok": true,
-      "count": 10,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-      "webUrl": "https://www.momorank.com/douyin/rankings/bestseller"
     },
     {
       "id": "iaa-news",
       "ok": true,
       "count": 40,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
       "webUrl": "https://news.google.com/search?q=%E5%B0%8F%E6%B8%B8%E6%88%8F%20%E5%B9%BF%E5%91%8A%E5%8F%98%E7%8E%B0"
-    },
-    {
-      "id": "industry",
-      "ok": true,
-      "count": 40,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-      "webUrl": "https://www.gamesindustry.biz/"
-    },
-    {
-      "id": "pcgamer",
-      "ok": true,
-      "count": 40,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-      "webUrl": "https://www.pcgamer.com/games/"
-    },
-    {
-      "id": "eurogamer",
-      "ok": true,
-      "count": 40,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-      "webUrl": "https://www.eurogamer.net/"
     },
     {
       "id": "reward-news",
       "ok": true,
       "count": 40,
-      "checkedAt": "2026-10-18T01:04:49.703Z",
-      "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
       "webUrl": "https://news.google.com/search?q=rewarded%20gaming"
+    },
+    {
+      "id": "industry",
+      "ok": true,
+      "count": 40,
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+      "webUrl": "https://www.gamesindustry.biz/"
+    },
+    {
+      "id": "eurogamer",
+      "ok": true,
+      "count": 40,
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+      "webUrl": "https://www.eurogamer.net/"
+    },
+    {
+      "id": "pcgamer",
+      "ok": true,
+      "count": 40,
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+      "webUrl": "https://www.pcgamer.com/games/"
+    },
+    {
+      "id": "douyin-grossing",
+      "ok": true,
+      "count": 10,
+      "checkedAt": "2026-10-18T01:05:28.035Z",
+      "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+      "webUrl": "https://www.momorank.com/douyin/rankings/bestseller"
     }
   ],
   "history": [],
@@ -17170,8 +17170,8 @@
       "installs": "1B+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.846100330352783,
-      "ratingCount": 5695495,
-      "checkedAt": "2026-10-18T01:04:54.135Z",
+      "ratingCount": 5695209,
+      "checkedAt": "2026-10-18T01:05:35.265Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.block.juggle&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "HungryStudio",
@@ -17200,8 +17200,8 @@
       "installs": "100M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.852305889129639,
-      "ratingCount": 6433783,
-      "checkedAt": "2026-10-18T01:04:54.261Z",
+      "ratingCount": 6434129,
+      "checkedAt": "2026-10-18T01:05:35.898Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.vitastudio.mahjong&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "Vita Studio.",
@@ -17229,9 +17229,9 @@
       "url": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=en&gl=US",
       "installs": "10M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
-      "rating": 4.699704647064209,
-      "ratingCount": 480879,
-      "checkedAt": "2026-10-18T01:04:53.667Z",
+      "rating": 4.700523853302002,
+      "ratingCount": 480587,
+      "checkedAt": "2026-10-18T01:05:34.384Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "Oakever Games",
@@ -17261,7 +17261,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.463516712188721,
       "ratingCount": 662942,
-      "checkedAt": "2026-10-18T01:04:54.307Z",
+      "checkedAt": "2026-10-18T01:05:36.046Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=cashgiraffe.app&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "Cash Giraffe",
@@ -17291,7 +17291,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.412988185882568,
       "ratingCount": 626077,
-      "checkedAt": "2026-10-18T01:04:54.367Z",
+      "checkedAt": "2026-10-18T01:05:36.142Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=online.moneywell.app&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "Money Well",
@@ -17321,7 +17321,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.427540302276611,
       "ratingCount": 1759747,
-      "checkedAt": "2026-10-18T01:04:54.432Z",
+      "checkedAt": "2026-10-18T01:05:36.166Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.justplay.app&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "JustPlay GmbH",
@@ -17351,7 +17351,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.393353462219238,
       "ratingCount": 1062084,
-      "checkedAt": "2026-10-18T01:04:56.747Z",
+      "checkedAt": "2026-10-18T01:05:36.244Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.mistplay.mistplay&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "MISTPLAY",
@@ -17381,7 +17381,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.119447231292725,
       "ratingCount": 451073,
-      "checkedAt": "2026-10-18T01:04:54.590Z",
+      "checkedAt": "2026-10-18T01:05:36.377Z",
       "evidenceUrl": "https://play.google.com/store/apps/details?id=com.winrgames.bigtime&hl=en&gl=US",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "developer": "WINR Games Inc",
@@ -17413,7 +17413,7 @@
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.197644233703613,
       "ratingCountLabel": "248K",
-      "checkedAt": "2026-10-18T01:04:55.825Z",
+      "checkedAt": "2026-10-18T01:05:45.819Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "containsAds": true,
       "id": "google:com.affinity.rewarded_play",
@@ -17445,12 +17445,12 @@
       "icon": "https://play-lh.googleusercontent.com/Qamg1K2rMPHcuDf7rnsjlsos7OYjX4IhZZc7CFvHXab-XsMnNHgLI_wZ8VJIh1F6NPxe936NaPM4nV2wZeoDKA",
       "installs": "1M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
-      "rating": 4.054328441619873,
-      "ratingCount": 56137,
+      "rating": 4.054160118103027,
+      "ratingCount": 56138,
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:54.177Z",
+      "checkedAt": "2026-10-18T01:05:35.007Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.bandainamcoent.gget_JP:JP",
       "tags": [
@@ -17470,11 +17470,11 @@
       "installs": "10M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.452523708343506,
-      "ratingCount": 480587,
+      "ratingCount": 480879,
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:53.968Z",
+      "checkedAt": "2026-10-18T01:05:44.490Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.oakever.meowdoku:JP",
       "tags": [
@@ -17493,12 +17493,12 @@
       "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE",
       "installs": "1B+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
-      "rating": 4.223817348480225,
-      "ratingCount": 53078411,
+      "rating": 4.223881244659424,
+      "ratingCount": 53078415,
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:53.639Z",
+      "checkedAt": "2026-10-18T01:05:34.357Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.roblox.client",
       "tags": [
@@ -17522,7 +17522,7 @@
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:53.867Z",
+      "checkedAt": "2026-10-18T01:05:34.659Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.nebula.rotaterings:JP",
       "tags": [
@@ -17546,7 +17546,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:53.757Z",
+      "checkedAt": "2026-10-18T01:05:34.610Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.scopely.monopolygo",
       "tags": [
@@ -17566,11 +17566,11 @@
       "installs": "1B+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.630920886993408,
-      "ratingCount": 38928979,
+      "ratingCount": 38928975,
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:53.787Z",
+      "checkedAt": "2026-10-18T01:05:34.477Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.king.candycrushsaga",
       "tags": [
@@ -17594,7 +17594,7 @@
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:54.862Z",
+      "checkedAt": "2026-10-18T01:05:36.576Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:triple.sorting.bubble.fish.match:JP",
       "tags": [
@@ -17618,7 +17618,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:55.070Z",
+      "checkedAt": "2026-10-18T01:05:36.706Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.kurogame.wutheringwaves.global:JP",
       "tags": [
@@ -17642,7 +17642,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:55.220Z",
+      "checkedAt": "2026-10-18T01:05:36.844Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:game.qualiarts.hololive.dreams.jp:JP",
       "tags": [
@@ -17666,7 +17666,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:55.370Z",
+      "checkedAt": "2026-10-18T01:05:37.118Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.aniplex.fategrandorder:JP",
       "tags": [
@@ -17685,12 +17685,12 @@
       "icon": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B",
       "installs": "10M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
-      "rating": 4.560764789581299,
+      "rating": 4.559889793395996,
       "ratingCount": 589027,
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:55.505Z",
+      "checkedAt": "2026-10-18T01:05:37.254Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.grandgames.magicsort",
       "tags": [
@@ -17710,11 +17710,11 @@
       "installs": "10M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
       "rating": 4.2830281257629395,
-      "ratingCount": 846560,
+      "ratingCount": 846556,
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:54.709Z",
+      "checkedAt": "2026-10-18T01:05:35.148Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:jp.co.mixi.monsterstrike:JP",
       "tags": [
@@ -17733,12 +17733,12 @@
       "icon": "https://play-lh.googleusercontent.com/DPjwBJC12pcLpMvNxcgIneiJk07hdOtRR7LhZ8-TT7sbJXQ7n6jk0LnCFMwg_vLPHY0WuLH8vWAiqFZmsL0HuQ",
       "installs": "5M+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
-      "rating": 4.782276153564453,
+      "rating": 4.782986164093018,
       "ratingCount": 183066,
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:53.677Z",
+      "checkedAt": "2026-10-18T01:05:34.333Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.nebula.rotaterings",
       "tags": [
@@ -17762,7 +17762,7 @@
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:55.652Z",
+      "checkedAt": "2026-10-18T01:05:37.437Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.mergegames.gossipharbor",
       "tags": [
@@ -17781,12 +17781,12 @@
       "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV",
       "installs": "1B+",
       "installsLabel": "Google Play 全球累计安装门槛；非今日下载量、非美日单区下载量",
-      "rating": 4.785848140716553,
+      "rating": 4.785178184509277,
       "ratingCount": 5695209,
       "price": null,
       "containsAds": true,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:55.790Z",
+      "checkedAt": "2026-10-18T01:05:37.596Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.block.juggle:JP",
       "tags": [
@@ -17810,7 +17810,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:54.011Z",
+      "checkedAt": "2026-10-18T01:05:34.836Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.YoStarJP.Arknights:JP",
       "tags": [
@@ -17834,7 +17834,7 @@
       "price": null,
       "containsAds": false,
       "containsIAP": true,
-      "checkedAt": "2026-10-18T01:04:53.971Z",
+      "checkedAt": "2026-10-18T01:05:36.036Z",
       "notes": "安装门槛与评分数口径不同；奖励/提现说明是开发者宣称，未经实际兑现测试。",
       "id": "google:com.zigzagame.paranoize:JP",
       "tags": [
@@ -17843,6 +17843,11 @@
     }
   },
   "snapshots": [
+    {
+      "key": "history/2026-10-18T01-05-45-827Z.json",
+      "at": "2026-10-18T01:05:45.834Z",
+      "chartCount": 14
+    },
     {
       "key": "history/2026-10-18T01-04-56-748Z.json",
       "at": "2026-10-18T01:04:56.751Z",
@@ -18077,182 +18082,177 @@
       "key": "history/2026-10-10T22-27-48-334Z.json",
       "at": "2026-10-10T22:27:48.341Z",
       "chartCount": 14
-    },
-    {
-      "key": "history/2026-10-10T18-31-47-654Z.json",
-      "at": "2026-10-10T18:31:47.660Z",
-      "chartCount": 14
     }
   ],
   "lastRun": {
-    "at": "2026-10-18T01:04:49.703Z",
+    "at": "2026-10-18T01:05:28.035Z",
     "success": 20,
     "failed": 0,
     "total": 20,
     "items": [
       {
-        "id": "play-us-free",
+        "id": "play-jp-free",
         "ok": true,
         "count": 50,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-        "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+        "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
       },
       {
         "id": "play-us-grossing",
         "ok": true,
         "count": 50,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
         "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
       },
       {
-        "id": "play-jp-free",
+        "id": "play-us-free",
         "ok": true,
         "count": 50,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-        "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+        "webUrl": "https://play.google.com/store/games?hl=en&gl=US&device=phone"
       },
       {
         "id": "play-jp-grossing",
         "ok": true,
         "count": 50,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
         "webUrl": "https://play.google.com/store/games?hl=en&gl=JP&device=phone"
-      },
-      {
-        "id": "jp-free",
-        "ok": true,
-        "count": 100,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-        "webUrl": "https://apps.apple.com/jp/iphone/charts/6014?chart=top-free"
       },
       {
         "id": "us-free",
         "ok": true,
         "count": 100,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
         "webUrl": "https://apps.apple.com/us/iphone/charts/6014?chart=top-free"
       },
       {
         "id": "us-grossing",
         "ok": true,
         "count": 100,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
         "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/us/genre/6014"
+      },
+      {
+        "id": "jp-free",
+        "ok": true,
+        "count": 100,
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+        "webUrl": "https://apps.apple.com/jp/iphone/charts/6014?chart=top-free"
       },
       {
         "id": "jp-grossing",
         "ok": true,
         "count": 100,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
         "webUrl": "https://www.qimai.cn/rank/index/brand/grossing/device/iphone/country/jp/genre/6014"
-      },
-      {
-        "id": "wechat-played",
-        "ok": true,
-        "count": 10,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-        "webUrl": "https://www.momorank.com/rankings/most_played"
       },
       {
         "id": "wechat-grossing",
         "ok": true,
         "count": 10,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
         "webUrl": "https://www.momorank.com/rankings/bestseller"
+      },
+      {
+        "id": "wechat-played",
+        "ok": true,
+        "count": 10,
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+        "webUrl": "https://www.momorank.com/rankings/most_played"
       },
       {
         "id": "wechat-popular",
         "ok": true,
         "count": 10,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
         "webUrl": "https://www.momorank.com/rankings/popular"
       },
       {
         "id": "douyin-popular",
         "ok": true,
         "count": 10,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
         "webUrl": "https://www.momorank.com/douyin/rankings/popular"
       },
       {
         "id": "wechat-rising",
         "ok": true,
         "count": 10,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
         "webUrl": "https://www.momorank.com/rising"
       },
       {
         "id": "mini-news",
         "ok": true,
         "count": 40,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
         "webUrl": "https://news.google.com/search?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F"
-      },
-      {
-        "id": "douyin-grossing",
-        "ok": true,
-        "count": 10,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-        "webUrl": "https://www.momorank.com/douyin/rankings/bestseller"
       },
       {
         "id": "iaa-news",
         "ok": true,
         "count": 40,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
         "webUrl": "https://news.google.com/search?q=%E5%B0%8F%E6%B8%B8%E6%88%8F%20%E5%B9%BF%E5%91%8A%E5%8F%98%E7%8E%B0"
-      },
-      {
-        "id": "industry",
-        "ok": true,
-        "count": 40,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-        "webUrl": "https://www.gamesindustry.biz/"
-      },
-      {
-        "id": "pcgamer",
-        "ok": true,
-        "count": 40,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-        "webUrl": "https://www.pcgamer.com/games/"
-      },
-      {
-        "id": "eurogamer",
-        "ok": true,
-        "count": 40,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
-        "webUrl": "https://www.eurogamer.net/"
       },
       {
         "id": "reward-news",
         "ok": true,
         "count": 40,
-        "checkedAt": "2026-10-18T01:04:49.703Z",
-        "lastSuccessAt": "2026-10-18T01:04:49.703Z",
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
         "webUrl": "https://news.google.com/search?q=rewarded%20gaming"
+      },
+      {
+        "id": "industry",
+        "ok": true,
+        "count": 40,
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+        "webUrl": "https://www.gamesindustry.biz/"
+      },
+      {
+        "id": "eurogamer",
+        "ok": true,
+        "count": 40,
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+        "webUrl": "https://www.eurogamer.net/"
+      },
+      {
+        "id": "pcgamer",
+        "ok": true,
+        "count": 40,
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+        "webUrl": "https://www.pcgamer.com/games/"
+      },
+      {
+        "id": "douyin-grossing",
+        "ok": true,
+        "count": 10,
+        "checkedAt": "2026-10-18T01:05:28.035Z",
+        "lastSuccessAt": "2026-10-18T01:05:28.035Z",
+        "webUrl": "https://www.momorank.com/douyin/rankings/bestseller"
       }
     ]
   },
-  "attemptedAt": "2026-10-18T01:04:49.703Z",
+  "attemptedAt": "2026-10-18T01:05:28.035Z",
   "lastSync": {
     "at": "2026-10-08T06:53:33.468Z",
     "accepted": [
@@ -18516,7 +18516,7 @@
   ],
   "intelligence": {
     "version": 2,
-    "updatedAt": "2026-10-18T01:04:56.752Z",
+    "updatedAt": "2026-10-18T01:05:45.834Z",
     "actors": [
       {
         "id": "wechat-games",
@@ -20722,16 +20722,17 @@
         "skipped": true
       },
       {
-        "id": "actor-kuaishou-games",
-        "actorId": "kuaishou-games",
-        "name": "快手小游戏 新闻发现",
+        "id": "actor-wechat-games",
+        "actorId": "wechat-games",
+        "name": "微信小游戏 新闻发现",
         "kind": "discovery",
         "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E5%BF%AB%E6%89%8B%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "url": "https://news.google.com/rss/search?q=%22%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E5%B9%B3%E5%8F%B0%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "ok": true,
-        "count": 0,
+        "count": 1,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-douyin-games",
@@ -20743,19 +20744,21 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
-        "id": "actor-wechat-games",
-        "actorId": "wechat-games",
-        "name": "微信小游戏 新闻发现",
+        "id": "actor-kuaishou-games",
+        "actorId": "kuaishou-games",
+        "name": "快手小游戏 新闻发现",
         "kind": "discovery",
         "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E5%B9%B3%E5%8F%B0%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "url": "https://news.google.com/rss/search?q=%22%E5%BF%AB%E6%89%8B%E5%B0%8F%E6%B8%B8%E6%88%8F%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
         "ok": true,
-        "count": 1,
+        "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-4399",
@@ -20767,19 +20770,8 @@
         "ok": true,
         "count": 8,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-yodo1",
-        "actorId": "yodo1",
-        "name": "游道易 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E6%B8%B8%E9%81%93%E6%98%93%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-leiting",
@@ -20791,7 +20783,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-37games",
@@ -20803,7 +20796,21 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-yodo1",
+        "actorId": "yodo1",
+        "name": "游道易 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E6%B8%B8%E9%81%93%E6%98%93%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-net-ease",
@@ -20815,19 +20822,8 @@
         "ok": true,
         "count": 7,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-oceanengine",
-        "actorId": "oceanengine",
-        "name": "巨量引擎 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22%E5%B7%A8%E9%87%8F%E5%BC%95%E6%93%8E%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 1,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-tencent-games",
@@ -20839,7 +20835,8 @@
         "ok": true,
         "count": 7,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-mihoyo",
@@ -20851,7 +20848,21 @@
         "ok": true,
         "count": 27,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-oceanengine",
+        "actorId": "oceanengine",
+        "name": "巨量引擎 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22%E5%B7%A8%E9%87%8F%E5%BC%95%E6%93%8E%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B9%BF%E5%91%8A%20OR%20%E5%8F%91%E8%A1%8C%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 1,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-tencent-ads",
@@ -20863,7 +20874,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-mintegral",
@@ -20875,7 +20887,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-mobvista",
@@ -20887,7 +20900,8 @@
         "ok": true,
         "count": 3,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-topon",
@@ -20899,7 +20913,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-tradplus",
@@ -20911,19 +20926,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-singular",
-        "actorId": "singular",
-        "name": "Singular 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Singular%22%20%22mobile%20attribution%22%20OR%20%22game%20marketing%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-appsflyer",
@@ -20935,31 +20939,8 @@
         "ok": true,
         "count": 3,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-unity",
-        "actorId": "unity",
-        "name": "Unity 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Unity%20Technologies%22%20OR%20%22Unity%20Ads%22%20OR%20%22LevelPlay%22%20game%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 2,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-applovin",
-        "actorId": "applovin",
-        "name": "AppLovin 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22AppLovin%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 30,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-adjust",
@@ -20971,7 +20952,47 @@
         "ok": true,
         "count": 21,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-singular",
+        "actorId": "singular",
+        "name": "Singular 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Singular%22%20%22mobile%20attribution%22%20OR%20%22game%20marketing%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-applovin",
+        "actorId": "applovin",
+        "name": "AppLovin 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22AppLovin%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 30,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-unity",
+        "actorId": "unity",
+        "name": "Unity 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Unity%20Technologies%22%20OR%20%22Unity%20Ads%22%20OR%20%22LevelPlay%22%20game%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 2,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-liftoff",
@@ -20983,7 +21004,8 @@
         "ok": true,
         "count": 27,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-moloco",
@@ -20995,7 +21017,8 @@
         "ok": true,
         "count": 5,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-google-admob",
@@ -21007,31 +21030,8 @@
         "ok": true,
         "count": 1,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-saygames",
-        "actorId": "saygames",
-        "name": "SayGames 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22SayGames%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-voodoo",
-        "actorId": "voodoo",
-        "name": "Voodoo 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Voodoo%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 20,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-google-ads",
@@ -21043,7 +21043,34 @@
         "ok": true,
         "count": 18,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-voodoo",
+        "actorId": "voodoo",
+        "name": "Voodoo 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Voodoo%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 20,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-saygames",
+        "actorId": "saygames",
+        "name": "SayGames 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22SayGames%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-homa",
@@ -21055,19 +21082,8 @@
         "ok": true,
         "count": 1,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-crazylabs",
-        "actorId": "crazylabs",
-        "name": "CrazyLabs 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22CrazyLabs%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-kwalee",
@@ -21079,19 +21095,21 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
-        "id": "actor-zynga",
-        "actorId": "zynga",
-        "name": "Zynga 新闻发现",
+        "id": "actor-crazylabs",
+        "actorId": "crazylabs",
+        "name": "CrazyLabs 新闻发现",
         "kind": "discovery",
         "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Zynga%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "url": "https://news.google.com/rss/search?q=%22CrazyLabs%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
         "ok": true,
-        "count": 12,
+        "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-supersonic",
@@ -21103,19 +21121,21 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
-        "id": "actor-scopely",
-        "actorId": "scopely",
-        "name": "Scopely 新闻发现",
+        "id": "actor-zynga",
+        "actorId": "zynga",
+        "name": "Zynga 新闻发现",
         "kind": "discovery",
         "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Scopely%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "url": "https://news.google.com/rss/search?q=%22Zynga%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
         "ok": true,
-        "count": 10,
+        "count": 12,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-playtika",
@@ -21127,31 +21147,21 @@
         "ok": true,
         "count": 13,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
-        "id": "actor-rovio",
-        "actorId": "rovio",
-        "name": "Rovio 新闻发现",
+        "id": "actor-scopely",
+        "actorId": "scopely",
+        "name": "Scopely 新闻发现",
         "kind": "discovery",
         "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Rovio%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "url": "https://news.google.com/rss/search?q=%22Scopely%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
         "ok": true,
-        "count": 5,
+        "count": 10,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-adjoe",
-        "actorId": "adjoe",
-        "name": "adjoe 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22adjoe%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-supercell",
@@ -21163,7 +21173,21 @@
         "ok": true,
         "count": 16,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-rovio",
+        "actorId": "rovio",
+        "name": "Rovio 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Rovio%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 5,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-mistplay",
@@ -21175,7 +21199,21 @@
         "ok": true,
         "count": 1,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-adjoe",
+        "actorId": "adjoe",
+        "name": "adjoe 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22adjoe%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-almedia",
@@ -21187,19 +21225,8 @@
         "ok": true,
         "count": 2,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-digital-turbine",
-        "actorId": "digital-turbine",
-        "name": "Digital Turbine 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Digital%20Turbine%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 17,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-justplay",
@@ -21211,7 +21238,21 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-digital-turbine",
+        "actorId": "digital-turbine",
+        "name": "Digital Turbine 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Digital%20Turbine%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 17,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-xsolla",
@@ -21223,31 +21264,8 @@
         "ok": true,
         "count": 15,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-niko-partners",
-        "actorId": "niko-partners",
-        "name": "Niko Partners 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Niko%20Partners%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 2,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-centurygames",
-        "actorId": "centurygames",
-        "name": "Century Games 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Century%20Games%22%20games%20OR%20gaming%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 0,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-sensor-tower",
@@ -21259,7 +21277,34 @@
         "ok": true,
         "count": 8,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-niko-partners",
+        "actorId": "niko-partners",
+        "name": "Niko Partners 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Niko%20Partners%22%20games%20OR%20gaming%20OR%20advertising%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 2,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-centurygames",
+        "actorId": "centurygames",
+        "name": "Century Games 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Century%20Games%22%20games%20OR%20gaming%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-learnings",
@@ -21271,7 +21316,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-godot",
@@ -21283,31 +21329,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-steam",
-        "actorId": "steam",
-        "name": "Steam / Valve 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Valve%20Corporation%22%20OR%20%22Steam%22%20%22game%20distribution%22%20OR%20%22Steamworks%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 13,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-googleplay",
-        "actorId": "googleplay",
-        "name": "Google Play 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Google%20Play%22%20games%20OR%20gaming%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 19,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-playstation",
@@ -21319,7 +21342,8 @@
         "ok": true,
         "count": 26,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-xbox",
@@ -21331,31 +21355,34 @@
         "ok": true,
         "count": 30,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
-        "id": "actor-roblox",
-        "actorId": "roblox",
-        "name": "Roblox 新闻发现",
+        "id": "actor-googleplay",
+        "actorId": "googleplay",
+        "name": "Google Play 新闻发现",
         "kind": "discovery",
         "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Roblox%20Corporation%22%20OR%20%22Roblox%22%20%22developer%20economy%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "url": "https://news.google.com/rss/search?q=%22Google%20Play%22%20games%20OR%20gaming%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
         "ok": true,
-        "count": 0,
+        "count": 19,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
-        "id": "actor-appmagic",
-        "actorId": "appmagic",
-        "name": "AppMagic 新闻发现",
+        "id": "actor-steam",
+        "actorId": "steam",
+        "name": "Steam / Valve 新闻发现",
         "kind": "discovery",
         "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22AppMagic%22%20mobile%20OR%20games%20OR%20revenue%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "url": "https://news.google.com/rss/search?q=%22Valve%20Corporation%22%20OR%20%22Steam%22%20%22game%20distribution%22%20OR%20%22Steamworks%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
         "ok": true,
-        "count": 1,
+        "count": 13,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-epicgames",
@@ -21367,7 +21394,21 @@
         "ok": true,
         "count": 30,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-roblox",
+        "actorId": "roblox",
+        "name": "Roblox 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Roblox%20Corporation%22%20OR%20%22Roblox%22%20%22developer%20economy%22%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 0,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-nintendo",
@@ -21379,19 +21420,8 @@
         "ok": true,
         "count": 25,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-dataeye",
-        "actorId": "dataeye",
-        "name": "DataEye 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22DataEye%22%20OR%20%22DataEye%E7%A0%94%E7%A9%B6%E9%99%A2%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B0%8F%E6%B8%B8%E6%88%8F%20OR%20%E4%B9%B0%E9%87%8F%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
-        "ok": true,
-        "count": 1,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-apple-appstore",
@@ -21403,7 +21433,34 @@
         "ok": true,
         "count": 21,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-appmagic",
+        "actorId": "appmagic",
+        "name": "AppMagic 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22AppMagic%22%20mobile%20OR%20games%20OR%20revenue%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 1,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-dataeye",
+        "actorId": "dataeye",
+        "name": "DataEye 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22DataEye%22%20OR%20%22DataEye%E7%A0%94%E7%A9%B6%E9%99%A2%22%20%E6%B8%B8%E6%88%8F%20OR%20%E5%B0%8F%E6%B8%B8%E6%88%8F%20OR%20%E4%B9%B0%E9%87%8F%20when%3A30d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        "ok": true,
+        "count": 1,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-hungrystudio",
@@ -21415,7 +21472,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-oakever",
@@ -21427,19 +21485,8 @@
         "ok": true,
         "count": 1,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
-      },
-      {
-        "id": "actor-supercent",
-        "actorId": "supercent",
-        "name": "Supercent 新闻发现",
-        "kind": "discovery",
-        "intervalHours": 1,
-        "url": "https://news.google.com/rss/search?q=%22Supercent%22%20OR%20%22%EC%8A%88%ED%8D%BC%EC%84%BC%ED%8A%B8%22%20games%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
-        "ok": true,
-        "count": 1,
-        "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-dreamgames",
@@ -21451,7 +21498,8 @@
         "ok": true,
         "count": 0,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       },
       {
         "id": "actor-microfun",
@@ -21463,7 +21511,21 @@
         "ok": true,
         "count": 5,
         "checkedAt": "2026-10-18T01:04:56.752Z",
-        "lastSuccessAt": "2026-10-18T01:04:56.752Z"
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
+      },
+      {
+        "id": "actor-supercent",
+        "actorId": "supercent",
+        "name": "Supercent 新闻发现",
+        "kind": "discovery",
+        "intervalHours": 1,
+        "url": "https://news.google.com/rss/search?q=%22Supercent%22%20OR%20%22%EC%8A%88%ED%8D%BC%EC%84%BC%ED%8A%B8%22%20games%20OR%20publishing%20when%3A30d&hl=en-US&gl=US&ceid=US:en",
+        "ok": true,
+        "count": 1,
+        "checkedAt": "2026-10-18T01:04:56.752Z",
+        "lastSuccessAt": "2026-10-18T01:04:56.752Z",
+        "skipped": true
       }
     ],
     "items": [
@@ -65650,7 +65712,7 @@
         "publishedAt": "2026-10-16T13:49:46.000Z",
         "discoveredAt": "2026-10-16T16:34:16.117Z",
         "firstAt": "2026-10-16T12:00:00.000Z",
-        "heat": 1.047,
+        "heat": 1.046,
         "participants": 3,
         "reportCount": 3,
         "ruleScore": 35,
@@ -65745,7 +65807,7 @@
         "publishedAt": "2026-10-17T13:12:01.000Z",
         "discoveredAt": "2026-10-17T15:28:27.261Z",
         "firstAt": "2026-10-17T13:12:01.000Z",
-        "heat": 0.71,
+        "heat": 0.709,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -66087,7 +66149,7 @@
         "publishedAt": "2026-10-16T16:00:00.000Z",
         "discoveredAt": "2026-10-16T16:34:16.117Z",
         "firstAt": "2026-10-16T16:00:00.000Z",
-        "heat": 0.385,
+        "heat": 0.384,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 54,
@@ -66121,7 +66183,7 @@
         "publishedAt": "2026-10-16T15:59:52.000Z",
         "discoveredAt": "2026-10-16T16:34:16.117Z",
         "firstAt": "2026-10-16T15:59:52.000Z",
-        "heat": 0.385,
+        "heat": 0.384,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 44,
@@ -66398,7 +66460,7 @@
         "publishedAt": "2026-10-16T11:59:45.000Z",
         "discoveredAt": "2026-10-16T16:34:16.117Z",
         "firstAt": "2026-10-16T11:59:45.000Z",
-        "heat": 0.343,
+        "heat": 0.342,
         "participants": 1,
         "reportCount": 1,
         "ruleScore": 35,
@@ -91009,10 +91071,10 @@
       "notice": "来源数量表示发布渠道候选，不证明报道独立或事实属实。初始旧文只进历史，未知日期不进入热点与日报。"
     },
     "run": {
-      "at": "2026-10-18T01:04:56.752Z",
-      "success": 62,
+      "at": "2026-10-18T01:05:45.834Z",
+      "success": 0,
       "failed": 0,
-      "skipped": 11,
+      "skipped": 73,
       "total": 73
     }
   }
