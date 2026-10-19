@@ -89801,6 +89801,205 @@
     ],
     "digests": [
       {
+        "date": "2026-10-19",
+        "publishedAt": "2026-10-19T01:02:53.235Z",
+        "generatedAt": "2026-10-19T01:02:53.235Z",
+        "windowStart": "2026-10-18T01:00:00.000Z",
+        "windowEnd": "2026-10-19T01:00:00.000Z",
+        "dataCutoff": "2026-10-18T23:05:48.949Z",
+        "mode": "中文核查版 · 榜单变化／历史补充／未来排期分列；数据截止台北07:05，未确认足够窗口内新发布",
+        "entries": [],
+        "briefs": [
+          {
+            "id": "verified-20261019-global",
+            "title": "榜单观察｜Duck Survivor 日区Google Play免费第4→第1，Gossip Harbor日区iOS畅销第6→第3",
+            "summary": "对比台北10月18日08:00与19日07:05两次快照，非相邻采集change字段。行动者 Joy Nice Games／Joy Net Games、Microfun。Duck Survivor 日区Google Play免费第4→第1，日本iOS免费仍第1；Gossip Harbor日本iOS畅销第6→第3，怪物弹珠第2→第1。商店排名可用于选研究对象，不证明投放金额、下载量或新增流水，也不能把两端不同开发者显示名未经核验直接合并法律实体。研究价值：前者关注塔防与生存射击首局节奏，后者关注合成订单、剧情推进和体力压力。",
+            "url": "https://play.google.com/store/apps/details?id=com.mrtgd2.jp.and&hl=en&gl=JP",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-19T01:02:53.235Z",
+            "firstAt": "2026-10-19T01:02:53.235Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "历史／榜单／待发生事项 · 非今日新发",
+            "verification": "窗口内榜单快照变化；不是原文新闻日期",
+            "evidence": [
+              {
+                "title": "榜单观察｜Duck Survivor 日区Google Play免费第4→第1，Gossip Harbor日区iOS畅销第6→第3",
+                "url": "https://play.google.com/store/apps/details?id=com.mrtgd2.jp.and&hl=en&gl=JP",
+                "source": "Google Play／Apple 官方商店快照",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "窗口内榜单快照变化；不是原文新闻日期"
+              },
+              {
+                "title": "Gossip Harbor日本iOS商店",
+                "url": "https://apps.apple.com/jp/app/%E3%82%B4%E3%82%B7%E3%83%83%E3%83%97%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC-%E3%83%9E%E3%83%BC%E3%82%B8-%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/id1623318294?uo=2",
+                "source": "Apple 日本商店",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "商店详情原链接；排名来自同期榜单采集"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261019-mini",
+            "title": "国内榜单观察｜无尽冬日微信第三方畅销第7→第2，向僵尸开炮列两平台榜首",
+            "summary": "MomoRank第三方公开榜，对比18日08:00与19日07:05快照：微信畅销前三向僵尸开炮、无尽冬日、三国：冰河时代，其中无尽冬日第7→第2。抖音畅销前三向僵尸开炮、疯狂水世界、造化仙府；向僵尸开炮昨日未在已采Top10，不能推断首次上榜或从第11升来。微信增速排序前三狱国争霸、俱乐大玩家、斗罗大陆：传承；该页currentRank分别60、36、50，增速序号不是畅销名次。研究价值：按同平台同榜单追踪，先记录前期目标、循环与难度，再调查广告点位。第三方Top10不冒充微信／抖音全量官方榜。",
+            "url": "https://www.momorank.com/rankings/bestseller",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-19T01:02:53.235Z",
+            "firstAt": "2026-10-19T01:02:53.235Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／榜单／待发生事项 · 非今日新发",
+            "verification": "第三方快照，采集成功不等于官方确认",
+            "evidence": [
+              {
+                "title": "国内榜单观察｜无尽冬日微信第三方畅销第7→第2，向僵尸开炮列两平台榜首",
+                "url": "https://www.momorank.com/rankings/bestseller",
+                "source": "MomoRank 第三方公开Top10",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "第三方快照，采集成功不等于官方确认"
+              },
+              {
+                "title": "抖音畅销榜",
+                "url": "https://www.momorank.com/douyin/rankings/bestseller",
+                "source": "MomoRank",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "第三方公开Top10"
+              },
+              {
+                "title": "微信增速榜",
+                "url": "https://www.momorank.com/rising",
+                "source": "MomoRank",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "增速排序；不等于畅销名次"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261019-google",
+            "title": "历史补充｜Google Ads API v26 可读取Search Lift，先分清搜索增量与安装回收",
+            "summary": "行动者Google Ads。官方原文10月14日，10月18日媒体再次报道，非今日发布。已读官方博客及版本说明：增加只读SearchLiftKeywordBundle、两个分段及15个Search Lift指标，包括相对搜索提升、标准化增量搜索等；使用新能力需升级客户端库和代码。研究价值：评估买量素材是否带来品牌／产品搜索兴趣时，检查实验、指标定义与账户支持条件，并与安装、付费、广告LTV分别分析。搜索提升不是下载量或ROAS提升，也不能由该接口新增推断游戏账户都能发起实验。",
+            "url": "https://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html",
+            "actorIds": [
+              "google-ads"
+            ],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-19T01:02:53.235Z",
+            "firstAt": "2026-10-19T01:02:53.235Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "历史／榜单／待发生事项 · 非今日新发",
+            "verification": "原文10月14日；首发时分未知，历史补充",
+            "evidence": [
+              {
+                "title": "历史补充｜Google Ads API v26 可读取Search Lift，先分清搜索增量与安装回收",
+                "url": "https://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html",
+                "source": "Google Ads 官方开发者博客",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "原文10月14日；首发时分未知，历史补充"
+              },
+              {
+                "title": "v26版本说明",
+                "url": "https://developers.google.com/google-ads/api/docs/release-notes",
+                "source": "Google 官方文档",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "明确版本日期2026-10-14"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261019-nextfest",
+            "title": "待发生｜Steam新品节台北10月20日01:00开始，可建立试玩拆解清单",
+            "summary": "行动者Valve／Steam。官方文档列活动为10月19日10:00 PDT（UTC−7）到10月26日10:00 PDT，换算台北为10月20日01:00到27日01:00。本简报发布时尚未开始，不能写成已开幕。研究价值：活动开始后从休闲、策略、解谜Demo中筛选，统一记录前10分钟目标、首次失败、奖励兑现与重试成本。官方文档是当前排期，未确认其首发日期，不计入过去24小时新新闻；有Demo不等于已正式发售，也不等于免费长期运营。",
+            "url": "https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest/2026october",
+            "actorIds": [
+              "steam"
+            ],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-19T01:02:53.235Z",
+            "firstAt": "2026-10-19T01:02:53.235Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "历史／榜单／待发生事项 · 非今日新发",
+            "verification": "未来排期；原文发布日期未确认",
+            "evidence": [
+              {
+                "title": "待发生｜Steam新品节台北10月20日01:00开始，可建立试玩拆解清单",
+                "url": "https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest/2026october",
+                "source": "Steamworks 官方文档",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "未来排期；原文发布日期未确认"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261019-research",
+            "title": "五个研究对象｜Duck Survivor、Gossip Harbor、向僵尸开炮、JustPlay、MONOPOLY GO",
+            "summary": "前三项按本期榜单选入观察池，不等于今日新游。JustPlay的Google Play全球累计安装门槛10M+、MONOPOLY GO为100M+，不是今日／30日／单区下载。优先把赚钱预期与信任提示、逐次广告时间及兑换条件、首局目标与难度曲线记录成表。JustPlay奖励宣传没有实际到账验证；Duck Survivor页面0+不足以给出有意义安装量，本期留空。iOS真实下载和收入未披露，留空。",
+            "url": "https://play.google.com/store/apps/details?id=com.justplay.app&hl=en&gl=US",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-19T01:02:53.235Z",
+            "firstAt": "2026-10-19T01:02:53.235Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／榜单／待发生事项 · 非今日新发",
+            "verification": "竞品观察池；建议任务尚未完成实机测试",
+            "evidence": [
+              {
+                "title": "五个研究对象｜Duck Survivor、Gossip Harbor、向僵尸开炮、JustPlay、MONOPOLY GO",
+                "url": "https://play.google.com/store/apps/details?id=com.justplay.app&hl=en&gl=US",
+                "source": "Google Play商店与上述榜单",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "竞品观察池；建议任务尚未完成实机测试"
+              }
+            ]
+          }
+        ],
+        "quiet": true
+      },
+      {
         "date": "2026-10-18",
         "publishedAt": "2026-10-18T01:04:00.196Z",
         "generatedAt": "2026-10-18T01:04:00.196Z",
