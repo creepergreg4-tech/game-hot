@@ -97920,758 +97920,236 @@
     "digests": [
       {
         "date": "2026-10-21",
-        "publishedAt": "2026-10-21T01:00:00.000Z",
-        "generatedAt": "2026-10-21T01:31:11.293Z",
+        "publishedAt": "2026-10-21T02:52:39.476Z",
+        "generatedAt": "2026-10-21T02:52:39.476Z",
         "windowStart": "2026-10-20T01:00:00.000Z",
         "windowEnd": "2026-10-21T01:00:00.000Z",
-        "mode": "规则编排 · 保留原标题与原文摘要",
+        "dataCutoff": "2026-10-21T01:31:03.008Z",
+        "mode": "中文核查版 · 4条原文消息＋未来活动／榜单／研究观察；新闻截止09:00，榜单补采09:31",
         "entries": [
           {
-            "id": "9d09e74f6ac05a5effd9",
-            "title": "223 港币起卡普空《怪物猎人：荒野》任天堂 Switch 2 版本开启预购，同步上线游戏试玩版 - 新浪财经",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pYVRZcWJ1Z25kVDBRTXd5QktGNmU3bDdxS3JRTFlLSVBCU3VobGlUSENJWXBsZXNXNkU4aThmSkIxbW8xRW5hZkFMYWxuLWhlRWFyY1lOYUdyaEhsS3hQSEp5M3U1eFBUa29tWlluQUNMSW0wU0JQSEpUNGg1b2s?oc=5",
-            "summary": "223 港币起卡普空《怪物猎人：荒野》任天堂 Switch 2 版本开启预购，同步上线游戏试玩版 新浪财经",
-            "actorIds": [
-              "nintendo"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-20T10:13:40.000Z",
-            "discoveredAt": "2026-10-20T15:00:43.368Z",
-            "firstAt": "2026-10-20T10:13:40.000Z",
-            "heat": 0.643,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 57,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "223 港币起卡普空《怪物猎人：荒野》任天堂 Switch 2 版本开启预购，同步上线游戏试玩版 - 新浪财经",
-                "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pYVRZcWJ1Z25kVDBRTXd5QktGNmU3bDdxS3JRTFlLSVBCU3VobGlUSENJWXBsZXNXNkU4aThmSkIxbW8xRW5hZkFMYWxuLWhlRWFyY1lOYUdyaEhsS3hQSEp5M3U1eFBUa29tWlluQUNMSW0wU0JQSEpUNGg1b2s?oc=5",
-                "source": "新浪财经",
-                "publisherUrl": "https://finance.sina.com.cn/",
-                "publishedAt": "2026-10-20T10:13:40.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "8e6cb48c23811e09058d",
-            "title": "Ready for Launch: Modern Warfare 4 Progression and Prestige",
-            "url": "https://news.xbox.com/en-us/2026/10/20/ready-for-launch-modern-warfare-4-progression-and-prestige/",
-            "summary": "The post Ready for Launch: Modern Warfare 4 Progression and Prestige appeared first on XBOX Wire .",
-            "actorIds": [
-              "xbox"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-20T18:21:52.000Z",
-            "discoveredAt": "2026-10-20T19:11:03.270Z",
-            "firstAt": "2026-10-20T18:21:52.000Z",
-            "heat": 0.813,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 54,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Ready for Launch: Modern Warfare 4 Progression and Prestige",
-                "url": "https://news.xbox.com/en-us/2026/10/20/ready-for-launch-modern-warfare-4-progression-and-prestige/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-20T18:21:52.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "bf1594cc926449c22a0f",
-            "title": "Call of Duty: Modern Warfare 4 – How to Get Started as an Operator in DMZ",
-            "url": "https://news.xbox.com/en-us/2026/10/20/call-of-duty-modern-warfare-4-how-to-get-started-operator-dmz/",
-            "summary": "Plan Your Next Visit to Hajin Check out the interactive Hajin DMZ Tac Map on Call of Duty Blog Call of Duty: Modern Warfare 4’s new DMZ mode is here! Following the release of Campaign Early Access last week, Modern Warfare 4’s new action ex",
-            "actorIds": [
-              "xbox"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-20T17:00:00.000Z",
-            "discoveredAt": "2026-10-20T19:11:03.270Z",
-            "firstAt": "2026-10-20T17:00:00.000Z",
-            "heat": 0.782,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 54,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Call of Duty: Modern Warfare 4 – How to Get Started as an Operator in DMZ",
-                "url": "https://news.xbox.com/en-us/2026/10/20/call-of-duty-modern-warfare-4-how-to-get-started-operator-dmz/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-20T17:00:00.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "54464574e2d55e6fdce6",
-            "title": "What to Expect From AppLovin’s Q3 2026 Earnings Report - Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjFhRnBJbUNoZ1RSTFljZmoyYmpTSGFqUFdpa05XZVJMVmYtTVgyOXdiRElMY3BIS3B0cWlsRHBfSE1KOE5sa2tWUzNpZ2VyUzBCQmVPNURUaFhLN1BzV3BYbGhUTlBEQUYyWW0wc0YxNks3NWxFRXRnM2ZBaDY0dmdvLVBkWE5pS0VQYlpybVFSVWVxOTRwQlA5TU4zOVpfSnc?oc=5",
-            "summary": "What to Expect From AppLovin’s Q3 2026 Earnings Report Yahoo Finance",
-            "actorIds": [
-              "applovin"
-            ],
-            "tags": [
-              "行业",
-              "IAA",
-              "买量"
-            ],
-            "publishedAt": "2026-10-20T13:18:11.000Z",
-            "discoveredAt": "2026-10-20T22:16:51.189Z",
-            "firstAt": "2026-10-20T13:18:11.000Z",
-            "heat": 0.703,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "What to Expect From AppLovin’s Q3 2026 Earnings Report - Yahoo Finance",
-                "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjFhRnBJbUNoZ1RSTFljZmoyYmpTSGFqUFdpa05XZVJMVmYtTVgyOXdiRElMY3BIS3B0cWlsRHBfSE1KOE5sa2tWUzNpZ2VyUzBCQmVPNURUaFhLN1BzV3BYbGhUTlBEQUYyWW0wc0YxNks3NWxFRXRnM2ZBaDY0dmdvLVBkWE5pS0VQYlpybVFSVWVxOTRwQlA5TU4zOVpfSnc?oc=5",
-                "source": "Yahoo Finance",
-                "publisherUrl": "https://finance.yahoo.com/",
-                "publishedAt": "2026-10-20T13:18:11.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "5122e1ca4a17d0f20689",
-            "title": "\"Players want to engage with brands, not just consume them\" – Mattel on its new Game Studios arm, why it's releasing on Roblox, and what it learnt from NetEase",
-            "url": "https://www.gamesindustry.biz/players-want-to-engage-with-brands-not-just-consume-them-mattel-on-its-new-game-studios-arm-why-its-releasing-on-roblox-and-what-it-learnt-from-netease",
-            "summary": "In August, Mattel announced it was forming Mattel Game Studios , a new global development organisation with a focus on making games based on its own IP. Read more",
-            "actorIds": [
-              "roblox"
-            ],
-            "tags": [
-              "行业",
-              "技术工具",
-              "手游",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-20T12:30:00.000Z",
-            "discoveredAt": "2026-10-20T15:00:41.064Z",
-            "firstAt": "2026-10-20T12:30:00.000Z",
-            "heat": 0.687,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "\"Players want to engage with brands, not just consume them\" – Mattel on its new Game Studios arm, why it's releasing on Roblox, and what it learnt from NetEase",
-                "url": "https://www.gamesindustry.biz/players-want-to-engage-with-brands-not-just-consume-them-mattel-on-its-new-game-studios-arm-why-its-releasing-on-roblox-and-what-it-learnt-from-netease",
-                "source": "GamesIndustry.biz",
-                "publishedAt": "2026-10-20T12:30:00.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体报道 · 尚未独立核实"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "7429e5b13825a8c73f49",
-            "title": "Supercell has completed a deal to fully acquire Metacore - WN Hub",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OSkU5aktWblM0VFpoWnBsRnpveG1JMnFoRUM5YV9KckdLTmdFZHE1TDJpcWhZYnVUb1c2Qk53MThmMkdLdGVSUkdaemt1dFk?oc=5",
-            "summary": "Supercell has completed a deal to fully acquire Metacore WN Hub",
-            "actorIds": [
-              "supercell"
-            ],
-            "tags": [
-              "行业",
-              "手游"
-            ],
-            "publishedAt": "2026-10-20T08:53:10.000Z",
-            "discoveredAt": "2026-10-20T09:59:07.619Z",
-            "firstAt": "2026-10-20T08:53:10.000Z",
-            "heat": 0.619,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Supercell has completed a deal to fully acquire Metacore - WN Hub",
-                "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OSkU5aktWblM0VFpoWnBsRnpveG1JMnFoRUM5YV9KckdLTmdFZHE1TDJpcWhZYnVUb1c2Qk53MThmMkdLdGVSUkdaemt1dFk?oc=5",
-                "source": "WN Hub",
-                "publisherUrl": "https://wnhub.io/",
-                "publishedAt": "2026-10-20T08:53:10.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "cf1a8c15cb1bf52b4a9d",
-            "title": "Expanding our defenses against financial scam ads",
-            "url": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
-            "summary": "We’re introducing new safeguards in early 2027 to help protect people in the U.S. and Canada from financial scams.",
-            "actorIds": [
-              "google-ads"
-            ],
-            "tags": [
-              "行业",
-              "IAA",
-              "买量"
-            ],
-            "publishedAt": "2026-10-20T15:00:00.000Z",
-            "discoveredAt": "2026-10-20T15:00:43.368Z",
-            "firstAt": "2026-10-20T15:00:00.000Z",
-            "heat": 0.738,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 44,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Expanding our defenses against financial scam ads",
-                "url": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
-                "source": "Google Ads 官方订阅",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-20T15:00:00.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "2fccd957461adfebbf33",
-            "title": "How Final Fantasy Resonance uses Visions to change how we see the series",
-            "url": "https://blog.playstation.com/2026/10/20/how-final-fantasy-resonance-uses-visions-to-change-how-we-see-the-series/",
-            "summary": "With its cinematic HD-2D visuals and flashy combat, Final Fantasy Resonance was already piquing the interest of turn-based RPG fans, but its powerful and fun Visions mechanic has really captured the imagination. I went hands-on with the fin",
-            "actorIds": [
-              "playstation"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-20T13:30:11.000Z",
-            "discoveredAt": "2026-10-20T15:00:43.368Z",
-            "firstAt": "2026-10-20T13:30:11.000Z",
-            "heat": 0.707,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 44,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "How Final Fantasy Resonance uses Visions to change how we see the series",
-                "url": "https://blog.playstation.com/2026/10/20/how-final-fantasy-resonance-uses-visions-to-change-how-we-see-the-series/",
-                "source": "PlayStation 官方订阅",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-20T13:30:11.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "52b4846509ec4aadc173",
-            "title": "Rookie defenceman Luke Mittelstadt provides early-season liftoff for Laval Rocket - Montreal Gazette",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdFVsMFJDUTlFeTBFbzZzMy1WUEVhNlpSb0ZXbkprOUZQbWNMd1NFU2pxRkx6d3pldVBoWVJIdTZnYU9IaUppREM0NU4tVEtrRW9fQnF4TmZ6UkhsdDhNZHpuczhxTGJuV3hrUXhFTzk3RzhFdUM3cUo2ckF2SEZvaS1YZDBkZFNocmpEc3lDYTJPWGxVTk1LY1FmVno1RXNGYUF3TlFLWWQ1bFRBVEVfcWxNd25XUURScHg0TjNR?oc=5",
-            "summary": "Rookie defenceman Luke Mittelstadt provides early-season liftoff for Laval Rocket Montreal Gazette",
-            "actorIds": [
-              "liftoff"
-            ],
-            "tags": [
-              "行业",
-              "IAA",
-              "买量"
-            ],
-            "publishedAt": "2026-10-20T19:22:43.000Z",
-            "discoveredAt": "2026-10-20T19:11:03.270Z",
-            "firstAt": "2026-10-20T19:17:10.000Z",
-            "heat": 1.673,
-            "participants": 2,
-            "reportCount": 2,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Rookie defenceman Luke Mittelstadt provides early-season liftoff for Laval Rocket - Montreal Gazette",
-                "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdFVsMFJDUTlFeTBFbzZzMy1WUEVhNlpSb0ZXbkprOUZQbWNMd1NFU2pxRkx6d3pldVBoWVJIdTZnYU9IaUppREM0NU4tVEtrRW9fQnF4TmZ6UkhsdDhNZHpuczhxTGJuV3hrUXhFTzk3RzhFdUM3cUo2ckF2SEZvaS1YZDBkZFNocmpEc3lDYTJPWGxVTk1LY1FmVno1RXNGYUF3TlFLWWQ1bFRBVEVfcWxNd25XUURScHg0TjNR?oc=5",
-                "source": "Montreal Gazette",
-                "publisherUrl": "https://montrealgazette.com/",
-                "publishedAt": "2026-10-20T19:22:43.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "Rookie defenceman Luke Mittelstadt provides early-season liftoff for Laval Rocket - Telegraph-Journal",
-                "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYXBzSG5ZdjlxcFAtaW5UQjhET3RxSFBidERoSzdpNkpCd0hoekhLbTFvWW9ZTW5vU3daeW1iM1lobFRFWUw5aWNXTEFSdWlFZlpCZ3FTN2dLQzVkQXNQMmh2cVlUeEFhMzlRcDRPV2R1QkNlOGRoRVBmUTlJQVpTeUo2R3NralQ5S3RrbmJzSWFkM21ycmtXVHptOWd4enp3cVBYdG84cDIzT21Eak9NdWN0VHBDcXRMaC05Ym05aEZHZw?oc=5",
-                "source": "Telegraph-Journal",
-                "publisherUrl": "https://tj.news/",
-                "publishedAt": "2026-10-20T19:17:10.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "d53b723e16051eeddea3",
-            "title": "Unlocking the Power of Mobile Gaming: Attention, Audiences & Impact with Zynga Ads+ - Interactive Advertising Bureau",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TN19QS05vSVhmTEdCbjd6dHpILWgtNGV4empqV2tyR29rR3FacVl5RWlBaWRHWWZ6X3NRUWQ4Vnc5M3VBOGtwSVVxVTBnS19MMDVoUVp6ZFBPM2xzRHQxdjZ4eXFHZ3Vsc0FNOUl6ZTJVZw?oc=5",
-            "summary": "Unlocking the Power of Mobile Gaming: Attention, Audiences & Impact with Zynga Ads+ Interactive Advertising Bureau",
-            "actorIds": [
-              "zynga"
-            ],
-            "tags": [
-              "行业",
-              "手游"
-            ],
-            "publishedAt": "2026-10-20T23:24:42.000Z",
-            "discoveredAt": "2026-10-08T09:30:18.058Z",
-            "firstAt": "2026-10-20T23:24:42.000Z",
-            "heat": 0.941,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Unlocking the Power of Mobile Gaming: Attention, Audiences & Impact with Zynga Ads+ - Interactive Advertising Bureau",
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TN19QS05vSVhmTEdCbjd6dHpILWgtNGV4empqV2tyR29rR3FacVl5RWlBaWRHWWZ6X3NRUWQ4Vnc5M3VBOGtwSVVxVTBnS19MMDVoUVp6ZFBPM2xzRHQxdjZ4eXFHZ3Vsc0FNOUl6ZTJVZw?oc=5",
-                "source": "Interactive Advertising Bureau",
-                "publisherUrl": "https://www.iab.com/",
-                "publishedAt": "2026-10-20T23:24:42.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "98a393b2073512de6ed7",
-            "title": "Helldivers 2 studio warns mods may break as it switches to new anti-cheat, and the negative reviews are dropping on Steam like Hellbombs",
-            "url": "https://www.pcgamer.com/games/third-person-shooter/helldivers-2-studio-warns-mods-may-break-as-it-switches-to-new-anti-cheat-and-the-negative-reviews-are-dropping-on-steam-like-hellbombs/",
-            "summary": "Arrowhead says Easy Anti-Cheat will be more effective in combatting recent cheat mods, but the change has resulted in more than 1,000 negative user reviews on Steam in a single day.",
-            "actorIds": [
-              "steam"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-20T18:19:34.000Z",
-            "discoveredAt": "2026-10-20T19:11:01.223Z",
-            "firstAt": "2026-10-20T18:19:34.000Z",
-            "heat": 0.812,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Helldivers 2 studio warns mods may break as it switches to new anti-cheat, and the negative reviews are dropping on Steam like Hellbombs",
-                "url": "https://www.pcgamer.com/games/third-person-shooter/helldivers-2-studio-warns-mods-may-break-as-it-switches-to-new-anti-cheat-and-the-negative-reviews-are-dropping-on-steam-like-hellbombs/",
-                "source": "PC Gamer",
-                "publishedAt": "2026-10-20T18:19:34.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体报道 · 尚未独立核实"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "1c6676edfde1567c916d",
-            "title": "GTA 6 Digital Preorders Already Topped 6 Million and $594 Million, With PlayStation Accounting for 74%, Sensor Tower Estimates - Wccftech",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcVZGLWpJZm9YSERtZTdsOTc0eGU2RE14UDl0b2FZVmI2cWdjSmc4YzBTTy1icGtadjFCOUI1UVBHbEkyTHBEbDVfLTZYMHNlU0h6UFBneVRQU2VlTWZ5TzFhS01oN0JvdDgyNU9NOE5URWtQNWdKUFd4eWhTZXhfN096WDRMbWpzV2RVeEt6aHBmVGw1SFpZLWJ1Y1lpWkhjUWJKRDFn0gGrAUFVX3lxTE40b2xHSjhOTHpjc1FsUEJWTnkxUnpLa0JBS0NPSnVZN3ZmWGJFVm5LQVFSZkJtb20xRVBySE15b01XRGxvaEVJTUhMQW9DNWVhSHpyMFd2VDgxcWZlblNYX2g3WHd6ZUxyQVFvdG5FcGZTS3QxLWNRVWtIcG1XOW1zV0tiNEtiTHhpZDBVOTVpdWFJQUxmQXlDc0FJVklCbnhrNnBOSU9XanVyQQ?oc=5",
-            "summary": "GTA 6 Digital Preorders Already Topped 6 Million and $594 Million, With PlayStation Accounting for 74%, Sensor Tower Estimates Wccftech",
-            "actorIds": [
-              "sensor-tower",
-              "playstation"
-            ],
-            "tags": [
-              "行业",
-              "手游",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-20T14:00:00.000Z",
-            "discoveredAt": "2026-10-20T15:00:43.368Z",
-            "firstAt": "2026-10-20T14:00:00.000Z",
-            "heat": 0.717,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "GTA 6 Digital Preorders Already Topped 6 Million and $594 Million, With PlayStation Accounting for 74%, Sensor Tower Estimates - Wccftech",
-                "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcVZGLWpJZm9YSERtZTdsOTc0eGU2RE14UDl0b2FZVmI2cWdjSmc4YzBTTy1icGtadjFCOUI1UVBHbEkyTHBEbDVfLTZYMHNlU0h6UFBneVRQU2VlTWZ5TzFhS01oN0JvdDgyNU9NOE5URWtQNWdKUFd4eWhTZXhfN096WDRMbWpzV2RVeEt6aHBmVGw1SFpZLWJ1Y1lpWkhjUWJKRDFn0gGrAUFVX3lxTE40b2xHSjhOTHpjc1FsUEJWTnkxUnpLa0JBS0NPSnVZN3ZmWGJFVm5LQVFSZkJtb20xRVBySE15b01XRGxvaEVJTUhMQW9DNWVhSHpyMFd2VDgxcWZlblNYX2g3WHd6ZUxyQVFvdG5FcGZTS3QxLWNRVWtIcG1XOW1zV0tiNEtiTHhpZDBVOTVpdWFJQUxmQXlDc0FJVklCbnhrNnBOSU9XanVyQQ?oc=5",
-                "source": "Wccftech",
-                "publisherUrl": "https://wccftech.com/",
-                "publishedAt": "2026-10-20T14:00:00.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          }
-        ],
-        "briefs": [
-          {
-            "id": "a047145ce2b849211659",
-            "title": "Think You’ve Beaten Fountains? Prove it in the Gauntlet",
+            "id": "verified-20261021-fountains",
+            "title": "Fountains 的Gauntlet模式已上线：十连Boss战，消耗品在整轮结束后返还",
             "url": "https://news.xbox.com/en-us/2026/10/20/think-youve-beaten-fountains/",
-            "summary": "So, what exactly is the Gauntlet Mode? Think of it as the ultimate proving ground for warriors who crave a real challenge. Originally designed on PC to accommodate the most demanding souls-like connoisseurs, it’s now arriving on XBOX just a",
+            "summary": "行动者：Crunching Koalas／Fountains。官方开发者／发行材料，原文10月20日。通关最终Boss后找守门NPC开启十连Boss挑战，第3、6、9战后可在休息区补充治疗与换装；整轮中用过的消耗品在挑战结束时返还。研究价值：区分局内稀缺与局外损失，用可恢复成本鼓励试构筑，再以固定休息节点控制长局压力。模式已上线，不等于有IAA或现金奖励；无留存提升数据。",
             "actorIds": [
               "xbox"
             ],
             "tags": [
               "行业",
-              "PC主机"
+              "玩法研究"
             ],
             "publishedAt": "2026-10-20T20:00:00.000Z",
-            "discoveredAt": "2026-10-20T22:16:51.189Z",
+            "discoveredAt": "2026-10-21T02:52:39.476Z",
             "firstAt": "2026-10-20T20:00:00.000Z",
-            "heat": 0.853,
+            "heat": 0,
             "participants": 1,
             "reportCount": 1,
             "ruleScore": 44,
             "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "grouping": "人工回看原文 · 单事件",
+            "verification": "已读官方原文，效果与研究推断另标",
             "evidence": [
               {
                 "title": "Think You’ve Beaten Fountains? Prove it in the Gauntlet",
                 "url": "https://news.xbox.com/en-us/2026/10/20/think-youve-beaten-fountains/",
                 "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
                 "publishedAt": "2026-10-20T20:00:00.000Z",
                 "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+                "evidenceType": "官方／官方平台投稿；非独立效果验证"
               }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
+            ]
           },
           {
-            "id": "ef093c3b96fc715b817f",
-            "title": "Coming to XBOX Game Pass: Final Fantasy VII Remake Intergrade, The Séance of Blake Manor, and More",
-            "url": "https://news.xbox.com/en-us/2026/10/20/xbox-game-pass-october-2026-wave-2/",
-            "summary": "Ghosts to question and a planet to save. Sounds like a perfectly reasonable few weeks to me! We have another batch of games coming soon to Game Pass, so clear a little room in that “Play Next List” and let’s get to it! Coming Soon Sandustry",
+            "id": "verified-20261021-showcase",
+            "title": "ID@Xbox展示新一批独立作品：碎纸增量与挖矿守城卡组可作机制研究",
+            "url": "https://news.xbox.com/en-us/2026/10/20/id-xbox-ign-showcase-october-2026/",
+            "summary": "行动者：Xbox／独立开发者。官方展示汇总，原文10月20日，同一活动合并为一条。Paper Shredder以碎纸、清扫、升级放大产能，计划今冬登陆Xbox；其“100万美元报酬”是游戏题材描述，不能当作玩家可提现收入。Drill Keeper把挖资源、卡组协同与构筑防御路径结合，计划2027年夏季推出。研究价值：看微动作如何接升级目标，以及采集与防御如何互相制约。排期均非已正式发售或商业成功，Xbox与Google News副本不重复计来源。",
             "actorIds": [
               "xbox"
             ],
             "tags": [
               "行业",
-              "PC主机"
+              "玩法研究"
             ],
-            "publishedAt": "2026-10-20T19:00:40.000Z",
-            "discoveredAt": "2026-10-20T19:11:03.270Z",
-            "firstAt": "2026-10-20T16:00:00.000Z",
-            "heat": 0.829,
-            "participants": 1,
-            "reportCount": 2,
-            "ruleScore": 44,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Coming to XBOX Game Pass: Final Fantasy VII Remake Intergrade, The Séance of Blake Manor, and More - XBOX Wire",
-                "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OcVdjdTFFajEydG13WGtQeFYtQWlIM1V0Mkc3N3E2UHRhejNudEFROU9VVGgxQ1RBQkZla3kyWWlpOTFfc1NiTFRoTWpUZW5hdS10bTMzaXh3Y2RHT214U3VMRnk2TklKMHdxLWpUQm5yaHlUVjRtaXhoaDlzWVnSAYQBQVVfeXFMTWEyaTc3LU1kazdIcFVnWEFncWljWXBIbFltOUdKeW5EMDJETDNPODU4UGp5ZS1OQ0ZQOF84TFNGTVppY1Q4YlphekFFN29oT1hoREdJQ2k0NzRnSnIteG9ZWFp1VXZnV0dSTU9nTi1RVURVcjZxMjFNMlZIWkwtc2ItQ0x6?oc=5",
-                "source": "XBOX Wire",
-                "publisherUrl": "https://news.xbox.com/",
-                "publishedAt": "2026-10-20T19:00:40.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
-              {
-                "title": "Coming to XBOX Game Pass: Final Fantasy VII Remake Intergrade, The Séance of Blake Manor, and More",
-                "url": "https://news.xbox.com/en-us/2026/10/20/xbox-game-pass-october-2026-wave-2/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-20T16:00:00.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "7181de41e2ef3deb00dd",
-            "title": "Grounded 2: 100 Reasons to Run in the Rot and Ruin Update",
-            "url": "https://news.xbox.com/en-us/2026/10/20/grounded-2-rot-and-ruin/",
-            "summary": "Survive the Rot and Ruin Update Brookhollow Park is getting a little more rotten. The Rot and Ruin Update expands Grounded 2 with a new area to explore, dangerous creatures to face, another Buggy to saddle up on, and new ways to customize b",
-            "actorIds": [
-              "xbox"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-20T19:00:00.000Z",
-            "discoveredAt": "2026-10-20T19:11:03.270Z",
-            "firstAt": "2026-10-20T19:00:00.000Z",
-            "heat": 0.828,
+            "publishedAt": "2026-10-20T17:45:48.000Z",
+            "discoveredAt": "2026-10-21T02:52:39.476Z",
+            "firstAt": "2026-10-20T17:45:48.000Z",
+            "heat": 0,
             "participants": 1,
             "reportCount": 1,
             "ruleScore": 44,
             "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "grouping": "人工回看原文 · 单事件",
+            "verification": "已读官方原文，效果与研究推断另标",
             "evidence": [
-              {
-                "title": "Grounded 2: 100 Reasons to Run in the Rot and Ruin Update",
-                "url": "https://news.xbox.com/en-us/2026/10/20/grounded-2-rot-and-ruin/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-20T19:00:00.000Z",
-                "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
-              }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
-          {
-            "id": "22110f3fc2c812a5f1f6",
-            "title": "ID@XBOX x IGN Showcase Recap: All the News and Announcements",
-            "url": "https://news.xbox.com/en-us/2026/10/20/id-xbox-ign-showcase-october-2026/",
-            "summary": "We’ve just wrapped up another fantastic ID@XBOX and IGN Showcase, bringing the latest news and updates on many brilliant indie titles heading to XBOX – from world premieres and long-awaited announcements to a fresh wave of titles making the",
-            "actorIds": [
-              "xbox"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-10-20T17:50:15.000Z",
-            "discoveredAt": "2026-10-20T19:11:03.270Z",
-            "firstAt": "2026-10-20T17:45:48.000Z",
-            "heat": 0.801,
-            "participants": 1,
-            "reportCount": 2,
-            "ruleScore": 44,
-            "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "ID@XBOX x IGN Showcase Recap: All the News and Announcements - XBOX Wire",
-                "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rYlpHVTRDbjRSU2pNQUNickRObVQ2UjBTa2J2M3BRaEpuNUlDTzBjWG55WjNYYml6aUlwN1lKT2JSaVJ1bFBzc0JTR0pVVWpid3ktd2t4Z05QWkVMZkE4eF9zTW92Z3NtVFE0anNKTEVqeGhxQTY0b2tiY1Z3d9IBgwFBVV95cUxPSEotR3IyblpjbTRQRVo0dHZQUTNEbkp5OWpBZVZLa3VHeFg5U1FwSXdiNDNOVHJfTFgyR1Z1VUFEOWVoSTc1RVFXajQ4bHFRMm1HNEJxTDFDSF96a0NTNU1mYmVkbDlXQlpueDhya1Y4blgteW5VcmZ2TTFOLTdqVWhQdw?oc=5",
-                "source": "XBOX Wire",
-                "publisherUrl": "https://news.xbox.com/",
-                "publishedAt": "2026-10-20T17:50:15.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
-              },
               {
                 "title": "ID@XBOX x IGN Showcase Recap: All the News and Announcements",
                 "url": "https://news.xbox.com/en-us/2026/10/20/id-xbox-ign-showcase-october-2026/",
                 "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
                 "publishedAt": "2026-10-20T17:45:48.000Z",
                 "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+                "evidenceType": "官方／官方平台投稿；非独立效果验证"
               }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
+            ]
           },
           {
-            "id": "efbdbacd96b3fcc40d67",
-            "title": "Three CRITICAL REFLEX Hits Are Coming to XBOX, And One Arrives Today",
-            "url": "https://news.xbox.com/en-us/2026/10/20/critical-reflex-games-xbox-update/",
-            "summary": "The nights are getting darker, the weather is getting harsher… Can you feel it? Halloween is almost here, and there’s never been a better excuse to turn off the lights, lock the doors, and play something that fills your head with dread and",
+            "id": "verified-20261021-visions",
+            "title": "Final Fantasy Resonance公开Visions机制：角色搭配改变能力与成长路线",
+            "url": "https://blog.playstation.com/2026/10/20/how-final-fantasy-resonance-uses-visions-to-change-how-we-see-the-series/",
+            "summary": "行动者：Square Enix／PlayStation。PlayStation官方博客的作者试玩文章，原文10月20日。神殿中的短故事和问答引入辅助角色，装备后提供能力与属性加成，战斗取得精通点继续解锁。文章称共有26个可发现伙伴；特定职业与主角色搭配可形成专精或补位。研究价值：收集目标同时承担玩法解锁与成长反馈，观察如何避免只加数值而不改策略。计划10月22日登陆PS5，不能把试玩稿写成今天发行，也无IAA或现金奖励证据。",
             "actorIds": [
-              "xbox"
+              "playstation"
             ],
             "tags": [
               "行业",
-              "PC主机"
+              "玩法研究"
             ],
-            "publishedAt": "2026-10-20T17:27:00.000Z",
-            "discoveredAt": "2026-10-20T19:11:03.270Z",
-            "firstAt": "2026-10-20T17:27:00.000Z",
-            "heat": 0.792,
+            "publishedAt": "2026-10-20T13:30:11.000Z",
+            "discoveredAt": "2026-10-21T02:52:39.476Z",
+            "firstAt": "2026-10-20T13:30:11.000Z",
+            "heat": 0,
             "participants": 1,
             "reportCount": 1,
             "ruleScore": 44,
             "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "grouping": "人工回看原文 · 单事件",
+            "verification": "已读官方原文，效果与研究推断另标",
             "evidence": [
               {
-                "title": "Three CRITICAL REFLEX Hits Are Coming to XBOX, And One Arrives Today",
-                "url": "https://news.xbox.com/en-us/2026/10/20/critical-reflex-games-xbox-update/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-20T17:27:00.000Z",
+                "title": "How Final Fantasy Resonance uses Visions to change how we see the series",
+                "url": "https://blog.playstation.com/2026/10/20/how-final-fantasy-resonance-uses-visions-to-change-how-we-see-the-series/",
+                "source": "PlayStation 官方订阅",
+                "publishedAt": "2026-10-20T13:30:11.000Z",
                 "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+                "evidenceType": "官方／官方平台投稿；非独立效果验证"
               }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
+            ]
           },
           {
-            "id": "aabb24380e3f33652538",
-            "title": "Magenta Down: A Journey Across a Hostile Exoplanet",
-            "url": "https://news.xbox.com/en-us/2026/10/20/magenta-down-reveal-xbox-ign-id/",
-            "summary": "Magenta Down is designed around a simple premise: you and your crew have crashed and are now scattered across the surface of a harsh, remote exoplanet. With limited supplies and surrounded by hostile terrain, can you find your crew and esca",
+            "id": "verified-20261021-google",
+            "title": "Google宣布2027年初扩展美加金融服务广告验证，奖励游戏不能直接套用结论",
+            "url": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
+            "summary": "行动者：Google Ads。Google官方公告，原文10月20日。金融服务验证计划将在2027年初扩展至美国和加拿大；投放某些金融广告前需证明具备监管或认可登记资格，平台将提前提供分国家材料与流程。研究价值：跟踪素材赚钱承诺、主体身份与落地页说明是否一致，但该文针对金融广告，不能据此认定所有奖励游戏已被纳入或今天就要执行。国家细则和账户适用范围仍待后续通知。",
             "actorIds": [
-              "xbox"
+              "google-ads"
             ],
             "tags": [
               "行业",
-              "PC主机"
+              "玩法研究"
             ],
-            "publishedAt": "2026-10-20T17:02:16.000Z",
-            "discoveredAt": "2026-10-20T19:11:03.270Z",
-            "firstAt": "2026-10-20T17:02:16.000Z",
-            "heat": 0.783,
+            "publishedAt": "2026-10-20T15:00:00.000Z",
+            "discoveredAt": "2026-10-21T02:52:39.476Z",
+            "firstAt": "2026-10-20T15:00:00.000Z",
+            "heat": 0,
             "participants": 1,
             "reportCount": 1,
             "ruleScore": 44,
             "officialCount": 1,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "grouping": "人工回看原文 · 单事件",
+            "verification": "已读官方原文，效果与研究推断另标",
             "evidence": [
               {
-                "title": "Magenta Down: A Journey Across a Hostile Exoplanet",
-                "url": "https://news.xbox.com/en-us/2026/10/20/magenta-down-reveal-xbox-ign-id/",
-                "source": "Xbox Wire 官方消息",
-                "publisherUrl": null,
-                "publishedAt": "2026-10-20T17:02:16.000Z",
+                "title": "Expanding our defenses against financial scam ads",
+                "url": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/",
+                "source": "Google Ads 官方订阅",
+                "publishedAt": "2026-10-20T15:00:00.000Z",
                 "origin": "official",
-                "evidenceType": "官方发布 · 效果与收益宣称仍需验证"
+                "evidenceType": "官方／官方平台投稿；非独立效果验证"
               }
-            ],
-            "verification": "有官方发布；宣传效果未独立验证"
-          },
+            ]
+          }
+        ],
+        "briefs": [
           {
-            "id": "7284ae8b7e0e7e57903b",
-            "title": "App Store review times are being dragged down by a flood of AI-made apps and games - Mobilegamer.biz",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb29KalJ4T0tmR3JLVGZnOXJKRWhjNVRlaURYN2RZVlFWeWI1RHJYNVJKNVdhLS13bTNfMENhUGdEdE1nQnR6QXNiVk1JT09LekZfb21xVzFxRk1qelpsb3UxS1BFN2U4S0ItSFhBcWhUN1FtakU5Q3A1ZU1SSnVYb1NrbWI5VjJhTmFMRE4ycDdleFJ6dUtYa0wwUFQtLWJWSWRvLTdQLV8zTGs?oc=5",
-            "summary": "App Store review times are being dragged down by a flood of AI-made apps and games Mobilegamer.biz",
-            "actorIds": [
-              "apple-appstore"
-            ],
+            "id": "verified-20261021-iab",
+            "title": "未来／赞助活动｜IAB与Zynga Ads+介绍移动游戏广告注意力研究",
+            "summary": "活动页列10月21日13:00–14:00 EST，页面未给出可信首发日期，不按Google News时间当作新发布。本期发布时活动尚未发生。材料拟介绍受众研究、平台适配创意及注意力测量；其中Attention Index是该页援引的测量指标，不是广告eCPM、安装转化或回收率。研究价值：实测广告是否可跳过、观看完成与实际后续行为，避免用注意力一项代替收入或留存。页面为IAB与Zynga合作推广材料，未独立复核样本。",
+            "url": "https://www.iab.com/events/unlocking-the-power-of-mobile-gaming/",
+            "actorIds": [],
             "tags": [
-              "行业",
-              "手游",
-              "技术工具"
+              "研究观察"
             ],
-            "publishedAt": "2026-10-20T13:20:51.000Z",
-            "discoveredAt": "2026-10-20T19:11:03.270Z",
-            "firstAt": "2026-10-20T13:20:51.000Z",
-            "heat": 0.704,
+            "publishedAt": null,
+            "discoveredAt": "2026-10-21T02:52:39.476Z",
+            "firstAt": "2026-10-21T02:52:39.476Z",
+            "heat": 0,
             "participants": 1,
             "reportCount": 1,
-            "ruleScore": 35,
+            "ruleScore": 0,
             "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "grouping": "观察补充",
+            "verification": "未来活动及营销材料；原文首发日期未知",
             "evidence": [
               {
-                "title": "App Store review times are being dragged down by a flood of AI-made apps and games - Mobilegamer.biz",
-                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb29KalJ4T0tmR3JLVGZnOXJKRWhjNVRlaURYN2RZVlFWeWI1RHJYNVJKNVdhLS13bTNfMENhUGdEdE1nQnR6QXNiVk1JT09LekZfb21xVzFxRk1qelpsb3UxS1BFN2U4S0ItSFhBcWhUN1FtakU5Q3A1ZU1SSnVYb1NrbWI5VjJhTmFMRE4ycDdleFJ6dUtYa0wwUFQtLWJWSWRvLTdQLV8zTGs?oc=5",
-                "source": "Mobilegamer.biz",
-                "publisherUrl": "https://mobilegamer.biz/",
-                "publishedAt": "2026-10-20T13:20:51.000Z",
+                "title": "未来／赞助活动｜IAB与Zynga Ads+介绍移动游戏广告注意力研究",
+                "url": "https://www.iab.com/events/unlocking-the-power-of-mobile-gaming/",
+                "source": "IAB／Zynga合作活动页",
+                "publishedAt": null,
                 "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
+                "evidenceType": "未来活动及营销材料；原文首发日期未知"
               }
-            ],
-            "verification": "媒体报道；事实待核查"
+            ]
           },
           {
-            "id": "dd80e2a43a424c597a3e",
-            "title": "Nintendo Switch Sports Resort review",
-            "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-review",
-            "summary": "One of my very favourite things to do in Switch Sports Resort isn't, technically, a sport at all. I can't get enough of Prop Plane's free-play mode, taking to the skies, and watching Wuhu Island do its thing below. Swing past the art museum",
-            "actorIds": [
-              "nintendo"
-            ],
+            "id": "verified-20261021-charts",
+            "title": "榜单补采观察｜Gossip Harbor美国iOS畅销第2，疯狂水世界居抖音第三方畅销榜首",
+            "summary": "截至台北10月21日09:31，晚于09:00新闻截止，单列补采快照。美国iOS免费前三Meowdoku、Block Out、Magic Sort，畅销前三MONOPOLY GO、Gossip Harbor、Roblox；美国Google Play免费前三Meowdoku、Rotate Rings、Gossip Harbor。日本两商店免费榜首均Duck Survivor；日本iOS畅销前三eFootball、hololive Dreams、Gossip Harbor。MomoRank微信畅销前三向僵尸开炮、三国：冰河时代、疯狂水世界，抖音畅销前三疯狂水世界、向僵尸开炮、造化仙府。国内为第三方公开Top10，不能冒充完整官方榜；单张快照不能证明排名上涨，更不能换算下载量。",
+            "url": "https://www.momorank.com/douyin/rankings/bestseller",
+            "actorIds": [],
             "tags": [
-              "行业",
-              "PC主机"
+              "研究观察"
             ],
-            "publishedAt": "2026-10-20T13:03:25.000Z",
-            "discoveredAt": "2026-10-20T15:00:41.270Z",
-            "firstAt": "2026-10-20T13:03:25.000Z",
-            "heat": 0.698,
+            "publishedAt": null,
+            "discoveredAt": "2026-10-21T02:52:39.476Z",
+            "firstAt": "2026-10-21T02:52:39.476Z",
+            "heat": 0,
             "participants": 1,
             "reportCount": 1,
-            "ruleScore": 35,
+            "ruleScore": 0,
             "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "grouping": "观察补充",
+            "verification": "09:31补采快照；非新闻发布日期",
             "evidence": [
               {
-                "title": "Nintendo Switch Sports Resort review",
-                "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-review",
-                "source": "Eurogamer",
-                "publishedAt": "2026-10-20T13:03:25.000Z",
+                "title": "榜单补采观察｜Gossip Harbor美国iOS畅销第2，疯狂水世界居抖音第三方畅销榜首",
+                "url": "https://www.momorank.com/douyin/rankings/bestseller",
+                "source": "官方商店采集／MomoRank第三方榜",
+                "publishedAt": null,
                 "origin": "discovery",
-                "evidenceType": "媒体报道 · 尚未独立核实"
+                "evidenceType": "09:31补采快照；非新闻发布日期"
               }
-            ],
-            "verification": "媒体报道；事实待核查"
+            ]
           },
           {
-            "id": "ef7001b5c50728b1b12e",
-            "title": "Sensor Tower data shows the yawning gap between GTA 6 and everything else",
-            "url": "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else",
-            "summary": "An analysis from Sensor Tower shows just how far ahead GTA 6 is in terms of preorders when compared with some of the biggest AAA games of the past six years. Read more",
-            "actorIds": [
-              "sensor-tower"
-            ],
+            "id": "verified-20261021-research",
+            "title": "五个研究对象｜JustPlay、Duck Survivor、Gossip Harbor、Fountains、Paper Shredder",
+            "summary": "JustPlay与Duck Survivor的Google Play全球累计安装门槛分别10M+与50K+，不是今日／30日／单区下载。其余未披露的真实下载与收入留空。三轴记录：赚钱预期与信任挽留、广告次数时长与兑换门槛、核心玩法与难度曲线。JustPlay未验证实际到账，Paper Shredder虚构巨额报酬不构成真钱兑付。Fountains与Paper Shredder主要用于玩法机制研究，不冒充IAA竞品。",
+            "url": "https://play.google.com/store/apps/details?id=com.justplay.app&hl=en&gl=US",
+            "actorIds": [],
             "tags": [
-              "行业",
-              "手游"
+              "研究观察"
             ],
-            "publishedAt": "2026-10-20T10:00:57.000Z",
-            "discoveredAt": "2026-10-20T15:00:41.064Z",
-            "firstAt": "2026-10-20T10:00:57.000Z",
-            "heat": 0.639,
+            "publishedAt": null,
+            "discoveredAt": "2026-10-21T02:52:39.476Z",
+            "firstAt": "2026-10-21T02:52:39.476Z",
+            "heat": 0,
             "participants": 1,
             "reportCount": 1,
-            "ruleScore": 35,
+            "ruleScore": 0,
             "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "grouping": "观察补充",
+            "verification": "研究观察池，建议任务尚未实机验证",
             "evidence": [
               {
-                "title": "Sensor Tower data shows the yawning gap between GTA 6 and everything else",
-                "url": "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else",
-                "source": "GamesIndustry.biz",
-                "publishedAt": "2026-10-20T10:00:57.000Z",
+                "title": "五个研究对象｜JustPlay、Duck Survivor、Gossip Harbor、Fountains、Paper Shredder",
+                "url": "https://play.google.com/store/apps/details?id=com.justplay.app&hl=en&gl=US",
+                "source": "商店及上述官方原文",
+                "publishedAt": null,
                 "origin": "discovery",
-                "evidenceType": "媒体报道 · 尚未独立核实"
+                "evidenceType": "研究观察池，建议任务尚未实机验证"
               }
-            ],
-            "verification": "媒体报道；事实待核查"
+            ]
           }
         ],
         "quiet": false
