@@ -102473,6 +102473,277 @@
     ],
     "digests": [
       {
+        "date": "2026-10-22",
+        "publishedAt": "2026-10-22T01:06:46.054Z",
+        "generatedAt": "2026-10-22T01:06:46.054Z",
+        "windowStart": "2026-10-21T01:00:00.000Z",
+        "windowEnd": "2026-10-22T01:00:00.000Z",
+        "dataCutoff": "2026-10-21T22:17:54.195Z",
+        "mode": "中文核查版 · 4条官方消息＋报告／榜单／研究补充；新闻截止09:00，数据截止06:17",
+        "entries": [
+          {
+            "id": "verified-20261022-cloud",
+            "title": "Xbox测试免订阅云游戏时长包：付费免广告与免费含广告路线并行",
+            "url": "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/",
+            "summary": "行动者：Xbox。官方公告10月21日。无有效Game Pass订阅的部分Insider可预览购买云游戏时长，介绍价为10小时3.99美元、25小时7.99美元、50小时11.99美元，用完前保留；时长包免广告并提供更短等待时间。公告同时回顾此前的免费含广告测试路线，非今天首次推出该路线。适用市场、设备、账户及预览圈层有限，仍需购买支持云玩的游戏或使用部分免费游戏，并非买时长即可玩全部游戏。研究价值：对比时间定价、广告换取访问和等待成本，不将云服务包价当作游戏收入或广告eCPM。",
+            "actorIds": [
+              "adjoe",
+              "xbox"
+            ],
+            "tags": [
+              "行业",
+              "商业化",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-21T18:00:03.000Z",
+            "discoveredAt": "2026-10-22T01:06:46.054Z",
+            "firstAt": "2026-10-21T18:00:03.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "人工回看原文 · 单事件",
+            "verification": "已读官方原文；测试／预告／试玩状态分列",
+            "evidence": [
+              {
+                "title": "Cloud Playtime Now Available to Test with XBOX Insiders",
+                "url": "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-10-21T18:00:03.000Z",
+                "origin": "official",
+                "evidenceType": "官方或官方平台投稿；非独立效果验证"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261022-once",
+            "title": "Once Human预告海洋扩展：陆海资源互补，船成为移动基地",
+            "url": "https://blog.playstation.com/2026/10/21/once-humans-isles-of-abyss-expansion-launches-on-ps5-tomorrow/",
+            "summary": "行动者：Once Human／Starry Studio／PlayStation。官方设计师投稿10月21日，预告PS5免费扩展Isles of Abyss。岛屿探索资源推进船只科技与火力，深海探索再取得强化陆地装备和基地的材料；船同时承担交通、工坊和战斗平台。研究价值：让两类玩法相互产生需求，以可见建造目标组织长线成长。原文同时出现“October22（October21）”与“tomorrow”，具体时区／上线时刻不清，本期仅核实预告与机制，不宣称已完成实机上线验证，也不能推出留存改善。",
+            "actorIds": [
+              "playstation"
+            ],
+            "tags": [
+              "行业",
+              "商业化",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-21T17:00:37.000Z",
+            "discoveredAt": "2026-10-22T01:06:46.054Z",
+            "firstAt": "2026-10-21T17:00:37.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 54,
+            "officialCount": 1,
+            "grouping": "人工回看原文 · 单事件",
+            "verification": "已读官方原文；测试／预告／试玩状态分列",
+            "evidence": [
+              {
+                "title": "Once Human’s Isles of Abyss expansion launches on PS5 tomorrow",
+                "url": "https://blog.playstation.com/2026/10/21/once-humans-isles-of-abyss-expansion-launches-on-ps5-tomorrow/",
+                "source": "PlayStation 官方订阅",
+                "publishedAt": "2026-10-21T17:00:37.000Z",
+                "origin": "official",
+                "evidenceType": "官方或官方平台投稿；非独立效果验证"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261022-stranger",
+            "title": "Stranger Than Heaven试玩展示经营演出：收集灵感、编曲与成本规划互相驱动",
+            "url": "https://blog.playstation.com/2026/10/21/stranger-than-heaven-hands-on-report-brutal-combat-and-the-glitz-of-show-business-intermix/",
+            "summary": "行动者：RGG Studio／Sega／PlayStation。官方平台试玩稿10月21日。城市和战斗中的声音可积累为作曲灵感，曲目安排、演员能力与运营成本共同影响演出目标；现场按提示控制灯光和特效。重赛还能选择额外约束获取更高奖励。研究价值：把探索变成经营投入，并用准备阶段与现场反馈形成短长循环。稿件所称收入属于游戏内经营收益，不是现实兑付；作品计划2027年1月15日发行，试玩不等于已上线。",
+            "actorIds": [
+              "playstation"
+            ],
+            "tags": [
+              "行业",
+              "商业化",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-21T14:01:18.000Z",
+            "discoveredAt": "2026-10-22T01:06:46.054Z",
+            "firstAt": "2026-10-21T14:01:18.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 54,
+            "officialCount": 1,
+            "grouping": "人工回看原文 · 单事件",
+            "verification": "已读官方原文；测试／预告／试玩状态分列",
+            "evidence": [
+              {
+                "title": "Stranger Than Heaven hands-on report: brutal combat and the glitz of show business intermix",
+                "url": "https://blog.playstation.com/2026/10/21/stranger-than-heaven-hands-on-report-brutal-combat-and-the-glitz-of-show-business-intermix/",
+                "source": "PlayStation 官方订阅",
+                "publishedAt": "2026-10-21T14:01:18.000Z",
+                "origin": "official",
+                "evidenceType": "官方或官方平台投稿；非独立效果验证"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261022-ads",
+            "title": "Google发布节日竞价与预算播客，讨论需求驱动预算及促销模式",
+            "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
+            "summary": "行动者：Google Ads。官方短文10月21日介绍Ads Decoded新一期播客，主题包括需求驱动预算、促销模式及竞价学习期。研究价值：给买量同事建立核对清单，把节日需求、预算变化和素材效果分别记录。该短文没有披露具体账户条件、实验结果或可照搬的游戏广告参数，本期不将播客介绍扩写成新功能全面上线，不提供自动调价结论。",
+            "actorIds": [
+              "google-ads"
+            ],
+            "tags": [
+              "行业",
+              "商业化",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-21T13:00:00.000Z",
+            "discoveredAt": "2026-10-22T01:06:46.054Z",
+            "firstAt": "2026-10-21T13:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "人工回看原文 · 单事件",
+            "verification": "已读官方原文；测试／预告／试玩状态分列",
+            "evidence": [
+              {
+                "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
+                "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
+                "source": "Google Ads 官方订阅",
+                "publishedAt": "2026-10-21T13:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方或官方平台投稿；非独立效果验证"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-20261022-sensor",
+            "title": "日期不完整的报告补充｜Sensor Tower：独立作品占突破样本43%，不是全市场份额",
+            "summary": "Sensor Tower／Video Game Insights原文只标2026年10月。其估算中，2025年9月至2026年8月首发、在PS／Steam／Xbox首30天付费销量达到50万的作品共76款；独立作品33款，占43%，上期同门槛样本为13款。研究价值：从成功样本中寻找合作、社交与新IP机制，再回看未成功案例。这个样本有销量门槛和幸存者偏差，43%不是全市场收入份额，也不是手游下载占比；数据为机构估算，不是厂商披露。缺少原文日时，不按10月21日Google News发现时间当作首发。",
+            "url": "https://sensortower.com/blog/indie-and-new-ip-break-out-without-denting-aaa",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-22T01:06:46.054Z",
+            "firstAt": "2026-10-22T01:06:46.054Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "报告／榜单观察",
+            "verification": "仅标2026年10月；估算报告，单列补充",
+            "evidence": [
+              {
+                "title": "日期不完整的报告补充｜Sensor Tower：独立作品占突破样本43%，不是全市场份额",
+                "url": "https://sensortower.com/blog/indie-and-new-ip-break-out-without-denting-aaa",
+                "source": "Sensor Tower 研究机构原文",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "仅标2026年10月；估算报告，单列补充"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261022-niko",
+            "title": "会议回顾补充｜Niko披露LEVEL UP KL市场研究分享与地区合作线索",
+            "summary": "Niko Partners原文页面标10月21日，未核实首发时分；是研究机构对自身参会的回顾。其称在LEVEL UP KL分享东南亚玩家与市场研究，并观察到高校、独立开发者及发行机构共同参与。研究价值：把地区合作伙伴与人才来源加入行动者池，再通过具体发行／测试动作验证机会。原文没有支持聚合标题所称“2026年59亿美元”的完整数据口径，本期不引用该数字，不把参会热度当作市场增长证明。",
+            "url": "https://nikopartners.com/niko-partners-at-level-up-kl-2026/",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-22T01:06:46.054Z",
+            "firstAt": "2026-10-22T01:06:46.054Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "报告／榜单观察",
+            "verification": "页面日期10月21日；时分未知，自述回顾",
+            "evidence": [
+              {
+                "title": "会议回顾补充｜Niko披露LEVEL UP KL市场研究分享与地区合作线索",
+                "url": "https://nikopartners.com/niko-partners-at-level-up-kl-2026/",
+                "source": "Niko Partners 官方机构文章",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "页面日期10月21日；时分未知，自述回顾"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261022-charts",
+            "title": "榜单观察｜Gossip Harbor美国Google Play免费第2，国内第三方榜继续分平台跟踪",
+            "summary": "数据截止台北10月22日06:17。美国Google Play免费前三Meowdoku、Gossip Harbor、Rotate Rings；美国iOS畅销前三MONOPOLY GO、Gossip Harbor、Roblox。日本iOS免费前三Duck Survivor、Meowdoku、Bus Fever Party，畅销前三ONE PIECE Bounty Rush、猫咪大战争、绝区零；日本Google Play免费前三Duck Survivor、Meowdoku、Rotate Rings。MomoRank微信畅销前三向僵尸开炮、三国：冰河时代、无尽冬日；抖音畅销前三疯狂水世界、向僵尸开炮、造化仙府。国内为第三方公开Top10，不冒充全量官方榜，排名不换算为下载或收入。",
+            "url": "https://www.momorank.com/rankings/bestseller",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-22T01:06:46.054Z",
+            "firstAt": "2026-10-22T01:06:46.054Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "报告／榜单观察",
+            "verification": "采集截止06:17；非原文发布日期",
+            "evidence": [
+              {
+                "title": "榜单观察｜Gossip Harbor美国Google Play免费第2，国内第三方榜继续分平台跟踪",
+                "url": "https://www.momorank.com/rankings/bestseller",
+                "source": "官方商店快照／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "采集截止06:17；非原文发布日期"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261022-research",
+            "title": "五个研究对象｜JustPlay、Duck Survivor、Gossip Harbor、Once Human、Stranger Than Heaven",
+            "summary": "前两者Google Play全球累计安装门槛分别10M+、50K+，不是今日／30日／单区下载；评分数也不是下载量。其余未披露的真实下载和收入留空。移动产品重点看目标与信任、广告成本和兑换、首局难度；PC／主机作品只用于资源循环与经营反馈研究，不冒充IAA或现金奖励产品。本期未做广告实机／兑付测试。",
+            "url": "https://play.google.com/store/apps/details?id=com.justplay.app&hl=en&gl=US",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-22T01:06:46.054Z",
+            "firstAt": "2026-10-22T01:06:46.054Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "报告／榜单观察",
+            "verification": "观察池，待执行实测",
+            "evidence": [
+              {
+                "title": "五个研究对象｜JustPlay、Duck Survivor、Gossip Harbor、Once Human、Stranger Than Heaven",
+                "url": "https://play.google.com/store/apps/details?id=com.justplay.app&hl=en&gl=US",
+                "source": "商店公开数据及上述原文",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "观察池，待执行实测"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-10-21",
         "publishedAt": "2026-10-21T02:52:39.476Z",
         "generatedAt": "2026-10-21T02:52:39.476Z",
