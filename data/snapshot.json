@@ -101772,6 +101772,239 @@
     ],
     "digests": [
       {
+        "date": "2026-10-23",
+        "publishedAt": "2026-10-23T01:03:55.764Z",
+        "generatedAt": "2026-10-23T01:03:55.764Z",
+        "windowStart": "2026-10-22T01:00:00.000Z",
+        "windowEnd": "2026-10-23T01:00:00.000Z",
+        "dataCutoff": "2026-10-22T22:16:20.256Z",
+        "mode": "中文核查版 · 3条新发布＋报告／工具／榜单／研究补充；数据截止台北06:16",
+        "entries": [
+          {
+            "id": "verified-20261023-traits",
+            "title": "Becastled上线40余种特质：用强增益与限制改变万能策略",
+            "url": "https://news.xbox.com/en-us/2026/10/22/how-more-than-40-new-traits-change-your-strategy/",
+            "summary": "行动者：Becastled／Pingle Studio。官方开发者文章10月22日。Traits and Some Magic已可用，数日及血月后从三个特质选一；有些强增益附带限制，例如只用弓箭手换取更高伤害。新法师和牧师分别增加范围输出及治疗，但都脆弱，需要站位保护。研究价值：把“更强”变成有代价的路线选择，按单特质和组合分别核对难度；团队称用内部试玩与表格平衡，并让策划能配置特质。未完成的开局无限修饰器不在本次DLC中，不能写成已上线功能；无留存或IAA收益证据。",
+            "actorIds": [
+              "xbox"
+            ],
+            "tags": [
+              "行业",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-22T19:00:00.000Z",
+            "discoveredAt": "2026-10-23T01:03:55.764Z",
+            "firstAt": "2026-10-22T19:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "已读原文 · 单事件",
+            "verification": "官方原文已核查；效果未独立验证",
+            "evidence": [
+              {
+                "title": "How More Than 40 New Traits Change Your Strategy in Becastled",
+                "url": "https://news.xbox.com/en-us/2026/10/22/how-more-than-40-new-traits-change-your-strategy/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-10-22T19:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方发布／团队投稿"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261023-peak",
+            "title": "PEAK正式登陆Xbox并支持跨平台合作：每日地图与救援机制结合",
+            "url": "https://news.xbox.com/en-us/2026/10/22/peak-friendship-coming-to-xbox-today/",
+            "summary": "行动者：Aggro Crab／Landfall／Xbox。官方团队投稿10月22日，确认Xbox Series X|S版当天发售，提供跨平台合作和已有内容更新。每24小时轮换岛屿，当天可多次挑战；受伤压低体力，队友可拉人、布绳与放置攀爬钉。研究价值：相同日图让失败后的学习有积累，救援与共同风险促成社交传播。这里是已发生的平台发行后续，与此前PS5排期分开；没有把跨平台发布当作PC版首次推出，也不由热度推断下载、广告收入或留存。",
+            "actorIds": [
+              "xbox"
+            ],
+            "tags": [
+              "行业",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-22T17:00:00.000Z",
+            "discoveredAt": "2026-10-23T01:03:55.764Z",
+            "firstAt": "2026-10-22T17:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "已读原文 · 单事件",
+            "verification": "官方原文已核查；效果未独立验证",
+            "evidence": [
+              {
+                "title": "The Power of PEAK Friendship, Coming to XBOX Today",
+                "url": "https://news.xbox.com/en-us/2026/10/22/peak-friendship-coming-to-xbox-today/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-10-22T17:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方发布／团队投稿"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261023-ps",
+            "title": "PlayStation公布9月下载榜：PS5付费与免费榜、欧美地区分列",
+            "url": "https://blog.playstation.com/2026/10/22/playstation-store-september-2026s-top-downloads/",
+            "summary": "行动者：Sony／PlayStation Store。官方榜单10月22日发布，统计期为9月。PS5美国／加拿大前三为Marvel’s Wolverine、EA Sports FC27、NBA2K27；欧洲前三为EA Sports FC27、Marvel’s Wolverine、The Blood of Dawnwalker。PS5＋PS4免费游戏榜美国／加拿大前三Warzone、Once Human、Fortnite，欧洲前三Aniimo、Fortnite、Warzone。研究价值：同平台同区域同收费类型比较发行与获客线索。原文不披露具体下载数，不能按名次估销量；PS5表注明不计升级，免费榜与付费榜不能合并排行。",
+            "actorIds": [
+              "playstation"
+            ],
+            "tags": [
+              "行业",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-22T13:00:25.000Z",
+            "discoveredAt": "2026-10-23T01:03:55.764Z",
+            "firstAt": "2026-10-22T13:00:25.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "已读原文 · 单事件",
+            "verification": "官方原文已核查；效果未独立验证",
+            "evidence": [
+              {
+                "title": "PlayStation Store: September 2026’s top downloads",
+                "url": "https://blog.playstation.com/2026/10/22/playstation-store-september-2026s-top-downloads/",
+                "source": "PlayStation 官方订阅",
+                "publishedAt": "2026-10-22T13:00:25.000Z",
+                "origin": "official",
+                "evidenceType": "官方发布／团队投稿"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-20261023-sensor",
+            "title": "报告补充｜Sensor Tower：低预算视频测试扩张，不能等同投放成功",
+            "url": "https://sensortower.com/blog/state-of-game-advertising-2026",
+            "summary": "原文已回查，精确首发日期未确认，不用Google News10月22日转载时间代替。报告覆盖2025年10月至2026年9月、41个市场，使用Pathmatics等估算。49家头部移动游戏广告主样本中，Q1 2026相较Q1 2025，生命周期投放从未超过100美元的素材数量增至六倍以上，达1万美元以上的素材增长1.7倍。研究价值：把素材生产量、进入测试量、放量胜出率与回收分开记；不能把素材数增长直接说成ROAS增长，也不能外推为所有IAA公司。跨平台产品的手游和主机投放通常需独立渠道、日历与素材。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-23T01:03:55.764Z",
+            "firstAt": "2026-10-23T01:03:55.764Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "日期或口径另列",
+            "verification": "估算报告；首发日时未确认",
+            "evidence": [
+              {
+                "title": "报告补充｜Sensor Tower：低预算视频测试扩张，不能等同投放成功",
+                "url": "https://sensortower.com/blog/state-of-game-advertising-2026",
+                "source": "Sensor Tower 原始报告摘要",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "估算报告；首发日时未确认"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261023-gamescaling",
+            "title": "工具补充｜GameScaling公开推理客户端和模型权重，未公开训练代码与数据",
+            "url": "https://github.com/THUSI-Lab/GameScaling",
+            "summary": "已读THUSI-Lab/GameScaling仓库，原文首发日时本轮未核实。仓库描述视觉语言模型接收当前帧与短历史，输出约200ms键鼠动作；提供0.8B、2B、9B、27B检查点。可研究受控测试中的操作代理、重复关卡体验采样，但真实玩家的赚钱动机与信任反应不能被代理分数替代。仓库明确无训练代码，训练语料不公开，不能写成完整训练流程已开源；权重与代码许可也不授予游戏素材权利。本轮未下载或运行模型，不宣称已证明能自动测试我们产品。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-23T01:03:55.764Z",
+            "firstAt": "2026-10-23T01:03:55.764Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "日期或口径另列",
+            "verification": "工具与研究补充；日时未知，未本地运行",
+            "evidence": [
+              {
+                "title": "工具补充｜GameScaling公开推理客户端和模型权重，未公开训练代码与数据",
+                "url": "https://github.com/THUSI-Lab/GameScaling",
+                "source": "THUSI-Lab 官方项目仓库",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "工具与研究补充；日时未知，未本地运行"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261023-charts",
+            "title": "榜单观察｜灵画师列抖音第三方畅销榜首，Gossip Harbor保持美国双榜曝光",
+            "url": "https://www.momorank.com/douyin/rankings/bestseller",
+            "summary": "截止台北10月23日06:16。MomoRank抖音畅销前三灵画师、疯狂水世界、肥鹅美食街；微信畅销前三向僵尸开炮、三国：冰河时代、灵画师。美国Google Play免费前三Meowdoku、Gossip Harbor、Rotate Rings；美国iOS畅销前三MONOPOLY GO、Gossip Harbor、Royal Match。日本两商店免费榜首均Duck Survivor；日本iOS畅销前三职业棒球精神A、eFootball、ONE PIECE Bounty Rush。国内为第三方公开Top10，完整官方榜需平台内核查；榜单名次不换算下载或收入，增速榜序号不当畅销名次。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-23T01:03:55.764Z",
+            "firstAt": "2026-10-23T01:03:55.764Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "日期或口径另列",
+            "verification": "06:16快照，非新闻首发时间",
+            "evidence": [
+              {
+                "title": "榜单观察｜灵画师列抖音第三方畅销榜首，Gossip Harbor保持美国双榜曝光",
+                "url": "https://www.momorank.com/douyin/rankings/bestseller",
+                "source": "官方商店采集／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "06:16快照，非新闻首发时间"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261023-research",
+            "title": "五个研究对象｜JustPlay、Meowdoku、Becastled、PEAK、灵画师",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-23.md",
+            "summary": "前两者Google Play全球累计安装门槛均10M+，不是今天／30日／单区下载量；评分数不是下载量。研究按赚钱预期与信任挽留、广告次数时长与兑换门槛、核心玩法和难度三轴记证据。PC主机作品主要参考玩法，国内榜单对象待平台内及实机核查；未披露的iOS下载和收入留空，宣传奖励不等于到账。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-23T01:03:55.764Z",
+            "firstAt": "2026-10-23T01:03:55.764Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "日期或口径另列",
+            "verification": "观察池；实机／兑付尚未验证",
+            "evidence": [
+              {
+                "title": "五个研究对象｜JustPlay、Meowdoku、Becastled、PEAK、灵画师",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-23.md",
+                "source": "完整版研究任务及原文来源",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "观察池；实机／兑付尚未验证"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-10-22",
         "publishedAt": "2026-10-22T01:06:46.054Z",
         "generatedAt": "2026-10-22T01:06:46.054Z",
