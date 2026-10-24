@@ -101292,6 +101292,239 @@
     ],
     "digests": [
       {
+        "date": "2026-10-24",
+        "publishedAt": "2026-10-24T01:01:54.313Z",
+        "generatedAt": "2026-10-24T01:01:54.313Z",
+        "windowStart": "2026-10-23T01:00:00.000Z",
+        "windowEnd": "2026-10-24T01:00:00.000Z",
+        "dataCutoff": "2026-10-24T00:36:39.697Z",
+        "mode": "中文核查版 · 3条新发布＋日时未知／历史／榜单／研究补充；数据截止台北08:36",
+        "entries": [
+          {
+            "id": "verified-20261024-saros",
+            "title": "Saros公开Boss设计复盘：三阶段变化与可理解的失败共同支持重试",
+            "url": "https://blog.playstation.com/2026/10/23/saros-creating-the-epic-overlords-of-carcosa/",
+            "summary": "行动者：Housemarque／Nixxes／PlayStation。官方团队文章10月23日。每场Boss战设置三个不同阶段，常规战斗约3至8分钟；团队核对玩家失败后是否知道原因、知道下次改变什么，并愿意再试。首个Boss兼顾教学与戏剧性，避免过早成为成长阻断。研究价值：难度不只调血量，用攻击预告、场地变化和失败归因改善学习；阶段设计可参考，但文章没有证明IAA收入或留存提升，也不能把开发者理念当作测试结果。",
+            "actorIds": [
+              "playstation"
+            ],
+            "tags": [
+              "行业",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-23T11:59:40.000Z",
+            "discoveredAt": "2026-10-24T01:01:54.313Z",
+            "firstAt": "2026-10-23T11:59:40.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "已读原文 · 单事件",
+            "verification": "官方原文已核查，效果未独立验证",
+            "evidence": [
+              {
+                "title": "Saros: creating the epic Overlords of Carcosa",
+                "url": "https://blog.playstation.com/2026/10/23/saros-creating-the-epic-overlords-of-carcosa/",
+                "source": "PlayStation 官方订阅",
+                "publishedAt": "2026-10-23T11:59:40.000Z",
+                "origin": "official",
+                "evidenceType": "官方文章／排期，非实际体验验证"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261024-kill",
+            "title": "Modern Warfare 4发布Kill Block模块地图：固定接口、轮换组合与等装对抗",
+            "url": "https://news.xbox.com/en-us/2026/10/23/call-of-duty-modern-warfare-4-kill-block-must-play-multiplayer/",
+            "summary": "行动者：Activision／Infinity Ward／Xbox。官方平台试玩介绍10月23日，随正式发行介绍Kill Block。地图由两个端部和一个中心模块拼接，称首发支持500余种配置；Gunfight中双方同样的随机装备、两轮后切换模块与装备，先到六胜获胜。研究价值：统一模块连接口降低内容组合成本，用熟悉地标帮助玩家理解变化；组合数量不等于独特策略数量，仍需验证堵路、优势点与公平性。与此前抢先体验和DMZ消息分开，是本次具体多人机制后续；无销量或商业化效果实证。",
+            "actorIds": [
+              "xbox"
+            ],
+            "tags": [
+              "行业",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-23T17:00:00.000Z",
+            "discoveredAt": "2026-10-24T01:01:54.313Z",
+            "firstAt": "2026-10-23T17:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 54,
+            "officialCount": 1,
+            "grouping": "已读原文 · 单事件",
+            "verification": "官方原文已核查，效果未独立验证",
+            "evidence": [
+              {
+                "title": "Call of Duty: Modern Warfare 4 – Kill Block is Must-Play Multiplayer at Launch",
+                "url": "https://news.xbox.com/en-us/2026/10/23/call-of-duty-modern-warfare-4-kill-block-must-play-multiplayer/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-10-23T17:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方文章／排期，非实际体验验证"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261024-schedule",
+            "title": "Xbox公布10月26—30日排期：滑行解谜与先规划后执行玩法值得跟进",
+            "url": "https://news.xbox.com/en-us/2026/10/23/next-week-on-xbox-new-games-for-october-26-to-30/",
+            "summary": "行动者：Xbox／Afil Games／独立团队。官方排期10月23日，未来日期可能调整。Sneaky Purr计划10月27日推出，移动后会滑到障碍才停，需取食物再避摄像头返回出口；Platypus Steps计划10月28日推出，先放弹簧、风和平台，再按Play观察路线。另有10月27日的无计时压力清洗游戏Bao Bao’s Cozy Cleaning Services。研究价值：把一次输入的后果、可逆失败及规划／执行反馈做成小规模关卡实验；仅核实排期与描述，未做实机，也不宣称已上线或能直接迁移IAA。",
+            "actorIds": [
+              "xbox"
+            ],
+            "tags": [
+              "行业",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-23T14:00:00.000Z",
+            "discoveredAt": "2026-10-24T01:01:54.313Z",
+            "firstAt": "2026-10-23T14:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "已读原文 · 单事件",
+            "verification": "官方原文已核查，效果未独立验证",
+            "evidence": [
+              {
+                "title": "Next Week on XBOX: New Games for October 26 to 30",
+                "url": "https://news.xbox.com/en-us/2026/10/23/next-week-on-xbox-new-games-for-october-26-to-30/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-10-23T14:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方文章／排期，非实际体验验证"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-20261024-arena",
+            "title": "日期只有日的官方补充｜Google Play Arena开放印度免费报名，12月计划决赛",
+            "url": "https://blog.google/intl/en-in/products/introducing-google-play-arena-indias-ultimate-mobile-gaming-championship/",
+            "summary": "Google Play与NODWIN合作，官方原文10月23日，未核实首发时分，不按Google News时间补造。18岁及以上玩家可免费参加线上预选，赛事覆盖BGMI、Free Fire MAX、Moba Legends、Real Cricket、Chess.com、FC Mobile六款产品，六家俱乐部参与，12月计划总决赛。研究价值：观察免费参赛、社区成长和职业队身份如何形成长期目标；官方称无入场费和pay-to-play，不是每个参赛者都会获得现金奖励。报名和未来决赛分开，未推断活动拉新效果。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-24T01:01:54.313Z",
+            "firstAt": "2026-10-24T01:01:54.313Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "补充观察",
+            "verification": "原文10月23日，时分未知；12月是计划",
+            "evidence": [
+              {
+                "title": "日期只有日的官方补充｜Google Play Arena开放印度免费报名，12月计划决赛",
+                "url": "https://blog.google/intl/en-in/products/introducing-google-play-arena-indias-ultimate-mobile-gaming-championship/",
+                "source": "Google Play 官方文章",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "原文10月23日，时分未知；12月是计划"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261024-xsolla",
+            "title": "历史补充｜Xsolla拟让支付商发起返现合作，开发者同意后才执行",
+            "url": "https://xsolla.com/newsroom/xsolla-announces-direct-co-marketing-campaigns-between-payment-providers-and-video-game-developers",
+            "summary": "10月23日媒体稿回查到官方10月13日公告，非今日新功能。Co-Marketing Campaigns当时仍为即将推出的工具：支付商看交易表现、提活动请求、开发者审核同意，再由Xsolla配置结账页促销。研究价值：把返现出资方、触发条件、审核与履约责任写清；结账返现不能混同广告奖励，更没有证明所有活动已可用或真实兑付完成。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-24T01:01:54.313Z",
+            "firstAt": "2026-10-24T01:01:54.313Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "补充观察",
+            "verification": "原文10月13日；历史预告，不算今日新发",
+            "evidence": [
+              {
+                "title": "历史补充｜Xsolla拟让支付商发起返现合作，开发者同意后才执行",
+                "url": "https://xsolla.com/newsroom/xsolla-announces-direct-co-marketing-campaigns-between-payment-providers-and-video-game-developers",
+                "source": "Xsolla 官方公告",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "原文10月13日；历史预告，不算今日新发"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261024-charts",
+            "title": "榜单观察｜Gossip Harbor美国Google Play免费榜首，Royal Smash位列第2",
+            "url": "https://play.google.com/store/games?hl=en&gl=US&device=phone",
+            "summary": "截至台北10月24日08:36，美国Google Play免费前三Gossip Harbor、Royal Smash、Rotate Rings；美国iOS免费前三Meowdoku、Block Out、Magic Sort，畅销前三MONOPOLY GO、Gossip Harbor、Royal Match。日本iOS免费前三Meowdoku、Duck Survivor、Police Chief；日本Google Play免费前三Duck Survivor、Meowdoku、Rotate Rings。MomoRank抖音畅销前三疯狂水世界、灵画师、超能下蛋鸭；微信畅销前三向僵尸开炮、三国：冰河时代、灵画师。国内为第三方公开Top10，需平台内核对；单次名次不证明今日爆发，也不等于下载量或IAA收入。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-24T01:01:54.313Z",
+            "firstAt": "2026-10-24T01:01:54.313Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "补充观察",
+            "verification": "08:36快照，非原文首发",
+            "evidence": [
+              {
+                "title": "榜单观察｜Gossip Harbor美国Google Play免费榜首，Royal Smash位列第2",
+                "url": "https://play.google.com/store/games?hl=en&gl=US&device=phone",
+                "source": "Google／Apple官方商店快照与MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "08:36快照，非原文首发"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261024-research",
+            "title": "五个研究对象｜JustPlay、Gossip Harbor、Royal Smash、Sneaky Purr、Platypus Steps",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-24.md",
+            "summary": "前三者为移动产品观察池，后两者为未来主机解谜机制线索。沿赚钱预期／信任挽留、广告次数时长／兑换门槛、核心玩法／难度三轴记证据。仅有商店简介与榜位时不推断IAA占比，JustPlay奖励宣传不等于到账。下载仅报有来源的Google Play全球累计门槛，今日／30日／单区与未披露iOS收入均留空。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-24T01:01:54.313Z",
+            "firstAt": "2026-10-24T01:01:54.313Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "补充观察",
+            "verification": "研究建议非已完成实测",
+            "evidence": [
+              {
+                "title": "五个研究对象｜JustPlay、Gossip Harbor、Royal Smash、Sneaky Purr、Platypus Steps",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-24.md",
+                "source": "完整版研究任务与原文来源",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "研究建议非已完成实测"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-10-23",
         "publishedAt": "2026-10-23T01:03:55.764Z",
         "generatedAt": "2026-10-23T01:03:55.764Z",
