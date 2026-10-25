@@ -101005,6 +101005,142 @@
     ],
     "digests": [
       {
+        "date": "2026-10-25",
+        "publishedAt": "2026-10-25T01:00:01.681Z",
+        "generatedAt": "2026-10-25T01:00:01.681Z",
+        "windowStart": "2026-10-24T01:00:00.000Z",
+        "windowEnd": "2026-10-25T01:00:00.000Z",
+        "dataCutoff": "2026-10-24T23:07:54.905Z",
+        "mode": "中文核查版 · 1条原创媒体观察＋历史／榜单／研究补充；数据截止台北07:07",
+        "entries": [
+          {
+            "id": "verified-20261025-cozy",
+            "title": "PC Gamer观察：Steam的Cozy标签供给增加，标签热度不等于销售增长",
+            "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
+            "summary": "行动者：Steam生态／开发者与发行团队；来源为PC Gamer记者Lauren Morton的10月24日观察文章。作者统计2026年1月至10月带Cozy用户标签的新游戏1341款，上年同区间468款，约增186%；标签日益普及本身会扩大统计数量。研究价值：把整理、补货、桌面陪伴等细分循环分别研究，验证玩家的低压力预期和实际难度是否一致。这里是记者按标签统计的供给观察，不是全市场收入、下载或成功率；Google Trends也只是相对搜索兴趣，不是绝对用户数。作者个人收到的宣传邮件不能代表行业规模。",
+            "actorIds": [],
+            "tags": [
+              "休闲",
+              "行业",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-24T15:10:00.000Z",
+            "discoveredAt": "2026-10-25T01:00:01.681Z",
+            "firstAt": "2026-10-24T15:10:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 35,
+            "officialCount": 0,
+            "grouping": "记者观察 · 非平台官方统计",
+            "verification": "已读媒体原文；数值归因于作者统计，未独立复算",
+            "evidence": [
+              {
+                "title": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024",
+                "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
+                "source": "PC Gamer · Lauren Morton",
+                "publishedAt": "2026-10-24T15:10:00.000Z",
+                "origin": "discovery",
+                "evidenceType": "原创媒体观察；非市场规模证明"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-20261025-bidease",
+            "title": "历史补充｜Bidease任命前Moloco收入负责人，重点扩展美洲与EMEA",
+            "url": "https://www.bidease.com/blog/dock-kim-joins-bidease-vp-business-development",
+            "summary": "Bidease官方原文10月23日，10月24日媒体重发，不算今天新任命。Dock Kim任业务发展副总裁，负责北美、拉美与EMEA市场拓展。公司自述连续两年收入同比增长超过200%，未提供本轮可独立复核的完整财务口径，不把它作为客户ROAS或IAA收益增长证据。研究价值：列入买量与程序化广告行动者观察池，未来以具体产品接入、地区覆盖及可验证案例判断价值；招聘任命不等于性能提升。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-25T01:00:01.681Z",
+            "firstAt": "2026-10-25T01:00:01.681Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／快照补充",
+            "verification": "原文10月23日；历史机构自述",
+            "evidence": [
+              {
+                "title": "历史补充｜Bidease任命前Moloco收入负责人，重点扩展美洲与EMEA",
+                "url": "https://www.bidease.com/blog/dock-kim-joins-bidease-vp-business-development",
+                "source": "Bidease 官方公告",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "原文10月23日；历史机构自述"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261025-charts",
+            "title": "榜单观察｜我的花园世界列抖音第三方畅销榜首、微信第2",
+            "url": "https://www.momorank.com/douyin/rankings/bestseller",
+            "summary": "截至台北10月25日07:07，MomoRank抖音畅销前三我的花园世界、疯狂水世界、灵画师；微信畅销前三向僵尸开炮、我的花园世界、三国：冰河时代。美国Google Play免费前三Gossip Harbor、Meowdoku、Royal Smash；美国iOS畅销前三MONOPOLY GO、Roblox、Royal Match；日本Google Play免费前三Duck Survivor、Meowdoku、Rotate Rings，日本iOS免费前三Meowdoku、Duck Survivor、Dada Ace。国内为第三方公开Top10，平台内官方榜仍需核对；名次不等于下载、收入或已证实的网赚／IAA属性。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-25T01:00:01.681Z",
+            "firstAt": "2026-10-25T01:00:01.681Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／快照补充",
+            "verification": "07:07快照；非原文发布日期",
+            "evidence": [
+              {
+                "title": "榜单观察｜我的花园世界列抖音第三方畅销榜首、微信第2",
+                "url": "https://www.momorank.com/douyin/rankings/bestseller",
+                "source": "官方商店快照／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "07:07快照；非原文发布日期"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261025-research",
+            "title": "四个研究对象｜JustPlay、Gossip Harbor、Royal Smash、我的花园世界",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-25.md",
+            "summary": "前三者Google Play全球累计安装门槛依次10M+、50M+、10M+，均不是今日／30日／单区下载。排名与累计安装不证明留存、LTV、IAA占比或真实兑付。研究沿用户赚钱预期和信任挽留、广告次数时长与兑换门槛、核心玩法与难度曲线三轴记录；未披露的iOS实际下载及收入留空。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-25T01:00:01.681Z",
+            "firstAt": "2026-10-25T01:00:01.681Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／快照补充",
+            "verification": "观察池；建议实测尚未执行",
+            "evidence": [
+              {
+                "title": "四个研究对象｜JustPlay、Gossip Harbor、Royal Smash、我的花园世界",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-25.md",
+                "source": "完整版研究清单及原始商店／榜单链接",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "观察池；建议实测尚未执行"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-10-24",
         "publishedAt": "2026-10-24T01:01:54.313Z",
         "generatedAt": "2026-10-24T01:01:54.313Z",
