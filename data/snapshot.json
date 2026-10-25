@@ -101010,9 +101010,41 @@
         "windowStart": "2026-10-24T01:00:00.000Z",
         "windowEnd": "2026-10-25T01:00:00.000Z",
         "dataCutoff": "2026-10-24T23:07:54.905Z",
-        "mode": "中文核查版 · 1条原创媒体观察＋历史／榜单／研究补充；数据截止台北07:07",
+        "mode": "中文核查版 · 已核查媒体观察／历史／榜单／研究均列补充；未确认新增行动者重大动作，截止台北07:07",
         "entries": [],
         "briefs": [
+          {
+            "id": "verified-20261025-cozy",
+            "title": "PC Gamer观察：Steam的Cozy标签供给增加，标签热度不等于销售增长",
+            "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
+            "summary": "行动者：Steam生态／开发者与发行团队；来源为PC Gamer记者Lauren Morton的10月24日观察文章。作者统计2026年1月至10月带Cozy用户标签的新游戏1341款，上年同区间468款，约增186%；标签日益普及本身会扩大统计数量。研究价值：把整理、补货、桌面陪伴等细分循环分别研究，验证玩家的低压力预期和实际难度是否一致。这里是记者按标签统计的供给观察，不是全市场收入、下载或成功率；Google Trends也只是相对搜索兴趣，不是绝对用户数。作者个人收到的宣传邮件不能代表行业规模。",
+            "actorIds": [],
+            "tags": [
+              "休闲",
+              "行业",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-24T15:10:00.000Z",
+            "discoveredAt": "2026-10-25T01:00:01.681Z",
+            "firstAt": "2026-10-24T15:10:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 35,
+            "officialCount": 0,
+            "grouping": "记者观察 · 非平台官方统计",
+            "verification": "已读媒体原文；数值归因于作者统计，未独立复算",
+            "evidence": [
+              {
+                "title": "Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024",
+                "url": "https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/",
+                "source": "PC Gamer · Lauren Morton",
+                "publishedAt": "2026-10-24T15:10:00.000Z",
+                "origin": "discovery",
+                "evidenceType": "原创媒体观察；非市场规模证明"
+              }
+            ]
+          },
           {
             "id": "verified-20261025-bidease",
             "title": "历史补充｜Bidease任命前Moloco收入负责人，重点扩展美洲与EMEA",
