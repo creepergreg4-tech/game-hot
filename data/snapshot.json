@@ -100912,6 +100912,113 @@
     ],
     "digests": [
       {
+        "date": "2026-10-26",
+        "publishedAt": "2026-10-26T01:02:58.753Z",
+        "generatedAt": "2026-10-26T01:02:58.753Z",
+        "windowStart": "2026-10-25T01:00:00.000Z",
+        "windowEnd": "2026-10-26T01:00:00.000Z",
+        "dataCutoff": "2026-10-26T00:16:37.931Z",
+        "mode": "中文核查版 · 1条官方回顾＋榜单／5个研究对象；数据截止台北08:16，不凑8条",
+        "entries": [
+          {
+            "id": "verified-20261026-godot",
+            "title": "Godot发布第六届XR Jam回顾：短局升级、物理堆叠与造浪操作值得研究",
+            "url": "https://godotengine.org/article/godot-xr-update-oct2026/",
+            "summary": "行动者Godot／XR社区，官方回顾10月25日发布；活动实际为9月21日至10月5日，不能写成昨天刚办比赛。主办方记录85名参与者、28个作品，公布前五及作品入口。Balloons Adrift VR从很短的射击时间开始，命中得游戏内货币，局后升级时间、收益和弹药；Build a Lighthouse VR用漂流物堆塔；Wavemaker用造浪引导小船过门。研究价值：将短局资源→选择升级→延长下一局拆成数值表，或用可见物理反馈教规则。货币是游戏内资源，不代表可提现；主办方的好评不等于留存或IAA收益证据，VR操作也不能未经验证照搬触屏。",
+            "actorIds": [
+              "godot"
+            ],
+            "tags": [
+              "技术工具",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-25T12:00:00.000Z",
+            "discoveredAt": "2026-10-26T01:02:58.753Z",
+            "firstAt": "2026-10-25T12:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "单篇官方回顾；活动期与文章日期分开",
+            "verification": "已读官方全文及其作品入口；未实际试玩",
+            "evidence": [
+              {
+                "title": "Godot XR Community Game Jam VI",
+                "url": "https://godotengine.org/article/godot-xr-update-oct2026/",
+                "source": "Godot 官方 · Bastiaan Olij",
+                "publishedAt": "2026-10-25T12:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "主办方回顾；作品效果未独立验证"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-20261026-charts",
+            "title": "榜单观察｜Rotate Rings美国Google Play免费榜首，国内第三方榜分平台看",
+            "url": "https://play.google.com/store/games?hl=en&gl=US&device=phone",
+            "summary": "截至台北10月26日08:16。美国Google Play免费前三Rotate Rings、Meowdoku、Royal Smash；美国iOS免费前三Meowdoku、Block Out、Magic Sort，畅销前三MONOPOLY GO、Roblox、Royal Match。日本iOS免费前三Meowdoku、Duck Survivor、Dada Ace；Google Play免费前三Duck Survivor、Meowdoku、Survivor: Ace，畅销前三Fate/Grand Order、Wuthering Waves、Zenless Zone Zero。MomoRank微信畅销前三向僵尸开炮、三国：冰河时代、我的花园世界，抖音畅销前三疯狂水世界、灵画师、肥鹅美食街。国内仅第三方公开Top10，需在平台内官方榜核对；不能从名次推算下载、收入或IAA占比。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-26T01:02:58.753Z",
+            "firstAt": "2026-10-26T01:02:58.753Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "榜单／研究观察",
+            "verification": "08:16快照，非新闻首发时间",
+            "evidence": [
+              {
+                "title": "榜单观察｜Rotate Rings美国Google Play免费榜首，国内第三方榜分平台看",
+                "url": "https://play.google.com/store/games?hl=en&gl=US&device=phone",
+                "source": "官方商店采集／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "08:16快照，非新闻首发时间"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261026-research",
+            "title": "五个研究对象｜JustPlay、Rotate Rings、Balloons Adrift VR、Build a Lighthouse VR、Wavemaker",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-26.md",
+            "summary": "前两者是移动商业化／玩法观察对象，三款VR Jam作品用于短局升级与物理反馈设计参考，不冒充IAA或现金奖励产品。所有实机广告、兑换及VR体验均尚未测试。下载仅引用商店成功采集的Google Play全球累计门槛，不是今日／30日／单区下载；iOS实际下载与收入未披露，留空。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-26T01:02:58.753Z",
+            "firstAt": "2026-10-26T01:02:58.753Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "榜单／研究观察",
+            "verification": "研究建议，非已完成实测",
+            "evidence": [
+              {
+                "title": "五个研究对象｜JustPlay、Rotate Rings、Balloons Adrift VR、Build a Lighthouse VR、Wavemaker",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-26.md",
+                "source": "完整研究任务与商店／作品原入口",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "研究建议，非已完成实测"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-10-25",
         "publishedAt": "2026-10-25T01:00:01.681Z",
         "generatedAt": "2026-10-25T01:00:01.681Z",
