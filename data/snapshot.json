@@ -101201,6 +101201,239 @@
     ],
     "digests": [
       {
+        "date": "2026-10-27",
+        "publishedAt": "2026-10-27T00:57:56.207Z",
+        "generatedAt": "2026-10-27T00:57:56.207Z",
+        "windowStart": "2026-10-26T01:00:00.000Z",
+        "windowEnd": "2026-10-27T01:00:00.000Z",
+        "dataCutoff": "2026-10-26T23:49:56.835Z",
+        "mode": "中文核查版 · 3条官方消息＋历史报告／平台／榜单／研究补充；数据截止台北07:49",
+        "entries": [
+          {
+            "id": "verified-20261027-walking",
+            "title": "The Walking Trade登陆Xbox：商店布局与僵尸防御共用资源和空间",
+            "url": "https://news.xbox.com/en-us/2026/10/26/the-walking-trade-how-i-built-a-shop-simulator/",
+            "summary": "行动者：The Walking Trade／PlayWay。官方开发者文章10月26日确认Xbox版发行。陈列、定价和服务顾客之间穿插僵尸袭击，解锁制作后可做药品、武器、升级与陷阱；招募幸存者分别服务、搜集或守卫。研究价值：让经营资源同时承担防御成本，用第二天加入的Robin承接战斗与员工管理教学。声誉影响来客，游戏内利润不代表玩家现实收益。先前排期不等于实机上线，本期按当日官方确认记录平台发行；未验证留存、IAA或销量。",
+            "actorIds": [
+              "xbox"
+            ],
+            "tags": [
+              "行业",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-26T17:30:00.000Z",
+            "discoveredAt": "2026-10-27T00:57:56.207Z",
+            "firstAt": "2026-10-26T17:30:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "已读官方原文 · 单事件",
+            "verification": "发行确认／Game Preview／预告分开，效果未独立验证",
+            "evidence": [
+              {
+                "title": "The Walking Trade: How I Built a Shop Simulator Without Ever Playing One",
+                "url": "https://news.xbox.com/en-us/2026/10/26/the-walking-trade-how-i-built-a-shop-simulator/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-10-26T17:30:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方团队投稿；非实机及商业效果验收"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261027-scramble",
+            "title": "Scramble Knights Online开发者复盘：由大逃杀转向朋友合作冒险",
+            "url": "https://news.xbox.com/en-us/2026/10/26/scramble-knights-online-genre-change/",
+            "summary": "行动者：Funktronic Labs／Xbox。官方团队文章10月26日介绍从PvP大逃杀转向合作PvE与MMO成长。开发者称公开测试中玩家喜欢世界与探索，却对原模式不满，最终围绕“与朋友冒险”重建任务板、城镇、合作地牢和制作循环。研究价值：区分玩家认可的核心体验与造成流失的外围模式，再用任务→战利品→城镇升级验证。商店标注Game Preview，仍是未完成产品；商店仍列PvP资源遭遇，不应写成完全取消PvP。团队自述不是独立成功证明，转向更复杂品类也不能直接当作低成本模板。",
+            "actorIds": [
+              "xbox"
+            ],
+            "tags": [
+              "行业",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-26T16:00:00.000Z",
+            "discoveredAt": "2026-10-27T00:57:56.207Z",
+            "firstAt": "2026-10-26T16:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 54,
+            "officialCount": 1,
+            "grouping": "已读官方原文 · 单事件",
+            "verification": "发行确认／Game Preview／预告分开，效果未独立验证",
+            "evidence": [
+              {
+                "title": "Scramble Knights Online: Changing Genres to Save a Game",
+                "url": "https://news.xbox.com/en-us/2026/10/26/scramble-knights-online-genre-change/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-10-26T16:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方团队投稿；非实机及商业效果验收"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261027-marvel",
+            "title": "Marvel Cosmic Invasion预告新DLC：双进度条与主题门形成局内抉择",
+            "url": "https://blog.playstation.com/2026/10/26/new-marvel-cosmic-invasion-the-siege-of-castle-doom-gameplay-details/",
+            "summary": "行动者：Tribute Games／PlayStation。官方关卡设计师文章10月26日，计划11月10日推出The Siege of Castle Doom。失败推进Siege Gauge，胜利获得电池支持稳定装置；门分别通往装备、事件、治疗、强化或电池进度，构筑分进攻、防御和战术。研究价值：把风险累积与恢复机会同时展示，让路线选择影响当局压力；局后解锁内容与角色配色提供阶段目标。这里只核实设计说明与未来排期，不能宣称已上线或实现重玩率提升。",
+            "actorIds": [
+              "playstation"
+            ],
+            "tags": [
+              "行业",
+              "玩法研究"
+            ],
+            "publishedAt": "2026-10-26T16:00:09.000Z",
+            "discoveredAt": "2026-10-27T00:57:56.207Z",
+            "firstAt": "2026-10-26T16:00:09.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "已读官方原文 · 单事件",
+            "verification": "发行确认／Game Preview／预告分开，效果未独立验证",
+            "evidence": [
+              {
+                "title": "New Marvel Cosmic Invasion: The Siege of Castle Doom gameplay details",
+                "url": "https://blog.playstation.com/2026/10/26/new-marvel-cosmic-invasion-the-siege-of-castle-doom-gameplay-details/",
+                "source": "PlayStation 官方订阅",
+                "publishedAt": "2026-10-26T16:00:09.000Z",
+                "origin": "official",
+                "evidenceType": "官方团队投稿；非实机及商业效果验收"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-20261027-appmagic",
+            "title": "历史报告补充｜AppMagic：已过百万IAP门槛的解谜样本起量较慢，不能外推IAA成功率",
+            "url": "https://appmagic.rocks/blog/mobile-games-first-million-2026",
+            "summary": "原文10月22日，10月26日媒体再报道。样本为2026年1月1日至10月13日检测发行、截至10月17日累计IAP估算超过100万美元的158款游戏，排除36款至少一半追踪收入来自中国的作品。26款解谜样本达门槛中位时间126天，RPG为62.5天；解谜样本累计IAP中位430万美元。研究价值：按品类、软启动与投放节奏比较成长，不能用首月速度一刀切。这里预先选中了成功样本，不能得出全体新游成功率；IAP不含广告收入，不能用于推算纯IAA回本或真实利润，观察时间长短也影响累计值。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-27T00:57:56.207Z",
+            "firstAt": "2026-10-27T00:57:56.207Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／快照补充",
+            "verification": "原文10月22日；估算IAP与存活样本，非今日新发布",
+            "evidence": [
+              {
+                "title": "历史报告补充｜AppMagic：已过百万IAP门槛的解谜样本起量较慢，不能外推IAA成功率",
+                "url": "https://appmagic.rocks/blog/mobile-games-first-million-2026",
+                "source": "AppMagic 研究机构原文",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "原文10月22日；估算IAP与存活样本，非今日新发布"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261027-steam",
+            "title": "历史平台补充｜Steam个人日历已正式发布，明确发行日期是展示条件",
+            "url": "https://partner.steamgames.com/doc/marketing/visibility/personalcalendar?l=english",
+            "summary": "回查Steamworks公告，正式发布为10月23日，10月26日媒体重发不当作新进展。官方文档要求公开Coming Soon页面和明确发行日期，完整日历展示八周，首页展示较短范围。系统根据相似玩家的游戏体验与愿望单形成个性化推荐，不是全员同一排行。研究价值：为计划发行的产品维护准确日期与商店页，再在后台观察曝光和点击；满足条件不保证被推荐，也不证明转化提升。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-27T00:57:56.207Z",
+            "firstAt": "2026-10-27T00:57:56.207Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／快照补充",
+            "verification": "正式公告10月23日；当前文档内容，历史补充",
+            "evidence": [
+              {
+                "title": "历史平台补充｜Steam个人日历已正式发布，明确发行日期是展示条件",
+                "url": "https://partner.steamgames.com/doc/marketing/visibility/personalcalendar?l=english",
+                "source": "Steamworks 官方文档／公告回查",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "正式公告10月23日；当前文档内容，历史补充"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261027-charts",
+            "title": "榜单观察｜梦幻消除战列微信及抖音第三方畅销第3，美日Google Play免费榜首均Meowdoku",
+            "url": "https://www.momorank.com/rankings/bestseller",
+            "summary": "截至台北10月27日07:49。微信第三方畅销前三向僵尸开炮、三国：冰河时代、梦幻消除战，抖音前三疯狂水世界、灵画师、梦幻消除战。美国Google Play免费前三Meowdoku、Royal Smash、Rotate Rings，日本前三Meowdoku、Duck Survivor、Survivor: Ace；美国iOS畅销前三MONOPOLY GO、Roblox、Gossip Harbor，日本iOS畅销前三智龙迷城、赛马娘、职业棒球精神A。国内仅第三方公开Top10，需平台内官方榜核对；不能由排名推下载、收入或IAA占比。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-27T00:57:56.207Z",
+            "firstAt": "2026-10-27T00:57:56.207Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／快照补充",
+            "verification": "07:49快照，非原文发布日期",
+            "evidence": [
+              {
+                "title": "榜单观察｜梦幻消除战列微信及抖音第三方畅销第3，美日Google Play免费榜首均Meowdoku",
+                "url": "https://www.momorank.com/rankings/bestseller",
+                "source": "官方商店快照／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "07:49快照，非原文发布日期"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261027-research",
+            "title": "五个研究对象｜JustPlay、Rotate Rings、The Walking Trade、Scramble Knights Online、梦幻消除战",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-27.md",
+            "summary": "两款移动商店产品的全球累计安装门槛均10M+，不是今日／30日／单区下载。PC主机作品主要参考经营、组队和成长机制，不冒充现金奖励或IAA产品。统一按赚钱预期／信任挽留、广告次数时长／兑换门槛、玩法／难度三轴记录；未披露的iOS下载与收入留空。所有建议测试尚未完成实机或兑付验证。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-27T00:57:56.207Z",
+            "firstAt": "2026-10-27T00:57:56.207Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／快照补充",
+            "verification": "观察池，宣传不等于实际到账",
+            "evidence": [
+              {
+                "title": "五个研究对象｜JustPlay、Rotate Rings、The Walking Trade、Scramble Knights Online、梦幻消除战",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-27.md",
+                "source": "完整研究任务与原文入口",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "观察池，宣传不等于实际到账"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-10-26",
         "publishedAt": "2026-10-26T01:02:58.753Z",
         "generatedAt": "2026-10-26T01:02:58.753Z",
