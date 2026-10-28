@@ -100859,6 +100859,176 @@
     ],
     "digests": [
       {
+        "date": "2026-10-28",
+        "publishedAt": "2026-10-28T00:59:35.090Z",
+        "generatedAt": "2026-10-28T00:59:35.090Z",
+        "windowStart": "2026-10-27T01:00:00.000Z",
+        "windowEnd": "2026-10-28T01:00:00.000Z",
+        "dataCutoff": "2026-10-27T21:17:02.537Z",
+        "mode": "中文核查版 · 2篇官方新文＋Unity融资合作日期补充／榜单／研究；数据截止台北05:17",
+        "entries": [
+          {
+            "id": "verified-20261028-lizards",
+            "title": "Terrible Lizards预告固定速度跑酷：可预测节奏配合空中修正",
+            "url": "https://blog.playstation.com/2026/10/27/terrible-lizards-dev-discusses-twisting-familiar-dinosaur-designs-out-oct-29/",
+            "summary": "行动者：WDR Studios／PlayStation。官方开发者文章10月27日，计划10月29日推出。第一人称恐龙逃生以跑跳、滑行、蹬墙和抓边组织动作；团队描述最大移动速度固定，并允许空中修正，让连续跳跃更可预测。研究价值：把稳定动作节奏与逐步变化的障碍拆开，测试失败能否归因于玩家可控制的行为。恐龙怀旧题材提供可理解入口，但开发者自述的好手感不是独立测试结果；排期不等于已上线，也无IAA、留存或销量证据。",
+            "actorIds": [
+              "playstation"
+            ],
+            "tags": [
+              "玩法研究",
+              "技术工具"
+            ],
+            "publishedAt": "2026-10-27T14:00:38.000Z",
+            "discoveredAt": "2026-10-28T00:59:35.090Z",
+            "firstAt": "2026-10-27T14:00:38.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "官方新文 · 具体机制",
+            "verification": "已读原文；效果尚未独立实测",
+            "evidence": [
+              {
+                "title": "Terrible Lizards dev discusses twisting familiar dinosaur designs, out Oct 29",
+                "url": "https://blog.playstation.com/2026/10/27/terrible-lizards-dev-discusses-twisting-familiar-dinosaur-designs-out-oct-29/",
+                "source": "PlayStation 官方订阅",
+                "publishedAt": "2026-10-27T14:00:38.000Z",
+                "origin": "official",
+                "evidenceType": "官方开发者投稿，非商业效果证明"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261028-audio",
+            "title": "Saros音频团队公开威胁优先级：画面拥挤时仍传递可行动的信息",
+            "url": "https://blog.playstation.com/2026/10/27/the-sound-of-saros-building-an-audio-identity-for-carcosa/",
+            "summary": "行动者：Housemarque／PlayStation音频团队。官方团队文章10月27日，属于音频设计具体后续，区别于此前Boss复盘。敌人声音按威胁、距离、可见性和战斗状态分优先级，弹体也按类型与接近程度归组；快速可辨的攻击声帮助玩家闪避或举盾。研究价值：给危险、操作成功、资源和奖励分别排序，防止音效叠加掩盖关键反馈，再验证静音／低音量情况下是否仍可读。3D音频和手柄反馈属于平台实现，不能未经测试照搬手机，更没有证明广告收入或留存提升。",
+            "actorIds": [
+              "playstation"
+            ],
+            "tags": [
+              "玩法研究",
+              "技术工具"
+            ],
+            "publishedAt": "2026-10-27T13:01:26.000Z",
+            "discoveredAt": "2026-10-28T00:59:35.090Z",
+            "firstAt": "2026-10-27T13:01:26.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "官方新文 · 具体机制",
+            "verification": "已读原文；效果尚未独立实测",
+            "evidence": [
+              {
+                "title": "The sound of Saros: Building an audio identity for Carcosa",
+                "url": "https://blog.playstation.com/2026/10/27/the-sound-of-saros-building-an-audio-identity-for-carcosa/",
+                "source": "PlayStation 官方订阅",
+                "publishedAt": "2026-10-27T13:01:26.000Z",
+                "origin": "official",
+                "evidenceType": "官方开发者投稿，非商业效果证明"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-20261028-unity",
+            "title": "官方合作补充｜Unity与PvX宣布UA融资合作，非稀释不等于免费资金",
+            "url": "https://unity.com/pt/news/unity-and-pvx-launch-partnership-to-expand-access-to-user-acquisition-financing-for-game-developers",
+            "summary": "行动者Unity／PvX。官方原文10月27日，精确首发时分本轮未确认，不把媒体20:10等时间当作原文时间。符合资格的成长阶段游戏／消费应用需经PvX承保审核，成功后由PvX提供不稀释股权的买量融资；游戏还需参加Unity Developer Data Framework，可获Unity Ads额度、增强支持并被考虑给予有利账期。研究价值：核对cohort表现、资格、资金成本、偿付和数据条件，再讨论扩量。公告未披露可直接套用的利率或收益保证，“非稀释”只涉及股权，不代表赠款、零费用或必然获批；客户ROAS改善是合作方宣称，未独立验证。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-28T00:59:35.090Z",
+            "firstAt": "2026-10-28T00:59:35.090Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "日期／快照另列",
+            "verification": "原文10月27日；时分未知，融资资格及条款待具体审核",
+            "evidence": [
+              {
+                "title": "官方合作补充｜Unity与PvX宣布UA融资合作，非稀释不等于免费资金",
+                "url": "https://unity.com/pt/news/unity-and-pvx-launch-partnership-to-expand-access-to-user-acquisition-financing-for-game-developers",
+                "source": "Unity 官方新闻稿",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "原文10月27日；时分未知，融资资格及条款待具体审核"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261028-charts",
+            "title": "榜单观察｜Gossip Harbor美国iOS畅销榜首，国内第三方榜首分化",
+            "url": "https://www.momorank.com/rankings/bestseller",
+            "summary": "截止台北10月28日05:17，美国iOS畅销前三Gossip Harbor、MONOPOLY GO、Roblox；免费前三Meowdoku、Block Out、Magic Sort。美国Google Play免费前三Meowdoku、Royal Smash、Rotate Rings；日本iOS免费前三BLEACH Mirrors High、Meowdoku、Duck Survivor，日本Google Play免费前三Meowdoku、Duck Survivor、Rotate Rings。MomoRank微信畅销前三三国：冰河时代、向僵尸开炮、无尽冬日；抖音前三造化仙府、疯狂水世界、镇邪人。国内为第三方公开Top10，需平台内官方榜核对；名次不换算下载、收入或广告占比。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-28T00:59:35.090Z",
+            "firstAt": "2026-10-28T00:59:35.090Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "日期／快照另列",
+            "verification": "05:17快照，早于新闻截止，非发布日期",
+            "evidence": [
+              {
+                "title": "榜单观察｜Gossip Harbor美国iOS畅销榜首，国内第三方榜首分化",
+                "url": "https://www.momorank.com/rankings/bestseller",
+                "source": "官方商店快照／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "05:17快照，早于新闻截止，非发布日期"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261028-research",
+            "title": "五个研究对象｜JustPlay、Royal Smash、Rotate Rings、Terrible Lizards、Saros",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-28.md",
+            "summary": "前三者Google Play全球累计安装门槛均10M+，不是今日／30日／单区下载，评分数不是下载数。统一沿赚钱预期／信任挽留、广告次数时长／兑换门槛、玩法／难度曲线记录；PC主机案例只提供机制线索，不当作IAA或现金奖励产品。未披露的iOS实际下载与收入留空，宣传不等于到账，本期未做实机或兑付测试。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-28T00:59:35.090Z",
+            "firstAt": "2026-10-28T00:59:35.090Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "日期／快照另列",
+            "verification": "观察池，未独立实测",
+            "evidence": [
+              {
+                "title": "五个研究对象｜JustPlay、Royal Smash、Rotate Rings、Terrible Lizards、Saros",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-28.md",
+                "source": "完整版研究任务及原文入口",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "观察池，未独立实测"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-10-27",
         "publishedAt": "2026-10-27T00:57:56.207Z",
         "generatedAt": "2026-10-27T00:57:56.207Z",
