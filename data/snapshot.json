@@ -101313,6 +101313,212 @@
     ],
     "digests": [
       {
+        "date": "2026-10-29",
+        "publishedAt": "2026-10-29T02:15:37.775Z",
+        "generatedAt": "2026-10-29T02:15:37.775Z",
+        "windowStart": "2026-10-28T01:00:00.000Z",
+        "windowEnd": "2026-10-29T01:00:00.000Z",
+        "dataCutoff": "2026-10-29T00:51:50.894Z",
+        "mode": "中文核查版 · 3条报告／奖励营销／广告渠道消息＋历史／榜单／研究；数据截止台北08:51",
+        "entries": [
+          {
+            "id": "verified-20261029-af",
+            "title": "AppsFlyer发布2026效果指数：本期“质量”改用广告支出季度变化，不能当留存榜",
+            "url": "https://www.appsflyer.com/resources/reports/performance-index/",
+            "summary": "行动者：AppsFlyer／买量媒体。官方报告页面及订阅10月28日。公开摘要称分析272亿次安装、近2.5万个应用，覆盖57个媒体来源；特别说明质量指标改用广告支出的季度环比变化，而非留存。研究价值：比较媒体榜前先核对OS、地区、品类与指标，支出增长可能同时受归因转化和媒体成本影响。不能把本期榜位直接称为ROAS、D7留存或纯IAA回本排名，也不直接与旧方法年度榜比较；报告数据为机构归因样本，不是全市场实际安装总量。",
+            "actorIds": [
+              "appsflyer"
+            ],
+            "tags": [
+              "行业",
+              "买量",
+              "广告变现"
+            ],
+            "publishedAt": "2026-10-28T08:28:37.000Z",
+            "discoveredAt": "2026-10-29T02:15:37.775Z",
+            "firstAt": "2026-10-28T08:28:37.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "已读原文 · 单事件",
+            "verification": "报告／营销观点／官方公告分开；效果未独立验证",
+            "evidence": [
+              {
+                "title": "The AppsFlyer Performance Index – 2026 Edition",
+                "url": "https://www.appsflyer.com/resources/reports/performance-index/",
+                "source": "AppsFlyer 官方订阅",
+                "publishedAt": "2026-10-28T08:28:37.000Z",
+                "origin": "official",
+                "evidenceType": "一手机构材料；不等于独立效果证据"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261029-adjoe",
+            "title": "adjoe讨论金融App内奖励游戏：奖励留在宿主钱包，兑现用途需明确",
+            "url": "https://adjoe.io/blog/fintech-apps-drive-stickiness-with-non-transactional-engagement/",
+            "summary": "行动者：adjoe／金融App与奖励游戏厂商。官方营销文章10月28日。方案将游戏目录和奖励货币接入宿主App，用户通过游戏获得宿主奖励，用于手续费、会员权益、定制卡片或返现等，厂商称游戏广告主为奖励出资。研究价值：拆分谁支付奖励、余额何时入账、是否可转出、可兑换用途和失效条件，并把活跃频率与真实交易分开分析。文章不是新品全面上线或独立实验报告；“不增加品牌成本”、高CPI及黏性改善等均为厂商主张，本期没有做账户或兑付验证，不能承诺所有用户都能提取现金。",
+            "actorIds": [
+              "adjoe"
+            ],
+            "tags": [
+              "行业",
+              "买量",
+              "广告变现"
+            ],
+            "publishedAt": "2026-10-28T16:34:51.000Z",
+            "discoveredAt": "2026-10-29T02:15:37.775Z",
+            "firstAt": "2026-10-28T16:34:51.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "已读原文 · 单事件",
+            "verification": "报告／营销观点／官方公告分开；效果未独立验证",
+            "evidence": [
+              {
+                "title": "How Fintech Apps Drive Stickiness with Non-Transactional Engagement",
+                "url": "https://adjoe.io/blog/fintech-apps-drive-stickiness-with-non-transactional-engagement/",
+                "source": "adjoe 官方博客",
+                "publishedAt": "2026-10-28T16:34:51.000Z",
+                "origin": "official",
+                "evidenceType": "一手机构材料；不等于独立效果证据"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261029-google",
+            "title": "Google把AI Mode广告扩展至10个国家，并在美国推出多轮追问广告",
+            "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+            "summary": "行动者：Google Ads／Google Search。官方公告10月28日，扩展国家包括澳大利亚、加拿大、印度、肯尼亚、马来西亚、新西兰、尼日利亚、巴基斯坦、菲律宾和新加坡；另在美国推出多轮追问中的广告。巴西、墨西哥与英国属于Q4后续计划，不能写成全部已开放。研究价值：素材与落地页是否能回答具体需求，并核对账户及广告类型适用范围；公告中的相似点击率是美国内部数据，不能外推游戏安装、留存或ROAS，也不意味着所有App买量账户自动有新库存。",
+            "actorIds": [
+              "google-ads"
+            ],
+            "tags": [
+              "行业",
+              "买量",
+              "广告变现"
+            ],
+            "publishedAt": "2026-10-28T21:30:00.000Z",
+            "discoveredAt": "2026-10-29T02:15:37.775Z",
+            "firstAt": "2026-10-28T21:30:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "已读原文 · 单事件",
+            "verification": "报告／营销观点／官方公告分开；效果未独立验证",
+            "evidence": [
+              {
+                "title": "Ads in AI Mode expand to new markets.",
+                "url": "https://blog.google/products/ads-commerce/ads-in-ai-mode-global/",
+                "source": "Google Ads 官方订阅",
+                "publishedAt": "2026-10-28T21:30:00.000Z",
+                "origin": "official",
+                "evidenceType": "一手机构材料；不等于独立效果证据"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-20261029-mergehope",
+            "title": "历史竞品线索｜Merge Hope商店标有广告与内购，不据媒体日期认定今天首发",
+            "url": "https://play.google.com/store/apps/details?id=com.global.mhope.google&hl=en&gl=US",
+            "summary": "Google Play开发者显示37GAMES-GLOBAL-ENTERTAIN，简介以废墟重建、同伴和秘密探索组织成长，标有广告与内购。所读网页索引已有8月至9月更新及评论，因此不能把10月28日媒体扩量稿当作今天首次发行。公开检索页的安装门槛与评分缓存不一致，本期不选较大值，当前安装量、今日下载和流水留空。研究价值：实际体验订单、体力、章节奖励与广告兑现；用户评论只作待复现问题线索，不能当作已证实的普遍故障。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-29T02:15:37.775Z",
+            "firstAt": "2026-10-29T02:15:37.775Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／榜单观察",
+            "verification": "历史产品观察；当前安装量未核实",
+            "evidence": [
+              {
+                "title": "历史竞品线索｜Merge Hope商店标有广告与内购，不据媒体日期认定今天首发",
+                "url": "https://play.google.com/store/apps/details?id=com.global.mhope.google&hl=en&gl=US",
+                "source": "Google Play 官方商店；开发者自述",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "历史产品观察；当前安装量未核实"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261029-charts",
+            "title": "榜单观察｜Monster Hunter Outlanders列美日iOS免费榜首，国内第三方畅销榜分平台记录",
+            "url": "https://apps.apple.com/us/app/monster-hunter-outlanders/id6444520814?uo=2",
+            "summary": "截止台北10月29日08:51，美日iOS免费榜首均Monster Hunter Outlanders，商店元数据列发行日期10月28日；仅据商店与榜单，不宣称已实机登录或已核验全地区开服。美国Google Play免费前三Meowdoku、Royal Smash、Rotate Rings；美国iOS畅销前三MONOPOLY GO、Gossip Harbor、Royal Match。MomoRank微信畅销前三三国：冰河时代、无尽冬日、向僵尸开炮，抖音前三疯狂水世界、造化仙府、灵画师。国内仅第三方公开Top10，完整官方榜需平台内核查；名次不换算为下载量、收入或广告占比。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-29T02:15:37.775Z",
+            "firstAt": "2026-10-29T02:15:37.775Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／榜单观察",
+            "verification": "08:51快照；商店发行日期不等于实机验收",
+            "evidence": [
+              {
+                "title": "榜单观察｜Monster Hunter Outlanders列美日iOS免费榜首，国内第三方畅销榜分平台记录",
+                "url": "https://apps.apple.com/us/app/monster-hunter-outlanders/id6444520814?uo=2",
+                "source": "Apple／Google官方快照与MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "08:51快照；商店发行日期不等于实机验收"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261029-research",
+            "title": "五个研究对象｜JustPlay、Gossip Harbor、Royal Smash、Merge Hope、Monster Hunter Outlanders",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-29.md",
+            "summary": "前三者Google Play全球累计安装门槛分别10M+、50M+、10M+，不是今日／30日／单区下载。后两者未核实当前实际下载与收入，留空。统一沿赚钱预期／信任挽留、广告次数时长／兑换门槛、玩法／难度记录；广告和内购标签不证明IAA收入占比，奖励宣传不等于真实到账，本期未做实机或兑付验证。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-29T02:15:37.775Z",
+            "firstAt": "2026-10-29T02:15:37.775Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／榜单观察",
+            "verification": "观察池，建议测试尚未执行",
+            "evidence": [
+              {
+                "title": "五个研究对象｜JustPlay、Gossip Harbor、Royal Smash、Merge Hope、Monster Hunter Outlanders",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-29.md",
+                "source": "完整研究任务与原始入口",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "观察池，建议测试尚未执行"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-10-28",
         "publishedAt": "2026-10-28T00:59:35.090Z",
         "generatedAt": "2026-10-28T00:59:35.090Z",
