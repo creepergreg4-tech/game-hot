@@ -101614,6 +101614,172 @@
     ],
     "digests": [
       {
+        "date": "2026-10-30",
+        "publishedAt": "2026-10-30T01:02:06.637Z",
+        "generatedAt": "2026-10-30T01:02:06.637Z",
+        "windowStart": "2026-10-29T01:00:00.000Z",
+        "windowEnd": "2026-10-30T01:00:00.000Z",
+        "dataCutoff": "2026-10-29T23:55:32.953Z",
+        "mode": "中文核查版 · Godot预览版新文＋Xsolla日期补充／历史名单／榜单／研究；数据截止台北07:55",
+        "entries": [
+          {
+            "id": "verified-20261030-godot",
+            "title": "Godot 4.8 beta2发布：回归修复与触摸事件等问题进入测试",
+            "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-2/",
+            "summary": "行动者Godot，官方10月29日发布预览版。正文列59名贡献者提交144项修复，包括触摸事件可见视口检查、Compatibility渲染混合问题及部分动画撤销数据问题；构建环境最低Python从3.9提升至3.10，.NET构建最低要求10.0。研究价值：对项目所用交互、渲染及导出链做针对性兼容性核查。版本仍为beta，不是稳定版或我们项目验收；本期未下载升级，也不能用修复数量宣称性能／留存提升。",
+            "actorIds": [
+              "godot"
+            ],
+            "tags": [
+              "技术工具"
+            ],
+            "publishedAt": "2026-10-29T12:00:00.000Z",
+            "discoveredAt": "2026-10-30T01:02:06.637Z",
+            "firstAt": "2026-10-29T12:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 54,
+            "officialCount": 1,
+            "grouping": "已读官方原文 · 预览版",
+            "verification": "发布日期与版本状态已核查；未本机运行",
+            "evidence": [
+              {
+                "title": "Dev snapshot: Godot 4.8 beta 2",
+                "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-2/",
+                "source": "Godot 官方 · Thaddeus Crews",
+                "publishedAt": "2026-10-29T12:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方预览版公告，非项目测试结果"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-20261030-gamepix",
+            "title": "官方收购补充｜Xsolla宣布收购GamePix，整合网页分发与商业化链路",
+            "url": "https://xsolla.com/blog/xsolla-acquires-game-pix-unlocking-the-future-of-web-and-ai-gaming",
+            "summary": "Xsolla官方文章10月29日，未核实首发时分，不按媒体转发时间补造。文章称已收购GamePix，把浏览器分发网络与Xsolla支付、玩家参与工具结合，并面向AI创作游戏提供接入路径。研究价值：跟踪网页小游戏的分发、账号、支付／广告边界和平台接入条件，再用具体产品验证。目录规模、构建缩小及快速上线等属于公司宣称，本期未测试，不等同我们的游戏已能接入、IAA收入改善或商业化必然成功；未取得足够细则就不推导开发者分成。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-30T01:02:06.637Z",
+            "firstAt": "2026-10-30T01:02:06.637Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "日期／历史／快照补充",
+            "verification": "原文10月29日，首发时分未知；整合效果待验证",
+            "evidence": [
+              {
+                "title": "官方收购补充｜Xsolla宣布收购GamePix，整合网页分发与商业化链路",
+                "url": "https://xsolla.com/blog/xsolla-acquires-game-pix-unlocking-the-future-of-web-and-ai-gaming",
+                "source": "Xsolla 官方收购文章",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "原文10月29日，首发时分未知；整合效果待验证"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261030-fund",
+            "title": "历史补充｜Google Play公布非洲基金10家入选工作室，可扩展休闲机制观察池",
+            "url": "https://blog.google/intl/en-africa/products/android-chrome-play/indie-games-fund-2026-meet-the-selected-studios-in-africa/",
+            "summary": "Google官方原文10月28日，10月29日媒体再报道，非今日新名单。总额100万美元的非稀释资助由10家撒哈拉以南非洲独立工作室分享，不是每家100万美元。名单包括Leti的节奏编织Sweave、Fer Factor的清洁Chore Master、Studio Bo的放置清滩Idle Sands等。研究价值：把地域文化转化成单屏可理解动作、清理反馈或自动化成长。入选不等于已发行、全部资金已到账、或已有下载／IAA收入成绩；本期仅按官方项目描述列待体验对象。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-30T01:02:06.637Z",
+            "firstAt": "2026-10-30T01:02:06.637Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "日期／历史／快照补充",
+            "verification": "原文10月28日；历史项目与资助自述",
+            "evidence": [
+              {
+                "title": "历史补充｜Google Play公布非洲基金10家入选工作室，可扩展休闲机制观察池",
+                "url": "https://blog.google/intl/en-africa/products/android-chrome-play/indie-games-fund-2026-meet-the-selected-studios-in-africa/",
+                "source": "Google Play 官方名单",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "原文10月28日；历史项目与资助自述"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261030-charts",
+            "title": "榜单观察｜Gossip Harbor列美国iOS畅销榜首，Monster Hunter Outlanders列日本双商店免费榜首",
+            "url": "https://www.momorank.com/rankings/bestseller",
+            "summary": "截止台北10月30日07:55。美国iOS畅销前三Gossip Harbor、MONOPOLY GO、Royal Match；Google Play免费前三Meowdoku、Royal Smash、Rotate Rings。日本iOS免费前三Monster Hunter Outlanders、BLEACH Mirrors High、Meowdoku，Google Play前三Monster Hunter Outlanders、Meowdoku、Duck Survivor。MomoRank微信畅销前三三国：冰河时代、无尽冬日、向僵尸开炮；抖音前三三国：冰河时代、疯狂水世界、造化仙府。国内仅第三方公开Top10，需平台内官方核对；榜位不等于下载数、收入或IAA占比。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-30T01:02:06.637Z",
+            "firstAt": "2026-10-30T01:02:06.637Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "日期／历史／快照补充",
+            "verification": "07:55快照，不作为原文日期",
+            "evidence": [
+              {
+                "title": "榜单观察｜Gossip Harbor列美国iOS畅销榜首，Monster Hunter Outlanders列日本双商店免费榜首",
+                "url": "https://www.momorank.com/rankings/bestseller",
+                "source": "官方商店快照／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "07:55快照，不作为原文日期"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261030-research",
+            "title": "五个研究对象｜JustPlay、Royal Smash、Sweave、Chore Master、Idle Sands",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-30.md",
+            "summary": "前两者Google Play全球累计安装门槛均10M+，不是今日／30日／单区下载；后三者为官方基金名单的机制线索，当前下载与收入未知，不能当作已成功上线的IAA产品。按赚钱预期与信任挽留、广告次数时长与兑换门槛、玩法与难度三轴记录。广告／兑付／候选作品均未实测，宣传不等于到账，iOS真实下载与收入未披露则留空。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-30T01:02:06.637Z",
+            "firstAt": "2026-10-30T01:02:06.637Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "日期／历史／快照补充",
+            "verification": "观察池，非已完成测试",
+            "evidence": [
+              {
+                "title": "五个研究对象｜JustPlay、Royal Smash、Sweave、Chore Master、Idle Sands",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-30.md",
+                "source": "完整研究任务及原文入口",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "观察池，非已完成测试"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-10-29",
         "publishedAt": "2026-10-29T02:15:37.775Z",
         "generatedAt": "2026-10-29T02:15:37.775Z",
