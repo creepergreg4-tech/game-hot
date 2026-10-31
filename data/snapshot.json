@@ -101719,6 +101719,214 @@
     ],
     "digests": [
       {
+        "date": "2026-10-31",
+        "publishedAt": "2026-10-31T01:04:20.666Z",
+        "generatedAt": "2026-10-31T01:04:20.666Z",
+        "windowStart": "2026-10-30T01:00:00.000Z",
+        "windowEnd": "2026-10-31T01:00:00.000Z",
+        "dataCutoff": "2026-10-30T22:56:31.506Z",
+        "mode": "中文核查版 · 2篇官方新文＋Apple补核／报告／榜单／研究；数据截止台北06:56",
+        "entries": [
+          {
+            "id": "verified-20261031-resthaven",
+            "title": "Curse of Resthaven公开调查引导：知识跨循环保留，线索分层减少卡关",
+            "url": "https://news.xbox.com/en-us/2026/10/30/curse-of-resthaven-tips-and-tricks-xbox/",
+            "summary": "行动者：Hilltop Studios／Xbox。官方导演文章10月30日。游戏把调查、城镇贸易与卡牌远征连接在限时循环内，主人公保留知识及成长；日记提示新话题，时间线和地图帮助发现未见事件／NPC。团队内部把线索分为广泛提示、具体线索和明确下一步，按不同密度分布。研究价值：失败仍获得信息，降低纯重复负担，并给困住的玩家可行动反馈。正文写六天、附带商店简介写七天，时长口径不一，本期不把某个天数作为已核实唯一规则；未实机，不宣称降低流失或提升IAA收益。",
+            "actorIds": [
+              "xbox"
+            ],
+            "tags": [
+              "玩法研究",
+              "行业"
+            ],
+            "publishedAt": "2026-10-30T17:00:00.000Z",
+            "discoveredAt": "2026-10-31T01:04:20.666Z",
+            "firstAt": "2026-10-30T17:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "已读原文 · 单事件",
+            "verification": "官方团队说明，数值效果与实机体验未独立验证",
+            "evidence": [
+              {
+                "title": "Curse of Resthaven: Tips and Tricks to Unravel the Island’s Secrets",
+                "url": "https://news.xbox.com/en-us/2026/10/30/curse-of-resthaven-tips-and-tricks-xbox/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-10-30T17:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方导演／团队文章"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261031-avatar",
+            "title": "Avatar Legends补丁上线：角色重做以较低起始血量替代持续掉血原型",
+            "url": "https://news.xbox.com/en-us/2026/10/30/avatar-legends-the-fighting-game-enters-the-avatar-state/",
+            "summary": "行动者：Avatar Legends／Xbox。官方更新介绍10月30日，Avatar State Patch已推出，包含菜单／对局显示更新与角色重做。团队称Nightmare Korra早期原型持续失血，未形成有趣对抗，最终改为较低起始血量；动作对比强调缓慢移动与突然爆发。研究价值：把恒定惩罚与可理解的起始限制分别测试，衡量玩家是否知道风险并保有操作选择。另有角色投票，但资格关联预购／豪华版，不是所有玩家通用权利；角色与数值改动不证明留存或收入改善。",
+            "actorIds": [
+              "xbox"
+            ],
+            "tags": [
+              "玩法研究",
+              "行业"
+            ],
+            "publishedAt": "2026-10-30T18:00:00.000Z",
+            "discoveredAt": "2026-10-31T01:04:20.666Z",
+            "firstAt": "2026-10-30T18:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 44,
+            "officialCount": 1,
+            "grouping": "已读原文 · 单事件",
+            "verification": "官方团队说明，数值效果与实机体验未独立验证",
+            "evidence": [
+              {
+                "title": "Avatar Legends: The Fighting Game Enters the Avatar State",
+                "url": "https://news.xbox.com/en-us/2026/10/30/avatar-legends-the-fighting-game-enters-the-avatar-state/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-10-30T18:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方导演／团队文章"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-20261031-apple",
+            "title": "已补核官方原文｜台湾iOS／iPadOS商店标准内购与付费应用佣金10月31日起为26%",
+            "url": "https://developer.apple.com/news/?id=w9mxlhek",
+            "summary": "Apple原文公告10月29日；之前访问失败，本轮已读到官方全文，并核对开发者协议Attachment15。公告将台湾iOS／iPadOS店面的标准Apple内购及付费应用交易佣金从30%调至26%，10月31日起生效；公告明确无需在31日前签署更新条款才获得本次费率调整。研究价值：为对应店面的付费／内购产品核对实际结算及合同，不把台湾标准率外推到所有地区、优惠计划或IAA广告分成。不是今天首次公布，也没有声称已验过我们账户结算。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-31T01:04:20.666Z",
+            "firstAt": "2026-10-31T01:04:20.666Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／报告／快照补充",
+            "verification": "原文10月29日；本期补充核查，10月31日为公告生效日",
+            "evidence": [
+              {
+                "title": "已补核官方原文｜台湾iOS／iPadOS商店标准内购与付费应用佣金10月31日起为26%",
+                "url": "https://developer.apple.com/news/?id=w9mxlhek",
+                "source": "Apple Developer 官方公告",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "原文10月29日；本期补充核查，10月31日为公告生效日"
+              },
+              {
+                "title": "开发者协议Attachment15",
+                "url": "https://developer.apple.com/support/terms/apple-developer-program-license-agreement/",
+                "source": "Apple 官方协议",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "台湾店面条款，非其他地区通用费率"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261031-niko",
+            "title": "报告补充｜Niko与Xsolla东南亚白皮书聚焦印尼、泰国、越南，预测与历史估算分列",
+            "url": "https://nikopartners.com/bulletins-white-papers/waking-the-southeast-asian-giants/",
+            "summary": "公开摘要标2026年10月，未核实具体首发日时；报告由Niko Partners与Xsolla共同发布，不能当两份独立研究互证。摘要估计东南亚2025年收入超过56亿美元，并预测2030年超过70亿美元；印尼、泰国、越南的移动与PC收入合计38亿美元，约占地区游戏支出七成。研究价值：按国家拆支付偏好、本地化和获客，再回到具体产品；这些是机构历史估算／预测，不是2026年已实现收入或IAA独立口径。只读公开摘要，未提交下载表单或订阅通讯。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-31T01:04:20.666Z",
+            "firstAt": "2026-10-31T01:04:20.666Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／报告／快照补充",
+            "verification": "仅标2026年10月；历史估算与未来预测，正文未下载",
+            "evidence": [
+              {
+                "title": "报告补充｜Niko与Xsolla东南亚白皮书聚焦印尼、泰国、越南，预测与历史估算分列",
+                "url": "https://nikopartners.com/bulletins-white-papers/waking-the-southeast-asian-giants/",
+                "source": "Niko Partners／Xsolla联合白皮书公开摘要",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "仅标2026年10月；历史估算与未来预测，正文未下载"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261031-charts",
+            "title": "榜单观察｜美国Google Play免费前三Meowdoku、Pokémon TCG Pocket、Rotate Rings",
+            "url": "https://www.momorank.com/rising",
+            "summary": "截止台北10月31日06:56。美国iOS畅销前三MONOPOLY GO、Royal Match、Gossip Harbor；日本iOS免费前三Monster Hunter Outlanders、BLEACH Mirrors High、Meowdoku，日本Google Play免费前三Monster Hunter Outlanders、Meowdoku、BLEACH Mirrors High。MomoRank微信畅销前三三国：冰河时代、向僵尸开炮、无尽冬日，抖音前三疯狂水世界、三国：冰河时代、造化仙府。微信增速排序榜首不服来通关，该页currentRank=52，不能写成畅销榜第1。国内为第三方公开Top10，完整官方榜仍需平台内核对；排名不等于下载量、收入或IAA占比。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-31T01:04:20.666Z",
+            "firstAt": "2026-10-31T01:04:20.666Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／报告／快照补充",
+            "verification": "06:56快照，非原文发布日期",
+            "evidence": [
+              {
+                "title": "榜单观察｜美国Google Play免费前三Meowdoku、Pokémon TCG Pocket、Rotate Rings",
+                "url": "https://www.momorank.com/rising",
+                "source": "官方商店快照／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "06:56快照，非原文发布日期"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261031-research",
+            "title": "五个研究对象｜JustPlay、Royal Smash、Curse of Resthaven、Avatar Legends、不服来通关",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-31.md",
+            "summary": "前两者Google Play全球累计安装门槛均10M+，不是今日／30日／单区下载，评分数不是下载数。PC主机作品主要参考反馈与惩罚设计，不冒充IAA或现金奖励产品。沿赚钱预期／信任挽留、广告次数时长／兑换门槛、玩法／难度三轴记录；未披露的iOS实际下载及收入留空，宣传不等于到账，本期未实机或兑付验证。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-10-31T01:04:20.666Z",
+            "firstAt": "2026-10-31T01:04:20.666Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史／报告／快照补充",
+            "verification": "观察池，未独立实测",
+            "evidence": [
+              {
+                "title": "五个研究对象｜JustPlay、Royal Smash、Curse of Resthaven、Avatar Legends、不服来通关",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-10-31.md",
+                "source": "完整研究任务及原始入口",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "观察池，未独立实测"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-10-30",
         "publishedAt": "2026-10-30T01:02:06.637Z",
         "generatedAt": "2026-10-30T01:02:06.637Z",
