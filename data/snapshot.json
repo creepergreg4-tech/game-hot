@@ -101635,6 +101635,155 @@
     ],
     "digests": [
       {
+        "date": "2026-11-01",
+        "publishedAt": "2026-11-01T01:18:54.474Z",
+        "generatedAt": "2026-11-01T01:18:54.474Z",
+        "windowStart": "2026-10-31T01:00:00.000Z",
+        "windowEnd": "2026-11-01T01:00:00.000Z",
+        "dataCutoff": "2026-10-31T23:20:06.557Z",
+        "mode": "中文核查版 · 抖音政策今日生效核查＋历史买量研究／榜单／研究对象；未确认足够窗口内新发布，数据截止台北07:20",
+        "entries": [],
+        "briefs": [
+          {
+            "id": "verified-20261101-douyin",
+            "title": "今日生效核查｜抖音小游戏11—12月任务金：分场景、看上半月门槛，任务金不可提现",
+            "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/game-task-reward-rules",
+            "summary": "行动者抖音开放平台。官方任务金活动期为2026年11月1日—12月31日，首发日期未确认，不写成今天首次公告。发行人／星图一口价场景广告收入对应20%任务金；投广场景需上个半月该发行人及一口价的广告与内购分成前收入合计≥1万元，符合后IAA对应5%任务金。11月1—15日资格应看10月16—31日数据，不能看本半月预计流水。满足减免版条件的发行人／一口价内购另有结算基数10%任务金。使用须知明确任务金不得提现或转让、有效期180天，仅抵扣允许的推广任务费用；不能并入现金收入、当作玩家提现承诺。研究价值：更新按场景／周期的资格与现金、投放金、任务金分账表；本期未登录企业后台核验资格或结算，细则以官方及账户为准。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-01T01:18:54.474Z",
+            "firstAt": "2026-11-01T01:18:54.474Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "生效核查／历史／快照分列",
+            "verification": "11月1日生效／活动期核查；原文首次发布日期未知",
+            "evidence": [
+              {
+                "title": "今日生效核查｜抖音小游戏11—12月任务金：分场景、看上半月门槛，任务金不可提现",
+                "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/game-task-reward-rules",
+                "source": "抖音开放平台 官方规则",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "11月1日生效／活动期核查；原文首次发布日期未知"
+              },
+              {
+                "title": "结算政策导览",
+                "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/guide/business-guide/revenue/sharingclause/game-settlement-guide",
+                "source": "抖音开放平台",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "导览列11月1日起生效；详细政策优先"
+              },
+              {
+                "title": "任务金使用须知",
+                "url": "https://developer.open-douyin.com/docs/resource/zh-CN/mini-game/operation1/agreement-and-norms/game-promotion/mini-game-gold-guide",
+                "source": "抖音开放平台",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "非现金、提现限制、有效期；同平台多文档不是独立互证"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261101-ua",
+            "title": "历史买量研究｜GameAnalytics：曝光头部的节日素材，部分只替换文案",
+            "url": "https://www.gameanalytics.com/blog/why-halloween-in-user-acquisition-peaked-already-in-september",
+            "summary": "原文最后更新10月26日，非今日发布。作者从Ad Insights取10月1—23日万圣节主题估算曝光前12条素材，其中5条仅在文案或标题卡体现节日。研究价值：把已验证基础玩法素材与低成本季节文案做对照，同时对适合视觉换皮的品类单独测试。这里的排序依据是估算曝光，不是ROAS、留存或利润；12条头部样本不能代表全部游戏，也不证明照搬某条素材有效。原文对圣诞／情人节窗口的推演是预测，不写成已发生事实。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-01T01:18:54.474Z",
+            "firstAt": "2026-11-01T01:18:54.474Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "生效核查／历史／快照分列",
+            "verification": "10月26日更新；历史估算研究，未独立复算",
+            "evidence": [
+              {
+                "title": "历史买量研究｜GameAnalytics：曝光头部的节日素材，部分只替换文案",
+                "url": "https://www.gameanalytics.com/blog/why-halloween-in-user-acquisition-peaked-already-in-september",
+                "source": "GameAnalytics／Ad Insights 官方机构文章",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "10月26日更新；历史估算研究，未独立复算"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261101-charts",
+            "title": "榜单观察｜Block Out美国iOS免费第1，Pokémon TCG Pocket美国Google Play免费第1",
+            "url": "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568?uo=2",
+            "summary": "截止台北11月1日07:20。美国iOS免费前三Block Out、Meowdoku、Magic Sort；与10月31日06:56留存快照相比，Block Out第2→第1，Meowdoku第1→第2，非相邻采集change字段。美国Google Play免费前三Pokémon TCG Pocket、Meowdoku、Block Blast，日本前三Monster Hunter Outlanders、Meowdoku、BLEACH Mirrors High。MomoRank微信畅销前三三国：冰河时代、向僵尸开炮、疯狂水世界；抖音前三疯狂水世界、三国：冰河时代、造化仙府。微信增速排序榜首一路狂飙，该页currentRank68，不当畅销第1。国内为第三方公开Top10，需平台内官方榜核对；排名不换算为下载或收入。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-01T01:18:54.474Z",
+            "firstAt": "2026-11-01T01:18:54.474Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "生效核查／历史／快照分列",
+            "verification": "07:20快照及两日留存快照对比；非新游发行证明",
+            "evidence": [
+              {
+                "title": "榜单观察｜Block Out美国iOS免费第1，Pokémon TCG Pocket美国Google Play免费第1",
+                "url": "https://apps.apple.com/us/app/block-out-color-sort-puzzle/id6752672568?uo=2",
+                "source": "官方商店快照／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "07:20快照及两日留存快照对比；非新游发行证明"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261101-research",
+            "title": "五个研究对象｜JustPlay、Gossip Harbor、Rotate Rings、Block Out、一路狂飙",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-01.md",
+            "summary": "前三者Google Play全球累计安装门槛依次10M+、100M+、10M+，不是今日／30日／单区下载；门槛变化也不能直接计算新增安装。按赚钱预期／信任挽留、广告次数时长／兑换门槛、玩法／难度三轴记证据。未披露的iOS实际下载及收入留空，宣传不等于到账，本期未做实机及兑付验证。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-01T01:18:54.474Z",
+            "firstAt": "2026-11-01T01:18:54.474Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "生效核查／历史／快照分列",
+            "verification": "观察池，建议测试尚未执行",
+            "evidence": [
+              {
+                "title": "五个研究对象｜JustPlay、Gossip Harbor、Rotate Rings、Block Out、一路狂飙",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-01.md",
+                "source": "完整研究任务与原始入口",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "观察池，建议测试尚未执行"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-10-31",
         "publishedAt": "2026-10-31T01:04:20.666Z",
         "generatedAt": "2026-10-31T01:04:20.666Z",
