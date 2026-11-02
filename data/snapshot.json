@@ -101220,124 +101220,148 @@
     "digests": [
       {
         "date": "2026-11-02",
-        "publishedAt": "2026-11-02T01:00:00.000Z",
-        "generatedAt": "2026-11-02T02:26:19.209Z",
+        "publishedAt": "2026-11-02T03:55:56.890Z",
+        "generatedAt": "2026-11-02T03:55:56.890Z",
         "windowStart": "2026-11-01T01:00:00.000Z",
         "windowEnd": "2026-11-02T01:00:00.000Z",
-        "mode": "规则编排 · 保留原标题与原文摘要",
+        "dataCutoff": "2026-11-02T02:26:12.094Z",
+        "mode": "中文核查版 · 1条窗口内官方动态＋未来产品／榜单／五个研究对象；新闻截止09:00，榜单补采10:26",
         "entries": [
           {
-            "id": "332a30092071641ccee6",
-            "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
-            "url": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
-            "summary": "Pikmin 4 Nintendo Switch 2 Edition will launch on 12th November, bundled with a new mode called Dandori Academy. Read more",
-            "actorIds": [
-              "nintendo"
-            ],
+            "id": "verified-20261102-itch",
+            "title": "itch.io：日新增游戏页面两个月翻倍，下载和购买未同比翻倍",
+            "url": "https://bsky.app/profile/itch.io/post/3mz7vswlnbs23",
+            "summary": "行动者 itch.io。官方账号11月1日03:51 UTC称日新增游戏页面在过去两个月翻倍，03:55补充下载和购买并未翻倍。两帖属同平台陈述，不是独立审计；并未给出下载是否下降的结论。研究价值：把上架供给、被发现、试玩和付费分开追踪，不能把作品变多当成需求同比增长。PC Gamer同日报道把AI列为可能因素，官方这两帖没有量化归因；不把AI因果、收入变化或单个游戏转化率写成事实。",
+            "actorIds": [],
             "tags": [
               "行业",
-              "PC主机"
+              "研究观察"
             ],
-            "publishedAt": "2026-11-01T10:04:13.000Z",
-            "discoveredAt": "2026-11-01T13:13:50.964Z",
-            "firstAt": "2026-11-01T10:04:13.000Z",
-            "heat": 0.623,
+            "publishedAt": "2026-11-01T03:51:33.170Z",
+            "discoveredAt": "2026-11-02T03:55:56.890Z",
+            "firstAt": "2026-11-01T03:51:33.170Z",
+            "heat": 0,
             "participants": 1,
             "reportCount": 1,
-            "ruleScore": 45,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "原文核查；新消息、未来计划和采集观察分列",
+            "verification": "11月1日官方公开陈述，已回看原帖；未独立复算平台后台",
             "evidence": [
               {
-                "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
-                "url": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
-                "source": "Eurogamer",
-                "publishedAt": "2026-11-01T10:04:13.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体报道 · 尚未独立核实"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "1c0966a27d04d4329b63",
-            "title": "AppLovin Stock Is Struggling: 3 Things to Watch in Q3 Earnings That Could Get APP Back on Track - Barchart.com",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNEhfLXRCYjZlZVJRQ3lmNFRSS1JxRkJDMFNrbWJxOUk4RVd4YTJiTnppLVdJellYQVFUYkpiYUwyaUpFUWNmb1ZQb2FnODlHM203V3JFbS0tS2tkS1E5WEVUcE1XYm9HeTJwekg2LWc4NWg3dVZ4TkE0S1RmV3AxZFQ1UUxnVm1XenJuY2xPZGdXbms2RWd6Zlh5ckdVX1ZESk9COGg5QklRREJKVU15aHl6eHRaWWVMREV1RVpZd1lFc2wyaEt4TE1UdVlWQzhvdWh5SA?oc=5",
-            "summary": "AppLovin Stock Is Struggling: 3 Things to Watch in Q3 Earnings That Could Get APP Back on Track Barchart.com",
-            "actorIds": [
-              "applovin"
-            ],
-            "tags": [
-              "行业",
-              "IAA",
-              "买量"
-            ],
-            "publishedAt": "2026-11-01T15:00:03.000Z",
-            "discoveredAt": "2026-11-01T18:53:09.361Z",
-            "firstAt": "2026-11-01T15:00:03.000Z",
-            "heat": 1.437,
-            "participants": 2,
-            "reportCount": 2,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "AppLovin Stock Is Struggling: 3 Things to Watch in Q3 Earnings That Could Get APP Back on Track - Barchart.com",
-                "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNEhfLXRCYjZlZVJRQ3lmNFRSS1JxRkJDMFNrbWJxOUk4RVd4YTJiTnppLVdJellYQVFUYkpiYUwyaUpFUWNmb1ZQb2FnODlHM203V3JFbS0tS2tkS1E5WEVUcE1XYm9HeTJwekg2LWc4NWg3dVZ4TkE0S1RmV3AxZFQ1UUxnVm1XenJuY2xPZGdXbms2RWd6Zlh5ckdVX1ZESk9COGg5QklRREJKVU15aHl6eHRaWWVMREV1RVpZd1lFc2wyaEt4TE1UdVlWQzhvdWh5SA?oc=5",
-                "source": "Barchart.com",
-                "publisherUrl": "https://www.barchart.com/",
-                "publishedAt": "2026-11-01T15:00:03.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
+                "title": "itch.io：日新增游戏页面两个月翻倍，下载和购买未同比翻倍",
+                "url": "https://bsky.app/profile/itch.io/post/3mz7vswlnbs23",
+                "source": "itch.io 官方账号",
+                "publishedAt": "2026-11-01T03:51:33.170Z",
+                "origin": "official",
+                "evidenceType": "11月1日官方公开陈述，已回看原帖；未独立复算平台后台"
               },
               {
-                "title": "AppLovin Stock Is Struggling: 3 Things to Watch in Q3 Earnings That Could Get APP Back on Track - Yahoo Finance",
-                "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUZBRFpJZTFLY3l0cDZWMXJVNXV3UmJYcGJxak05U2FJOERoMEJUMkdCVUR3Sk1aa2RRWnJBUE13S0h3Zk9UMTF6bGhYZV9fNEM1Q0xTc0gwUWVBY2xjakpxOWNvYkVDTDlfNWRtSzkxVlFXSHh6MXNER1ZxVVBxbVRHYmNLSmNyTGJZNzJWeWJIVXJjSUx3WFZyZ2xYQldE?oc=5",
-                "source": "Yahoo Finance",
-                "publisherUrl": "https://finance.yahoo.com/",
-                "publishedAt": "2026-11-01T15:00:03.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体发现 · 原文及事实待核查"
+                "title": "下载与购买的补充说明",
+                "url": "https://bsky.app/profile/itch.io/post/3mz7vzjwhgs23",
+                "source": "itch.io 官方账号",
+                "publishedAt": "2026-11-01T03:55:12.078Z",
+                "origin": "official",
+                "evidenceType": "同一平台的补充，不计第二独立来源"
               }
-            ],
-            "verification": "媒体报道；事实待核查"
-          },
-          {
-            "id": "9d1ae3dd8f4436bda20f",
-            "title": "Modern Warfare 4 on Switch 2 has much worse input lag than PS5",
-            "url": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
-            "summary": "Call of Duty: Modern Warfare 4 on Switch 2 has noticeably worse input lag than on PS5, which could put Nintendo players at a disadvantage in multiplayer. Read more",
-            "actorIds": [
-              "nintendo"
-            ],
-            "tags": [
-              "行业",
-              "PC主机"
-            ],
-            "publishedAt": "2026-11-01T17:27:29.000Z",
-            "discoveredAt": "2026-11-01T18:53:07.354Z",
-            "firstAt": "2026-11-01T17:27:29.000Z",
-            "heat": 0.772,
-            "participants": 1,
-            "reportCount": 1,
-            "ruleScore": 35,
-            "officialCount": 0,
-            "grouping": "标题相似规则候选，尚未人工确认事件一致性",
-            "evidence": [
-              {
-                "title": "Modern Warfare 4 on Switch 2 has much worse input lag than PS5",
-                "url": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
-                "source": "Eurogamer",
-                "publishedAt": "2026-11-01T17:27:29.000Z",
-                "origin": "discovery",
-                "evidenceType": "媒体报道 · 尚未独立核实"
-              }
-            ],
-            "verification": "媒体报道；事实待核查"
+            ]
           }
         ],
-        "briefs": [],
+        "briefs": [
+          {
+            "id": "verified-20261102-pikmin",
+            "title": "未来产品观察｜Pikmin 4 Switch 2版：用技能考试组织难度阶梯",
+            "url": "https://www.nintendo.com/us/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
+            "summary": "行动者 Nintendo。官方商店列计划11月12日发售，Dandori Academy共72关分批推出，可选择适合的难度；不能写成首日即有72关。还列语音指挥Oatchi与GameShare对战，分享会话结束后不能继续运行共享游戏。原始公告日期未确认，归为未来产品观察，不算今日首发新闻。研究价值：研究小关卡如何逐项验证操作和规划能力，再组合挑战；这是主机产品设计线索，不证明适合IAA或现金奖励用户。现有Pikmin 4玩家需要相应升级包，不能误写免费升级；本期未实机测试。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-02T03:55:56.890Z",
+            "firstAt": "2026-11-02T03:55:56.890Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "原文核查；新消息、未来计划和采集观察分列",
+            "verification": "未来发售计划／商店机制说明，原文首次发布日期未知",
+            "evidence": [
+              {
+                "title": "未来产品观察｜Pikmin 4 Switch 2版：用技能考试组织难度阶梯",
+                "url": "https://www.nintendo.com/us/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-switch-2/",
+                "source": "Nintendo 官方商店",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "未来发售计划／商店机制说明，原文首次发布日期未知"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261102-charts",
+            "title": "榜单补采｜Meowdoku居美国Google Play免费第1；国内微信、抖音分别核榜",
+            "url": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=en&gl=US",
+            "summary": "台北11月2日10:26采集，晚于09:00新闻截止，不能冒充09:00榜单。美国Google Play免费前三Meowdoku、Block Blast、Pokémon TCG Pocket；美国iOS免费前三Block Out、Meowdoku、Magic Sort。微信第三方畅销前三三国：冰河时代、向僵尸开炮、我的花园世界，抖音前三狱国争霸、疯狂水世界、我的花园世界。国内数据为MomoRank公开Top10，需平台内官方榜复核；美日iOS与Google Play免费／畅销分别列于完整报告。榜位不换算为下载量、收入或广告占比。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-02T03:55:56.890Z",
+            "firstAt": "2026-11-02T03:55:56.890Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "原文核查；新消息、未来计划和采集观察分列",
+            "verification": "10:26补采快照，非新闻发布日期",
+            "evidence": [
+              {
+                "title": "榜单补采｜Meowdoku居美国Google Play免费第1；国内微信、抖音分别核榜",
+                "url": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=en&gl=US",
+                "source": "官方商店快照／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "10:26补采快照，非新闻发布日期"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261102-research",
+            "title": "五个研究对象｜JustPlay、Rotate Rings、Gossip Harbor、狱国争霸、Pikmin 4",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-02.md",
+            "summary": "前三款Google Play全球累计安装门槛依次10M+、10M+、100M+，不是今日、近30日或单区下载。按赚钱预期／信任挽留、广告次数时长／兑换门槛、核心玩法／难度曲线三轴采证。后两款分别作为国内榜单与未来主机机制线索。具体数据时间和测试任务见完整报告；未披露的iOS实际下载及收入留空，本期未实机、投放或兑付测试。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-02T03:55:56.890Z",
+            "firstAt": "2026-11-02T03:55:56.890Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "原文核查；新消息、未来计划和采集观察分列",
+            "verification": "观察池与待验证假设，不作已完成测试",
+            "evidence": [
+              {
+                "title": "五个研究对象｜JustPlay、Rotate Rings、Gossip Harbor、狱国争霸、Pikmin 4",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-02.md",
+                "source": "Game Hot 编辑研究任务",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "观察池与待验证假设，不作已完成测试"
+              }
+            ]
+          }
+        ],
         "quiet": false
       },
       {
