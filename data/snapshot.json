@@ -100967,6 +100967,276 @@
     ],
     "digests": [
       {
+        "date": "2026-11-03",
+        "publishedAt": "2026-11-03T01:07:42.718Z",
+        "generatedAt": "2026-11-03T01:07:42.718Z",
+        "windowStart": "2026-11-02T01:00:00.000Z",
+        "windowEnd": "2026-11-03T01:00:00.000Z",
+        "dataCutoff": "2026-11-02T20:44:52.529Z",
+        "mode": "中文核查版 · 3条窗口内动态＋营销／研究分列；新闻截止09:00，榜单截止04:44",
+        "entries": [
+          {
+            "id": "verified-20261103-cat",
+            "title": "Neptune将《Gunman Cat（총잡이 고양이）》转为H5，进入微信小游戏",
+            "url": "https://www.gamemeca.com/view.php?gid=1782751",
+            "summary": "行动者Neptune。GameMeca于11月2日10:59韩国时间报道公司已将放置射击RPG供给微信小游戏；称全球累计650万下载、250亿韩元收入。数字来自公司，未独立审计，尤其不是微信版新增下载或收入；多家相似报道不算独立互证。研究价值：比较App到H5的首局等待、操作、成长和广告节奏；本期未确认中文正式名称、可搜索入口或实机运行，不把“进入微信”写成所有地区均可玩。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-02T01:59:00.000Z",
+            "discoveredAt": "2026-11-03T01:07:42.718Z",
+            "firstAt": "2026-11-02T01:59:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "同事件合并，企业陈述／媒体／历史数据分列",
+            "verification": "11月2日韩媒原文，公司供稿及累计业绩主张",
+            "evidence": [
+              {
+                "title": "Neptune将《Gunman Cat（총잡이 고양이）》转为H5，进入微信小游戏",
+                "url": "https://www.gamemeca.com/view.php?gid=1782751",
+                "source": "GameMeca 媒体转述Neptune",
+                "publishedAt": "2026-11-02T01:59:00.000Z",
+                "origin": "discovery",
+                "evidenceType": "11月2日韩媒原文，公司供稿及累计业绩主张"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261103-wow",
+            "title": "WoW Forever展示Gamepad Alpha：复杂操作映射，也保留社交输入限制",
+            "url": "https://news.xbox.com/en-us/2026/11/02/world-of-warcraft-forever-controller-support-reimagines-way-we-play-azeroth/",
+            "summary": "行动者Xbox／Blizzard。Xbox Wire于11月2日介绍PC手柄Alpha支持，可切换按钮动作并调整紧凑动作栏。作者在ROG Xbox Ally上的体验属于非官方支持的尝试，社交交互仍建议键盘／语音备用；文章列PC计划11月4日开放，不代表Xbox主机版发布。研究价值：观察如何逐层开放操作、降低界面占用，同时记录输入方式的剩余摩擦；这是官方体验文，未独立实测流畅度或性能。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-02T18:00:00.000Z",
+            "discoveredAt": "2026-11-03T01:07:42.718Z",
+            "firstAt": "2026-11-02T18:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "同事件合并，企业陈述／媒体／历史数据分列",
+            "verification": "11月2日官方文章；11月4日为未来计划",
+            "evidence": [
+              {
+                "title": "WoW Forever展示Gamepad Alpha：复杂操作映射，也保留社交输入限制",
+                "url": "https://news.xbox.com/en-us/2026/11/02/world-of-warcraft-forever-controller-support-reimagines-way-we-play-azeroth/",
+                "source": "Xbox Wire 官方体验文章",
+                "publishedAt": "2026-11-02T18:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "11月2日官方文章；11月4日为未来计划"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261103-derelikt",
+            "title": "Derelikt计划11月13日登陆PS5：复古效果允许开关",
+            "url": "https://blog.playstation.com/2026/11/02/90s-style-sci-fi-horror-derelikt-launches-nov-13-on-ps5/",
+            "summary": "行动者Visuwyg／PlayStation。创作者11月2日在PlayStation Blog介绍计划11月13日PS5发售；将资源管理、探索、对话和解谜加入恐怖战斗，并提供复古视觉效果开关。研究价值：区分“风格卖点”与可能增加操作或视觉负担的效果，让用户自行选择；可作为轻度产品选项设计的研究线索，不能据此证明IAA留存提升。尚未实际发行或实机验收，不采用未经核价的地区促销。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-02T15:00:26.000Z",
+            "discoveredAt": "2026-11-03T01:07:42.718Z",
+            "firstAt": "2026-11-02T15:00:26.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "同事件合并，企业陈述／媒体／历史数据分列",
+            "verification": "11月2日公告；11月13日未来发售计划",
+            "evidence": [
+              {
+                "title": "Derelikt计划11月13日登陆PS5：复古效果允许开关",
+                "url": "https://blog.playstation.com/2026/11/02/90s-style-sci-fi-horror-derelikt-launches-nov-13-on-ps5/",
+                "source": "PlayStation Blog 创作者官方文章",
+                "publishedAt": "2026-11-02T15:00:26.000Z",
+                "origin": "official",
+                "evidenceType": "11月2日公告；11月13日未来发售计划"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-20261103-bigo",
+            "title": "营销公告单列｜BIGO Ads称Android游戏Power Ranking全球第7",
+            "url": "https://www.prnewswire.co.uk/news-releases/bigo-ads-ranks-no-7-globally-in-android-gaming-in-appsflyers-2026-performance-index-302926150.html",
+            "summary": "行动者BIGO Ads／JOYY。11月2日13:00 GMT企业新闻稿称在AppsFlyer 2026 Android Gaming Overall Power Ranking列全球第7、Puzzle & Lifestyle第8。榜位本轮未在完整交互榜独立复核；AppsFlyer方法页明确本年质量指标改用广告支出环比变化，不能当成D7留存、ROAS或IAA回本排名。研究价值：仅纳入渠道测试候选，按国家／系统／品类做小预算归因与回收验证，不据营销稿直接增投。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-02T13:00:00.000Z",
+            "discoveredAt": "2026-11-03T01:07:42.718Z",
+            "firstAt": "2026-11-02T13:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "同事件合并，企业陈述／媒体／历史数据分列",
+            "verification": "11月2日营销公告；排名待交互榜复核",
+            "evidence": [
+              {
+                "title": "营销公告单列｜BIGO Ads称Android游戏Power Ranking全球第7",
+                "url": "https://www.prnewswire.co.uk/news-releases/bigo-ads-ranks-no-7-globally-in-android-gaming-in-appsflyers-2026-performance-index-302926150.html",
+                "source": "BIGO Ads 企业新闻稿／PR Newswire",
+                "publishedAt": "2026-11-02T13:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "11月2日营销公告；排名待交互榜复核"
+              },
+              {
+                "title": "2026 Index方法说明",
+                "url": "https://www.appsflyer.com/resources/reports/performance-index/",
+                "source": "AppsFlyer 官方",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "方法页本轮回看；不等同独立验证企业榜位"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261103-sensor",
+            "title": "研究报告｜Sensor Tower用XP Hero拆解广告＋内购双路径",
+            "url": "https://sensortower.com/ko/blog/state-of-gaming-in-korea-2026-report-KR",
+            "summary": "行动者Sensor Tower／Supercent。官方11月报告页列XP Hero在2026年1—3季度下载超1000万、内购收入超1500万美元、广告收入超300万美元；为机构报告数据，非今日或单区下载，未独立复算。文中机制是奖励广告给游戏内资源、内购加速成长，不是现金提现。研究价值：把免费成长、广告补给、付费加速分别记账。页面仅明确11月，具体原始发布日期未确认，不凭媒体11月2日转载时间填成官方精确时间；报告广告收入估计方法尚未完整核验。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-03T01:07:42.718Z",
+            "firstAt": "2026-11-03T01:07:42.718Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "同事件合并，企业陈述／媒体／历史数据分列",
+            "verification": "11月报告；底层数据为2026年1—3季度，广告收入方法待完整报告核验",
+            "evidence": [
+              {
+                "title": "研究报告｜Sensor Tower用XP Hero拆解广告＋内购双路径",
+                "url": "https://sensortower.com/ko/blog/state-of-gaming-in-korea-2026-report-KR",
+                "source": "Sensor Tower 官方研究摘要",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "11月报告；底层数据为2026年1—3季度，广告收入方法待完整报告核验"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261103-duck",
+            "title": "历史经营拆解｜Duck Survival把建设投入、守潮输出与跨局培养接起来",
+            "url": "https://www.diandian.com/zh/news/ZOUqAHOVAJzIbkoN46ad",
+            "summary": "行动者4399／Enjoy出海。点点数据11月2日转载分析：白天建设、夜间守潮，战报分列设施贡献，装备培养跨局保留；日版结算同时有普通确认和带视频图标的双倍领取。文中约2亿元为多个版本累计商店收入估算，日韩仅含iOS，不是今日流水、利润或广告收入。研究价值：测试建设决策是否在战斗中得到可理解反馈，奖励广告是否自愿；本轮只回看文章与截图说明，未实机核验广告频次或素材一致性。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-03T01:07:42.718Z",
+            "firstAt": "2026-11-03T01:07:42.718Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "同事件合并，企业陈述／媒体／历史数据分列",
+            "verification": "转载页11月2日；历史经营与估算分析，非今日新增业绩",
+            "evidence": [
+              {
+                "title": "历史经营拆解｜Duck Survival把建设投入、守潮输出与跨局培养接起来",
+                "url": "https://www.diandian.com/zh/news/ZOUqAHOVAJzIbkoN46ad",
+                "source": "Enjoy出海／点点数据转载",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "转载页11月2日；历史经营与估算分析，非今日新增业绩"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261103-charts",
+            "title": "榜单观察｜Rotate Rings进入美国Google Play免费前三",
+            "url": "https://play.google.com/store/apps/details?id=com.nebula.rotaterings&hl=en&gl=US",
+            "summary": "截止台北11月3日04:44，Google Play美国免费前三Meowdoku、Block Blast、Rotate Rings；与昨日10:26留存快照相比，第三席由Pokémon TCG Pocket变为Rotate Rings，不冒充相邻小时变动。国内第三方微信畅销前三向僵尸开炮、三国：冰河时代、疯狂水世界，抖音前三疯狂水世界、向僵尸开炮、狱国争霸。美日免费／畅销各自列于完整报告；MomoRank公开Top10需平台内复核。不是09:00实时榜，不把排名换算下载或收入。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-03T01:07:42.718Z",
+            "firstAt": "2026-11-03T01:07:42.718Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "同事件合并，企业陈述／媒体／历史数据分列",
+            "verification": "04:44采集及昨日留存对照；不填未采集的09:00榜位",
+            "evidence": [
+              {
+                "title": "榜单观察｜Rotate Rings进入美国Google Play免费前三",
+                "url": "https://play.google.com/store/apps/details?id=com.nebula.rotaterings&hl=en&gl=US",
+                "source": "商店快照／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "04:44采集及昨日留存对照；不填未采集的09:00榜位"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261103-research",
+            "title": "五个研究对象｜JustPlay、Rotate Rings、Gunman Cat、XP Hero、Duck Survival",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-03.md",
+            "summary": "按赚钱预期／信任挽留、广告次数时长／兑换门槛、核心玩法／难度三轴记录证据。两款商店安装门槛、公司累计陈述和机构期间估算各自注明，不能互相替代。未披露iOS真实下载及收入留空；没有实机、兑付或投放结果，不提供虚构结论。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-03T01:07:42.718Z",
+            "firstAt": "2026-11-03T01:07:42.718Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "同事件合并，企业陈述／媒体／历史数据分列",
+            "verification": "待执行观察池；非已完成测试",
+            "evidence": [
+              {
+                "title": "五个研究对象｜JustPlay、Rotate Rings、Gunman Cat、XP Hero、Duck Survival",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-03.md",
+                "source": "Game Hot 编辑研究任务",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "待执行观察池；非已完成测试"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-02",
         "publishedAt": "2026-11-02T03:55:56.890Z",
         "generatedAt": "2026-11-02T03:55:56.890Z",
