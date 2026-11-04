@@ -100619,6 +100619,292 @@
     ],
     "digests": [
       {
+        "date": "2026-11-04",
+        "publishedAt": "2026-11-04T01:06:30.502Z",
+        "generatedAt": "2026-11-04T01:06:30.502Z",
+        "windowStart": "2026-11-03T01:00:00.000Z",
+        "windowEnd": "2026-11-04T01:00:00.000Z",
+        "dataCutoff": "2026-11-03T23:57:25.265Z",
+        "mode": "中文核查版 · 5条动态＋历史研究／榜单／五个对象；新闻截止09:00，榜单截止07:57",
+        "entries": [
+          {
+            "id": "verified-20261104-itch",
+            "title": "itch.io后续行动：清理生成内容，重申反批量垃圾内容规则",
+            "url": "https://bsky.app/profile/itch.io/post/3mzev6ghw5s2x",
+            "summary": "行动者itch.io。11月3日03:23 UTC官方称已删除数TB的AI垃圾内容，03:33再提醒反垃圾内容条款已存在两年多。已回看规则：批量生成可被移出浏览／搜索；游戏素材、原声、实体游戏、漫画及书籍页严格要求AI披露。删除文件与移除索引不是同一处理，不把TB换算成游戏数量。研究价值：快速原型需要人工设计、准确素材披露和可发现性验收；这是11月1日页面增长之后的具体行动，不重复算旧增长新闻。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-03T03:23:20.877Z",
+            "discoveredAt": "2026-11-04T01:06:30.502Z",
+            "firstAt": "2026-11-03T03:23:20.877Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "后续动作保留；官方、媒体、历史与快照分列",
+            "verification": "11月3日官方陈述，删除规模未独立审计",
+            "evidence": [
+              {
+                "title": "itch.io后续行动：清理生成内容，重申反批量垃圾内容规则",
+                "url": "https://bsky.app/profile/itch.io/post/3mzev6ghw5s2x",
+                "source": "itch.io 官方账号",
+                "publishedAt": "2026-11-03T03:23:20.877Z",
+                "origin": "official",
+                "evidenceType": "11月3日官方陈述，删除规模未独立审计"
+              },
+              {
+                "title": "质量及生成AI披露规则",
+                "url": "https://itch.io/docs/creators/quality-guidelines",
+                "source": "itch.io 官方指南",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "持续更新规则；本轮回看，不当作今天首次制定"
+              },
+              {
+                "title": "反垃圾条款提醒",
+                "url": "https://bsky.app/profile/itch.io/post/3mzevpzrqdc2h",
+                "source": "itch.io 官方账号",
+                "publishedAt": "2026-11-03T03:33:11.679Z",
+                "origin": "official",
+                "evidenceType": "同平台补充，不计独立互证"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261104-steam",
+            "title": "Steam审核积压报道：平台内启动测试成为提交前重点",
+            "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
+            "summary": "行动者Valve。PC Gamer于11月3日报道Steamworks更新：当前构建审核可需12个工作日，建议先通过Steam运行至少5分钟，并检查运行库、存档／成就和商店截图。已回看媒体全文及其官方公告入口，但本次官方公告正文未成功读取，因此保留为媒体转述，不把审核时长承诺为每款游戏保证。研究价值：排期留出复审余量，验收安装后的平台启动；媒体把AI视为可能背景，不等同Valve证实AI是积压原因。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-03T23:51:13.000Z",
+            "discoveredAt": "2026-11-04T01:06:30.502Z",
+            "firstAt": "2026-11-03T23:51:13.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "后续动作保留；官方、媒体、历史与快照分列",
+            "verification": "11月3日报道；官方公告正文本轮读取受限",
+            "evidence": [
+              {
+                "title": "Steam审核积压报道：平台内启动测试成为提交前重点",
+                "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
+                "source": "PC Gamer 媒体报道／转述Valve",
+                "publishedAt": "2026-11-03T23:51:13.000Z",
+                "origin": "discovery",
+                "evidenceType": "11月3日报道；官方公告正文本轮读取受限"
+              },
+              {
+                "title": "Steamworks公告入口",
+                "url": "https://steamcommunity.com/groups/steamworks/announcements/detail/696528162820984746",
+                "source": "Steamworks 官方入口",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "本轮未读到正文；不能标成已独立核实条款"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261104-sonic",
+            "title": "Sonic Racing第二年更新：1对1模式改变竞争关注点",
+            "url": "https://blog.playstation.com/2026/11/03/sonic-racing-crossworlds-year-two-begins-today-with-duel-mode-new-characters-gadgets-and-more/",
+            "summary": "行动者SEGA。11月3日PlayStation Blog访谈称第二年内容当日推出，Duel Mode把12人竞速转为1对1，关注与对手距离和道具时机；Super Slot强化装入的一格Gadget。研究价值：用不同人数／胜负压力复用核心操作，评估新手理解成本与局长；不推断新增模式必然提升留存。主机造型车辆包属于特定版本／季票内容，不写成所有玩家免费获得；本期未实机确认更新到账。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-03T14:00:04.000Z",
+            "discoveredAt": "2026-11-04T01:06:30.502Z",
+            "firstAt": "2026-11-03T14:00:04.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "后续动作保留；官方、媒体、历史与快照分列",
+            "verification": "11月3日官方更新说明",
+            "evidence": [
+              {
+                "title": "Sonic Racing第二年更新：1对1模式改变竞争关注点",
+                "url": "https://blog.playstation.com/2026/11/03/sonic-racing-crossworlds-year-two-begins-today-with-duel-mode-new-characters-gadgets-and-more/",
+                "source": "PlayStation Blog／SEGA 官方开发者访谈",
+                "publishedAt": "2026-11-03T14:00:04.000Z",
+                "origin": "official",
+                "evidenceType": "11月3日官方更新说明"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261104-apple",
+            "title": "Apple开放Siri AI开发者预览，应用内容与动作可接入",
+            "url": "https://developer.apple.com/news/?id=gdk2umrf",
+            "summary": "行动者Apple。11月3日官方称从iOS／iPadOS／macOS／visionOS 27.3测试版起，开发者可通过App Intents接入内容与动作。仍是早期Developer Preview，面向消费者及商店提交尚在未来，条款和使用政策将继续补充；繁体中文也仅列未来支持。研究价值：先验证游戏任务查询、进度入口等是否适合动作表达，不把它当作现成游戏买量渠道、已上线功能或收入增量。未修改本项目、升级设备或申请任何权限。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-03T18:00:20.000Z",
+            "discoveredAt": "2026-11-04T01:06:30.502Z",
+            "firstAt": "2026-11-03T18:00:20.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "后续动作保留；官方、媒体、历史与快照分列",
+            "verification": "11月3日开发者预览公告",
+            "evidence": [
+              {
+                "title": "Apple开放Siri AI开发者预览，应用内容与动作可接入",
+                "url": "https://developer.apple.com/news/?id=gdk2umrf",
+                "source": "Apple Developer 官方",
+                "publishedAt": "2026-11-03T18:00:20.000Z",
+                "origin": "official",
+                "evidenceType": "11月3日开发者预览公告"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261104-corner",
+            "title": "Corner Shop: NightShift：让经营任务持续承接叙事情绪",
+            "url": "https://news.xbox.com/en-us/2026/11/03/corner-shop-nightshift/",
+            "summary": "行动者Live Motion Games。11月3日作者在Xbox Wire称作品已上Xbox Series X|S和PC，支持XPA。便利店的进货、上架、清洁与收银不会因剧情中断而消失，监控既服务店铺安全，也参与不确定感。研究价值：研究日常任务与异常事件如何共享系统，避免玩法与故事两张皮；作者称相关对话有专家参与，但仍为虚构恐怖作品，不作治疗效果宣传。平台发售状态来自官方文章，本轮未安装或实机验证。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-03T20:00:00.000Z",
+            "discoveredAt": "2026-11-04T01:06:30.502Z",
+            "firstAt": "2026-11-03T20:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "后续动作保留；官方、媒体、历史与快照分列",
+            "verification": "11月3日官方开发者说明",
+            "evidence": [
+              {
+                "title": "Corner Shop: NightShift：让经营任务持续承接叙事情绪",
+                "url": "https://news.xbox.com/en-us/2026/11/03/corner-shop-nightshift/",
+                "source": "Xbox Wire／开发者官方文章",
+                "publishedAt": "2026-11-03T20:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "11月3日官方开发者说明"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-20261104-niko",
+            "title": "历史研究单列｜MENA-3增长预测，重视文化与本地化条件",
+            "url": "https://nikopartners.com/mena-gaming-momentum-continues-localization-increased-spending-and-esports-fuel-growth-through-2030/",
+            "summary": "行动者Niko Partners。原文日期11月2日，早于本期新闻窗口；Google News在11月3日发现不等于新发布。报告以埃及、沙特和阿联酋三国为范围，2026收入23.1亿美元、2030年29.4亿美元都是预测，不是已完成业绩或整个中东北非总市场。研究价值：将本地服务器、文化适配、翻译及支付分别纳入出海研究；不能从区域增长预测推导网赚游戏回本。本轮未审计调查样本或把监管概述当现行法律依据。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-04T01:06:30.502Z",
+            "firstAt": "2026-11-04T01:06:30.502Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "后续动作保留；官方、媒体、历史与快照分列",
+            "verification": "原文11月2日；历史研究／预测，不算本期新消息",
+            "evidence": [
+              {
+                "title": "历史研究单列｜MENA-3增长预测，重视文化与本地化条件",
+                "url": "https://nikopartners.com/mena-gaming-momentum-continues-localization-increased-spending-and-esports-fuel-growth-through-2030/",
+                "source": "Niko Partners 官方研究摘要",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "原文11月2日；历史研究／预测，不算本期新消息"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261104-charts",
+            "title": "榜单观察｜Gossip Harbor位列美国iOS畅销第3",
+            "url": "https://apps.apple.com/us/app/gossip-harbor-merge-story/id1623318294?uo=2",
+            "summary": "截止台北11月4日07:57，美国iOS畅销前三MONOPOLY GO、Roblox、Gossip Harbor；Google Play美国免费前三Meowdoku、Block Blast、Rotate Rings。微信第三方畅销前三向僵尸开炮、三国：冰河时代、疯狂水世界，抖音前三疯狂水世界、三国：冰河时代、造化仙府。不是09:00实时榜；榜位不等于下载、收入或纯IAA证明。日本iOS与Google Play及国内增速排序分别列于完整报告，国内MomoRank公开Top10需平台内复核。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-04T01:06:30.502Z",
+            "firstAt": "2026-11-04T01:06:30.502Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "后续动作保留；官方、媒体、历史与快照分列",
+            "verification": "07:57留存快照，非新闻发布日期",
+            "evidence": [
+              {
+                "title": "榜单观察｜Gossip Harbor位列美国iOS畅销第3",
+                "url": "https://apps.apple.com/us/app/gossip-harbor-merge-story/id1623318294?uo=2",
+                "source": "商店快照／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "07:57留存快照，非新闻发布日期"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261104-research",
+            "title": "五个研究对象｜JustPlay、Rotate Rings、Gossip Harbor、Sonic Racing、Corner Shop",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-04.md",
+            "summary": "沿赚钱预期／信任挽留、广告次数时长／兑换门槛、核心玩法／难度曲线三轴取证。前三款Google Play全球累计安装门槛依次10M+、10M+、100M+，不是今日／30日／单区下载。后两款作为更新与经营机制线索，未披露真实下载或收入留空；本期无实机、投放及兑付测试，不虚构效果。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-04T01:06:30.502Z",
+            "firstAt": "2026-11-04T01:06:30.502Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "后续动作保留；官方、媒体、历史与快照分列",
+            "verification": "待执行研究池，非已完成实验",
+            "evidence": [
+              {
+                "title": "五个研究对象｜JustPlay、Rotate Rings、Gossip Harbor、Sonic Racing、Corner Shop",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-04.md",
+                "source": "Game Hot 编辑研究任务",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "待执行研究池，非已完成实验"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-03",
         "publishedAt": "2026-11-03T01:07:42.718Z",
         "generatedAt": "2026-11-03T01:07:42.718Z",
