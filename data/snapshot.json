@@ -100805,6 +100805,269 @@
     ],
     "digests": [
       {
+        "date": "2026-11-05",
+        "publishedAt": "2026-11-05T01:11:08.030Z",
+        "generatedAt": "2026-11-05T01:11:08.030Z",
+        "windowStart": "2026-11-04T01:00:00.000Z",
+        "windowEnd": "2026-11-05T01:00:00.000Z",
+        "dataCutoff": "2026-11-04T21:16:10.765Z",
+        "mode": "中文核查版 · ASA四案合并＋3条官方更新／预览；十月估算另列，榜单截止05:16",
+        "entries": [
+          {
+            "id": "verified-20261105-asa",
+            "title": "ASA四份广告裁决：创意与真实玩法的边界，不能用“全部被禁”概括",
+            "url": "https://www.asa.org.uk/rulings/scopely-inc.html",
+            "summary": "行动者ASA、King、Scopely、Omnilojo及Vistrex。11月4日四份官方裁决均已回看；King和Scopely各仅广告(a)成立，广告(b)未被认定误导。另两案涉及把剧情／短小游戏当核心玩法，以及未证实的获奖暗示。要求相关广告不得以原样再出现，不是禁止游戏经营或所有广告。研究价值：逐镜对照玩家真正能操作的内容、目标和画面，而非只确认游戏里有相似元素；具体个案差异见表，不将英国个案扩写为全球统一禁令。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-05T01:11:08.030Z",
+            "firstAt": "2026-11-05T01:11:08.030Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "同批裁决归组；新动态、历史期间数据、快照分列",
+            "verification": "11月4日裁决日期；无精确时刻，不伪造时间",
+            "evidence": [
+              {
+                "title": "ASA四份广告裁决：创意与真实玩法的边界，不能用“全部被禁”概括",
+                "url": "https://www.asa.org.uk/rulings/scopely-inc.html",
+                "source": "ASA 官方裁决",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "11月4日裁决日期；无精确时刻，不伪造时间"
+              },
+              {
+                "title": "Farm Heroes Saga裁决",
+                "url": "https://www.asa.org.uk/rulings/king-com-ltd.html",
+                "source": "ASA 官方裁决",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "11月4日同批不同个案，逐案回看，不按转载数加热"
+              },
+              {
+                "title": "Dark War Survival裁决",
+                "url": "https://www.asa.org.uk/rulings/omnilojo-pte-ltd.html",
+                "source": "ASA 官方裁决",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "11月4日同批不同个案，逐案回看，不按转载数加热"
+              },
+              {
+                "title": "Idle Zombie Miner裁决",
+                "url": "https://www.asa.org.uk/rulings/vistrex-ltd.html",
+                "source": "ASA 官方裁决",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "11月4日同批不同个案，逐案回看，不按转载数加热"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261105-halls",
+            "title": "Halls of Torment在Xbox更新：每周共同挑战与击杀目标模式",
+            "url": "https://news.xbox.com/en-us/2026/11/04/how-the-challenge-shrine-will-change-how-you-play/",
+            "summary": "行动者Chasing Carrots。11月4日Xbox官方文章介绍The Lost Archives上架，免费部分含五个基础大厅轮换的每周固定挑战，以及以击杀目标代替计时的模式；DLC新大厅／英雄与免费更新分开。Steam官方10月22日已有同批内容，不能称11月4日全平台首次上线。研究价值：比较固定约束的重复挑战、局长和跨局成长；Xbox文案称设目标，而Steam补丁列关卡目标与解锁条件，暂不写成任意自定义击杀数。未实机确认。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-04T20:00:00.000Z",
+            "discoveredAt": "2026-11-05T01:11:08.030Z",
+            "firstAt": "2026-11-04T20:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "同批裁决归组；新动态、历史期间数据、快照分列",
+            "verification": "11月4日Xbox更新说明；Steam先前更新另标",
+            "evidence": [
+              {
+                "title": "Halls of Torment在Xbox更新：每周共同挑战与击杀目标模式",
+                "url": "https://news.xbox.com/en-us/2026/11/04/how-the-challenge-shrine-will-change-how-you-play/",
+                "source": "Xbox Wire／Chasing Carrots 官方",
+                "publishedAt": "2026-11-04T20:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "11月4日Xbox更新说明；Steam先前更新另标"
+              },
+              {
+                "title": "Steam版10月22日更新记录",
+                "url": "https://steamcommunity.com/app/2218750/allnews/",
+                "source": "Chasing Carrots Steam公告",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "历史上下文：击杀目标及解锁条件，不把Xbox发布当全平台首发"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261105-escape",
+            "title": "Escape Academy 2发布前指南：提示逐层展开，解谜与探索交替",
+            "url": "https://news.xbox.com/en-us/2026/11/04/escape-academy-2-tips/",
+            "summary": "行动者Xbox／Coin Crew Games。11月4日官方体验文列计划11月5日Xbox Series X|S、PC及Game Pass开放；计时密室之间有较低压力校园探索。提示逐屏增加明确程度，少量使用仍可能获A，大量依赖会影响成绩；支线得到Escape Bucks，部分剧情推进需要它。研究价值：拆分提示强度、时间压力与成长门槛，检查是否先让用户积累再遇阻；不是“提示完全无代价”，虚拟校币也不是现金提现。未验证今日各区解锁。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-04T17:00:00.000Z",
+            "discoveredAt": "2026-11-05T01:11:08.030Z",
+            "firstAt": "2026-11-04T17:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "同批裁决归组；新动态、历史期间数据、快照分列",
+            "verification": "11月4日指南；11月5日计划发行，时区及实际解锁未验证",
+            "evidence": [
+              {
+                "title": "Escape Academy 2发布前指南：提示逐层展开，解谜与探索交替",
+                "url": "https://news.xbox.com/en-us/2026/11/04/escape-academy-2-tips/",
+                "source": "Xbox Wire 官方编辑体验",
+                "publishedAt": "2026-11-04T17:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "11月4日指南；11月5日计划发行，时区及实际解锁未验证"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261105-cloud",
+            "title": "Xbox云游戏测试新输入：手机作电视手柄，Nano直连云端",
+            "url": "https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/",
+            "summary": "行动者Xbox。11月4日宣布两项预览：支持的智能电视可用兼容手机浏览器作手柄；美国用户可测试Nano手柄经Wi-Fi直连云端。两者仍测试中，设备、地区及游戏有范围限制。PC设置后者需Insider资格；不能写成所有电视或所有国家已支持。研究价值：研究大屏轻量玩法如何降低外设门槛，同时测试触控可读性及首局操作；官方只说可能改善响应，未披露本轮实测延迟或证明买量回收提升。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-04T19:00:00.000Z",
+            "discoveredAt": "2026-11-05T01:11:08.030Z",
+            "firstAt": "2026-11-04T19:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "同批裁决归组；新动态、历史期间数据、快照分列",
+            "verification": "11月4日预览公告，非全面正式发布",
+            "evidence": [
+              {
+                "title": "Xbox云游戏测试新输入：手机作电视手柄，Nano直连云端",
+                "url": "https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/",
+                "source": "Xbox Wire 官方",
+                "publishedAt": "2026-11-04T19:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "11月4日预览公告，非全面正式发布"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-20261105-sensor",
+            "title": "期间数据单列｜Sensor Tower十月月榜：Rotate Rings累计估算与商店门槛分开",
+            "url": "https://sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-october-2026",
+            "summary": "行动者Sensor Tower。官方十月回顾列全球下载前五Free Fire、Roblox、Block Blast、Brain Puzzle 3、Meowdoku；Rotate Rings总下载第7、下载增量排序第2，称自8月上线以来累计1870万估算下载。后者不是十月单月或Google Play单区安装。下载／支出为商店估计，排除第三方安卓市场；不代表广告收入、净利润或审计业绩。研究价值：从机制与地区切入，再核对自己的广告回收；页面只明确11月，精确首发日未确认，不拿11月4日发现时间作原文日期。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-05T01:11:08.030Z",
+            "firstAt": "2026-11-05T01:11:08.030Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "同批裁决归组；新动态、历史期间数据、快照分列",
+            "verification": "2026年十月数据；页面11月，精确发布日期未知",
+            "evidence": [
+              {
+                "title": "期间数据单列｜Sensor Tower十月月榜：Rotate Rings累计估算与商店门槛分开",
+                "url": "https://sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-october-2026",
+                "source": "Sensor Tower 官方研究回顾",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "2026年十月数据；页面11月，精确发布日期未知"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261105-charts",
+            "title": "榜单观察｜Meowdoku居美国iOS免费第1，日本Google Play畅销榜首Fate/Grand Order",
+            "url": "https://apps.apple.com/us/app/meowdoku/id6761760135?uo=2",
+            "summary": "台北11月5日05:16留存快照：美国iOS免费前三Meowdoku、Block Out、Magic Sort；美Google Play免费仍为Meowdoku、Block Blast、Rotate Rings。微信第三方畅销前三三国：冰河时代、向僵尸开炮、疯狂水世界；抖音前三疯狂水世界、三国：冰河时代、镇邪人。日本及美日全部免费／畅销分列完整表。不是09:00实时榜，国内MomoRank仅公开Top10，需平台内官方榜复核；排名不换算下载或收入。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-05T01:11:08.030Z",
+            "firstAt": "2026-11-05T01:11:08.030Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "同批裁决归组；新动态、历史期间数据、快照分列",
+            "verification": "05:16采集观察，非新发布证明",
+            "evidence": [
+              {
+                "title": "榜单观察｜Meowdoku居美国iOS免费第1，日本Google Play畅销榜首Fate/Grand Order",
+                "url": "https://apps.apple.com/us/app/meowdoku/id6761760135?uo=2",
+                "source": "商店快照／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "05:16采集观察，非新发布证明"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261105-research",
+            "title": "五个对象｜JustPlay、Rotate Rings、Pixel Flow、Halls of Torment、Escape Academy 2",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-05.md",
+            "summary": "沿赚钱预期／信任挽留、广告次数时长／兑换门槛、玩法／难度曲线三轴采证。商店安装门槛、机构期间估算、裁决中描述的玩法和实际体验分开；未披露iOS真实下载／收入留空。本轮没有实机、投放或兑付结果，不虚构验证结论。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-05T01:11:08.030Z",
+            "firstAt": "2026-11-05T01:11:08.030Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "同批裁决归组；新动态、历史期间数据、快照分列",
+            "verification": "待执行研究池",
+            "evidence": [
+              {
+                "title": "五个对象｜JustPlay、Rotate Rings、Pixel Flow、Halls of Torment、Escape Academy 2",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-05.md",
+                "source": "Game Hot 编辑研究任务",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "待执行研究池"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-04",
         "publishedAt": "2026-11-04T01:06:30.502Z",
         "generatedAt": "2026-11-04T01:06:30.502Z",
