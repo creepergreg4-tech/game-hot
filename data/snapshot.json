@@ -101358,6 +101358,268 @@
     ],
     "digests": [
       {
+        "date": "2026-11-06",
+        "publishedAt": "2026-11-06T01:08:54.377Z",
+        "generatedAt": "2026-11-06T01:08:54.377Z",
+        "windowStart": "2026-11-05T01:00:00.000Z",
+        "windowEnd": "2026-11-06T01:00:00.000Z",
+        "dataCutoff": "2026-11-06T00:09:38.106Z",
+        "mode": "中文核查版 · 4条厂商／平台动态；历史财报与Beta另列，榜单截止08:09",
+        "entries": [
+          {
+            "id": "verified-20261106-zynga",
+            "title": "Zynga谈长线运营：小样本试验，再把有效活动变为常驻",
+            "url": "https://www.zynga.com/corporate/building-evergreen-mobile-games-zynga/",
+            "summary": "行动者Zynga。11月5日官方经验文称Two Dots的Scavenger Hunt与Missions最初是实验，玩家反馈后才成为常驻；强调先保住解谜等核心动机，再评估长期经济和LTV，不能把两周活跃高峰当成功。研究价值：给IAA新活动同时设短期参与和长期资源／广告负担指标，分批验证。属于厂商经验，不是公开随机实验，未给出样本、增量留存或因果证据；不能直接推断同机制对网赚有效。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-05T14:00:21.000Z",
+            "discoveredAt": "2026-11-06T01:08:54.377Z",
+            "firstAt": "2026-11-05T14:00:21.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "同事件去重，财务期间／企业经验／预览分列",
+            "verification": "11月5日官方文章，历史案例与观点，非本期新活动上线",
+            "evidence": [
+              {
+                "title": "Zynga谈长线运营：小样本试验，再把有效活动变为常驻",
+                "url": "https://www.zynga.com/corporate/building-evergreen-mobile-games-zynga/",
+                "source": "Zynga 官方经验文章",
+                "publishedAt": "2026-11-05T14:00:21.000Z",
+                "origin": "official",
+                "evidenceType": "11月5日官方文章，历史案例与观点，非本期新活动上线"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261106-playtika",
+            "title": "Playtika三季度：收入同比近持平，DTC同比升但环比降",
+            "url": "https://investors.playtika.com/news-releases/news-release-details/playtika-holding-corp-reports-q3-2026-financial-results",
+            "summary": "行动者Playtika。11月5日财报发布：Q3收入6.738亿美元，同比-0.1%、环比-7.8%；DTC收入2.751亿美元，同比+31.4%、环比-4.1%。Disney Solitaire季度收入1.112亿美元，同比+88.4%同时环比-21.9%；不能只报同比增长。董事会另宣布结束战略审查、继续独立上市运营。研究价值：把产品增长、付费渠道迁移和整体规模分别看；是截至9月30日季度的公司披露，非今日流水、广告收益或机构商店估算。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-06T01:08:54.377Z",
+            "firstAt": "2026-11-06T01:08:54.377Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "同事件去重，财务期间／企业经验／预览分列",
+            "verification": "11月5日发布；2026年Q3数据，精确发稿时刻未确认",
+            "evidence": [
+              {
+                "title": "Playtika三季度：收入同比近持平，DTC同比升但环比降",
+                "url": "https://investors.playtika.com/news-releases/news-release-details/playtika-holding-corp-reports-q3-2026-financial-results",
+                "source": "Playtika IR 官方季度披露",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "11月5日发布；2026年Q3数据，精确发稿时刻未确认"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261106-xbox",
+            "title": "Xbox PC应用先给Insider提速预览，搜索和筛选一起改",
+            "url": "https://news.xbox.com/en-us/2026/11/05/a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud/",
+            "summary": "行动者Xbox。11月5日官方称Insider版PC应用启动最高快60%，部分页面最高快50%、窗口最高快65%；均为内部测试上限，设备等条件会影响结果。PC改版先供Insider，网页体验未来数周扩展，电视／VR也分批推出。研究价值：把到达游戏前的加载、搜索与找回上次游戏作为首局漏斗；不能把启动提速当游戏帧率提升，或把预览写成全量上线。本轮未安装／测速，不对所有用户承诺相同收益。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-05T17:00:04.000Z",
+            "discoveredAt": "2026-11-06T01:08:54.377Z",
+            "firstAt": "2026-11-05T17:00:04.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "同事件去重，财务期间／企业经验／预览分列",
+            "verification": "11月5日分批更新／预览公告",
+            "evidence": [
+              {
+                "title": "Xbox PC应用先给Insider提速预览，搜索和筛选一起改",
+                "url": "https://news.xbox.com/en-us/2026/11/05/a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud/",
+                "source": "Xbox Wire 官方",
+                "publishedAt": "2026-11-05T17:00:04.000Z",
+                "origin": "official",
+                "evidenceType": "11月5日分批更新／预览公告"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261106-hope",
+            "title": "Hope in the City：错误线索组合也给有意义反馈",
+            "url": "https://news.xbox.com/en-us/2026/11/05/hope-in-the-city-detective-sketchbook/",
+            "summary": "行动者Lofty Sky Games／NAGA Games。11月5日开发文列计划11月11日发行；玩家把笔记中任意两条想法组合，正确组合开启线索。作者称原型中重复的通用错误反馈乏味，之后为每个组合编写不同回应，可能给笑点、角色信息或细小提示，并经测试调整难理解连接。研究价值：降低试错挫败而不直接揭答案，记录反馈是否帮助建立正确心智模型；这是开发者自述，不是已验证的留存提升，尚未实机验收或确认各区开服。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-05T15:00:00.000Z",
+            "discoveredAt": "2026-11-06T01:08:54.377Z",
+            "firstAt": "2026-11-05T15:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "同事件去重，财务期间／企业经验／预览分列",
+            "verification": "11月5日开发说明；11月11日未来发行计划",
+            "evidence": [
+              {
+                "title": "Hope in the City：错误线索组合也给有意义反馈",
+                "url": "https://news.xbox.com/en-us/2026/11/05/hope-in-the-city-detective-sketchbook/",
+                "source": "Xbox Wire／开发者官方",
+                "publishedAt": "2026-11-05T15:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "11月5日开发说明；11月11日未来发行计划"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-20261106-app",
+            "title": "历史财报核查｜AppLovin Q3收入约21.85亿美元，不能替代游戏回收数据",
+            "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100826000068/exhibit991-3q26earningspre.htm",
+            "summary": "行动者AppLovin。SEC收录公司新闻稿日期11月4日，早于本期标称新闻日，单列历史核查。Q3收入21.85亿美元、同比+55%，净利润约14.39亿美元、同比+72%；财务表注明未经审计。属于广告平台公司季度表现，不是某游戏广告收入、玩家提现能力或投放ROAS。研究价值：追踪渠道行动时保留公司规模与自家回收的边界，未采纳股价上涨、目标价或投资建议。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-06T01:08:54.377Z",
+            "firstAt": "2026-11-06T01:08:54.377Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "同事件去重，财务期间／企业经验／预览分列",
+            "verification": "11月4日发布；2026年Q3，非11月5日新公告",
+            "evidence": [
+              {
+                "title": "历史财报核查｜AppLovin Q3收入约21.85亿美元，不能替代游戏回收数据",
+                "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100826000068/exhibit991-3q26earningspre.htm",
+                "source": "AppLovin／SEC公司披露",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "11月4日发布；2026年Q3，非11月5日新公告"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261106-birds",
+            "title": "现存Beta观察｜Angry Birds Tower Defense不是今天才上线的确定事实",
+            "url": "https://www.roblox.com/games/95568014894521/Angry-Birds-Tower-Defense",
+            "summary": "行动者Rovio Official。Roblox官方游戏页当前标BETA，描述含不同鸟塔职能、合并／升级和多模式，部分地图及免费UGC仍标coming soon。11月5日媒体发现不证明同日首发；官方页未给本轮可确认的首次上线日，因此只列观察。研究价值：研究熟悉IP如何解释DPS、穿透、范围与支援分工；Beta、未来内容、访问次数、独立玩家和下载量不可混用。本期未进入游戏或验证付费及奖励发放。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-06T01:08:54.377Z",
+            "firstAt": "2026-11-06T01:08:54.377Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "同事件去重，财务期间／企业经验／预览分列",
+            "verification": "现存Beta／首次上线日期未确认，非新发行新闻",
+            "evidence": [
+              {
+                "title": "现存Beta观察｜Angry Birds Tower Defense不是今天才上线的确定事实",
+                "url": "https://www.roblox.com/games/95568014894521/Angry-Birds-Tower-Defense",
+                "source": "Roblox／Rovio Official 游戏页",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "现存Beta／首次上线日期未确认，非新发行新闻"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261106-charts",
+            "title": "榜单观察｜灵画师居第三方抖音畅销榜第1；日本iOS榜首NIKKE",
+            "url": "https://www.momorank.com/douyin/rankings/bestseller",
+            "summary": "台北11月6日08:09留存快照：抖音第三方畅销前三灵画师、疯狂水世界、镇邪人；微信前三向僵尸开炮、三国：冰河时代、灵画师。日本iOS畅销前三NIKKE、eFootball、Monster Hunter Outlanders；美iOS免费仍为Meowdoku、Block Out、Magic Sort。美日Google Play及各维度完整表见报告。不是09:00实时榜；国内MomoRank公开Top10需平台内官方榜复核，榜位不换算下载、收入或IAA占比。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-06T01:08:54.377Z",
+            "firstAt": "2026-11-06T01:08:54.377Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "同事件去重，财务期间／企业经验／预览分列",
+            "verification": "08:09快照，非原文发布日期",
+            "evidence": [
+              {
+                "title": "榜单观察｜灵画师居第三方抖音畅销榜第1；日本iOS榜首NIKKE",
+                "url": "https://www.momorank.com/douyin/rankings/bestseller",
+                "source": "商店快照／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "08:09快照，非原文发布日期"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261106-research",
+            "title": "五个对象｜JustPlay、Rotate Rings、Two Dots、Disney Solitaire、Angry Birds TD",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-06.md",
+            "summary": "沿赚钱预期／信任挽留、广告次数时长／兑换门槛、核心玩法／难度三轴取证。商店全球累计安装门槛、公司季度收入和Beta内容描述各自标注。iOS真实下载与未披露收入留空；无实机、投放或兑付结果，不虚构效果。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-06T01:08:54.377Z",
+            "firstAt": "2026-11-06T01:08:54.377Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "同事件去重，财务期间／企业经验／预览分列",
+            "verification": "待执行研究池",
+            "evidence": [
+              {
+                "title": "五个对象｜JustPlay、Rotate Rings、Two Dots、Disney Solitaire、Angry Birds TD",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-06.md",
+                "source": "Game Hot 编辑研究任务",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "待执行研究池"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-05",
         "publishedAt": "2026-11-05T01:11:08.030Z",
         "generatedAt": "2026-11-05T01:11:08.030Z",
