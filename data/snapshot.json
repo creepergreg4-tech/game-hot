@@ -101608,6 +101608,237 @@
     ],
     "digests": [
       {
+        "date": "2026-11-07",
+        "publishedAt": "2026-11-07T01:03:56.130Z",
+        "generatedAt": "2026-11-07T01:03:56.130Z",
+        "windowStart": "2026-11-06T01:00:00.000Z",
+        "windowEnd": "2026-11-07T01:00:00.000Z",
+        "dataCutoff": "2026-11-07T00:52:23.456Z",
+        "mode": "中文核查版 · 3条官方机制／开发动态；Apple与Unity历史原文另列，榜单截止08:52",
+        "entries": [
+          {
+            "id": "verified-20261107-hozy",
+            "title": "Hozy计划11月9日上PS5：策展式家具减少选择负担",
+            "url": "https://blog.playstation.com/2026/11/06/hozy-brings-calm-tactile-home-restoration-to-ps5-on-november-9/",
+            "summary": "行动者tinyBuild。11月6日官方文介绍无计时／分数的家居修复，每关先整理翻修，再用限定家具套装布置，减少面对无限目录的负担；主线九关后有Game+房间变化与沙盒。研究价值：将清理过程的可见变化、工具声音和反馈当奖励，测试适合轻度用户的完成感；不是现金收益，也没有公开IAA效果。季节活动与免费／付费DLC仅列未来计划，不能当现已可玩。本期未实机验证或确认11月9日地区解锁。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-06T17:00:12.000Z",
+            "discoveredAt": "2026-11-07T01:03:56.130Z",
+            "firstAt": "2026-11-06T17:00:12.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "官方新文章、未来计划、历史政策财报与快照分列",
+            "verification": "11月6日公告；11月9日未来PS5计划",
+            "evidence": [
+              {
+                "title": "Hozy计划11月9日上PS5：策展式家具减少选择负担",
+                "url": "https://blog.playstation.com/2026/11/06/hozy-brings-calm-tactile-home-restoration-to-ps5-on-november-9/",
+                "source": "PlayStation Blog／tinyBuild 官方",
+                "publishedAt": "2026-11-06T17:00:12.000Z",
+                "origin": "official",
+                "evidenceType": "11月6日公告；11月9日未来PS5计划"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261107-cat",
+            "title": "Cat-Astrophy讲解Build：局内模块与跨局解锁承担不同回报",
+            "url": "https://news.xbox.com/en-us/2026/11/06/cat-astrophy/",
+            "summary": "行动者Pdpartid@games。11月6日Xbox官方开发文称模块在探索中形成组合，方向攻击与疲劳限制连续出招，航线又影响风险与奖励；死亡后星之碎片可用于永久升级和新路线。研究价值：把当局选择、操作反馈与失败后成长拆开，研究如何让重复尝试有明确下一步目标。文章称已上Xbox等平台，不等于本轮首次全平台发行。开发者关于重玩价值的自述未被转化为留存结论；未实机测难度，碎片不是可提现奖励。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-06T18:30:00.000Z",
+            "discoveredAt": "2026-11-07T01:03:56.130Z",
+            "firstAt": "2026-11-06T18:30:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "官方新文章、未来计划、历史政策财报与快照分列",
+            "verification": "11月6日机制说明；不虚构首次发行日期",
+            "evidence": [
+              {
+                "title": "Cat-Astrophy讲解Build：局内模块与跨局解锁承担不同回报",
+                "url": "https://news.xbox.com/en-us/2026/11/06/cat-astrophy/",
+                "source": "Xbox Wire／开发者官方文章",
+                "publishedAt": "2026-11-06T18:30:00.000Z",
+                "origin": "official",
+                "evidenceType": "11月6日机制说明；不虚构首次发行日期"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261107-godot",
+            "title": "Godot案例Sovereign Tower：时间回溯不等于简单恢复旧存档",
+            "url": "https://godotengine.org/article/godot-showcase-sovereign-tower/",
+            "summary": "行动者Godot／Wild Wits Games。11月6日访谈解释：每轮早晚各有存档，但主角须保留已获知识，叠加大量任务／叙事变量，团队细分保存内容并反复测试，发布后仍有问题待修。编剧也因字数与本地化预算裁剪回溯分支。研究价值：先区分世界状态、玩家知识和永久进度，再控制分支数量；可用于轻度游戏失败挽留与重玩设计，不是“所有存档问题已解决”或引擎优劣证明。未改动用户项目或实机验收。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-06T14:00:00.000Z",
+            "discoveredAt": "2026-11-07T01:03:56.130Z",
+            "firstAt": "2026-11-06T14:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "官方新文章、未来计划、历史政策财报与快照分列",
+            "verification": "11月6日访谈，产品历史开发案例",
+            "evidence": [
+              {
+                "title": "Godot案例Sovereign Tower：时间回溯不等于简单恢复旧存档",
+                "url": "https://godotengine.org/article/godot-showcase-sovereign-tower/",
+                "source": "Godot Engine 官方开发者访谈",
+                "publishedAt": "2026-11-06T14:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "11月6日访谈，产品历史开发案例"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-20261107-apple",
+            "title": "历史政策核查｜Apple订阅挽留消息原文为11月4日，非今日新增",
+            "url": "https://developer.apple.com/news/?id=fk9ps3gv",
+            "summary": "行动者Apple。11月6日媒体转载的原始公告日期为11月4日：自动续期订阅可在取消流程显示文字、图片或优惠，App Store Connect可设资格和消息间隔；按订阅详情选消息的Retention Messaging API需申请访问。研究价值：把价值提醒、优惠与取消去向分别计量，不把它当IAA广告展示或提现挽留功能。原文未给实际流失降低数字，本轮未申请API、配置账号或证明挽留效果。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-07T01:03:56.130Z",
+            "firstAt": "2026-11-07T01:03:56.130Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "官方新文章、未来计划、历史政策财报与快照分列",
+            "verification": "11月4日历史公告；本期回查，非今日首发",
+            "evidence": [
+              {
+                "title": "历史政策核查｜Apple订阅挽留消息原文为11月4日，非今日新增",
+                "url": "https://developer.apple.com/news/?id=fk9ps3gv",
+                "source": "Apple Developer 官方公告",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "11月4日历史公告；本期回查，非今日首发"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261107-unity",
+            "title": "历史财报核查｜Unity Q3：总收入与Strategic Grow口径分开",
+            "url": "https://investors.unity.com/news/news-details/2026/Unity-Reports-Third-Quarter-2026-Financial-Results/default.aspx",
+            "summary": "行动者Unity。11月5日公司披露Q3总收入6.22092亿美元，同比+32%；Strategic Grow收入4.31502亿美元，同比+90%，不能与Grow Solutions总口径混用。CEO称Vector同比+126%、环比+40%，这是公司披露，非某游戏ROAS提升。报表注明未经审计，Q4指引属于预测。研究价值：追踪广告平台时同步核对业务口径和已退出业务，不从平台增长推导IAA单品更赚钱；本期不采用收购传闻、股价或投资结论。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-07T01:03:56.130Z",
+            "firstAt": "2026-11-07T01:03:56.130Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 1,
+            "grouping": "官方新文章、未来计划、历史政策财报与快照分列",
+            "verification": "11月5日历史财报；Q3期间数据，不当11月6日新公告",
+            "evidence": [
+              {
+                "title": "历史财报核查｜Unity Q3：总收入与Strategic Grow口径分开",
+                "url": "https://investors.unity.com/news/news-details/2026/Unity-Reports-Third-Quarter-2026-Financial-Results/default.aspx",
+                "source": "Unity IR 官方季度披露",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "11月5日历史财报；Q3期间数据，不当11月6日新公告"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261107-charts",
+            "title": "榜单观察｜日本iOS畅销前三NIKKE、学园偶像大师、Monster Hunter Outlanders",
+            "url": "https://apps.apple.com/jp/app/%E5%8B%9D%E5%88%A9%E3%81%AE%E5%A5%B3%E7%A5%9E-nikke/id1585915174?uo=2",
+            "summary": "台北11月7日08:52快照：美国iOS免费前三Meowdoku、Block Out、Magic Sort；美国Google Play免费前三Meowdoku、Block Blast、Rotate Rings。微信第三方畅销前三向僵尸开炮、疯狂水世界、灵画师，抖音前三疯狂水世界、灵画师、镇邪人。国内MomoRank仅公开Top10，需平台内核对；美日各商店免费／畅销单列完整表。不是09:00实时榜，不把排名折算下载、收入或IAA占比。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-07T01:03:56.130Z",
+            "firstAt": "2026-11-07T01:03:56.130Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "官方新文章、未来计划、历史政策财报与快照分列",
+            "verification": "08:52采集观察，非新发布事实",
+            "evidence": [
+              {
+                "title": "榜单观察｜日本iOS畅销前三NIKKE、学园偶像大师、Monster Hunter Outlanders",
+                "url": "https://apps.apple.com/jp/app/%E5%8B%9D%E5%88%A9%E3%81%AE%E5%A5%B3%E7%A5%9E-nikke/id1585915174?uo=2",
+                "source": "官方商店快照／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "08:52采集观察，非新发布事实"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261107-research",
+            "title": "五个对象｜JustPlay、Rotate Rings、Hozy、Cat-Astrophy、Sovereign Tower",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-07.md",
+            "summary": "沿赚钱预期／信任挽留、广告次数时长／兑换门槛、玩法／难度三轴采证。商店全球累计安装门槛、开发者玩法陈述与实际测试分开；未披露iOS真实下载及收入留空。无实机、投放或兑付结果，不虚构指标。",
+            "actorIds": [],
+            "tags": [
+              "行业",
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-07T01:03:56.130Z",
+            "firstAt": "2026-11-07T01:03:56.130Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "官方新文章、未来计划、历史政策财报与快照分列",
+            "verification": "待执行观察池",
+            "evidence": [
+              {
+                "title": "五个对象｜JustPlay、Rotate Rings、Hozy、Cat-Astrophy、Sovereign Tower",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-07.md",
+                "source": "Game Hot 编辑研究任务",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "待执行观察池"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-06",
         "publishedAt": "2026-11-06T01:08:54.377Z",
         "generatedAt": "2026-11-06T01:08:54.377Z",
