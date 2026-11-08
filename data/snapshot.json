@@ -101263,6 +101263,139 @@
     ],
     "digests": [
       {
+        "date": "2026-11-08",
+        "publishedAt": "2026-11-08T01:01:29.253Z",
+        "generatedAt": "2026-11-08T01:01:29.253Z",
+        "windowStart": "2026-11-07T01:00:00.000Z",
+        "windowEnd": "2026-11-08T01:00:00.000Z",
+        "dataCutoff": "2026-11-07T22:41:19.994Z",
+        "mode": "中文核查版 · 未确认足够窗口内新消息；历史CPE研究／榜单／五个对象，榜单截止06:41",
+        "entries": [],
+        "briefs": [
+          {
+            "id": "verified-20261108-cpe",
+            "title": "历史奖励买量研究｜日本CPE标价不能当广告主采购价或实际兑付",
+            "url": "https://www.rocket-a.com/resources/japan-cpe-report-2026-11-w1/",
+            "summary": "行动者Rocket Ads／aix。11月5日文章比较11月4日与10月28日奖励媒体列表：持续出现的43个游戏及应用活动中23个最高展示奖励变价。口径为完成全部步骤可获的用户奖励合计，不是广告主费率，也不证明任何玩家全部完成或兑付。研究价值：按平台、步骤、期限及资格保存证据，不拿一个醒目总额当低门槛赚钱承诺。报告媒体名称匿名，样本仅44项，属于服务商内部追踪而非日本全市场独立审计；不是今日新报价。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-08T01:01:29.253Z",
+            "firstAt": "2026-11-08T01:01:29.253Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史研究、日期核查与榜单观察，不冒充今日事实",
+            "verification": "11月5日原文；11月4日／10月28日样本，历史研究",
+            "evidence": [
+              {
+                "title": "历史奖励买量研究｜日本CPE标价不能当广告主采购价或实际兑付",
+                "url": "https://www.rocket-a.com/resources/japan-cpe-report-2026-11-w1/",
+                "source": "Rocket Ads 服务商自有追踪报告",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "11月5日原文；11月4日／10月28日样本，历史研究"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261108-dates",
+            "title": "日期核查｜Pulse Elevate延期更新实际为11月6日",
+            "url": "https://blog.playstation.com/2025/09/24/introducing-pulse-elevate-sony-interactive-entertainments-first-wireless-speakers-for-desktop-gaming/",
+            "summary": "行动者Sony。11月7日媒体发现的延期消息，官方原页更新日期为11月6日：质量测试发现生产问题，决定延后，未给新上市日期或具体故障。本期不将它当11月7日首次公告，也不沿用旧11月12日日期作确定计划。该消息与IAA关系较弱，仅保留为日期核查记录；不能由“尚无新日期”推断项目取消。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-08T01:01:29.253Z",
+            "firstAt": "2026-11-08T01:01:29.253Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史研究、日期核查与榜单观察，不冒充今日事实",
+            "verification": "11月6日更新；本期仅回查日期",
+            "evidence": [
+              {
+                "title": "日期核查｜Pulse Elevate延期更新实际为11月6日",
+                "url": "https://blog.playstation.com/2025/09/24/introducing-pulse-elevate-sony-interactive-entertainments-first-wireless-speakers-for-desktop-gaming/",
+                "source": "PlayStation Blog 官方更新",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "11月6日更新；本期仅回查日期"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261108-charts",
+            "title": "榜单观察｜美国双商店免费榜首Meowdoku；微信增速排序与名次分开",
+            "url": "https://apps.apple.com/us/app/meowdoku/id6761760135?uo=2",
+            "summary": "台北11月8日06:41快照：美iOS免费前三Meowdoku、Block Out、Magic Sort，美Google Play免费前三Meowdoku、Block Blast、Rotate Rings。微信第三方畅销前三向僵尸开炮、疯狂水世界、三国：冰河时代；抖音前三疯狂水世界、灵画师、镇邪人。微信增速排序首项次神：光之觉醒的currentRank为32，不是畅销第1。美日各商店完整表见报告；国内MomoRank公开Top10需平台内复核，榜位不换算下载、收入或IAA占比。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-08T01:01:29.253Z",
+            "firstAt": "2026-11-08T01:01:29.253Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史研究、日期核查与榜单观察，不冒充今日事实",
+            "verification": "06:41留存快照；非09:00实时榜",
+            "evidence": [
+              {
+                "title": "榜单观察｜美国双商店免费榜首Meowdoku；微信增速排序与名次分开",
+                "url": "https://apps.apple.com/us/app/meowdoku/id6761760135?uo=2",
+                "source": "商店快照／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "06:41留存快照；非09:00实时榜"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261108-research",
+            "title": "五个对象｜JustPlay、Rotate Rings、Mistplay活动、疯狂水世界、次神：光之觉醒",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-08.md",
+            "summary": "沿赚钱预期／信任挽留、广告次数时长／兑换门槛、核心玩法／难度三轴记录。Google Play门槛是全球累计，不是今日／30日／单区下载；CPE总奖励、实际到账和广告主采购成本分开。未披露iOS真实下载／收入留空，本轮无实机、投放或兑付结果。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-08T01:01:29.253Z",
+            "firstAt": "2026-11-08T01:01:29.253Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "历史研究、日期核查与榜单观察，不冒充今日事实",
+            "verification": "待执行研究池，非已完成实验",
+            "evidence": [
+              {
+                "title": "五个对象｜JustPlay、Rotate Rings、Mistplay活动、疯狂水世界、次神：光之觉醒",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-08.md",
+                "source": "Game Hot 编辑研究任务",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "待执行研究池，非已完成实验"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-07",
         "publishedAt": "2026-11-07T01:03:56.130Z",
         "generatedAt": "2026-11-07T01:03:56.130Z",
