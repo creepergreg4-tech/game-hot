@@ -101064,6 +101064,109 @@
     ],
     "digests": [
       {
+        "date": "2026-11-09",
+        "publishedAt": "2026-11-09T01:02:18.439Z",
+        "generatedAt": "2026-11-09T01:02:18.439Z",
+        "windowStart": "2026-11-08T01:00:00.000Z",
+        "windowEnd": "2026-11-09T01:00:00.000Z",
+        "dataCutoff": "2026-11-09T00:48:38.634Z",
+        "mode": "中文核查版 · 未确认足够窗口内新动作；Epic原始日期核查／榜单／五个对象，榜单截止08:48",
+        "entries": [],
+        "briefs": [
+          {
+            "id": "verified-20261109-epic",
+            "title": "原始日期核查｜Epic的SteamOS计划来自11月6日采访，仍是Preview",
+            "url": "https://www.gamingonlinux.com/2026/11/epic-games-comments-on-planned-linux-distribution-support/",
+            "summary": "行动者Epic Games。回看GamingOnLinux直接采访：文章11月6日19:22 UTC发布、11月7日08:49更新，早于本期窗口；不能以11月8日The Verge转载当首次新动作。Epic发言人说计划支持SteamOS等发行版，并在本月恢复AppImage分发，仍处Preview。研究价值：渠道兼容应区分计划、启动器可用与具体游戏可运行；不据这段采访宣称Fortnite已在Steam Deck运行，也不把多站转载计作独立互证。本期未安装测试，未找到本窗口新落地证据。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-09T01:02:18.439Z",
+            "firstAt": "2026-11-09T01:02:18.439Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "原始日期核查与榜单观察，不把转载当新动作",
+            "verification": "11月6日发布／11月7日更新；历史采访，本期日期核查",
+            "evidence": [
+              {
+                "title": "原始日期核查｜Epic的SteamOS计划来自11月6日采访，仍是Preview",
+                "url": "https://www.gamingonlinux.com/2026/11/epic-games-comments-on-planned-linux-distribution-support/",
+                "source": "GamingOnLinux 直接采访Epic发言人",
+                "publishedAt": "2026-11-06T19:22:00.000Z",
+                "origin": "discovery",
+                "evidenceType": "11月6日发布／11月7日更新；历史采访，本期日期核查"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261109-charts",
+            "title": "榜单观察｜Warline日本iOS免费第3；Meowdoku居日本Google Play免费第1",
+            "url": "https://apps.apple.com/jp/app/warline-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC/id6742809194?uo=2",
+            "summary": "台北11月9日08:48快照：日本iOS免费前三Monster Hunter Outlanders、Meowdoku、Warline；日本Google Play免费前三Meowdoku、Monster Hunter Outlanders、迪士尼相关游戏。美国Google Play免费前三Meowdoku、Block Blast、Roblox。微信第三方畅销前三向僵尸开炮、疯狂水世界、三国：冰河时代；抖音前三疯狂水世界、灵画师、镇邪人。不是09:00实时榜；国内MomoRank公开Top10需平台内复核，增速排序与当前名次分开，榜位不换算下载／收入。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-09T01:02:18.439Z",
+            "firstAt": "2026-11-09T01:02:18.439Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "原始日期核查与榜单观察，不把转载当新动作",
+            "verification": "08:48采集观察，非新品发行或商业效果证明",
+            "evidence": [
+              {
+                "title": "榜单观察｜Warline日本iOS免费第3；Meowdoku居日本Google Play免费第1",
+                "url": "https://apps.apple.com/jp/app/warline-%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC/id6742809194?uo=2",
+                "source": "官方商店快照／MomoRank第三方榜",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "08:48采集观察，非新品发行或商业效果证明"
+              }
+            ]
+          },
+          {
+            "id": "verified-20261109-research",
+            "title": "五个对象｜JustPlay、Rotate Rings、Warline、肥鹅美食街、城主别慌张",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-09.md",
+            "summary": "沿赚钱预期／信任挽留、广告次数时长／兑换门槛、核心玩法／难度三轴记录。商店门槛是全球累计，不是今日／30日／单区下载；热门、免费、畅销与增速四种榜意不混用。未披露iOS真实下载及收入留空，无实机、投放或兑付结果，不虚构效果。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-09T01:02:18.439Z",
+            "firstAt": "2026-11-09T01:02:18.439Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "ruleScore": 0,
+            "officialCount": 0,
+            "grouping": "原始日期核查与榜单观察，不把转载当新动作",
+            "verification": "待执行观察池",
+            "evidence": [
+              {
+                "title": "五个对象｜JustPlay、Rotate Rings、Warline、肥鹅美食街、城主别慌张",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-09.md",
+                "source": "Game Hot 编辑研究任务",
+                "publishedAt": null,
+                "origin": "discovery",
+                "evidenceType": "待执行观察池"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-08",
         "publishedAt": "2026-11-08T01:01:29.253Z",
         "generatedAt": "2026-11-08T01:01:29.253Z",
