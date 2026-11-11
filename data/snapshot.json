@@ -101274,6 +101274,376 @@
     ],
     "digests": [
       {
+        "date": "2026-11-11",
+        "publishedAt": "2026-11-11T01:02:30.545Z",
+        "generatedAt": "2026-11-11T01:02:30.545Z",
+        "windowStart": "2026-11-10T01:00:00.000Z",
+        "windowEnd": "2026-11-11T01:00:00.000Z",
+        "dataCutoff": "2026-11-10T23:13:59.200Z",
+        "mode": "中文核查版 · 8条官方动态；榜单截止台北07:13",
+        "entries": [
+          {
+            "id": "verified-2026-11-11-gift",
+            "title": "任天堂23.5.0为家庭群组赠礼铺路",
+            "url": "https://www.nintendo.com/au/support/articles/system-update-information-for-nintendo-switch/",
+            "summary": "任天堂｜11月10日系统更新。固件增加家庭群组数字商品赠礼支持，澳洲公告计划11月17日更新eShop后启用，美国预告列11月16日；地区日期以各站为准。可研究家庭关系如何促成付费转赠，资格、商品限制与正式开放分开核对。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-11T01:02:30.545Z",
+            "firstAt": "2026-11-11T01:02:30.545Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并，保留原文与适用范围",
+            "verification": "11月10日官方固件；赠礼尚未按该公告开放",
+            "evidence": [
+              {
+                "title": "任天堂23.5.0为家庭群组赠礼铺路",
+                "url": "https://www.nintendo.com/au/support/articles/system-update-information-for-nintendo-switch/",
+                "source": "任天堂官方支持",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "11月10日官方固件；赠礼尚未按该公告开放"
+              },
+              {
+                "title": "美国地区赠礼预告",
+                "url": "https://www.nintendo.com/us/whatsnew/coming-soon-gift-digital-games-to-family-group-members/",
+                "source": "任天堂美国官方",
+                "origin": "official",
+                "publishedAt": null,
+                "evidenceType": "11月9日地区预告；不重复计事件"
+              }
+            ]
+          },
+          {
+            "id": "verified-2026-11-11-warhammer",
+            "title": "Warhammer Survivors上线Xbox与Game Pass",
+            "url": "https://news.xbox.com/en-us/2026/11/10/warhammer-survivors-gloomspite-gitz/",
+            "summary": "Auroch Digital、poncle｜11月10日官方攻略。不同敌人采用群体推进、弹跳或定向冲锋，成对敌人的一方死亡还会改变另一方行为。拆解重点是用敌群组合和可读的攻击前兆做难度变化；未实测，也无证据将其归为IAA。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-10T10:00:00.000Z",
+            "discoveredAt": "2026-11-11T01:02:30.545Z",
+            "firstAt": "2026-11-10T10:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并，保留原文与适用范围",
+            "verification": "官方原文",
+            "evidence": [
+              {
+                "title": "Warhammer Survivors上线Xbox与Game Pass",
+                "url": "https://news.xbox.com/en-us/2026/11/10/warhammer-survivors-gloomspite-gitz/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-11-10T10:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方原文"
+              }
+            ]
+          },
+          {
+            "id": "verified-2026-11-11-fm",
+            "title": "Football Manager 27把临场调整移到比赛流程中",
+            "url": "https://news.xbox.com/en-us/2026/11/10/football-manager-27-game-pass-pc-console-xbox/",
+            "summary": "Sports Interactive／Xbox｜11月10日官方文章确认PC版与Series X|S主机版均可通过Game Pass游玩。临场战术可直接调整团队或个人，不用每次深入战术菜单。可研究如何保留经营深度，同时减少紧急操作的界面层级。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-10T20:00:00.000Z",
+            "discoveredAt": "2026-11-11T01:02:30.545Z",
+            "firstAt": "2026-11-10T20:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并，保留原文与适用范围",
+            "verification": "官方原文",
+            "evidence": [
+              {
+                "title": "Football Manager 27把临场调整移到比赛流程中",
+                "url": "https://news.xbox.com/en-us/2026/11/10/football-manager-27-game-pass-pc-console-xbox/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-11-10T20:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方原文"
+              }
+            ]
+          },
+          {
+            "id": "verified-2026-11-11-gta",
+            "title": "GTA VI确认Xbox One首日走云端，游戏需另购",
+            "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/",
+            "summary": "Xbox／Rockstar｜11月10日公告：11月19日计划支持Xbox One与Series X|S云串流，后者另有原生版本。支持市场从11月11日起可买云游戏时长，无需Game Pass订阅；游戏本体另购，设备和账号资格有条件。研究分开计量内容购买、云时长与设备覆盖；预购纪录未披露具体数量。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-10T15:45:00.000Z",
+            "discoveredAt": "2026-11-11T01:02:30.545Z",
+            "firstAt": "2026-11-10T15:45:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并，保留原文与适用范围",
+            "verification": "官方原文",
+            "evidence": [
+              {
+                "title": "GTA VI确认Xbox One首日走云端，游戏需另购",
+                "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-11-10T15:45:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方原文"
+              }
+            ]
+          },
+          {
+            "id": "verified-2026-11-11-outer",
+            "title": "The Outer Worlds 2首个剧情DLC计划12月2日推出",
+            "url": "https://news.xbox.com/en-us/2026/11/10/side-effects-guaranteed-the-outer-worlds-2-dlc/",
+            "summary": "Obsidian／Xbox｜11月10日公告，首个扩展带来新区域，等级上限计划从30提至36，并增加专长与缺点。可拆解扩展如何接续旧角色Build，而不是只增加数值；公告不是已经上线，也不是免费更新的证明。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-10T18:00:00.000Z",
+            "discoveredAt": "2026-11-11T01:02:30.545Z",
+            "firstAt": "2026-11-10T18:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并，保留原文与适用范围",
+            "verification": "官方原文",
+            "evidence": [
+              {
+                "title": "The Outer Worlds 2首个剧情DLC计划12月2日推出",
+                "url": "https://news.xbox.com/en-us/2026/11/10/side-effects-guaranteed-the-outer-worlds-2-dlc/",
+                "source": "Xbox Wire 官方消息",
+                "publishedAt": "2026-11-10T18:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方原文"
+              }
+            ]
+          },
+          {
+            "id": "verified-2026-11-11-marathon",
+            "title": "Marathon计划用三局PvE与短局3v3覆盖不同风险偏好",
+            "url": "https://blog.playstation.com/2026/11/10/marathon-symbiosis-update-launches-december-8-adding-new-pve-and-pvp-modes-weapons-and-more/",
+            "summary": "Bungie／PlayStation｜11月10日公告，12月8日计划推出Symbiosis。Expedition首阶段是三局PvE，可单人或组队；3v3为测试模式，不冒永久装备损失的风险。可比较高风险主模式与低损失试错入口，未测留存效果。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-10T14:00:13.000Z",
+            "discoveredAt": "2026-11-11T01:02:30.545Z",
+            "firstAt": "2026-11-10T14:00:13.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并，保留原文与适用范围",
+            "verification": "官方原文",
+            "evidence": [
+              {
+                "title": "Marathon计划用三局PvE与短局3v3覆盖不同风险偏好",
+                "url": "https://blog.playstation.com/2026/11/10/marathon-symbiosis-update-launches-december-8-adding-new-pve-and-pvp-modes-weapons-and-more/",
+                "source": "PlayStation 官方订阅",
+                "publishedAt": "2026-11-10T14:00:13.000Z",
+                "origin": "official",
+                "evidenceType": "官方原文"
+              }
+            ]
+          },
+          {
+            "id": "verified-2026-11-11-godot",
+            "title": "JetBrains续签Godot基金会2027年白金赞助",
+            "url": "https://godotengine.org/article/partners_jetbrains_sponsorship_renewal_2027/",
+            "summary": "Godot Foundation／JetBrains｜11月10日赞助文章。Rider覆盖GDScript、C#和C++ GDExtension，部分新调试与导航能力仍在EAP。适合列入原型调试工具候选，非商用免费与商用许可分开核对；赞助文章不作独立工具性能评测。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-10T12:00:00.000Z",
+            "discoveredAt": "2026-11-11T01:02:30.545Z",
+            "firstAt": "2026-11-10T12:00:00.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并，保留原文与适用范围",
+            "verification": "官方原文",
+            "evidence": [
+              {
+                "title": "JetBrains续签Godot基金会2027年白金赞助",
+                "url": "https://godotengine.org/article/partners_jetbrains_sponsorship_renewal_2027/",
+                "source": "Godot Engine 官方订阅",
+                "publishedAt": "2026-11-10T12:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "官方原文"
+              }
+            ]
+          },
+          {
+            "id": "verified-2026-11-11-swift",
+            "title": "Apple公布2027学生挑战，作品可面向任一Apple平台",
+            "url": "https://developer.apple.com/news/?id=jkykd58d",
+            "summary": "Apple｜11月10日开发者公告。计划2027年2月8日至28日开放提交；允许学生提交面向任一Apple平台的应用。对小团队可作原型范围参考，但赛事资格、商店上架和商业分发是不同事项。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": "2026-11-10T17:00:12.000Z",
+            "discoveredAt": "2026-11-11T01:02:30.545Z",
+            "firstAt": "2026-11-10T17:00:12.000Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并，保留原文与适用范围",
+            "verification": "官方原文",
+            "evidence": [
+              {
+                "title": "Apple公布2027学生挑战，作品可面向任一Apple平台",
+                "url": "https://developer.apple.com/news/?id=jkykd58d",
+                "source": "Apple App Store 官方订阅",
+                "publishedAt": "2026-11-10T17:00:12.000Z",
+                "origin": "official",
+                "evidenceType": "官方原文"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-2026-11-11-valve",
+            "title": "历史日期核查：Steam Deck帧率统计原文标11月9日",
+            "url": "https://store.steampowered.com/news/posts/index.php?pid=25591&view=video",
+            "summary": "Valve官方公告说明样本来自选择共享数据的玩家，按默认帧率限制筛选，可查看均值和分布；不是每台设备的性能保证。11月10日媒体转载不当新发布。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-11T01:02:30.545Z",
+            "firstAt": "2026-11-11T01:02:30.545Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并，保留原文与适用范围",
+            "verification": "11月9日官方原文，单列",
+            "evidence": [
+              {
+                "title": "历史日期核查：Steam Deck帧率统计原文标11月9日",
+                "url": "https://store.steampowered.com/news/posts/index.php?pid=25591&view=video",
+                "source": "Steam News",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "11月9日官方原文，单列"
+              }
+            ]
+          },
+          {
+            "id": "verified-2026-11-11-sensor",
+            "title": "期间报告：美国数字广告支出同比增17.4%，不能替代游戏买量回收",
+            "url": "https://sensortower.com/blog/q3-2026-digital-market-index",
+            "summary": "Sensor Tower公开摘要的Q3指标覆盖美国数字广告大盘；休闲益智趋势只作方向。页面只标11月，完整报告需填表，未提交。不可由大盘开支推导单游戏CPI、广告收入或ROAS。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-11T01:02:30.545Z",
+            "firstAt": "2026-11-11T01:02:30.545Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并，保留原文与适用范围",
+            "verification": "Q3期间数据；精确首发日未核实",
+            "evidence": [
+              {
+                "title": "期间报告：美国数字广告支出同比增17.4%，不能替代游戏买量回收",
+                "url": "https://sensortower.com/blog/q3-2026-digital-market-index",
+                "source": "Sensor Tower官方摘要",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "Q3期间数据；精确首发日未核实"
+              }
+            ]
+          },
+          {
+            "id": "verified-2026-11-11-charts",
+            "title": "榜单观察｜Pokémon GO居美日iOS畅销榜首",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-11.md",
+            "summary": "台北11月11日07:13快照。日本Google Play免费榜Meowdoku第1、Warline第2；抖音第三方畅销前三疯狂水世界、造化仙府、灵画师。完整表分商店及地区，排名不折算下载与收入。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-11T01:02:30.545Z",
+            "firstAt": "2026-11-11T01:02:30.545Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并，保留原文与适用范围",
+            "verification": "07:13快照",
+            "evidence": [
+              {
+                "title": "榜单观察｜Pokémon GO居美日iOS畅销榜首",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-11.md",
+                "source": "Game Hot留存榜单",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "07:13快照"
+              }
+            ]
+          },
+          {
+            "id": "verified-2026-11-11-research",
+            "title": "五个竞品研究对象",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-11.md",
+            "summary": "JustPlay: Earn Money or Donate、Rotate Rings、Warline: Sniper Squad、造化仙府、指尖无双。任务分赚钱预期与信任、广告次数时长和兑换门槛、玩法及难度三轴；未实测到账。",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "publishedAt": null,
+            "discoveredAt": "2026-11-11T01:02:30.545Z",
+            "firstAt": "2026-11-11T01:02:30.545Z",
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并，保留原文与适用范围",
+            "verification": "待执行研究",
+            "evidence": [
+              {
+                "title": "五个竞品研究对象",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-11.md",
+                "source": "Game Hot编辑",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "待执行研究"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-10",
         "publishedAt": "2026-11-10T01:00:00.000Z",
         "generatedAt": "2026-11-10T02:01:45.206Z",
