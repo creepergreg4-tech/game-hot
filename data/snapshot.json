@@ -101269,6 +101269,223 @@
     ],
     "digests": [
       {
+        "date": "2026-11-12",
+        "publishedAt": "2026-11-12T00:58:15.460Z",
+        "generatedAt": "2026-11-12T00:58:15.460Z",
+        "windowStart": "2026-11-11T01:00:00.000Z",
+        "windowEnd": "2026-11-12T01:00:00.000Z",
+        "dataCutoff": "2026-11-11T21:22:48.971Z",
+        "mode": "中文核查版 · 3条动态；榜单截止台北05:22",
+        "entries": [
+          {
+            "id": "verified-2026-11-12-luma",
+            "title": "Luma Island计划12月2日登Xbox，首日支持跨平台四人合作",
+            "url": "https://news.xbox.com/en-us/2026/11/11/how-luma-island-was-built-for-everyone-on-xbox-series-xs/",
+            "summary": "Feel Free Games｜11月11日官方开发者文。农场经营不设体力、背包容量或强制睡眠时钟，另以三档模式区分战斗压力。可研究取消日常摩擦后，职业目标和多人分工能否支撑回访。开发者称PC玩家逾80万，未披露销量或活跃口径；Xbox尚未上线。",
+            "publishedAt": "2026-11-11T16:00:00.000Z",
+            "discoveredAt": "2026-11-12T00:58:15.460Z",
+            "firstAt": "2026-11-11T16:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "按原文日期，转载不重复计数",
+            "verification": "11月11日官方原文；12月2日为计划",
+            "evidence": [
+              {
+                "title": "Luma Island计划12月2日登Xbox，首日支持跨平台四人合作",
+                "url": "https://news.xbox.com/en-us/2026/11/11/how-luma-island-was-built-for-everyone-on-xbox-series-xs/",
+                "source": "Xbox Wire／Feel Free Games",
+                "publishedAt": "2026-11-11T16:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "11月11日官方原文；12月2日为计划"
+              }
+            ]
+          },
+          {
+            "id": "verified-2026-11-12-zelda",
+            "title": "任天堂称Switch 2《时之笛》重制版首四天全球销量超520万份",
+            "url": "https://www.nintendo.com/en-ca/whatsnew/the-legend-of-zelda-ocarina-of-time-for-nintendo-switch-2-sells-over-5-2-million-units-worldwide-in-first-four-days/",
+            "summary": "任天堂｜11月11日公告。为11月5日上市后首四天的内部统计，合计实体与数字销量；最快纪录限任天堂发行的Switch 2作品。研究价值：看旧IP如何通过重做镜头和移动控制降低入门成本；不能把首发销量当留存或手游下载。",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-12T00:58:15.460Z",
+            "firstAt": "2026-11-12T00:58:15.460Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "按原文日期，转载不重复计数",
+            "verification": "11月11日公告，未填无来源时刻",
+            "evidence": [
+              {
+                "title": "任天堂称Switch 2《时之笛》重制版首四天全球销量超520万份",
+                "url": "https://www.nintendo.com/en-ca/whatsnew/the-legend-of-zelda-ocarina-of-time-for-nintendo-switch-2-sells-over-5-2-million-units-worldwide-in-first-four-days/",
+                "source": "任天堂加拿大官方",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "11月11日公告，未填无来源时刻"
+              }
+            ]
+          },
+          {
+            "id": "verified-2026-11-12-tft",
+            "title": "《金铲铲之战》负责人谈低操作强度与局内连续决策",
+            "url": "https://m.sohu.com/a/1100295504_204824",
+            "summary": "腾讯／游戏葡萄｜11月11日发布采访，受访者谈用规则、随机性与对手选择驱动连续决策。研究价值：测低操作门槛下的策略可读性，以及单局后是否有明确重玩目标。文中5000万MAU是媒体转述11月6日发布会口径，不是今日新增、独立核算或下载量。",
+            "publishedAt": "2026-11-11T14:56:00.000Z",
+            "discoveredAt": "2026-11-12T00:58:15.460Z",
+            "firstAt": "2026-11-11T14:56:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "按原文日期，转载不重复计数",
+            "verification": "11月11日媒体采访，历史数据分开",
+            "evidence": [
+              {
+                "title": "《金铲铲之战》负责人谈低操作强度与局内连续决策",
+                "url": "https://m.sohu.com/a/1100295504_204824",
+                "source": "游戏葡萄采访／搜狐刊载",
+                "publishedAt": "2026-11-11T14:56:00.000Z",
+                "origin": "discovery",
+                "evidenceType": "11月11日媒体采访，历史数据分开"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "verified-2026-11-12-wendy",
+            "title": "历史奖励案例｜WendyQuest通关后到品牌App核销",
+            "url": "https://www.wendys.com/wendyquest",
+            "summary": "Wendy’s／81 Monkeys｜11月4日发布。美国18岁以上玩家击败Boss后有机会获得限量代码，需登录品牌App核销，优惠附购买条件，兑换后七天到期。研究按关卡、跳转、资格及有效期逐段记录；没有现金提现，也未实际兑换。",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-12T00:58:15.460Z",
+            "firstAt": "2026-11-12T00:58:15.460Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "按原文日期，转载不重复计数",
+            "verification": "11月4日历史营销案例",
+            "evidence": [
+              {
+                "title": "历史奖励案例｜WendyQuest通关后到品牌App核销",
+                "url": "https://www.wendys.com/wendyquest",
+                "source": "Wendy’s官方FAQ",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "11月4日历史营销案例"
+              }
+            ]
+          },
+          {
+            "id": "verified-2026-11-12-hunger",
+            "title": "历史发行计划｜HUNGER先公测再开放抢先体验",
+            "url": "https://steamcommunity.com/app/1752080",
+            "summary": "Good Fun Corporation｜11月10日发行日期消息已有报道，11月11日转载不算新动作。Steam官方社区列11月27–29日公测，12月3日10:00 GMT抢先体验。可观察测试转化与风险回报，不当已上线。",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-12T00:58:15.460Z",
+            "firstAt": "2026-11-12T00:58:15.460Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "按原文日期，转载不重复计数",
+            "verification": "历史发行计划，非本窗口首发",
+            "evidence": [
+              {
+                "title": "历史发行计划｜HUNGER先公测再开放抢先体验",
+                "url": "https://steamcommunity.com/app/1752080",
+                "source": "开发者Steam社区",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "历史发行计划，非本窗口首发"
+              }
+            ]
+          },
+          {
+            "id": "verified-2026-11-12-supercell",
+            "title": "日期待核｜Supercell招聘页提到Titan引擎可靠性团队",
+            "url": "https://supercell.com/en/careers/senior-ai-engineer-engine-reliability/8f5edcd8-a83e-48ef-88e9-039eba950361/",
+            "summary": "Supercell岗位页描述真实设备环境、集成验证、自动测试和人工检查点；研究可对照自家构建与上线验收。发现时间不能当招聘首发日，岗位描述不证明相关工具已部署。",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-12T00:58:15.460Z",
+            "firstAt": "2026-11-12T00:58:15.460Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "按原文日期，转载不重复计数",
+            "verification": "原页未披露首发日",
+            "evidence": [
+              {
+                "title": "日期待核｜Supercell招聘页提到Titan引擎可靠性团队",
+                "url": "https://supercell.com/en/careers/senior-ai-engineer-engine-reliability/8f5edcd8-a83e-48ef-88e9-039eba950361/",
+                "source": "Supercell官方招聘",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "原页未披露首发日"
+              }
+            ]
+          },
+          {
+            "id": "verified-2026-11-12-research",
+            "title": "榜单与五个研究对象",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-12.md",
+            "summary": "JustPlay: Earn Money or Donate、WendyQuest、Luma Island、疯狂水世界、Meowdoku: Brain Puzzle Games。完整榜单和待实测任务见报告。",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-12T00:58:15.460Z",
+            "firstAt": "2026-11-12T00:58:15.460Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "按原文日期，转载不重复计数",
+            "verification": "留存快照与编辑研究任务",
+            "evidence": [
+              {
+                "title": "榜单与五个研究对象",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-12.md",
+                "source": "Game Hot",
+                "publishedAt": null,
+                "origin": "editorial",
+                "evidenceType": "留存快照与编辑研究任务"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-11",
         "publishedAt": "2026-11-11T01:02:30.545Z",
         "generatedAt": "2026-11-11T01:02:30.545Z",
