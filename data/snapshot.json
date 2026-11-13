@@ -101903,6 +101903,281 @@
     ],
     "digests": [
       {
+        "date": "2026-11-13",
+        "publishedAt": "2026-11-13T01:10:40.698Z",
+        "generatedAt": "2026-11-13T01:10:40.698Z",
+        "windowStart": "2026-11-12T01:00:00.000Z",
+        "windowEnd": "2026-11-13T01:00:00.000Z",
+        "dataCutoff": "2026-11-13T00:15:21.869Z",
+        "mode": "中文核查版 · 8条动态；榜单截止台北08:15",
+        "entries": [
+          {
+            "id": "2026-11-13-ivt",
+            "title": "Google Ads推出无效流量概览卡",
+            "summary": "Google｜11月12日。卡片显示平台拦截无效流量节省的费用，以及事后识别时适用的自动抵扣。买量复盘可把抵扣、实际账单和MMP归因分列；这是广告主侧工具，不能当成发行方eCPM或单产品反作弊效果。",
+            "url": "https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/",
+            "publishedAt": "2026-11-12T13:00:00.000Z",
+            "discoveredAt": "2026-11-13T01:10:40.698Z",
+            "firstAt": "2026-11-12T13:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并",
+            "verification": "Google Ads官方博客",
+            "evidence": [
+              {
+                "title": "Google Ads推出无效流量概览卡",
+                "url": "https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/",
+                "source": "Google Ads官方博客",
+                "publishedAt": "2026-11-12T13:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "Google Ads官方博客"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-13-af",
+            "title": "AppsFlyer扩充Agent Hub和MCP归因排查能力",
+            "summary": "AppsFlyer｜11月12日企业新闻稿。新工具涉及Protect360、素材级支出及留存收入、渠道配置与OneLink创建；创建链接需批准，Apple Ads改价工具是闭测且需批准。可先用只读数据核对素材衰减和事件映射，未验证效果或账号可用性。",
+            "url": "https://finance.yahoo.com/technology/ai/articles/appsflyer-expands-agentic-ai-mcp-130000152.html",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-13T01:10:40.698Z",
+            "firstAt": "2026-11-13T01:10:40.698Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "同事件合并",
+            "verification": "AppsFlyer公司稿，经Business Wire分发及Yahoo刊载（非独立测评）",
+            "evidence": [
+              {
+                "title": "AppsFlyer扩充Agent Hub和MCP归因排查能力",
+                "url": "https://finance.yahoo.com/technology/ai/articles/appsflyer-expands-agentic-ai-mcp-130000152.html",
+                "source": "AppsFlyer公司稿，经Business Wire分发及Yahoo刊载（非独立测评）",
+                "publishedAt": null,
+                "origin": "press_release",
+                "evidenceType": "AppsFlyer公司稿，经Business Wire分发及Yahoo刊载（非独立测评）"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-13-king",
+            "title": "Candy Crush Saga用八个Xbox IP做四周收藏赛季",
+            "summary": "King／Xbox｜11月12日。Game On!赛季持续到12月6日，iOS和Android可通过推进关卡收集徽章。美国VIP另有实体徽章抽奖，资格与游戏内收藏分开。可测短期收藏目标是否带来复玩，不把抽奖当必得或提现。",
+            "url": "https://news.xbox.com/en-us/2026/11/12/candy-crush-saga-game-on-halo-fallout-sea-of-thieves-xbox-25/",
+            "publishedAt": "2026-11-12T22:00:00.000Z",
+            "discoveredAt": "2026-11-13T01:10:40.698Z",
+            "firstAt": "2026-11-12T22:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并",
+            "verification": "King作者／Xbox Wire官方",
+            "evidence": [
+              {
+                "title": "Candy Crush Saga用八个Xbox IP做四周收藏赛季",
+                "url": "https://news.xbox.com/en-us/2026/11/12/candy-crush-saga-game-on-halo-fallout-sea-of-thieves-xbox-25/",
+                "source": "King作者／Xbox Wire官方",
+                "publishedAt": "2026-11-12T22:00:00.000Z",
+                "origin": "official",
+                "evidenceType": "King作者／Xbox Wire官方"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-13-once",
+            "title": "Once Human第五季把枪声和节奏做成四人Boss机制",
+            "summary": "Starry Studio｜11月12日。PS5第五季计划11月18日上线；击敌后出现音符，射击音符参与收集和旋律反馈，四人副本需在节奏结束前处理共鸣管。可研究声音、可视提示和协作失败反馈；未上线实测。",
+            "url": "https://blog.playstation.com/2026/11/12/once-human-season-5-gameplay-showcases-co-op-colossus-boss-battle-live-november-18/",
+            "publishedAt": "2026-11-12T23:00:19.000Z",
+            "discoveredAt": "2026-11-13T01:10:40.698Z",
+            "firstAt": "2026-11-12T23:00:19.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并",
+            "verification": "开发者／PlayStation Blog官方",
+            "evidence": [
+              {
+                "title": "Once Human第五季把枪声和节奏做成四人Boss机制",
+                "url": "https://blog.playstation.com/2026/11/12/once-human-season-5-gameplay-showcases-co-op-colossus-boss-battle-live-november-18/",
+                "source": "开发者／PlayStation Blog官方",
+                "publishedAt": "2026-11-12T23:00:19.000Z",
+                "origin": "official",
+                "evidenceType": "开发者／PlayStation Blog官方"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-13-playback",
+            "title": "Xbox Playback把可用游玩历史转成个人回顾与分享卡",
+            "summary": "Xbox｜11月12日。分批上线，15国至12月31日，数据可能不完整，需满足成就等资格。研究如何用首款游戏、游玩时长和连续记录给老玩家回访理由；未披露回流效果。",
+            "url": "https://news.xbox.com/en-us/2026/11/12/xbox-playback-25th-anniversary-review/",
+            "publishedAt": "2026-11-12T16:05:00.000Z",
+            "discoveredAt": "2026-11-13T01:10:40.698Z",
+            "firstAt": "2026-11-12T16:05:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并",
+            "verification": "Xbox Wire官方",
+            "evidence": [
+              {
+                "title": "Xbox Playback把可用游玩历史转成个人回顾与分享卡",
+                "url": "https://news.xbox.com/en-us/2026/11/12/xbox-playback-25th-anniversary-review/",
+                "source": "Xbox Wire官方",
+                "publishedAt": "2026-11-12T16:05:00.000Z",
+                "origin": "official",
+                "evidenceType": "Xbox Wire官方"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-13-compat",
+            "title": "Xbox在PC新增21款初代兼容游戏，四款补成就",
+            "summary": "Xbox｜11月12日。Windows 11兼容库共25款；四款新增成就，部分可按已有进度解锁，覆盖市场及购买资格有限。研究老内容回流如何保留进度与补发奖励，不能假设全库免费。",
+            "url": "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/",
+            "publishedAt": "2026-11-12T21:02:29.000Z",
+            "discoveredAt": "2026-11-13T01:10:40.698Z",
+            "firstAt": "2026-11-12T21:02:29.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并",
+            "verification": "Xbox Wire官方",
+            "evidence": [
+              {
+                "title": "Xbox在PC新增21款初代兼容游戏，四款补成就",
+                "url": "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/",
+                "source": "Xbox Wire官方",
+                "publishedAt": "2026-11-12T21:02:29.000Z",
+                "origin": "official",
+                "evidenceType": "Xbox Wire官方"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-13-insider",
+            "title": "Xbox预览轮播背景和实体盘数字许可分类",
+            "summary": "Xbox｜11月12日。Alpha Skip-Ahead先试背景轮播、数字许可分类和侧边指南位置。研究高频入口的个性化与库内可发现性；预览不是全量发布，许可分类也不是新开通赠送。",
+            "url": "https://news.xbox.com/en-us/2026/11/12/xbox-insiders-january-2027-console-features-1/",
+            "publishedAt": "2026-11-12T23:00:01.000Z",
+            "discoveredAt": "2026-11-13T01:10:40.698Z",
+            "firstAt": "2026-11-12T23:00:01.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并",
+            "verification": "Xbox Wire官方",
+            "evidence": [
+              {
+                "title": "Xbox预览轮播背景和实体盘数字许可分类",
+                "url": "https://news.xbox.com/en-us/2026/11/12/xbox-insiders-january-2027-console-features-1/",
+                "source": "Xbox Wire官方",
+                "publishedAt": "2026-11-12T23:00:01.000Z",
+                "origin": "official",
+                "evidenceType": "Xbox Wire官方"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-13-vindictus",
+            "title": "Nexon公布Vindictus: Defying Fate将登PS5",
+            "summary": "Nexon Korea｜11月12日。计划2027年登陆PS5，商店愿望单已开；以武器定义不同角色的闪避、格挡和反击节奏，多人内容仍在准备。可测试同一敌人能否让不同防守机制都有可理解的解法。",
+            "url": "https://blog.playstation.com/2026/11/12/vindictus-defying-fate-comes-to-ps5-next-year/",
+            "publishedAt": "2026-11-12T13:07:48.000Z",
+            "discoveredAt": "2026-11-13T01:10:40.698Z",
+            "firstAt": "2026-11-12T13:07:48.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并",
+            "verification": "开发者／PlayStation Blog官方",
+            "evidence": [
+              {
+                "title": "Nexon公布Vindictus: Defying Fate将登PS5",
+                "url": "https://blog.playstation.com/2026/11/12/vindictus-defying-fate-comes-to-ps5-next-year/",
+                "source": "开发者／PlayStation Blog官方",
+                "publishedAt": "2026-11-12T13:07:48.000Z",
+                "origin": "official",
+                "evidenceType": "开发者／PlayStation Blog官方"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "2026-11-13-research",
+            "title": "榜单与五个竞品观察",
+            "summary": "JustPlay: Earn Money or Donate、Candy Crush Saga、Meowdoku: Brain Puzzle Games、无限轮回、疯狂水世界。完整榜单与实测任务见报告。",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-13.md",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-13T01:10:40.698Z",
+            "firstAt": "2026-11-13T01:10:40.698Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "同事件合并",
+            "verification": "Game Hot编辑／留存快照",
+            "evidence": [
+              {
+                "title": "榜单与五个竞品观察",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-13.md",
+                "source": "Game Hot编辑／留存快照",
+                "publishedAt": null,
+                "origin": "editorial",
+                "evidenceType": "Game Hot编辑／留存快照"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-12",
         "publishedAt": "2026-11-12T00:58:15.460Z",
         "generatedAt": "2026-11-12T00:58:15.460Z",
