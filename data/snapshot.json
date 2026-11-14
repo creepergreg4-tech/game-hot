@@ -102401,6 +102401,202 @@
     ],
     "digests": [
       {
+        "date": "2026-11-14",
+        "publishedAt": "2026-11-14T01:01:53.922Z",
+        "generatedAt": "2026-11-14T01:01:53.922Z",
+        "windowStart": "2026-11-13T01:00:00.000Z",
+        "windowEnd": "2026-11-14T01:00:00.000Z",
+        "dataCutoff": "2026-11-13T22:34:19.055Z",
+        "mode": "中文核查版 · 4条新动态；榜单截止台北06:34",
+        "entries": [
+          {
+            "id": "2026-11-14-topon",
+            "title": "易点天下确认 zMaticoo 已接入 TopOn",
+            "summary": "易点天下／TopOn｜11月13日南方财经转述公司在投资者关系活动中的表述：开发者可在TopOn后台管理zMaticoo广告源，参与应用内竞价。TopOn文档也列出接入步骤。此条是进展确认，首次接入日期未核实；建议按广告样式、地区、填充率与有效收益分组测试，未验证增收。",
+            "url": "https://finance.eastmoney.com/a/202611133930757361.html",
+            "publishedAt": "2026-11-13T09:23:00.000Z",
+            "discoveredAt": "2026-11-14T01:01:53.922Z",
+            "firstAt": "2026-11-13T09:23:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "按事件合并",
+            "verification": "南方财经报道／东方财富刊载",
+            "evidence": [
+              {
+                "title": "易点天下确认 zMaticoo 已接入 TopOn",
+                "url": "https://finance.eastmoney.com/a/202611133930757361.html",
+                "source": "南方财经报道／东方财富刊载",
+                "publishedAt": "2026-11-13T09:23:00.000Z",
+                "origin": "discovery",
+                "evidenceType": "南方财经报道／东方财富刊载"
+              },
+              {
+                "title": "TopOn接入说明",
+                "url": "https://help.toponad.net/cn/docs/yTKPpWBu",
+                "source": "TopOn官方帮助",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "验证支持及版本要求，非首次接入日期"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-14-xsolla",
+            "title": "Xsolla为创作者加入活动筛选、结算改进与直播购买提醒",
+            "summary": "Xsolla｜11月13日企业新闻稿。创作者可筛选推广活动；Twitch购买提醒可在直播或聊天中感谢通过创作者店面购买的观众。适合研究归因、支付和退款如何进入同一漏斗；创作者结算不等于玩家提现，未核实实际到账速度。",
+            "url": "https://finance.yahoo.com/media-advertising/articles/xsolla-partner-network-helps-creators-191700678.html",
+            "publishedAt": "2026-11-13T19:17:00.000Z",
+            "discoveredAt": "2026-11-14T01:01:53.922Z",
+            "firstAt": "2026-11-13T19:17:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "按事件合并",
+            "verification": "Xsolla企业稿／Business Wire分发",
+            "evidence": [
+              {
+                "title": "Xsolla为创作者加入活动筛选、结算改进与直播购买提醒",
+                "url": "https://finance.yahoo.com/media-advertising/articles/xsolla-partner-network-helps-creators-191700678.html",
+                "source": "Xsolla企业稿／Business Wire分发",
+                "publishedAt": "2026-11-13T19:17:00.000Z",
+                "origin": "press_release",
+                "evidenceType": "Xsolla企业稿／Business Wire分发"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-14-qssr",
+            "title": "PlayStation公布五款QSSR更新安排，《蜘蛛侠2》先更新",
+            "summary": "Sony Interactive Entertainment／各开发商｜11月13日。官方称《漫威蜘蛛侠2》更新已上线，Control Resonant计划12月更新，其余作品按后续安排推出。可对照画质与性能模式的稳定性、细节可读性及发热，官方描述不替代实际测试。",
+            "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
+            "publishedAt": "2026-11-13T14:00:16.000Z",
+            "discoveredAt": "2026-11-14T01:01:53.922Z",
+            "firstAt": "2026-11-13T14:00:16.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "按事件合并",
+            "verification": "PlayStation Blog官方",
+            "evidence": [
+              {
+                "title": "PlayStation公布五款QSSR更新安排，《蜘蛛侠2》先更新",
+                "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam/",
+                "source": "PlayStation Blog官方",
+                "publishedAt": "2026-11-13T14:00:16.000Z",
+                "origin": "official",
+                "evidenceType": "PlayStation Blog官方"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-14-guild",
+            "title": "Guild Saga计划2027年5月登PS5：跨系技能与地形连锁",
+            "summary": "Ocelot Technologies｜11月13日开发者公告。回合制允许跨系搭配，例如雨水可强化召唤物，也可让积水成为雷击媒介。可研究先教单一环境规则，再组合成有预兆的难度阶梯；未给确切发售日。",
+            "url": "https://blog.playstation.com/2026/11/13/guild-saga-vanished-worlds-brings-tactical-adventure-to-ps5-in-may-2027/",
+            "publishedAt": "2026-11-13T13:01:11.000Z",
+            "discoveredAt": "2026-11-14T01:01:53.922Z",
+            "firstAt": "2026-11-13T13:01:11.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "按事件合并",
+            "verification": "开发者／PlayStation Blog",
+            "evidence": [
+              {
+                "title": "Guild Saga计划2027年5月登PS5：跨系技能与地形连锁",
+                "url": "https://blog.playstation.com/2026/11/13/guild-saga-vanished-worlds-brings-tactical-adventure-to-ps5-in-may-2027/",
+                "source": "开发者／PlayStation Blog",
+                "publishedAt": "2026-11-13T13:01:11.000Z",
+                "origin": "official",
+                "evidenceType": "开发者／PlayStation Blog"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "2026-11-14-genshin",
+            "title": "媒体复盘《原神》如何让后来玩家进入长期运营的世界",
+            "summary": "米哈游／证券之星｜11月13日报道回看11月3日演讲与既有UGC案例。可拆新手如何进入多年积累内容、玩家作品如何被发现、奖励是否带来主动回访。属于历史演讲的当日媒体分析，不计新功能或新激励，不把创作者个案收入当普遍可兑现收益。",
+            "url": "https://cj.sina.com.cn/articles/view/1850649324/6e4eaaec02002n6bw",
+            "publishedAt": "2026-11-13T13:29:00.000Z",
+            "discoveredAt": "2026-11-14T01:01:53.922Z",
+            "firstAt": "2026-11-13T13:29:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "按事件合并",
+            "verification": "证券之星／新浪转载；历史演讲回顾",
+            "evidence": [
+              {
+                "title": "媒体复盘《原神》如何让后来玩家进入长期运营的世界",
+                "url": "https://cj.sina.com.cn/articles/view/1850649324/6e4eaaec02002n6bw",
+                "source": "证券之星／新浪转载；历史演讲回顾",
+                "publishedAt": "2026-11-13T13:29:00.000Z",
+                "origin": "discovery",
+                "evidenceType": "证券之星／新浪转载；历史演讲回顾"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-14-research",
+            "title": "榜单与五个研究对象",
+            "summary": "JustPlay: Earn Money or Donate、PUBG MOBILE FLASH、Meowdoku: Brain Puzzle Games、新弹弹堂、造化仙府。完整榜单和待实测任务见报告。",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-14.md",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-14T01:01:53.922Z",
+            "firstAt": "2026-11-14T01:01:53.922Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "按事件合并",
+            "verification": "Game Hot留存观察",
+            "evidence": [
+              {
+                "title": "榜单与五个研究对象",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-14.md",
+                "source": "Game Hot留存观察",
+                "publishedAt": null,
+                "origin": "editorial",
+                "evidenceType": "Game Hot留存观察"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-13",
         "publishedAt": "2026-11-13T01:10:40.698Z",
         "generatedAt": "2026-11-13T01:10:40.698Z",
