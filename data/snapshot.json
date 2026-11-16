@@ -102413,6 +102413,115 @@
     ],
     "digests": [
       {
+        "date": "2026-11-16",
+        "publishedAt": "2026-11-16T00:59:38.725Z",
+        "generatedAt": "2026-11-16T00:59:38.725Z",
+        "windowStart": "2026-11-15T01:00:00.000Z",
+        "windowEnd": "2026-11-16T01:00:00.000Z",
+        "dataCutoff": "2026-11-15T21:43:31.692Z",
+        "mode": "中文核查版 · 1条新动态；榜单截止台北05:43",
+        "entries": [
+          {
+            "id": "2026-11-16-xbox",
+            "title": "Xbox公开25周年纪念杂志，线下活动内容延伸至线上",
+            "summary": "微软 Xbox｜11月15日官方发布。先向西雅图 FanFest 社区发放印刷版，随后开放网上阅读，内容包括游戏、硬件及开发团队回顾。策划可借鉴把限时线下内容做成可重复访问的社区素材，并用新作线索给老玩家回访理由。没有披露由此产生的留存或获客效果，周年旧公告不重复计入。",
+            "url": "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/",
+            "publishedAt": "2026-11-15T17:01:00.000Z",
+            "discoveredAt": "2026-11-16T00:59:38.725Z",
+            "firstAt": "2026-11-15T17:01:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "同事件合并",
+            "verification": "11月15日官方原文",
+            "evidence": [
+              {
+                "title": "Xbox公开25周年纪念杂志，线下活动内容延伸至线上",
+                "url": "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/",
+                "source": "Xbox Wire 官方",
+                "publishedAt": "2026-11-15T17:01:00.000Z",
+                "origin": "official",
+                "evidenceType": "11月15日官方原文"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "2026-11-16-flash",
+            "title": "榜单跟踪：PUBG MOBILE FLASH 居美国 Google Play 免费第1",
+            "summary": "11月16日05:43留存快照。与11月14日06:34快照比较，Google Play美国榜 未在留存列表 → 第1；美国iOS第1 → 第12。这是两个时点、两个商店的名次变化，不是实时下载或用户迁移证据。发行稿将产品定位为轻量版，部分资源按需下载；实测应分别记录商店下载、首次额外下载到可玩、低配帧率和账号进度连续性。11月13日发行不算本期新消息。",
+            "url": "https://play.google.com/store/apps/details?id=com.tencent.igfit&hl=en&gl=US",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-16T00:59:38.725Z",
+            "firstAt": "2026-11-16T00:59:38.725Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "同事件合并",
+            "verification": "两期留存对比，11月13日发行资料另列",
+            "evidence": [
+              {
+                "title": "榜单跟踪：PUBG MOBILE FLASH 居美国 Google Play 免费第1",
+                "url": "https://play.google.com/store/apps/details?id=com.tencent.igfit&hl=en&gl=US",
+                "source": "Google Play商店／Game Hot快照",
+                "publishedAt": null,
+                "origin": "editorial",
+                "evidenceType": "两期留存对比，11月13日发行资料另列"
+              },
+              {
+                "title": "轻量版发行说明",
+                "url": "https://www.gamespress.com/ko-KR/PUBG-MOBILE-FLASH-the-Official-Lightweight-Version-of-PUBG-MOBILE-is-N",
+                "source": "PUBG MOBILE发行稿／Games Press",
+                "publishedAt": null,
+                "origin": "press_release",
+                "evidenceType": "发行及性能描述，未实测"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-16-research",
+            "title": "国内、美日榜单与五个研究对象",
+            "summary": "JustPlay: Earn Money or Donate、PUBG MOBILE FLASH、Meowdoku: Brain Puzzle Games、小岛有晴天、疯狂水世界。完整榜单及待实测任务见报告。",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-16.md",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-16T00:59:38.725Z",
+            "firstAt": "2026-11-16T00:59:38.725Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "同事件合并",
+            "verification": "05:43留存与研究任务",
+            "evidence": [
+              {
+                "title": "国内、美日榜单与五个研究对象",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-16.md",
+                "source": "Game Hot编辑",
+                "publishedAt": null,
+                "origin": "editorial",
+                "evidenceType": "05:43留存与研究任务"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-15",
         "publishedAt": "2026-11-15T01:00:00.000Z",
         "generatedAt": "2026-11-15T01:50:26.851Z",
