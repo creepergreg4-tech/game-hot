@@ -102620,6 +102620,268 @@
     ],
     "digests": [
       {
+        "date": "2026-11-17",
+        "publishedAt": "2026-11-17T01:05:24.502Z",
+        "generatedAt": "2026-11-17T01:05:24.502Z",
+        "windowStart": "2026-11-16T01:00:00Z",
+        "windowEnd": "2026-11-17T01:00:00Z",
+        "dataCutoff": "2026-11-16T20:22:50.765Z",
+        "mode": "中文核查版 · 7条动态，榜单截止台北04:22",
+        "entries": [
+          {
+            "id": "2026-11-17-admob",
+            "title": "AdMob 发布广告 SDK 接入技能，并测试代理化管理",
+            "summary": "Google AdMob｜官方｜11月16日。已提供用于迁移 Google Mobile Ads Next-Gen SDK、验证安装、接入广告格式的代理技能。Ask AdMob 后续测试；MCP 已在早期测试，计划于 2027 年初扩大范围。IAA 团队可先用只读检查发现 SDK 问题，再用小流量复核激励视频完成率与奖励发放。",
+            "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-17T01:05:24.502Z",
+            "firstAt": "2026-11-17T01:05:24.502Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "核对官方原文",
+            "evidence": [
+              {
+                "title": "AdMob 发布广告 SDK 接入技能，并测试代理化管理",
+                "url": "https://blog.google/products/publisher-connections/new-google-admob-tools/",
+                "source": "Google 官方公告",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "核对官方原文"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-17-chaguan",
+            "title": "《疯狂水世界》把连续剧素材做成买量测试，《永夜起源》按角色反馈调整投放",
+            "summary": "益世界、《永夜起源》团队、DataEye｜游戏茶馆原发访谈与分析｜11月16日09:35（台北）。游戏茶馆记录了《疯狂水世界》用官方创作话题收集素材反馈，以及《永夜起源》在角色获得评论区反馈后扩大相关投放。文中案例为此前运营复盘。可对照同角色的连续剧素材与实机素材，比较首局承诺兑现和次日留存，把平台播放量与安装归因分开。",
+            "url": "https://m.sohu.com/a/1102054437_116126",
+            "publishedAt": "2026-11-16T01:35:00Z",
+            "discoveredAt": "2026-11-17T01:05:24.502Z",
+            "firstAt": "2026-11-16T01:35:00Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "编辑核对",
+            "verification": "核对媒体原文",
+            "evidence": [
+              {
+                "title": "《疯狂水世界》把连续剧素材做成买量测试，《永夜起源》按角色反馈调整投放",
+                "url": "https://m.sohu.com/a/1102054437_116126",
+                "source": "游戏茶馆原创／搜狐刊载",
+                "publishedAt": "2026-11-16T01:35:00Z",
+                "origin": "media",
+                "evidenceType": "核对媒体原文"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-17-smadex",
+            "title": "Smadex 新任 CMO 谈买量下滑的早期信号",
+            "summary": "Smadex、Luis de la Cámara｜36氪媒体专访｜11月16日17:18（台北）。前 Rovio 营销副总裁从从业经历讨论下载量变化、品牌与付费获客的相互作用，以及预测 LTV 对出价空间的影响。可按地区和素材拆出安装、首局完成与广告贡献，同时记录再营销与自然量的口径。相关判断属于受访者经验。",
+            "url": "https://www.36kr.com/p/4063717266838400",
+            "publishedAt": "2026-11-16T09:18:00Z",
+            "discoveredAt": "2026-11-17T01:05:24.502Z",
+            "firstAt": "2026-11-16T09:18:00Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "编辑核对",
+            "verification": "核对媒体原文",
+            "evidence": [
+              {
+                "title": "Smadex 新任 CMO 谈买量下滑的早期信号",
+                "url": "https://www.36kr.com/p/4063717266838400",
+                "source": "36氪专访",
+                "publishedAt": "2026-11-16T09:18:00Z",
+                "origin": "media",
+                "evidenceType": "核对媒体原文"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-17-minecraft",
+            "title": "《Minecraft Dungeons II》调整毒伤和首领门槛，首个 DLC 定档12月1日",
+            "summary": "Mojang／Xbox｜官方｜11月16日。平衡更新在下次登录时生效。中毒从15秒扣满血一半改为10秒扣三分之一，女巫首领生命从1200降至1000。12月1日计划同步推出首个付费 DLC 与含每日、每周试炼的免费更新。可分别观察低门槛过关和高难试炼如何服务不同玩家。",
+            "url": "https://feedback.minecraft.net/hc/en-us/articles/50378149513485-Minecraft-Dungeons-II-November-2026-Balance-Update",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-17T01:05:24.502Z",
+            "firstAt": "2026-11-17T01:05:24.502Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "核对官方原文",
+            "evidence": [
+              {
+                "title": "《Minecraft Dungeons II》调整毒伤和首领门槛，首个 DLC 定档12月1日",
+                "url": "https://feedback.minecraft.net/hc/en-us/articles/50378149513485-Minecraft-Dungeons-II-November-2026-Balance-Update",
+                "source": "Minecraft 官方更新",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "核对官方原文"
+              },
+              {
+                "title": "The Humblers Awaken",
+                "url": "https://www.minecraft.net/zh-hans/article/the-humblers-awaken",
+                "source": "Minecraft 官方 DLC 说明",
+                "publishedAt": "2026-11-16T10:43:38Z",
+                "origin": "official",
+                "evidenceType": "DLC 日期及免费更新"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-17-unity",
+            "title": "Unity 启动 Fellowship，拟选10支临近发行的独立团队",
+            "summary": "Unity｜官方｜11月16日。计划为每支入选团队提供5万美元和支持，无需让渡股权或偿还。申请截止美东时间12月18日17:00，计划在2027年3月 GDC 公布入选。值得关注资金之外的发行与技术支持，以及条款对团队和项目阶段的要求。",
+            "url": "https://unity.com/news/unity-launches-the-unity-fellowship-to-support-indie-studios",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-17T01:05:24.502Z",
+            "firstAt": "2026-11-17T01:05:24.502Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "核对官方原文",
+            "evidence": [
+              {
+                "title": "Unity 启动 Fellowship，拟选10支临近发行的独立团队",
+                "url": "https://unity.com/news/unity-launches-the-unity-fellowship-to-support-indie-studios",
+                "source": "Unity 官方公告",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "核对官方原文"
+              },
+              {
+                "title": "申请规则",
+                "url": "https://unity.com/legal/unity-fellowship-terms-and-conditions",
+                "source": "Unity 官方条款",
+                "publishedAt": null,
+                "origin": "official",
+                "evidenceType": "资格与截止时间"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-17-zynga",
+            "title": "Zynga 将虚拟工作室开放至印度、加拿大和美国",
+            "summary": "Zynga｜官方｜11月16日。将此前在英国推出的 360° 游戏制作教育项目扩展到三国，覆盖音效、动画和角色任务等互动体验。可借鉴用单步反馈代替整屏说明，测试玩家是否做完首个任务并能复述核心规则。",
+            "url": "https://www.zynga.com/corporate/zynga-access-all-areas-virtual-game-studio-expansion/",
+            "publishedAt": "2026-11-16T19:00:04Z",
+            "discoveredAt": "2026-11-17T01:05:24.502Z",
+            "firstAt": "2026-11-16T19:00:04Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "核对官方原文",
+            "evidence": [
+              {
+                "title": "Zynga 将虚拟工作室开放至印度、加拿大和美国",
+                "url": "https://www.zynga.com/corporate/zynga-access-all-areas-virtual-game-studio-expansion/",
+                "source": "Zynga 官方公告",
+                "publishedAt": "2026-11-16T19:00:04Z",
+                "origin": "official",
+                "evidenceType": "核对官方原文"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-17-apple",
+            "title": "macOS 27.3 beta 2 拆分设备控制和数据访问权限",
+            "summary": "Apple｜官方开发者公告｜11月16日。新权限审批区分系统与应用防护覆盖和辅助功能，支持细化授权范围和逐次询问，既有授权仍有效。用 Mac 做端游 QA 和自动录制的团队，可把首次授权、拒绝及撤回加入回归检查。",
+            "url": "https://developer.apple.com/news/?id=oqng0zjk",
+            "publishedAt": "2026-11-16T16:00:11Z",
+            "discoveredAt": "2026-11-17T01:05:24.502Z",
+            "firstAt": "2026-11-16T16:00:11Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "核对官方原文",
+            "evidence": [
+              {
+                "title": "macOS 27.3 beta 2 拆分设备控制和数据访问权限",
+                "url": "https://developer.apple.com/news/?id=oqng0zjk",
+                "source": "Apple Developer 官方公告",
+                "publishedAt": "2026-11-16T16:00:11Z",
+                "origin": "official",
+                "evidenceType": "核对官方原文"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "2026-11-17-research",
+            "title": "国内、美日榜单与五款研究对象",
+            "summary": "JustPlay: Earn Money or Donate、Meowdoku: Brain Puzzle Games、The Bazaar、狱国争霸、疯狂水世界。榜单和实测问题见简报。",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-17.md",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-17T01:05:24.502Z",
+            "firstAt": "2026-11-17T01:05:24.502Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "编辑核对",
+            "verification": "榜单与商店公开证据",
+            "evidence": [
+              {
+                "title": "国内、美日榜单与五款研究对象",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-17.md",
+                "source": "Game Hot 编辑",
+                "publishedAt": null,
+                "origin": "editorial",
+                "evidenceType": "榜单与商店公开证据"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-16",
         "publishedAt": "2026-11-16T00:59:38.725Z",
         "generatedAt": "2026-11-16T00:59:38.725Z",
