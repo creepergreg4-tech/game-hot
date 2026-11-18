@@ -102809,6 +102809,339 @@
     ],
     "digests": [
       {
+        "date": "2026-11-18",
+        "publishedAt": "2026-11-18T01:16:21.809Z",
+        "generatedAt": "2026-11-18T01:16:21.809Z",
+        "windowStart": "2026-11-17T01:00:00Z",
+        "windowEnd": "2026-11-18T01:00:00Z",
+        "dataCutoff": "2026-11-17T22:16:17.885Z",
+        "mode": "中文核查版 · 10条动态 · 快照截止台北06:16",
+        "entries": [
+          {
+            "id": "2026-11-18-0",
+            "title": "路透称 AppLovin 参与 Criteo 收购谈判",
+            "summary": "AppLovin｜路透原创／Euronext 刊载｜原文11月17日（来源当地日期）。两名匿名知情人称 AppLovin 参与谈判，Criteo 拒绝置评。继续跟踪正式披露及可能涉及的广告主库存和归因接口，当前未确认成交。",
+            "url": "https://live.euronext.com/en/financial-news/exclusive-applovin-among-firms-talks-acquire-criteo-sources-say",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-18T01:16:21.809Z",
+            "firstAt": "2026-11-18T01:16:21.809Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "路透称 AppLovin 参与 Criteo 收购谈判",
+                "url": "https://live.euronext.com/en/financial-news/exclusive-applovin-among-firms-talks-acquire-criteo-sources-say",
+                "source": "路透原创／Euronext 刊载",
+                "origin": "media",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-18-1",
+            "title": "《Palazzo Chronicles: Match 3》登陆 Google Play",
+            "summary": "RoyaLand｜公司公告／SEC 附件｜原文11月17日（来源当地日期）。公司披露首款手游登上主要应用商店，采用免费三消加城堡、花园建设。实测第一轮装修离首局有多远、前五关失败后的恢复路径及广告入口。",
+            "url": "https://www.sec.gov/Archives/edgar/data/1924064/000121390026121108/ea031256501ex99-1.htm",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-18T01:16:21.809Z",
+            "firstAt": "2026-11-18T01:16:21.809Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《Palazzo Chronicles: Match 3》登陆 Google Play",
+                "url": "https://www.sec.gov/Archives/edgar/data/1924064/000121390026121108/ea031256501ex99-1.htm",
+                "source": "公司公告／SEC 附件",
+                "origin": "official",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-18-2",
+            "title": "Google Play 年度奖公布，《明日方舟：终末地》获最佳游戏",
+            "summary": "Google Play｜Google Play 官方｜原文11月17日（来源当地日期）。奖项强调实时战斗和工厂经营，跨设备奖给《Moonlight Peaks》。对比轻度循环如何与长局经营交接。年度奖属于平台编辑选择。",
+            "url": "https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/",
+            "publishedAt": "2026-11-17T15:00:00.000Z",
+            "discoveredAt": "2026-11-18T01:16:21.809Z",
+            "firstAt": "2026-11-17T15:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "Google Play 年度奖公布，《明日方舟：终末地》获最佳游戏",
+                "url": "https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/",
+                "source": "Google Play 官方",
+                "origin": "official",
+                "publishedAt": "2026-11-17T15:00:00.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-18-3",
+            "title": "Words With Friends 让玩家票选年度词，并在首页展示",
+            "summary": "Zynga｜Zynga 官方｜原文11月17日（来源当地日期）。玩家通过社交媒体和邮件投票选出 WHIMSY，游戏首页增加专属入口，词条适用于各模式。可测社区投票揭晓后首页入口点击及同日对局率。",
+            "url": "https://www.zynga.com/corporate/words-with-friends-2026-word-of-the-year-whimsy/",
+            "publishedAt": "2026-11-17T15:52:00.000Z",
+            "discoveredAt": "2026-11-18T01:16:21.809Z",
+            "firstAt": "2026-11-17T15:52:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "Words With Friends 让玩家票选年度词，并在首页展示",
+                "url": "https://www.zynga.com/corporate/words-with-friends-2026-word-of-the-year-whimsy/",
+                "source": "Zynga 官方",
+                "origin": "official",
+                "publishedAt": "2026-11-17T15:52:00.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-18-4",
+            "title": "《Ice Cream Simulator》公开取消顾客等待倒计时的理由",
+            "summary": "AM Playhouse｜开发者原文／Xbox Wire｜原文11月17日（来源当地日期）。白天服务、夜晚准备，顾客可以一直等待，三类客户以不同消费偏好保留经营决策。可测试取消超时后，中断恢复、首日完整经营轮次及难度感知。",
+            "url": "https://news.xbox.com/en-us/2026/11/17/ice-cream-simulator/",
+            "publishedAt": "2026-11-17T21:00:00.000Z",
+            "discoveredAt": "2026-11-18T01:16:21.809Z",
+            "firstAt": "2026-11-17T21:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《Ice Cream Simulator》公开取消顾客等待倒计时的理由",
+                "url": "https://news.xbox.com/en-us/2026/11/17/ice-cream-simulator/",
+                "source": "开发者原文／Xbox Wire",
+                "origin": "official",
+                "publishedAt": "2026-11-17T21:00:00.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-18-5",
+            "title": "Manus 成为 Godot 基金会铂金赞助商",
+            "summary": "Godot Foundation、Manus｜Godot 基金会官方｜原文11月17日（来源当地日期）。公告确认资助开源引擎发展。可观察后续适合休闲原型的资源和教程；本次公告没有披露引擎功能上线。",
+            "url": "https://godotengine.org/article/partners_manus_sponsorship_2026_announcement/",
+            "publishedAt": "2026-11-17T12:00:00.000Z",
+            "discoveredAt": "2026-11-18T01:16:21.809Z",
+            "firstAt": "2026-11-17T12:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "Manus 成为 Godot 基金会铂金赞助商",
+                "url": "https://godotengine.org/article/partners_manus_sponsorship_2026_announcement/",
+                "source": "Godot 基金会官方",
+                "origin": "official",
+                "publishedAt": "2026-11-17T12:00:00.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-18-6",
+            "title": "Game Pass 公布新一批入库与《坦克世界闪击战》会员权益",
+            "summary": "Xbox｜Xbox Wire 官方｜原文11月17日（来源当地日期）。《Hela: of Mice & Magic》计划12月1日随发行入库，《坦克世界闪击战》同日提供 PC 会员月度礼包。可比较订阅入口带来的新客与游戏内奖励召回的受众差异。",
+            "url": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/",
+            "publishedAt": "2026-11-17T17:00:00.000Z",
+            "discoveredAt": "2026-11-18T01:16:21.809Z",
+            "firstAt": "2026-11-17T17:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "Game Pass 公布新一批入库与《坦克世界闪击战》会员权益",
+                "url": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/",
+                "source": "Xbox Wire 官方",
+                "origin": "official",
+                "publishedAt": "2026-11-17T17:00:00.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-18-7",
+            "title": "《Last Pirates: Die Together》进入 Xbox Game Preview",
+            "summary": "RetroStyle Games｜开发者原文／Xbox Wire｜原文11月17日（来源当地日期）。Xbox Series 与 PC 预览版支持与 Steam 跨玩，开发者表示冬季还有活动。研究开房、组队到首局的耗时，以及语音机制在熟人组和匹配组的首次理解成本。",
+            "url": "https://news.xbox.com/en-us/2026/11/17/millions-of-butt-slaps-last-pirates/",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-18T01:16:21.809Z",
+            "firstAt": "2026-11-18T01:16:21.809Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《Last Pirates: Die Together》进入 Xbox Game Preview",
+                "url": "https://news.xbox.com/en-us/2026/11/17/millions-of-butt-slaps-last-pirates/",
+                "source": "开发者原文／Xbox Wire",
+                "origin": "official",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-18-8",
+            "title": "《剑侠世界4：无限》在11月17日推出万花资料片",
+            "summary": "西山居｜西山居官方预告／TapTap｜11月17日上线，预告此前发布。官方预告确认资料片和同名新服在11月17日上线，披露跨服阵营攻防。可将回流玩家与新服用户分开，比较首日入阵营、完成目标与组队的门槛。原文为此前预告，本期跟踪落地日。",
+            "url": "https://www.taptap.cn/moment/867107011144191774?group_id=984650",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-18T01:16:21.809Z",
+            "firstAt": "2026-11-18T01:16:21.809Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《剑侠世界4：无限》在11月17日推出万花资料片",
+                "url": "https://www.taptap.cn/moment/867107011144191774?group_id=984650",
+                "source": "西山居官方预告／TapTap",
+                "origin": "official",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-18-9",
+            "title": "媒体复盘老游戏的召回动作与新品买量压力",
+            "summary": "游戏干线等受访者｜媒体报道／36氪刊载｜原文11月17日（来源当地日期）。报道通过采访记录开新服、老角色返场与玩家社群召回案例。可设计回访实验，区分老玩家主动回归与买量带来的新增。历史案例按原报道口径理解。",
+            "url": "https://www.36kr.com/p/4073794537133185",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-18T01:16:21.809Z",
+            "firstAt": "2026-11-18T01:16:21.809Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "媒体复盘老游戏的召回动作与新品买量压力",
+                "url": "https://www.36kr.com/p/4073794537133185",
+                "source": "媒体报道／36氪刊载",
+                "origin": "media",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "2026-11-18-research",
+            "title": "14张榜单与5款竞品",
+            "summary": "JustPlay: Earn Money or Donate、Block Out! - Color Sort Puzzle、Meowdoku: Brain Puzzle Games、小兵有前途、疯狂水世界",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-18.md",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-18T01:16:21.809Z",
+            "firstAt": "2026-11-18T01:16:21.809Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "完整简报",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-18.md",
+                "source": "Game Hot",
+                "origin": "editorial",
+                "publishedAt": "2026-11-18T01:16:21.809Z",
+                "evidenceType": "榜单与待实测问题"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-17",
         "publishedAt": "2026-11-17T01:05:24.502Z",
         "generatedAt": "2026-11-17T01:05:24.502Z",
