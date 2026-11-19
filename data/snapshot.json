@@ -103139,6 +103139,252 @@
     ],
     "digests": [
       {
+        "date": "2026-11-19",
+        "publishedAt": "2026-11-19T00:59:53.752Z",
+        "generatedAt": "2026-11-19T00:59:53.752Z",
+        "windowStart": "2026-11-18T01:00:00Z",
+        "windowEnd": "2026-11-19T01:00:00Z",
+        "dataCutoff": "2026-11-18T21:53:11.866Z",
+        "mode": "中文核查版 · 7条动态 · 快照截止台北05:53",
+        "entries": [
+          {
+            "id": "2026-11-19-0",
+            "title": "Xsolla Ads 发布自愿任务、问卷与 Offerwall 组合",
+            "summary": "Xsolla｜Xsolla 官方新闻室｜原文11月18日（来源当地日期）。玩家选择任务与奖励，通过既有账号验证任务完成，奖励可含游戏币、数字物品、积分，实物由品牌发货。研究重点是任务资格说明、完成反馈、奖励可追踪性及中途退出路径。收入增量属于厂商主张，实际奖励发放尚待实测。",
+            "url": "https://xsolla.prezly.com/xsolla-connects-players-brands-and-video-game-audiences-through-rewarded-engagement",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-19T00:59:53.752Z",
+            "firstAt": "2026-11-19T00:59:53.752Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "Xsolla Ads 发布自愿任务、问卷与 Offerwall 组合",
+                "url": "https://xsolla.prezly.com/xsolla-connects-players-brands-and-video-game-audiences-through-rewarded-engagement",
+                "source": "Xsolla 官方新闻室",
+                "origin": "official",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-19-1",
+            "title": "《My Perfect Hotel》复盘芭比活动的独立经济与收集目标",
+            "summary": "SayGames｜SayGames 高管署名／PocketGamer.biz 刊载｜原文11月18日（来源当地日期）。SayGames 高管披露临时酒店有独立成长、收集、挑战与通行证，单个玩家体验约两周。文章称全球累计下载超3亿、活动参与超500万，均为厂商披露且累计时间不同。活动始于4月23日，本期新增为复盘。可实测收集进度、广告加速与永久皮肤如何影响回访。",
+            "url": "https://www.pocketgamer.biz/inside-saygames-barbie-collaboration-and-the-live-ops-strategy-behind-my-perfect-hotel/",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-19T00:59:53.752Z",
+            "firstAt": "2026-11-19T00:59:53.752Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《My Perfect Hotel》复盘芭比活动的独立经济与收集目标",
+                "url": "https://www.pocketgamer.biz/inside-saygames-barbie-collaboration-and-the-live-ops-strategy-behind-my-perfect-hotel/",
+                "source": "SayGames 高管署名／PocketGamer.biz 刊载",
+                "origin": "official",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-19-2",
+            "title": "App Store 年度奖公布45个入围者",
+            "summary": "Apple｜Apple 官方新闻室｜原文11月18日（来源当地日期）。iPhone 游戏入围包括 BALL x PIT、DAVE THE DIVER、Gambonanza。可从弹球战斗、采集经营和棋盘规则变体寻找轻度玩法原型，研究第一分钟规则表达。获奖结果将在未来数周公布。",
+            "url": "https://images.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists/",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-19T00:59:53.752Z",
+            "firstAt": "2026-11-19T00:59:53.752Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "App Store 年度奖公布45个入围者",
+                "url": "https://images.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists/",
+                "source": "Apple 官方新闻室",
+                "origin": "official",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-19-3",
+            "title": "美国 Play Points 推出拉斯维加斯赛事主题兑换",
+            "summary": "Google Play｜Google Play 官方｜原文11月18日（来源当地日期）。11月18日起美国会员可在 Play 内参与奖励，Gold+会员可开启奖励箱，各等级会员有积分兑换物品。可研究等级资格展示、随机箱与确定兑换的不同预期，记录积分消耗及失败提示。",
+            "url": "https://blog.google/products-and-platforms/platforms/google-play/auction-google-play-las-vegas/",
+            "publishedAt": "2026-11-18T18:00:00.000Z",
+            "discoveredAt": "2026-11-19T00:59:53.752Z",
+            "firstAt": "2026-11-18T18:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "美国 Play Points 推出拉斯维加斯赛事主题兑换",
+                "url": "https://blog.google/products-and-platforms/platforms/google-play/auction-google-play-las-vegas/",
+                "source": "Google Play 官方",
+                "origin": "official",
+                "publishedAt": "2026-11-18T18:00:00.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-19-4",
+            "title": "Demand Gen 新增促销季节性调整",
+            "summary": "Google Ads｜Google Ads 官方｜原文11月18日（来源当地日期）。官方说明 Target CPA／Target ROAS 可用季节性调整处理短期预期转化变化。可在促销实验里预先记录起止时间、基线与活动后恢复；文中零售案例效果仅适用于相应案例，游戏买量需单独验证。",
+            "url": "https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/",
+            "publishedAt": "2026-11-18T17:00:00.000Z",
+            "discoveredAt": "2026-11-19T00:59:53.752Z",
+            "firstAt": "2026-11-18T17:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "Demand Gen 新增促销季节性调整",
+                "url": "https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/",
+                "source": "Google Ads 官方",
+                "origin": "official",
+                "publishedAt": "2026-11-18T17:00:00.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-19-5",
+            "title": "Godot 4.8 beta 4 发布回归修复",
+            "summary": "Godot｜Godot 官方｜原文11月18日（来源当地日期）。修复音频暂停、字体导入及 Windows Android SDK Manager 等问题，Web 平台加入 HTTPS serve 选项。可在隔离分支用现有轻度游戏测导入、首帧和前后台音频恢复。本次为预发布版本。",
+            "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-4/",
+            "publishedAt": "2026-11-18T12:00:00.000Z",
+            "discoveredAt": "2026-11-19T00:59:53.752Z",
+            "firstAt": "2026-11-18T12:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "Godot 4.8 beta 4 发布回归修复",
+                "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-4/",
+                "source": "Godot 官方",
+                "origin": "official",
+                "publishedAt": "2026-11-18T12:00:00.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-19-6",
+            "title": "《GTA VI》发布发售前说明，增加按需播客和随身音频",
+            "summary": "Rockstar、PlayStation｜Rockstar 原文／PlayStation Blog｜原文11月18日（来源当地日期）。11月18日官方重申 PS5 版11月19日发售，介绍新增按需播客与步行时耳机收听。可研究离开载具后内容连续性、导航及任务提示与音频的优先级。发售前说明没有披露实际销售或留存。",
+            "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/",
+            "publishedAt": "2026-11-18T16:00:23.000Z",
+            "discoveredAt": "2026-11-19T00:59:53.752Z",
+            "firstAt": "2026-11-18T16:00:23.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《GTA VI》发布发售前说明，增加按需播客和随身音频",
+                "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/",
+                "source": "Rockstar 原文／PlayStation Blog",
+                "origin": "official",
+                "publishedAt": "2026-11-18T16:00:23.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "2026-11-19-research",
+            "title": "14张榜单与5款竞品",
+            "summary": "JustPlay: Earn Money or Donate、Meowdoku!、Meowdoku: Brain Puzzle Games、梦幻西游网页版、疯狂水世界",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-19.md",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-19T00:59:53.752Z",
+            "firstAt": "2026-11-19T00:59:53.752Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "完整简报",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-19.md",
+                "source": "Game Hot",
+                "origin": "editorial",
+                "publishedAt": "2026-11-19T00:59:53.752Z",
+                "evidenceType": "榜单与待实测问题"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-18",
         "publishedAt": "2026-11-18T01:16:21.809Z",
         "generatedAt": "2026-11-18T01:16:21.809Z",
