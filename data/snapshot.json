@@ -103015,6 +103015,78 @@
     ],
     "digests": [
       {
+        "date": "2026-11-22",
+        "publishedAt": "2026-11-22T01:03:17.156Z",
+        "generatedAt": "2026-11-22T01:03:17.156Z",
+        "windowStart": "2026-11-21T01:00:00Z",
+        "windowEnd": "2026-11-22T01:00:00Z",
+        "dataCutoff": "2026-11-21T23:08:17.795Z",
+        "mode": "中文核查版 ， 1条核实新动态 ， 快照截止台北07:08",
+        "entries": [
+          {
+            "id": "2026-11-22-0",
+            "title": "《シノビNEXUS》定档11月29日，公布新手奖励与可重复十连",
+            "summary": "Marvelous／HONEY∞PARADE GAMES｜Marvelous 官方发行稿／PR TIMES｜原文11月21日（来源当地日期）。官方11月21日日本时间21:50公告，计划11月28日预下载，29日服务开始，支持 iOS、Android 与 Windows 11。开局赠1500忍魂与SR卡，教程后另有可重复抽取的十连。研究第一次选择前的信息量、反复抽取耗时，以及拿到满意角色后是否顺利进入核心战斗。奖励属于游戏内资源，运行和领取尚待实测。",
+            "url": "https://prtimes.jp/main/html/rd/p/000002363.000016719.html",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-22T01:03:17.156Z",
+            "firstAt": "2026-11-22T01:03:17.156Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《シノビNEXUS》定档11月29日，公布新手奖励与可重复十连",
+                "url": "https://prtimes.jp/main/html/rd/p/000002363.000016719.html",
+                "source": "Marvelous 官方发行稿／PR TIMES",
+                "origin": "official",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "2026-11-22-research",
+            "title": "14张榜单与5款竞品",
+            "summary": "JustPlay: Earn Money or Donate、Meowdoku!、Mahjong Blast、次神：光之觉醒、疯狂水世界",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-22.md",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-22T01:03:17.156Z",
+            "firstAt": "2026-11-22T01:03:17.156Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "完整简报",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-22.md",
+                "source": "Game Hot",
+                "origin": "editorial",
+                "publishedAt": "2026-11-22T01:03:17.156Z",
+                "evidenceType": "榜单与待实测问题"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-21",
         "publishedAt": "2026-11-21T01:08:04.602Z",
         "generatedAt": "2026-11-21T01:08:04.602Z",
