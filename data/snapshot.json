@@ -103063,8 +103063,8 @@
     "digests": [
       {
         "date": "2026-11-23",
-        "publishedAt": "2026-11-23T00:58:54.554Z",
-        "generatedAt": "2026-11-23T00:58:54.554Z",
+        "publishedAt": "2026-11-23T00:59:27.454Z",
+        "generatedAt": "2026-11-23T00:59:27.454Z",
         "windowStart": "2026-11-22T01:00:00Z",
         "windowEnd": "2026-11-23T01:00:00Z",
         "dataCutoff": "2026-11-23T00:14:47.592Z",
@@ -103077,8 +103077,8 @@
             "summary": "Epic Games｜Epic 官方论坛，11月19日｜原文11月19日，本期列为历史参考。官方论坛11月19日确认发布，修复 Web IO worker 短暂 HTTP 错误后启动中断、Mac Launcher 缺少 Wasm 平台等问题。11月22日媒体重新介绍该版本，按原始日期归入历史参考。可在隔离项目里测试弱网首次启动、缓存后重开和字体资源加载。预览版本未在本任务实际运行。",
             "url": "https://forums.unrealengine.com/t/preview-2-unreal-engine-5-9-preview/2852840?page=3",
             "publishedAt": null,
-            "discoveredAt": "2026-11-23T00:58:54.554Z",
-            "firstAt": "2026-11-23T00:58:54.554Z",
+            "discoveredAt": "2026-11-23T00:59:27.454Z",
+            "firstAt": "2026-11-23T00:59:27.454Z",
             "actorIds": [],
             "tags": [
               "研究观察"
@@ -103106,8 +103106,8 @@
             "summary": "JustPlay: Earn Money or Donate、Meowdoku!、Mahjong Blast、生存33天、疯狂水世界",
             "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-23.md",
             "publishedAt": null,
-            "discoveredAt": "2026-11-23T00:58:54.554Z",
-            "firstAt": "2026-11-23T00:58:54.554Z",
+            "discoveredAt": "2026-11-23T00:59:27.454Z",
+            "firstAt": "2026-11-23T00:59:27.454Z",
             "actorIds": [],
             "tags": [
               "研究观察"
@@ -103124,7 +103124,7 @@
                 "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-23.md",
                 "source": "Game Hot",
                 "origin": "editorial",
-                "publishedAt": "2026-11-23T00:58:54.554Z",
+                "publishedAt": "2026-11-23T00:59:27.454Z",
                 "evidenceType": "榜单与待实测问题"
               }
             ]
