@@ -103235,6 +103235,136 @@
     ],
     "digests": [
       {
+        "date": "2026-11-24",
+        "publishedAt": "2026-11-24T01:09:37.960Z",
+        "generatedAt": "2026-11-24T01:09:37.960Z",
+        "windowStart": "2026-11-23T01:00:00Z",
+        "windowEnd": "2026-11-24T01:00:00Z",
+        "dataCutoff": "2026-11-23T21:15:29.150Z",
+        "mode": "中文核查版 ， 3条核实动态 ， 快照截止台北05:15",
+        "entries": [
+          {
+            "id": "2026-11-24-0",
+            "title": "《MONOPOLY GO!》漫威新赛季计划11月25日开启",
+            "summary": "Scopely、Marvel Games｜Scopely 官方公告｜原文11月23日（来源当地日期）。11月23日官方宣布 Doomsday Go! 将持续至2027年1月27日，包含角色贴纸、棋子、新视觉效果、地点与小游戏。研究收集进度如何跨活动延续，免费奖励与付费推进各在何时出现，并记录未集齐时的提示和挽留。实际活动尚待上线体验。",
+            "url": "https://www.scopely.com/en/news/monopoly-go-marvel-games-unite-for-doomsday-season-avengers-doomsday",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-24T01:09:37.960Z",
+            "firstAt": "2026-11-24T01:09:37.960Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《MONOPOLY GO!》漫威新赛季计划11月25日开启",
+                "url": "https://www.scopely.com/en/news/monopoly-go-marvel-games-unite-for-doomsday-season-avengers-doomsday",
+                "source": "Scopely 官方公告",
+                "origin": "official",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-24-1",
+            "title": "《Sea of Remnants》公布 Xbox Series X 封测参与方式",
+            "summary": "Joker Studio、网易、Xbox｜Xbox Wire 官方介绍｜原文11月23日（来源当地日期）。11月23日官方介绍12月封测，包含四人编队、航行探索和成长优化。测试进度会重置，参与纪念奖励计划带入正式版。可研究招募资格、删档说明、纪念奖励承诺和首次组队的理解成本。Xbox Series S 支持计划在正式上线提供。",
+            "url": "https://news.xbox.com/en-us/2026/11/23/sea-of-remnants-set-sail-for-the-dawnbreaker-closed-beta-on-xbox-series-x/",
+            "publishedAt": "2026-11-23T19:00:00.000Z",
+            "discoveredAt": "2026-11-24T01:09:37.960Z",
+            "firstAt": "2026-11-23T19:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《Sea of Remnants》公布 Xbox Series X 封测参与方式",
+                "url": "https://news.xbox.com/en-us/2026/11/23/sea-of-remnants-set-sail-for-the-dawnbreaker-closed-beta-on-xbox-series-x/",
+                "source": "Xbox Wire 官方介绍",
+                "origin": "official",
+                "publishedAt": "2026-11-23T19:00:00.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-24-2",
+            "title": "Xsolla 宣布越南本地负责人及 Gamesforum 分享安排",
+            "summary": "Xsolla｜Xsolla 发行稿／Business Wire 刊载｜原文11月23日（来源当地日期）。11月23日发行稿公布 Viet Vu、Diep Tran 的当地管理职位，以及11月25日关于广告、内购、运营与全球增长的分享。可持续关注小游戏从广告变现扩展到内购时，付费入口、奖励价值与用户回访如何调整。本次 Quest 推广规则说明虚拟物品与积分无现金价值，具体领奖路径尚待实测。",
+            "url": "https://www.bastillepost.com/global/article/6389466-xsolla-to-bring-game-commerce-and-monetization-expertise-to-gamesforum-vietnam-2026",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-24T01:09:37.960Z",
+            "firstAt": "2026-11-24T01:09:37.960Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "Xsolla 宣布越南本地负责人及 Gamesforum 分享安排",
+                "url": "https://www.bastillepost.com/global/article/6389466-xsolla-to-bring-game-commerce-and-monetization-expertise-to-gamesforum-vietnam-2026",
+                "source": "Xsolla 发行稿／Business Wire 刊载",
+                "origin": "official",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "2026-11-24-research",
+            "title": "14张榜单与5款竞品",
+            "summary": "JustPlay: Earn Money or Donate、Meowdoku!、Mahjong Blast、英雄杀、疯狂水世界",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-24.md",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-24T01:09:37.960Z",
+            "firstAt": "2026-11-24T01:09:37.960Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "完整简报",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-24.md",
+                "source": "Game Hot",
+                "origin": "editorial",
+                "publishedAt": "2026-11-24T01:09:37.960Z",
+                "evidenceType": "榜单与待实测问题"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-23",
         "publishedAt": "2026-11-23T00:59:27.454Z",
         "generatedAt": "2026-11-23T00:59:27.454Z",
