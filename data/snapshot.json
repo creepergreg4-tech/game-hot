@@ -103752,6 +103752,194 @@
     ],
     "digests": [
       {
+        "date": "2026-11-25",
+        "publishedAt": "2026-11-25T00:57:45.439Z",
+        "generatedAt": "2026-11-25T00:57:45.439Z",
+        "windowStart": "2026-11-24T01:00:00Z",
+        "windowEnd": "2026-11-25T01:00:00Z",
+        "dataCutoff": "2026-11-24T17:34:33.369Z",
+        "mode": "中文核查版 ， 5条核实动态 ， 快照截止台北01:34",
+        "entries": [
+          {
+            "id": "2026-11-25-0",
+            "title": "《皇室战争》按离线时长发放额外金币",
+            "summary": "Supercell｜PocketGamer.biz 原创报道｜原文11月24日（来源当地日期）。PocketGamer 11月24日报道，The Royale Interest 活动至12月31日，回流玩家可按离线时长获得最高49.6%的额外游戏金币。研究老玩家余额、离线时长与回归奖励如何解释，记录领取后首次升级和首场对战。比例为报道上限，个人资格及到账待实测。",
+            "url": "https://www.pocketgamer.biz/supercell-offers-clash-royale-players-extra-gold-to-encourage-their-return/",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-25T00:57:45.439Z",
+            "firstAt": "2026-11-25T00:57:45.439Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《皇室战争》按离线时长发放额外金币",
+                "url": "https://www.pocketgamer.biz/supercell-offers-clash-royale-players-extra-gold-to-encourage-their-return/",
+                "source": "PocketGamer.biz 原创报道",
+                "origin": "media",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-25-1",
+            "title": "《愤怒的小鸟2》加入可拉扯建筑的新角色 Fuzzy",
+            "summary": "Rovio｜Rovio 官方公告｜原文11月24日（来源当地日期）。11月24日官方宣布角色上线，空中点击能拉动蛛网连接的物体，碰撞后可连接两个物体。主线达8级后可在活动中收集羽毛，并参与截至12月17日的社区捐赠里程碑。研究新操作教学、羽毛收集和总进度如何衔接。捐赠由厂商面向公益组织实施。",
+            "url": "https://www.rovio.com/articles/a-fuzzy-new-friend-joins-angry-birds-2/",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-25T00:57:45.439Z",
+            "firstAt": "2026-11-25T00:57:45.439Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《愤怒的小鸟2》加入可拉扯建筑的新角色 Fuzzy",
+                "url": "https://www.rovio.com/articles/a-fuzzy-new-friend-joins-angry-birds-2/",
+                "source": "Rovio 官方公告",
+                "origin": "official",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-25-2",
+            "title": "媒体介绍站外收入、广告变现和礼包估算工具",
+            "summary": "Sensor Tower｜PocketGamer.biz 原创报道｜原文11月24日（来源当地日期）。11月24日 PocketGamer 介绍 Web Store Revenue、Ad Monetisation 与 IAP Insights，可观察站外销售、广告收入及不同礼包的贡献。官方产品文章仅标注2026年11月，本期按媒体报道日期收录。研究竞品时需同时记录覆盖范围、地区与估算模型，相关数字按第三方估算理解。",
+            "url": "https://www.pocketgamer.biz/sensor-tower-introduces-web-store-revenue-estimates/",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-25T00:57:45.439Z",
+            "firstAt": "2026-11-25T00:57:45.439Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "媒体介绍站外收入、广告变现和礼包估算工具",
+                "url": "https://www.pocketgamer.biz/sensor-tower-introduces-web-store-revenue-estimates/",
+                "source": "PocketGamer.biz 原创报道",
+                "origin": "media",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-25-3",
+            "title": "Godot 4.8 beta 5 继续修复回归问题",
+            "summary": "Godot｜Godot 官方公告｜原文11月24日（来源当地日期）。11月24日官方发布，包含音频输入延迟、翻译提取及 MetalFX 时序升频修复。官方称剩余发布阻塞项已处理，仍属预发布版。可在隔离项目里测试中文文本、音画同步、前后台切换和移动设备首帧。此版本未在本任务运行验证。",
+            "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-5/",
+            "publishedAt": "2026-11-24T12:00:00.000Z",
+            "discoveredAt": "2026-11-25T00:57:45.439Z",
+            "firstAt": "2026-11-24T12:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "Godot 4.8 beta 5 继续修复回归问题",
+                "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-5/",
+                "source": "Godot 官方公告",
+                "origin": "official",
+                "publishedAt": "2026-11-24T12:00:00.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-25-4",
+            "title": "《黎明杀机》公开恐怖片角色转化为玩法的设计",
+            "summary": "Behaviour Interactive｜开发者原文／Xbox Wire｜原文11月24日（来源当地日期）。11月24日开发者文章介绍 Art the Clown 加入，讨论如何把夸张肢体和表情与追逃循环结合。可研究没有台词时如何传达危险、动作预兆和反馈，迁移到轻度游戏时测首次失败能否让用户理解原因。",
+            "url": "https://news.xbox.com/en-us/2026/11/24/dead-by-daylight-terrifiers-new-killer-is-no-laughing-matter/",
+            "publishedAt": "2026-11-24T17:00:00.000Z",
+            "discoveredAt": "2026-11-25T00:57:45.439Z",
+            "firstAt": "2026-11-24T17:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《黎明杀机》公开恐怖片角色转化为玩法的设计",
+                "url": "https://news.xbox.com/en-us/2026/11/24/dead-by-daylight-terrifiers-new-killer-is-no-laughing-matter/",
+                "source": "开发者原文／Xbox Wire",
+                "origin": "official",
+                "publishedAt": "2026-11-24T17:00:00.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "2026-11-25-research",
+            "title": "14张榜单与5款竞品",
+            "summary": "JustPlay: Earn Money or Donate、Meowdoku!、Mahjong Blast、百炼英雄、疯狂水世界",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-25.md",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-25T00:57:45.439Z",
+            "firstAt": "2026-11-25T00:57:45.439Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "完整简报",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-25.md",
+                "source": "Game Hot",
+                "origin": "editorial",
+                "publishedAt": "2026-11-25T00:57:45.439Z",
+                "evidenceType": "榜单与待实测问题"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-24",
         "publishedAt": "2026-11-24T01:09:37.960Z",
         "generatedAt": "2026-11-24T01:09:37.960Z",
