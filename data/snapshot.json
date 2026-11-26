@@ -103478,6 +103478,165 @@
     ],
     "digests": [
       {
+        "date": "2026-11-26",
+        "publishedAt": "2026-11-26T00:59:10.498Z",
+        "generatedAt": "2026-11-26T00:59:10.498Z",
+        "windowStart": "2026-11-25T01:00:00Z",
+        "windowEnd": "2026-11-26T01:00:00Z",
+        "dataCutoff": "2026-11-25T22:27:54.984Z",
+        "mode": "中文核查版 ， 4条核实动态 ， 快照截止台北06:27",
+        "entries": [
+          {
+            "id": "2026-11-26-0",
+            "title": "漫威新赛季开放免费复仇者盾牌，领取需通过第4块棋盘",
+            "summary": "Scopely｜Scopely 官方说明｜原文11月25日（来源当地日期）。11月25日官方说明，奖励开放至2027年1月27日。该条件为此前赛季公告的具体后续。研究第4块棋盘前的升级耗时、领取入口是否可见，以及领取失败时资格说明能否被理解。奖励为游戏内盾牌，领取未实测。",
+            "url": "https://www.scopely.com/en/news/free-avengers-shield-monopoly-go-marvel-avengers-doomsday",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-26T00:59:10.498Z",
+            "firstAt": "2026-11-26T00:59:10.498Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "漫威新赛季开放免费复仇者盾牌，领取需通过第4块棋盘",
+                "url": "https://www.scopely.com/en/news/free-avengers-shield-monopoly-go-marvel-avengers-doomsday",
+                "source": "Scopely 官方说明",
+                "origin": "official",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-26-1",
+            "title": "《Regalia Crazy 8 Card Game》登陆 Google Play",
+            "summary": "RoyaLand｜RoyaLand 官方发行稿／GlobeNewswire｜原文11月25日（来源当地日期）。11月25日发行稿确认第二款手游上线，提供快速对局、战役、淘汰赛、八人杯赛、每日同局挑战及自定义规则。玩家通过游戏获得硬币解锁外观。研究匹配颜色或数字的基本规则如何引入特殊牌，以及失败后何时给出重玩目标。安装量与收入未披露。",
+            "url": "https://www.globenewswire.com/news-release/2026/11/25/3410165/0/en/royaland-rlndf-adds-regalia-crazy-8-card-game-to-google-play-its-second-mobile-game-now-available.html",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-26T00:59:10.498Z",
+            "firstAt": "2026-11-26T00:59:10.498Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《Regalia Crazy 8 Card Game》登陆 Google Play",
+                "url": "https://www.globenewswire.com/news-release/2026/11/25/3410165/0/en/royaland-rlndf-adds-regalia-crazy-8-card-game-to-google-play-its-second-mobile-game-now-available.html",
+                "source": "RoyaLand 官方发行稿／GlobeNewswire",
+                "origin": "official",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-26-2",
+            "title": "《崩坏：因缘精灵》开启限量删档计费测试",
+            "summary": "米哈游｜米哈游官方社区公告／TapTap｜原文11月25日（来源当地日期）。11月25日官方社区确认测试开启，并介绍福利和问题反馈助手。FAQ 说明测试开放付费、同账号多端数据互通，充值返还规则另行说明。研究捕捉养成、首个任务与付费入口的先后，记录删档和返还说明是否明确。本任务未申请资格、充值或试玩。",
+            "url": "https://www.taptap.cn/app/753921/topic?type=official",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-26T00:59:10.498Z",
+            "firstAt": "2026-11-26T00:59:10.498Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《崩坏：因缘精灵》开启限量删档计费测试",
+                "url": "https://www.taptap.cn/app/753921/topic?type=official",
+                "source": "米哈游官方社区公告／TapTap",
+                "origin": "official",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-26-3",
+            "title": "Roblox 与 PRS 达成音乐授权协议",
+            "summary": "Roblox、PRS for Music｜Music Business Worldwide 原创报道｜原文11月25日（来源当地日期）。11月25日 Music Business Worldwide 报道协议涵盖平台音乐使用，PRS 计划2027年起向词曲作者、作曲家及出版商分配版税，财务条款未公开。对 UGC 和音乐小游戏可持续跟踪可用曲库、授权范围与创作者收入规则的具体落地。",
+            "url": "https://www.musicbusinessworldwide.com/prs-for-music-signs-roblox-licensing-deal/",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-26T00:59:10.498Z",
+            "firstAt": "2026-11-26T00:59:10.498Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "Roblox 与 PRS 达成音乐授权协议",
+                "url": "https://www.musicbusinessworldwide.com/prs-for-music-signs-roblox-licensing-deal/",
+                "source": "Music Business Worldwide 原创报道",
+                "origin": "media",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "2026-11-26-research",
+            "title": "14张榜单与5款竞品",
+            "summary": "JustPlay: Earn Money or Donate、Regalia Crazy 8 Card Game、Pocket Sort: Coin Merge Puzzle、天龙八部荣耀版、疯狂水世界",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-26.md",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-26T00:59:10.498Z",
+            "firstAt": "2026-11-26T00:59:10.498Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "完整简报",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-26.md",
+                "source": "Game Hot",
+                "origin": "editorial",
+                "publishedAt": "2026-11-26T00:59:10.498Z",
+                "evidenceType": "榜单与待实测问题"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-25",
         "publishedAt": "2026-11-25T00:57:45.439Z",
         "generatedAt": "2026-11-25T00:57:45.439Z",
