@@ -103325,6 +103325,136 @@
     ],
     "digests": [
       {
+        "date": "2026-11-27",
+        "publishedAt": "2026-11-27T01:05:19.783Z",
+        "generatedAt": "2026-11-27T01:05:19.783Z",
+        "windowStart": "2026-11-26T01:00:00Z",
+        "windowEnd": "2026-11-27T01:00:00Z",
+        "dataCutoff": "2026-11-26T23:47:15.724Z",
+        "mode": "中文核查版 ， 3条核实动态 ， 快照截止台北07:47",
+        "entries": [
+          {
+            "id": "2026-11-27-0",
+            "title": "《Boat Game》回归限量测试，商店介绍转向搜集撤离",
+            "summary": "Supercell｜Mobilegamer.biz 原创报道｜原文11月26日（来源当地日期）。Mobilegamer 11月26日报道，iOS 与 Google Play 页面出现在美国、加拿大、墨西哥、马来西亚和菲律宾，有限玩家正在测试。媒体仍在向厂商确认具体参与方式。研究单局搜集、撤离和失败损失如何解释，以及第一局的投入回报预期；商店可见不代表一定取得资格。",
+            "url": "https://mobilegamer.biz/supercell-shooter-boat-game-is-back-in-limited-testing/",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-27T01:05:19.783Z",
+            "firstAt": "2026-11-27T01:05:19.783Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《Boat Game》回归限量测试，商店介绍转向搜集撤离",
+                "url": "https://mobilegamer.biz/supercell-shooter-boat-game-is-back-in-limited-testing/",
+                "source": "Mobilegamer.biz 原创报道",
+                "origin": "media",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-27-1",
+            "title": "《无限暖暖》3.0允许新手和回流玩家选择剧情起点",
+            "summary": "Infold Games｜Infold 开发者原文／PlayStation Blog｜原文11月26日（来源当地日期）。11月26日开发者公告介绍双城、新能力与战斗系统，并提供过渡教程及章节选择。可研究跳过旧教程后，如何让玩家理解当前目标和动作；记录奖励总额的领取时长与前置任务。公告称版本与生日活动合计提供160抽和19套服装，条件需在游戏内核验。",
+            "url": "https://blog.playstation.com/2026/11/26/infinity-nikki-version-3-0-of-yesterday-and-tomorrow-update-live-today-on-ps5/",
+            "publishedAt": "2026-11-26T21:59:37.000Z",
+            "discoveredAt": "2026-11-27T01:05:19.783Z",
+            "firstAt": "2026-11-26T21:59:37.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "《无限暖暖》3.0允许新手和回流玩家选择剧情起点",
+                "url": "https://blog.playstation.com/2026/11/26/infinity-nikki-version-3-0-of-yesterday-and-tomorrow-update-live-today-on-ps5/",
+                "source": "Infold 开发者原文／PlayStation Blog",
+                "origin": "official",
+                "publishedAt": "2026-11-26T21:59:37.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-27-2",
+            "title": "Xbox 周末试玩开放《Little Rocket Lab》等两款游戏",
+            "summary": "Xbox、No More Robots、Kasedo Games｜Xbox Wire 官方公告｜原文11月26日（来源当地日期）。11月26日官方公告，会员可于26日至29日试玩《Little Rocket Lab》和《Warhammer 40,000: Mechanicus》。购买后可延续活动期间成就，适用地区和折扣可能不同。研究经营工厂的首轮生产链和回合战斗的第一处难度，记录试玩到购买入口的位置。",
+            "url": "https://news.xbox.com/en-us/2026/11/26/free-play-days-11-26-2026/",
+            "publishedAt": "2026-11-26T16:00:00.000Z",
+            "discoveredAt": "2026-11-27T01:05:19.783Z",
+            "firstAt": "2026-11-26T16:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "Xbox 周末试玩开放《Little Rocket Lab》等两款游戏",
+                "url": "https://news.xbox.com/en-us/2026/11/26/free-play-days-11-26-2026/",
+                "source": "Xbox Wire 官方公告",
+                "origin": "official",
+                "publishedAt": "2026-11-26T16:00:00.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "2026-11-27-research",
+            "title": "14张榜单与5款竞品",
+            "summary": "JustPlay: Earn Money or Donate、Boat Game、ホロライブ麻雀 -ホロじゃん-、心跳陷落、镇邪人",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-27.md",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-27T01:05:19.783Z",
+            "firstAt": "2026-11-27T01:05:19.783Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "完整简报",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-27.md",
+                "source": "Game Hot",
+                "origin": "editorial",
+                "publishedAt": "2026-11-27T01:05:19.783Z",
+                "evidenceType": "榜单与待实测问题"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-26",
         "publishedAt": "2026-11-26T00:59:10.498Z",
         "generatedAt": "2026-11-26T00:59:10.498Z",
