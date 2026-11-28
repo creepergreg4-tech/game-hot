@@ -103107,6 +103107,136 @@
     ],
     "digests": [
       {
+        "date": "2026-11-28",
+        "publishedAt": "2026-11-28T01:04:13.275Z",
+        "generatedAt": "2026-11-28T01:04:13.275Z",
+        "windowStart": "2026-11-27T01:00:00Z",
+        "windowEnd": "2026-11-28T01:00:00Z",
+        "dataCutoff": "2026-11-27T18:54:09.690Z",
+        "mode": "中文核查版 ， 3条核实动态 ， 快照截止台北02:54",
+        "entries": [
+          {
+            "id": "2026-11-28-0",
+            "title": "Godot 4.8 进入 RC1，继续征集项目回归测试",
+            "summary": "Godot｜Godot 官方公告｜原文11月27日（来源当地日期）。11月27日官方发布首个候选版本，说明已处理已知关键回归并锁定计划功能。此次修复涉及多音频音量变化、模拟触控拖动窗口ID和少见轨迹崩溃。可在项目副本验证点击拖动、音效叠加、前后台恢复和目标端冷启动。本任务未运行验证该版本。",
+            "url": "https://godotengine.org/article/release-candidate-godot-4-8-rc-1/",
+            "publishedAt": "2026-11-27T12:00:00.000Z",
+            "discoveredAt": "2026-11-28T01:04:13.275Z",
+            "firstAt": "2026-11-27T12:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "Godot 4.8 进入 RC1，继续征集项目回归测试",
+                "url": "https://godotengine.org/article/release-candidate-godot-4-8-rc-1/",
+                "source": "Godot 官方公告",
+                "origin": "official",
+                "publishedAt": "2026-11-27T12:00:00.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-28-1",
+            "title": "汇量科技季度业绩报道显示游戏广告收入增速放缓",
+            "summary": "汇量科技、Mintegral｜智通财经报道／Investing 刊载｜原文11月27日（来源当地日期）。智通财经11月27日报道，截至9月30日三个月 Mintegral 收入约5.47亿美元，其中游戏品类约3.86亿美元、同比增长0.4%，非游戏约1.61亿美元、增长30.5%。这是平台季度业务收入口径。研究 IAA 时可将平台收入变化与具体产品 eCPM、填充率、留存分别记录，进一步核对公司公告。",
+            "url": "https://cn.investing.com/news/stock-market-news/article-3688873",
+            "publishedAt": null,
+            "discoveredAt": "2026-11-28T01:04:13.275Z",
+            "firstAt": "2026-11-28T01:04:13.275Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 0,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "汇量科技季度业绩报道显示游戏广告收入增速放缓",
+                "url": "https://cn.investing.com/news/stock-market-news/article-3688873",
+                "source": "智通财经报道／Investing 刊载",
+                "origin": "media",
+                "publishedAt": null,
+                "evidenceType": "原文核对"
+              }
+            ]
+          },
+          {
+            "id": "2026-11-28-2",
+            "title": "下周 Xbox 排期包括放置经营与寻物新作",
+            "summary": "Xbox及独立发行商｜Xbox Wire 官方排期｜原文11月27日（来源当地日期）。11月27日官方排期列出12月4日《Underworld Idle》和《The Witch’s Errand》。前者用高阶单位生成低阶单位构建离线成长，后者包含36个寻物场景。可研究离线收益如何解释、首次回收是否强化期待，以及寻物提示与关卡难度的关系。排期可能调整，尚未体验。",
+            "url": "https://news.xbox.com/en-us/2026/11/27/next-week-on-xbox-new-games-for-november-30-to-december-4/",
+            "publishedAt": "2026-11-27T15:00:00.000Z",
+            "discoveredAt": "2026-11-28T01:04:13.275Z",
+            "firstAt": "2026-11-27T15:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "下周 Xbox 排期包括放置经营与寻物新作",
+                "url": "https://news.xbox.com/en-us/2026/11/27/next-week-on-xbox-new-games-for-november-30-to-december-4/",
+                "source": "Xbox Wire 官方排期",
+                "origin": "official",
+                "publishedAt": "2026-11-27T15:00:00.000Z",
+                "evidenceType": "原文核对"
+              }
+            ]
+          }
+        ],
+        "briefs": [
+          {
+            "id": "2026-11-28-research",
+            "title": "14张榜单与5款竞品",
+            "summary": "JustPlay: Earn Money or Donate、Meowdoku!、ホロライブ麻雀 -ホロじゃん-、大荒玄奇、三国：冰河时代",
+            "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-28.md",
+            "publishedAt": "2026-11-27T12:00:00.000Z",
+            "discoveredAt": "2026-11-28T01:04:13.275Z",
+            "firstAt": "2026-11-27T12:00:00.000Z",
+            "actorIds": [],
+            "tags": [
+              "研究观察"
+            ],
+            "heat": 0,
+            "participants": 1,
+            "reportCount": 1,
+            "officialCount": 1,
+            "grouping": "编辑核对",
+            "verification": "原文核对",
+            "evidence": [
+              {
+                "title": "完整简报",
+                "url": "https://creepergreg4-tech.github.io/game-hot/data/reports/2026-11-28.md",
+                "source": "Game Hot",
+                "origin": "editorial",
+                "publishedAt": "2026-11-28T01:04:13.275Z",
+                "evidenceType": "榜单与待实测问题"
+              }
+            ]
+          }
+        ],
+        "quiet": false
+      },
+      {
         "date": "2026-11-27",
         "publishedAt": "2026-11-27T01:05:19.783Z",
         "generatedAt": "2026-11-27T01:05:19.783Z",
